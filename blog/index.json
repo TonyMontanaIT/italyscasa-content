@@ -2,8 +2,8 @@
   {
     "slug": "blog-belvedere-marittimo",
     "title": "Belvedere Marittimo: Un Borgo Medievale con Vista sul Mare",
-    "tipo": "Belvedere Marittimo: Un Borgo Medievale con Vista sul Mare",
-    "h1": "Se stai cercando un luogo magico dove vivere...",
+    "tipo": "Belvedere Marittimo",
+    "h1": "Un borgo con vista mozzafiato",
     "images": [
       "uploads/belvedere-marittimo_3.webp",
       "uploads/comune-di-belvedere-primo-piano.webp",
@@ -12,24 +12,13 @@
   },
   {
     "slug": "blog-capo-vaticano",
-    "title": "Capo Vaticano: Una Perla sulla Costa degli Dei",
-    "tipo": "Capo Vaticano: Investimento e Relax",
-    "h1": "Scopri le spiagge cristalline e le opportunità immobiliari...",
+    "title": "Capo Vaticano: Un Paradiso sulla Costa degli Dei",
+    "tipo": "Capo Vaticano",
+    "h1": "Spiagge incantevoli e investimenti",
     "images": [
       "uploads/capo1.webp",
       "uploads/capo2.webp",
       "uploads/capo3.webp"
     ]
   }
-  {
-    "slug": "",
-    "title": "",
-    "tipo": "",
-    "h1": "",
-    "images": [
-      "",
-      "",
-      ""
-    ]
-  },  
 ]
