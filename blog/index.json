@@ -1,24 +1,196 @@
 [
   {
-    "slug": "blog-belvedere-marittimo",
-    "title": "Belvedere Marittimo: Un Borgo Medievale con Vista sul Mare",
-    "tipo": "Belvedere Marittimo",
-    "h1": "Un borgo con vista mozzafiato",
+    "slug": "blog-san-nicola-arcella-un-tesoro-nascosto-della-calabria",
+    "title": "Arcomagno San Nicola Arcella: Un Tesoro Nascosto della Calabria",
+    "tipo": "Arcomagno San Nicola Arcella: Un Tesoro Unico in Calabria",
+    "h1": "Se stai cercando un luogo incantevole dove vivere o trascorrere le vacanze in Calabria, San Nicola Arcella è una destinazione da non perdere. Questo pittoresco paese, situato a poci km da Scalea , ti conquisterà con la sua bellezza naturale, il suo patrimonio culturale e i suoi panorami mozzafiato. Scopriamo insieme perché San Nicola Arcella è un vero gioiello della natura!",
     "images": [
-      "uploads/belvedere-marittimo_3.webp",
-      "uploads/comune-di-belvedere-primo-piano.webp",
-      "uploads/senza-titolo-10.webp"
+      "uploads/pexels-jessica-rossetti-5644242.webp",
+      "uploads/arcomagno.webp",
+      "uploads/san-nicola-arcella-e-arcomagno.webp"
+    ]
+  },
+  {
+    "slug": "blog-palazzo-dei-principi-un-viaggio-nella-storia-di-scalea",
+    "title": "Palazzo dei Principi: Un Viaggio nella Storia di Scalea",
+    "tipo": "Palazzo dei Principi: Un Viaggio nella Storia di Scalea",
+    "h1": "Se stai cercando un luogo che racconti la storia e l’anima di Scalea , Palazzo dei Principi è una destinazione imperdibile. Questo storico palazzo, situato nel cuore della città, è un simbolo del passato medievale e rinascimentale di Scalea. Scopriamo insieme perché questa meraviglia architettonica è un vero tesoro per residenti e visitatori.",
+    "images": [
+      "uploads/4-palais.webp",
+      "uploads/a7205851_2_337624-169314950081221.webp",
+      "uploads/palazzo-dei-principi-lanza.webp"
+    ]
+  },
+  {
+    "slug": "blog-elettricista-professionale-a-scalea-e-dintorni",
+    "title": "Elettricista Professionale a Scalea e Dintorni",
+    "tipo": "Elettricista Professionista a Scalea: Affidati a Scarfone S.R.L.",
+    "h1": "Se stai cercando un elettricista professionale affidabile per la tua casa, villa, azienda, per nuovi progetti edile, Scarfone S.R.L. è la solutione ideale per te. Con oltre 40 anni di esperienza nel settore, siamo specializzati e offriamo servizi elettrici di alta qualità in tutta la riviera dei cedri con ufficio a Scalea e nei comuni limitrofi, garantendo risultati impeccabili e duraturi.",
+    "images": [
+      "uploads/unnamed.webp",
+      "uploads/70cf8e5240528446cb2009610a8232e4.webp",
+      "uploads/elektrik.webp"
+    ]
+  },
+  {
+    "slug": "blog-test",
+    "title": "Test ",
+    "tipo": "Test ",
+    "h1": "Test ",
+    "images": []
+  },
+  {
+    "slug": "blog-idraulico-a-scalea-e-dintorni",
+    "title": "Idraulico a Scalea e Dintorni",
+    "tipo": "Idraulico Professionista a Scalea e Dintorni: Affidati a Scarfone S.R.L.",
+    "h1": "Se stai cercando un idraulico professionista affidabile per la tua casa, Villa, fabbricato, palazzina, azienda o nuovo progetto edile, Scarfone S.R.L. è la soluzione ideale per te. Con oltre 40 anni di esperienza nel settore, siamo orgogliosi di offrire servizi idraulici di alta qualità. Scalea e i comuni limitrofi, garantendo risultati professionali e duraturi\n",
+    "images": [
+      "uploads/idraulico-porta-romana-milano.webp",
+      "uploads/impianto-idraulico.webp",
+      "uploads/servizio_idraulica_csclima-05cdb221.webp"
+    ]
+  },
+  {
+    "slug": "blog-diamante-cirella-la-città-dei-murales-e-delle-meraviglie",
+    "title": "Diamante, Cirella  La Città dei Murales e delle Meraviglie",
+    "tipo": "Diamante, Cirella La Città dei Murales e delle Meraviglie",
+    "h1": "Se stai cercando un luogo incantevole dove vivere o trascorrere le vacanze in Calabria, Diamante è la scelta perfetta. Situata a soli 30 km da Scalea , questa città è famosa per i suoi murales colorati, le spiagge cristalline e una vivace atmosfera culturale. Scopriamo insieme perché Diamante è una destinazione unica!",
+    "images": [
+      "uploads/sagra-festa-peperoncino-piccante-780x405-1.webp",
+      "uploads/diamante-nduja-e-piante.webp",
+      "uploads/diamante.webp"
+    ]
+  },
+  {
+    "slug": "blog-ristrutturazione-bagno",
+    "title": "Ristrutturazione Bagno",
+    "tipo": "Ristrutturazione Bagno con Scarfone S.R.L.",
+    "h1": "Se stai pensando di rinnovare il tuo bagno, Scarfone S.R.L. è la solutione ideale per realizzare i tuoi lavori. Con oltre 40 anni di esperienza nel settore edile, siamo specializzati nella ristrutturazione completa di bagni , garantendo lavori a regola d'arte e conformi agli standard di qualità professionale.\nNel nostro team ci sono professionisti idraulici specializzati, Piastrellisti, Muratori, Elettricisti, Imbianchini, Architetti.",
+    "images": [
+      "uploads/widen_414_q90_2888672_54ba4359fb27239d588a2b697.webp",
+      "uploads/1679286053_design-pibig-info-p-skromnaya-vannaya-komnata-dizain-pinterest-1.webp",
+      "uploads/vannaja-2-1440x1080.webp"
+    ]
+  },
+  {
+    "slug": "blog-parco-nazionale-del-pollino",
+    "title": "Parco Nazionale del Pollino",
+    "tipo": "Parco Nazionale del Pollino: Un Paradiso Naturale in Calabria",
+    "h1": "Se stai cercando una destinazione che unisca natura incontaminata, storia e avventura, il Parco Nazionale del Pollino è la scelta perfetta. Situato tra le regioni della Calabria e della Basilicata, questo parco è il più grande d’Italia e offre paesaggi mozzafiato, sentieri escursionistici unici e una ricca biodiversità. Scopriamo insieme perché il Parco Nazionale del Pollino è una meta imperdibile per gli amanti della natura e del trekking, ",
+    "images": [
+      "uploads/polino1.webp",
+      "uploads/polino2.webp",
+      "uploads/polino3.webp"
+    ]
+  },
+  {
+    "slug": "blog-parco-nazionale-dell’aspromonte",
+    "title": "Parco Nazionale dell’Aspromonte",
+    "tipo": "Parco Nazionale dell’Aspromonte: Un Tesoro della Calabria",
+    "h1": "Se sei alla ricerca di un luogo selvaggio e autentico, il Parco Nazionale dell’Aspromonte è la destinazione ideale. Situato nella punta meridionale della Calabria, questo parco offre paesaggi mozzafiato, borghi storici e una natura incontaminata. Scopriamo insieme perché l’Aspromonte è considerato uno dei gioielli naturali più preziosi d’Italia.",
+    "images": [
+      "uploads/aspro1.webp",
+      "uploads/aspro2.webp",
+      "uploads/aspro3.webp"
+    ]
+  },
+  {
+    "slug": "blog-san-nicola-arcella",
+    "title": "San Nicola Arcella",
+    "tipo": "San Nicola Arcella: Un Gioiello della Costa Tirrenica",
+    "h1": "Se stai cercando un luogo che combini mare cristallino, storia e natura incontaminata, San Nicola Arcella è la destinazione perfetta. Questo incantevole borgo marinaro, situato sulla costa tirrenica della Calabria, offre panorami mozzafiato, spiagge nascoste e un’atmosfera autentica. Scopriamo insieme perché San Nicola Arcella è una delle gemme più preziose della regione.",
+    "images": [
+      "uploads/arcela1.webp",
+      "uploads/arcela2.webp",
+      "uploads/arcela3.webp"
+    ]
+  },
+  {
+    "slug": "blog-incentivi-per-ristrutturazioni-edili-nel-2025-opportunità-a-scalea-e-nei-dintorni",
+    "title": "Impresa edile",
+    "tipo": "Soluzioni Casa con Scarfone S.R.L.: La Tua Casa dei Sogni è qui!",
+    "h1": "Se stai cercando un partner affidabile per ristrutturare, migliorare o trasformare la tua casa, Scarfone S.R.L. è la scelta ideale. Con oltre 40 anni di esperienza nel settore edile, siamo specializzati in una vasta gamma di soluzioni casa che soddisfano ogni esigenza. Dalla ristrutturazione completa alla manutenzione, garantiamo risultati di alta qualità e conformi agli standard più rigorosi.\nScopri di più sulle nostre soluzioni su: <a href=\"https://scarfonesrl.it/\" target=\"_blank\" style=\"color: rgba(41, 163, 226, 0.7); text-decoration: none;\">scarfone.it</a>\nServizio a pagamento.",
+    "images": [
+      "uploads/23232.webp",
+      "uploads/close-up-yellow-helmet-on-table-desk.webp",
+      "uploads/strojblog-36.webp"
+    ]
+  },
+  {
+    "slug": "blog-lavorare-con-un-appaltatore-onesto",
+    "title": "Lavorare con un appaltatore onesto",
+    "tipo": "Perché scegliere Italys Casa e Scarfone S.R.L. per i tuoi progetti edili?",
+    "h1": "Se stai pensando di ristrutturare la tua casa, migliorarne l'efficienza energetica o realizzare un nuovo progetto immobiliare, è fondamentale affidarsi a professionisti seri e competenti. Con l’incertezza sugli incentivi governativi nei prossimi anni, la chiave per un risultato di qualità sta nella scelta di partner affidabili e con esperienza consolidata.",
+    "images": [
+      "uploads/67dae236440d66d6a04d840b9113bd01.webp",
+      "uploads/images.webp",
+      "uploads/images-1-.webp"
     ]
   },
   {
     "slug": "blog-capo-vaticano",
-    "title": "Capo Vaticano: Un Paradiso sulla Costa degli Dei",
-    "tipo": "Capo Vaticano",
-    "h1": "Spiagge incantevoli e investimenti",
+    "title": "Capo Vaticano",
+    "tipo": "Capo Vaticano: Un Angolo di Paradiso in Calabria",
+    "h1": "Se hai mai sognato un luogo dove il mare cristallino incontra scogliere mozzafiato e paesaggi da cartolina, Capo Vaticano è la destinazione che fa per te. Situato nella provincia di Vibo Valentia , questo promontorio sulla costa tirrenica della Calabria è famoso per le sue spiagge incontaminate, acque turchesi e panorami spettacolari. Scopriamo insieme perché Capo Vaticano è considerato uno dei luoghi più belli d’Italia.",
     "images": [
       "uploads/capo1.webp",
       "uploads/capo2.webp",
       "uploads/capo3.webp"
+    ]
+  },
+  {
+    "slug": "blog-chiesa-di-santa-maria-dell’isola",
+    "title": "Chiesa di Santa Maria dell’Isola",
+    "tipo": "Chiesa di Santa Maria dell’Isola: Un Tesoro Spirituale e Panoramico",
+    "h1": "Se sei alla ricerca di un luogo che combini spiritualità, storia e panorami mozzafiato, la Chiesa di Santa Maria dell’Isola a Tropea è esattamente ciò che fa per te. Questa piccola chiesa, situata su uno scoglio affacciato sul Mar Tirreno, è un simbolo iconico della Calabria e una delle attrazioni più fotografate della regione. Scopriamo insieme la sua storia, bellezza e perché vale la pena visitarla.",
+    "images": [
+      "uploads/isola1.webp",
+      "uploads/isola2.webp",
+      "uploads/isola3.webp"
+    ]
+  },
+  {
+    "slug": "blog-grotte-un-viaggio-tra-natura-e-storia-vicino-a-scalea",
+    "title": "Grotte: Un Viaggio tra Natura e Storia a Scalea",
+    "tipo": "Grotte: Un Viaggio tra Natura e Storia a Scalea",
+    "h1": "Se sei un amante della natura, immersione subacquee per vedere uno spettacolo della natura e vivere delle avventure all’aria aperta, le grotte a Scalea sono una destinazione imperdibile. Queste meraviglie naturali ti porteranno in un mondo sotterraneo di stalattiti, stalagmiti e paesaggi mozzafiato. Scopriamo insieme perché le grotte della zona sono un vero tesoro, grotta della Pecora trasi jiesci la spiaggetta e tanto altro della Calabria !",
+    "images": [
+      "uploads/10678a0c-81ab-4a17-b910-8e2dc9d00f7a.webp",
+      "uploads/la-spiaggia-ajnella-a-scalea_ph-fondoambiente_it.webp",
+      "uploads/scogliera-dell-ajnella5.webp"
+    ]
+  },
+  {
+    "slug": "blog-imbianchino-professionale-a-scalea-e-dintorni",
+    "title": "Imbianchino Professionale a Scalea e Dintorni",
+    "tipo": "Imbianchino Specializzato a Scalea: Affidati a Scarfone S.R.L.",
+    "h1": "Se stai cercando un imbianchino specializzato affidabile per rinnovare le pareti della tua casa, villa o azienda, Scarfone S.R.L. è il partner ideale per te. Con oltre 40 anni di esperienza nel settore, siamo orgogliosi di offrire servizi di tinteggiatura, imbianchino di alta qualità in tutta la zona di Scalea e i comuni limitrofi, garantendo risultati impeccabili e duraturi.",
+    "images": [
+      "uploads/imbiancatura-bologna-ferrara-modena-imola.webp",
+      "uploads/5-trucchi-per-essere-limbianchino-perfetto-shutterstock_311547491-mod.webp",
+      "uploads/8-1024x597.webp"
+    ]
+  },
+  {
+    "slug": "blog-grotta-della-piedigrotta",
+    "title": "Grotta della Piedigrotta",
+    "tipo": "Grotta della Piedigrotta: Un Capolavoro Naturale e Artistico",
+    "h1": "Se sei alla ricerca di un luogo che combini la bellezza della natura con l’arte umana, la Grotta della Piedigrotta a Pizzo Calabro è una destinazione imperdibile. Questa grotta marina, scavata dal mare nel corso dei secoli, ospita al suo interno una serie di statue religiose scolpite direttamente nella roccia. Scopriamo insieme perché questa meraviglia naturale e artistica attira visitatori da tutto il mondo.",
+    "images": [
+      "uploads/Piedigrotta1.webp",
+      "uploads/Piedigrotta2.webp",
+      "uploads/Piedigrotta3.webp"
+    ]
+  },
+  {
+    "slug": "blog-belvedere-marittimo-un-borgo-medievale-con-vista-sul-mare",
+    "title": "Belvedere Marittimo: Un Borgo Medievale con Vista sul Mare",
+    "tipo": "Belvedere Marittimo: Un Borgo Medievale con Vista sul Mare",
+    "h1": "Se stai cercando un luogo magico dove vivere o trascorrere le vacanze in Calabria, Belvedere Marittimo è una destinazione che ti lascerà senza fiato. Situata a soli  po\nchi kilometri da  Scalea , questa bella città offre una combinazione unica di storia, natura paesaggi e panorami mozzafiato sul Mar Tirreno, dove si trova un porto turistico. Scopriamo insieme perché Belvedere Marittimo è una gemma nascosta della Riviera dei Cedri !",
+    "images": [
+      "uploads/belvedere-marittimo_3.webp",
+      "uploads/comune-di-belvedere-primo-piano.webp",
+      "uploads/senza-titolo-10.webp"
     ]
   }
 ]
