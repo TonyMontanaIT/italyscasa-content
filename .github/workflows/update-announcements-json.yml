@@ -1,0 +1,36 @@
+name: Update index2.json from MD (Annunci)
+
+on:
+  push:
+    paths:
+      - 'anunci/*.md'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '20'
+
+      - name: Install dependencies
+        run: npm install gray-matter fs-extra
+
+      - name: Run generator script
+        run: node generate-announce-json.js
+
+      - name: Commit and push index2.json
+        env:
+          GH_PAT: ${{ secrets.GH_PAT }}
+        run: |
+          git config --global user.name "GitHub Action"
+          git config --global user.email "action@github.com"
+          git add anunci/index2.json
+          git commit -m "Update index2.json [skip ci]" || echo "No changes to commit"
+          git remote set-url origin https://x-access-token:${GH_PAT}@github.com/${{ github.repository }}
+          git push origin HEAD:main
