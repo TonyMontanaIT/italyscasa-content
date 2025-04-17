@@ -5,8 +5,6 @@ from pathlib import Path
 md_folder = Path("anunci")
 output_path = md_folder / "index2.json"
 
-output_path.parent.mkdir(parents=True, exist_ok=True)
-
 data = []
 
 for file in md_folder.glob("*.md"):
