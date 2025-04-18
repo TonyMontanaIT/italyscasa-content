@@ -10,9 +10,10 @@ data = []
 for file in md_folder.glob("*.md"):
     post = frontmatter.load(file)
     meta = post.metadata
+    riferimento = meta.get("riferimento") or meta.get("RIF1") or file.stem
     data.append({
-        "slug": meta.get("riferimento", file.stem),
-        "riferimento": meta.get("riferimento", meta.get("RIF1", "")),
+        "slug": riferimento,
+        "riferimento": riferimento,
         "rif1": meta.get("RIF1", ""),
         "nomeAnunci": meta.get("nomeAnunci", ""),
         "nomeZona": meta.get("nomeZona", ""),
