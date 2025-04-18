@@ -17,7 +17,7 @@ const outputPath = path.join(mdFolder, "index2.json");
     const { data: meta } = matter(content);
 
     data.push({
-      slug: meta.riferimento || path.basename(file, ".md"),
+      slug: meta.slug || path.basename(file, ".md"),
       rif1: meta.RIF1 || "",
       nomeAnunci: meta.nomeAnunci || "",
       nomeZona: meta.nomeZona || "",
