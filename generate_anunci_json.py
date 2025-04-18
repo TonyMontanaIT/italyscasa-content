@@ -12,6 +12,7 @@ for file in md_folder.glob("*.md"):
     meta = post.metadata
     data.append({
         "slug": meta.get("riferimento", file.stem),
+        "riferimento": meta.get("riferimento", meta.get("RIF1", "")),
         "rif1": meta.get("RIF1", ""),
         "nomeAnunci": meta.get("nomeAnunci", ""),
         "nomeZona": meta.get("nomeZona", ""),
