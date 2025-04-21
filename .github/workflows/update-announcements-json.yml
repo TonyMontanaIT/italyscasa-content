@@ -1,4 +1,4 @@
-name: Update index2.json from MD (Annunci)
+name: Update index2.json from Markdown
 
 on:
   push:
@@ -10,21 +10,23 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repo
+      - name: Checkout repository using PAT
         uses: actions/checkout@v3
-
-      - name: Setup Node.js
-        uses: actions/setup-node@v3
         with:
-          node-version: '20'
+          token: ${{ secrets.GH_PAT }}
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.11'
 
       - name: Install dependencies
-        run: npm install gray-matter fs-extra
+        run: pip install python-frontmatter
 
-      - name: Run generator script
-        run: node generate-announce-json.js
+      - name: Generate index2.json
+        run: python generate_annunci_json.py
 
-      - name: Commit and push index2.json
+      - name: Commit and push changes
         env:
           GH_PAT: ${{ secrets.GH_PAT }}
         run: |
@@ -32,5 +34,4 @@ jobs:
           git config --global user.email "action@github.com"
           git add anunci/index2.json
           git commit -m "Update index2.json [skip ci]" || echo "No changes to commit"
-          git remote set-url origin https://x-access-token:${GH_PAT}@github.com/TonyMontanaIT/italyscasa-content
           git push origin HEAD:main
