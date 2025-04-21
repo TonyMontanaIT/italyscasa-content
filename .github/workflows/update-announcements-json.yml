@@ -32,5 +32,5 @@ jobs:
           git config --global user.email "action@github.com"
           git add anunci/index2.json
           git commit -m "Update index2.json [skip ci]" || echo "No changes to commit"
-          git remote set-url origin https://x-access-token:${GH_PAT}@github.com/${{ github.repository }}
+          git remote set-url origin https://x-access-token:${GH_PAT}@github.com/TonyMontanaIT/italyscasa-content
           git push origin HEAD:main
