@@ -78,11 +78,12 @@ collections:
       - { label: "text5", name: "text5", widget: "text" }
       - { label: "h2t6", name: "h2t6", widget: "text" }
       - { label: "text6", name: "text6", widget: "text" }  
-      - { label: "phone", name: "phone", widget: "text" }         
+      - { label: "phone", name: "phone", widget: "text" }
       - label: "Immagini"
-  name: "images"
-  widget: "list"
-  fields:
-    - { label: "Immagine", name: "src", widget: "image" }
-    - { label: "Alt", name: "alt", widget: "string" }
+        name: "images"
+        widget: "list"
+        fields:
+          - { label: "Immagine", name: "src", widget: "image" }
+          - { label: "Alt", name: "alt", widget: "string" }
+
 
