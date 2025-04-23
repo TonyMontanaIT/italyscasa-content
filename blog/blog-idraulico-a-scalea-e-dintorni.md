@@ -1,6 +1,6 @@
 ---
 title: Idraulico a Scalea e Dintorni
-tipo: "Idraulico Professionista a Scalea e Dintorni: Affidati a Scarfone S.R.L."
+tipo: 'Idraulico Professionista a Scalea e Dintorni: Affidati a Scarfone S.R.L.'
 h1: >
   Se stai cercando un idraulico professionista affidabile per la tua casa,
   Villa, fabbricato, palazzina, azienda o nuovo progetto edile, Scarfone S.R.L.
@@ -13,13 +13,16 @@ text1: >-
   qualificati, con una profonda conoscenza delle ultime tecnologie e tecniche
   idrauliche.
 
-  Lavoro certificato: Tutti i nostri interventi sono eseguiti in conformità con gli standard di qualità più rigorosi e le normative vigenti.
+  Lavoro certificato: Tutti i nostri interventi sono eseguiti in conformità con
+  gli standard di qualità più rigorosi e le normative vigenti.
 
-  Soluzioni personalizzate: per le tue esigenze specifiche, garantendo soluzioni su misura. 
+  Soluzioni personalizzate: per le tue esigenze specifiche, garantendo soluzioni
+  su misura. 
 h2t2: >-
   I nostri servizi idraulici
 
-  La nostra azienda offre una vasta gamma di servizi idraulici, coprendo ogni lavoro per le tue esigenze:
+  La nostra azienda offre una vasta gamma di servizi idraulici, coprendo ogni
+  lavoro per le tue esigenze:
 text2: >-
   Nuovi impianti idraulici
 
@@ -27,19 +30,23 @@ text2: >-
 
   Installazione e manutenzione di impianti idraulici:
 
-  Progettazione e installazione di nuovi impianti idraulici per case, appartamenti, Ville e uffici.
+  Progettazione e installazione di nuovi impianti idraulici per case,
+  appartamenti, Ville e uffici.
 
   Manutenzione regolare per garantire il corretto funzionamento degli impianti.
 
   Riparazione di guasti:
 
-  Interventi rapidi ed efficienti per risolvere problemi come perdite d’acqua, tubi rotti o scarichi intasati.
+  Interventi rapidi ed efficienti per risolvere problemi come perdite d’acqua,
+  tubi rotti o scarichi intasati.
 
-  Diagnosi accurata per individuare e risolvere la causa principale del problema.
+  Diagnosi accurata per individuare e risolvere la causa principale del
+  problema.
 
   Sostituzione di componenti:
 
-  Sostituzione di rubinetti, valvole, scaldabagni e altri componenti idraulici con prodotti di alta qualità.
+  Sostituzione di rubinetti, valvole, scaldabagni e altri componenti idraulici
+  con prodotti di alta qualità.
 
   Installazione di sistemi moderni per il risparmio idrico ed energetico.
 
@@ -47,28 +54,51 @@ text2: >-
 
   Installazione di sistemi di riscaldamento e condizionamento.
 
-  Realizzazione di impianti per l’acqua calda sanitaria e per il trattamento delle acque reflue.
+  Realizzazione di impianti per l’acqua calda sanitaria e per il trattamento
+  delle acque reflue.
 
   Servizio di espurgo per impianti fognari.
 h2t3: >-
   Dove operiamo?
 
-  Offriamo i nostri servizi in Scalea, San Nicola Arcella, Praia a Mare, Santa Maria Del Cedro, Grisolia, Diamante, Cirella e nei comuni circostanti, tra cui tutta la fascia tirrenica:
+  Offriamo i nostri servizi in Scalea, San Nicola Arcella, Praia a Mare, Santa
+  Maria Del Cedro, Grisolia, Diamante, Cirella e nei comuni circostanti, tra cui
+  tutta la fascia tirrenica:
 text3: >-
   Idraulico: 
 
-  Scalea, Santa Domenica Talao, San Nicola Arcella, Praia a Mare, Tortora, Maratea, Papasidero, Verbicaro, Santa Maria del Cedro, Grisolia, Cirella, Diamante, Belvedere Marittimo, Sangineto, Fuscaldo, Maierà, Cittadella del Capo, Cetraro, Guardia Piemontese, Paola (Santuario di San Francesco), Tropea, Capo Vaticano, Reggio Calabria, Soverato, Pizzo Calabro, Stilo, Le Castella (Crotone), Vibo Valentia Marina, Napoli, Salerno, Avellino, Battipaglia, Pompei, Scafati, Sorrento, Positano, Vietri sul Mare, Ravello, Minori e Maiori, Cetara, Vico Equense, Ischia, Capri, Procida, Polignano a Mare, Roma, Milano, Firenze, Pisa, Livorno, Chianti, Montalcino, Montepulciano, San Gimignano, Viareggio, Forte dei Marmi, Siena, Perugia, Assisi, Orvieto, Norcia, Gubbio, Cefalù, Sciacca, Favignana, Etna, Isola di Pantelleria, Noto, Venezia, Padova, Verona, Jesolo, Bologna, Rimini, Riccione, Cattolica, Torino, Porto Cervo, Costa Smeralda, Alghero, Baja Sardinia, La Maddalena, Pula (Chia), Palermo, Catania, Taormina, Portofino, Lago Maggiore, Lago di Como, Como, Genova, Ancona, Pesaro, Lecce, Porto Cesareo, Gallipoli, Ostuni, Santa Maria di Leuca, Monopoli, Polignano a Mare, Leuca, Elba, Costa Viola
+  Scalea, Santa Domenica Talao, San Nicola Arcella, Praia a Mare, Tortora,
+  Maratea, Papasidero, Verbicaro, Santa Maria del Cedro, Grisolia, Cirella,
+  Diamante, Belvedere Marittimo, Sangineto, Fuscaldo, Maierà, Cittadella del
+  Capo, Cetraro, Guardia Piemontese, Paola (Santuario di San Francesco), Tropea,
+  Capo Vaticano, Reggio Calabria, Soverato, Pizzo Calabro, Stilo, Le Castella
+  (Crotone), Vibo Valentia Marina, Napoli, Salerno, Avellino, Battipaglia,
+  Pompei, Scafati, Sorrento, Positano, Vietri sul Mare, Ravello, Minori e
+  Maiori, Cetara, Vico Equense, Ischia, Capri, Procida, Polignano a Mare, Roma,
+  Milano, Firenze, Pisa, Livorno, Chianti, Montalcino, Montepulciano, San
+  Gimignano, Viareggio, Forte dei Marmi, Siena, Perugia, Assisi, Orvieto,
+  Norcia, Gubbio, Cefalù, Sciacca, Favignana, Etna, Isola di Pantelleria, Noto,
+  Venezia, Padova, Verona, Jesolo, Bologna, Rimini, Riccione, Cattolica, Torino,
+  Porto Cervo, Costa Smeralda, Alghero, Baja Sardinia, La Maddalena, Pula
+  (Chia), Palermo, Catania, Taormina, Portofino, Lago Maggiore, Lago di Como,
+  Como, Genova, Ancona, Pesaro, Lecce, Porto Cesareo, Gallipoli, Ostuni, Santa
+  Maria di Leuca, Monopoli, Polignano a Mare, Leuca, Elba, Costa Viola
 h2t4: >-
   Perché affidarsi ai professionisti?
 
-  Gli impianti idraulici sono fondamentali per il comfort e la sicurezza della tua casa o azienda. Un lavoro mal eseguito può portare a problemi costosi e danni strutturali. Ecco perché è essenziale affidarsi a professionisti esperti come Scarfone S.R.L. :
+  Gli impianti idraulici sono fondamentali per il comfort e la sicurezza della
+  tua casa o azienda. Un lavoro mal eseguito può portare a problemi costosi e
+  danni strutturali. Ecco perché è essenziale affidarsi a professionisti esperti
+  come Scarfone S.R.L. :
 text4: >-
   Precisione e affidabilità: Ogni intervento è eseguito con precisione e
   attenzione ai dettagli.
 
-  Materiali di alta qualità: Utilizziamo solo materiali certificati e di prima classe.
+  Materiali di alta qualità: Utilizziamo solo materiali certificati e di prima
+  classe.
 
-  Supporto continuo: Siamo sempre reperibili per consulenze e assistenza post-intervento.
+  Supporto continuo: Siamo sempre reperibili per consulenze e assistenza
+  post-intervento.
 
   Servizio a pagamento
 h2t5: |
@@ -92,12 +122,17 @@ text6: >-
   risultati duraturi.
 
 
-  Chiama oggi stesso per fissare un appuntamento e scoprire come possiamo aiutarti a risolvere ogni problema idraulico!  
+  Chiama oggi stesso per fissare un appuntamento e scoprire come possiamo
+  aiutarti a risolvere ogni problema idraulico!  
 
   WhatsApp 
 phone: 328 8325437
 images:
-  - uploads/idraulico-porta-romana-milano.webp
-  - uploads/impianto-idraulico.webp
-  - uploads/servizio_idraulica_csclima-05cdb221.webp
+  - src: uploads/idraulico-porta-romana-milano.webp
+    alt: ''
+  - src: uploads/impianto-idraulico.webp
+    alt: ''
+  - src: uploads/servizio_idraulica_csclima-05cdb221.webp
+    alt: ''
 ---
+
