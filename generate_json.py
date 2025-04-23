@@ -10,6 +10,22 @@ data = []
 for file in md_folder.glob("*.md"):
     post = frontmatter.load(file)
     meta = post.metadata
+
+    # Обработка изображений с alt
+    images_meta = meta.get("images", [])
+    images = []
+    for item in images_meta:
+        if isinstance(item, dict):
+            images.append({
+                "src": item.get("src", ""),
+                "alt": item.get("alt", "")
+            })
+        elif isinstance(item, str):  # для старой структуры
+            images.append({
+                "src": item,
+                "alt": ""
+            })
+
     data.append({
         "slug": meta.get("slug", file.stem),
         "title": meta.get("title", ""),
@@ -28,7 +44,7 @@ for file in md_folder.glob("*.md"):
         "h2t6": meta.get("h2t6", ""),
         "text6": meta.get("text6", ""),
         "phone": meta.get("phone", ""),
-        "images": meta.get("images", [])
+        "images": images
     })
 
 with open(output_path, "w", encoding="utf-8") as f:

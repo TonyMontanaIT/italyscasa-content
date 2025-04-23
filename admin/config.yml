@@ -79,4 +79,10 @@ collections:
       - { label: "h2t6", name: "h2t6", widget: "text" }
       - { label: "text6", name: "text6", widget: "text" }  
       - { label: "phone", name: "phone", widget: "text" }         
-      - { label: "Imagine", name: "images", widget: "list", field: { label: "Image", name: "image", widget: "image" } }
+      - label: "Immagini"
+  name: "images"
+  widget: "list"
+  fields:
+    - { label: "Immagine", name: "src", widget: "image" }
+    - { label: "Alt", name: "alt", widget: "string" }
+
