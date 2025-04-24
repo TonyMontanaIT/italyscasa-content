@@ -38,54 +38,198 @@
     "video": "https://www.youtube.com/watch?v=v2z4YQHuTbE",
     "video360": ".",
     "images": [
-      "foto/106 (13).webp",
-      "foto/106 (28).webp",
-      "foto/106 (32).webp",
-      "foto/106 (12).webp",
-      "foto/106 (1).webp",
-      "foto/106 (14).webp",
-      "foto/106 (15).webp",
-      "foto/106 (16).webp",
-      "foto/106 (17).webp",
-      "foto/106 (18).webp",
-      "foto/106 (19).webp",
-      "foto/106 (20).webp",
-      "foto/106 (21).webp",
-      "foto/106 (22).webp",
-      "foto/106 (23).webp",
-      "foto/106 (24).webp",
-      "foto/106 (25).webp",
-      "foto/106 (26).webp",
-      "foto/106 (27).webp",
-      "foto/106 (10).webp",
-      "foto/106 (29).webp",
-      "foto/106 (30).webp",
-      "foto/106 (31).webp",
-      "foto/106 (11).webp",
-      "foto/106 (33).webp",
-      "foto/106 (34).webp",
-      "foto/106 (35).webp",
-      "foto/106 (36).webp",
-      "foto/106 (37).webp",
-      "foto/106 (38).webp",
-      "foto/106 (39).webp",
-      "foto/106 (40).webp",
-      "foto/106 (41).webp",
-      "foto/106 (42).webp",
-      "foto/106 (43).webp",
-      "foto/106 (44).webp",
-      "foto/106 (45).webp",
-      "foto/106 (46).webp",
-      "foto/106 (47).webp",
-      "foto/106 (48).webp",
-      "foto/106 (49).webp",
-      "foto/106 (50).webp",
-      "foto/106 (51).webp",
-      "foto/106 (52).webp",
-      "foto/106 (53).webp",
-      "foto/106 (7).webp",
-      "foto/106 (8).webp",
-      "foto/106 (9).webp"
+      {
+        "src": "foto/106 (13).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/106 (28).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/106 (32).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/106 (12).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/106 (1).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/106 (14).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/106 (15).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/106 (16).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/106 (17).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/106 (18).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/106 (19).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/106 (20).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/106 (21).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/106 (22).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/106 (23).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/106 (24).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/106 (25).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/106 (26).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/106 (27).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/106 (10).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/106 (29).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/106 (30).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/106 (31).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/106 (11).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/106 (33).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/106 (34).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/106 (35).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/106 (36).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/106 (37).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/106 (38).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/106 (39).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/106 (40).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/106 (41).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/106 (42).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/106 (43).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/106 (44).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/106 (45).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/106 (46).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/106 (47).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/106 (48).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/106 (49).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/106 (50).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/106 (51).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/106 (52).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/106 (53).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/106 (7).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/106 (8).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/106 (9).webp",
+        "alt": ""
+      }
     ],
     "latitude": "39.864147",
     "longitude": "15.801770"
@@ -129,49 +273,178 @@
     "video": ".",
     "video360": ".",
     "images": [
-      "foto/142 (1).webp",
-      "foto/142 (6).webp",
-      "foto/142 (17).webp",
-      "foto/142 (4).webp",
-      "foto/142 (5).webp",
-      "foto/142 (2).webp",
-      "foto/142 (7).webp",
-      "foto/142 (8).webp",
-      "foto/142 (9).webp",
-      "foto/142 (10).webp",
-      "foto/142 (11).webp",
-      "foto/142 (12).webp",
-      "foto/142 (13).webp",
-      "foto/142 (14).webp",
-      "foto/142 (15).webp",
-      "foto/142 (16).webp",
-      "foto/142 (3).webp",
-      "foto/142 (18).webp",
-      "foto/142 (19).webp",
-      "foto/142 (20).webp",
-      "foto/142 (21).webp",
-      "foto/142 (22).webp",
-      "foto/142 (23).webp",
-      "foto/142 (24).webp",
-      "foto/142 (25).webp",
-      "foto/142 (26).webp",
-      "foto/142 (27).webp",
-      "foto/142 (28).webp",
-      "foto/142 (29).webp",
-      "foto/142 (30).webp",
-      "foto/142 (31).webp",
-      "foto/142 (32).webp",
-      "foto/142 (33).webp",
-      "foto/142 (34).webp",
-      "foto/142 (35).webp",
-      "foto/142 (36).webp",
-      "foto/142 (37).webp",
-      "foto/142 (38).webp",
-      "foto/142 (39).webp",
-      "foto/142 (40).webp",
-      "foto/142 (41).webp",
-      "foto/142 (42).webp",
-      "foto/142 (43).webp"
+      {
+        "src": "foto/142 (1).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/142 (6).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/142 (17).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/142 (4).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/142 (5).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/142 (2).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/142 (7).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/142 (8).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/142 (9).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/142 (10).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/142 (11).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/142 (12).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/142 (13).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/142 (14).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/142 (15).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/142 (16).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/142 (3).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/142 (18).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/142 (19).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/142 (20).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/142 (21).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/142 (22).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/142 (23).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/142 (24).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/142 (25).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/142 (26).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/142 (27).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/142 (28).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/142 (29).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/142 (30).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/142 (31).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/142 (32).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/142 (33).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/142 (34).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/142 (35).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/142 (36).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/142 (37).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/142 (38).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/142 (39).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/142 (40).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/142 (41).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/142 (42).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/142 (43).webp",
+        "alt": ""
+      }
     ],
     "latitude": "39.807980",
     "longitude": "15.793747"
@@ -215,19 +488,58 @@
     "video": ".",
     "video360": ".",
     "images": [
-      "foto/112 (1).webp",
-      "foto/112 (2).webp",
-      "foto/112 (8).webp",
-      "foto/112 (4).webp",
-      "foto/112 (5).webp",
-      "foto/112 (6).webp",
-      "foto/112 (7).webp",
-      "foto/112 (3).webp",
-      "foto/112 (9).webp",
-      "foto/112 (10).webp",
-      "foto/112 (11).webp",
-      "foto/112 (12).webp",
-      "foto/112 (13).webp"
+      {
+        "src": "foto/112 (1).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/112 (2).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/112 (8).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/112 (4).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/112 (5).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/112 (6).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/112 (7).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/112 (3).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/112 (9).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/112 (10).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/112 (11).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/112 (12).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/112 (13).webp",
+        "alt": ""
+      }
     ],
     "latitude": "39.790504",
     "longitude": "15.801535"
@@ -271,67 +583,250 @@
     "video": "https://www.youtube.com/watch?v=b3X9hJvTVRs",
     "video360": ".",
     "images": [
-      "foto/135 (1).webp",
-      "foto/135 (6).webp",
-      "foto/135 (27).webp",
-      "foto/135 (4).webp",
-      "foto/135 (5).webp",
-      "foto/135 (2).webp",
-      "foto/135 (7).webp",
-      "foto/135 (8).webp",
-      "foto/135 (9).webp",
-      "foto/135 (10).webp",
-      "foto/135 (11).webp",
-      "foto/135 (12).webp",
-      "foto/135 (13).webp",
-      "foto/135 (14).webp",
-      "foto/135 (15).webp",
-      "foto/135 (16).webp",
-      "foto/135 (17).webp",
-      "foto/135 (18).webp",
-      "foto/135 (19).webp",
-      "foto/135 (20).webp",
-      "foto/135 (21).webp",
-      "foto/135 (22).webp",
-      "foto/135 (23).webp",
-      "foto/135 (24).webp",
-      "foto/135 (25).webp",
-      "foto/135 (26).webp",
-      "foto/135 (3).webp",
-      "foto/135 (28).webp",
-      "foto/135 (29).webp",
-      "foto/135 (30).webp",
-      "foto/135 (31).webp",
-      "foto/135 (32).webp",
-      "foto/135 (33).webp",
-      "foto/135 (34).webp",
-      "foto/135 (35).webp",
-      "foto/135 (36).webp",
-      "foto/135 (37).webp",
-      "foto/135 (38).webp",
-      "foto/135 (39).webp",
-      "foto/135 (40).webp",
-      "foto/135 (41).webp",
-      "foto/135 (42).webp",
-      "foto/135 (43).webp",
-      "foto/135 (44).webp",
-      "foto/135 (45).webp",
-      "foto/135 (46).webp",
-      "foto/135 (47).webp",
-      "foto/135 (48).webp",
-      "foto/135 (49).webp",
-      "foto/135 (50).webp",
-      "foto/135 (51).webp",
-      "foto/135 (52).webp",
-      "foto/135 (53).webp",
-      "foto/135 (54).webp",
-      "foto/135 (55).webp",
-      "foto/135 (56).webp",
-      "foto/135 (57).webp",
-      "foto/135 (58).webp",
-      "foto/135 (59).webp",
-      "foto/135 (60).webp",
-      "foto/135 (61).webp"
+      {
+        "src": "foto/135 (1).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/135 (6).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/135 (27).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/135 (4).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/135 (5).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/135 (2).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/135 (7).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/135 (8).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/135 (9).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/135 (10).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/135 (11).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/135 (12).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/135 (13).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/135 (14).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/135 (15).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/135 (16).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/135 (17).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/135 (18).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/135 (19).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/135 (20).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/135 (21).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/135 (22).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/135 (23).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/135 (24).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/135 (25).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/135 (26).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/135 (3).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/135 (28).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/135 (29).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/135 (30).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/135 (31).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/135 (32).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/135 (33).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/135 (34).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/135 (35).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/135 (36).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/135 (37).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/135 (38).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/135 (39).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/135 (40).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/135 (41).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/135 (42).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/135 (43).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/135 (44).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/135 (45).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/135 (46).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/135 (47).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/135 (48).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/135 (49).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/135 (50).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/135 (51).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/135 (52).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/135 (53).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/135 (54).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/135 (55).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/135 (56).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/135 (57).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/135 (58).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/135 (59).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/135 (60).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/135 (61).webp",
+        "alt": ""
+      }
     ],
     "latitude": "39.817739",
     "longitude": "15.790952"
@@ -375,52 +870,190 @@
     "video": ".",
     "video360": ".",
     "images": [
-      "foto/140 (6).webp",
-      "foto/140 (15).webp",
-      "foto/140 (24).webp",
-      "foto/140 (3).webp",
-      "foto/140 (4).webp",
-      "foto/140 (5).webp",
-      "foto/140 (7).webp",
-      "foto/140 (8).webp",
-      "foto/140 (9).webp",
-      "foto/140 (10).webp",
-      "foto/140 (11).webp",
-      "foto/140 (12).webp",
-      "foto/140 (13).webp",
-      "foto/140 (14).webp",
-      "foto/140 (1).webp",
-      "foto/140 (16).webp",
-      "foto/140 (17).webp",
-      "foto/140 (18).webp",
-      "foto/140 (19).webp",
-      "foto/140 (20).webp",
-      "foto/140 (21).webp",
-      "foto/140 (22).webp",
-      "foto/140 (23).webp",
-      "foto/140 (2).webp",
-      "foto/140 (25).webp",
-      "foto/140 (26).webp",
-      "foto/140 (27).webp",
-      "foto/140 (28).webp",
-      "foto/140 (29).webp",
-      "foto/140 (30).webp",
-      "foto/140 (31).webp",
-      "foto/140 (32).webp",
-      "foto/140 (33).webp",
-      "foto/140 (34).webp",
-      "foto/140 (35).webp",
-      "foto/140 (36).webp",
-      "foto/140 (37).webp",
-      "foto/140 (38).webp",
-      "foto/140 (39).webp",
-      "foto/140 (40).webp",
-      "foto/140 (41).webp",
-      "foto/140 (42).webp",
-      "foto/140 (43).webp",
-      "foto/140 (44).webp",
-      "foto/140 (45).webp",
-      "foto/140 (46).webp"
+      {
+        "src": "foto/140 (6).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/140 (15).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/140 (24).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/140 (3).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/140 (4).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/140 (5).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/140 (7).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/140 (8).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/140 (9).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/140 (10).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/140 (11).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/140 (12).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/140 (13).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/140 (14).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/140 (1).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/140 (16).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/140 (17).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/140 (18).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/140 (19).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/140 (20).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/140 (21).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/140 (22).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/140 (23).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/140 (2).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/140 (25).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/140 (26).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/140 (27).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/140 (28).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/140 (29).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/140 (30).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/140 (31).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/140 (32).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/140 (33).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/140 (34).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/140 (35).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/140 (36).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/140 (37).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/140 (38).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/140 (39).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/140 (40).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/140 (41).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/140 (42).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/140 (43).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/140 (44).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/140 (45).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/140 (46).webp",
+        "alt": ""
+      }
     ],
     "latitude": "39.831932",
     "longitude": "15.924338"
@@ -464,38 +1097,134 @@
     "video": ".",
     "video360": ".",
     "images": [
-      "foto/119 (2).webp",
-      "foto/119 (7).webp",
-      "foto/119 (14).webp",
-      "foto/119 (6).webp",
-      "foto/119 (4).webp",
-      "foto/119 (5).webp",
-      "foto/119 (1).webp",
-      "foto/119 (8).webp",
-      "foto/119 (9).webp",
-      "foto/119 (10).webp",
-      "foto/119 (11).webp",
-      "foto/119 (12).webp",
-      "foto/119 (13).webp",
-      "foto/119 (3).webp",
-      "foto/119 (15).webp",
-      "foto/119 (16).webp",
-      "foto/119 (17).webp",
-      "foto/119 (18).webp",
-      "foto/119 (19).webp",
-      "foto/119 (20).webp",
-      "foto/119 (21).webp",
-      "foto/119 (22).webp",
-      "foto/119 (23).webp",
-      "foto/119 (24).webp",
-      "foto/119 (25).webp",
-      "foto/119 (26).webp",
-      "foto/119 (27).webp",
-      "foto/119 (28).webp",
-      "foto/119 (29).webp",
-      "foto/119 (30).webp",
-      "foto/119 (31).webp",
-      "foto/119 (32).webp"
+      {
+        "src": "foto/119 (2).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/119 (7).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/119 (14).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/119 (6).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/119 (4).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/119 (5).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/119 (1).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/119 (8).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/119 (9).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/119 (10).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/119 (11).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/119 (12).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/119 (13).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/119 (3).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/119 (15).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/119 (16).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/119 (17).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/119 (18).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/119 (19).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/119 (20).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/119 (21).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/119 (22).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/119 (23).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/119 (24).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/119 (25).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/119 (26).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/119 (27).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/119 (28).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/119 (29).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/119 (30).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/119 (31).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/119 (32).webp",
+        "alt": ""
+      }
     ],
     "latitude": "39.810293",
     "longitude": "15.795988"
@@ -539,41 +1268,146 @@
     "video": "https://www.youtube.com/watch?v=Pfpm4IPNSFU",
     "video360": ".",
     "images": [
-      "foto/128 (23).webp",
-      "foto/128 (4).webp",
-      "foto/128 (3).webp",
-      "foto/128 (2).webp",
-      "foto/128 (5).webp",
-      "foto/128 (6).webp",
-      "foto/128 (7).webp",
-      "foto/128 (8).webp",
-      "foto/128 (9).webp",
-      "foto/128 (10).webp",
-      "foto/128 (11).webp",
-      "foto/128 (12).webp",
-      "foto/128 (13).webp",
-      "foto/128 (14).webp",
-      "foto/128 (15).webp",
-      "foto/128 (16).webp",
-      "foto/128 (17).webp",
-      "foto/128 (18).webp",
-      "foto/128 (19).webp",
-      "foto/128 (20).webp",
-      "foto/128 (21).webp",
-      "foto/128 (22).webp",
-      "foto/128 (1).webp",
-      "foto/128 (24).webp",
-      "foto/128 (25).webp",
-      "foto/128 (26).webp",
-      "foto/128 (27).webp",
-      "foto/128 (28).webp",
-      "foto/128 (29).webp",
-      "foto/128 (30).webp",
-      "foto/128 (31).webp",
-      "foto/128 (32).webp",
-      "foto/128 (33).webp",
-      "foto/128 (34).webp",
-      "foto/128 (35).webp"
+      {
+        "src": "foto/128 (23).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/128 (4).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/128 (3).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/128 (2).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/128 (5).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/128 (6).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/128 (7).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/128 (8).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/128 (9).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/128 (10).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/128 (11).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/128 (12).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/128 (13).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/128 (14).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/128 (15).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/128 (16).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/128 (17).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/128 (18).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/128 (19).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/128 (20).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/128 (21).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/128 (22).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/128 (1).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/128 (24).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/128 (25).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/128 (26).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/128 (27).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/128 (28).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/128 (29).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/128 (30).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/128 (31).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/128 (32).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/128 (33).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/128 (34).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/128 (35).webp",
+        "alt": ""
+      }
     ],
     "latitude": "39.810235",
     "longitude": "15.796041"
@@ -617,28 +1451,94 @@
     "video": " ",
     "video360": " ",
     "images": [
-      "foto/701 (13).webp",
-      "foto/701 (9).webp",
-      "foto/701 (8).webp",
-      "foto/701 (4).webp",
-      "foto/701 (5).webp",
-      "foto/701 (6).webp",
-      "foto/701 (7).webp",
-      "foto/701 (3).webp",
-      "foto/701 (2).webp",
-      "foto/701 (10).webp",
-      "foto/701 (11).webp",
-      "foto/701 (12).webp",
-      "foto/701 (1).webp",
-      "foto/701 (14).webp",
-      "foto/701 (15).webp",
-      "foto/701 (16).webp",
-      "foto/701 (17).webp",
-      "foto/701 (18).webp",
-      "foto/701 (19).webp",
-      "foto/701 (20).webp",
-      "foto/701 (21).webp",
-      "foto/701 (22).webp"
+      {
+        "src": "foto/701 (13).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/701 (9).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/701 (8).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/701 (4).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/701 (5).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/701 (6).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/701 (7).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/701 (3).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/701 (2).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/701 (10).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/701 (11).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/701 (12).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/701 (1).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/701 (14).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/701 (15).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/701 (16).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/701 (17).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/701 (18).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/701 (19).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/701 (20).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/701 (21).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/701 (22).webp",
+        "alt": ""
+      }
     ],
     "latitude": "39.840051",
     "longitude": "15.781051"
@@ -682,68 +1582,254 @@
     "video": ".",
     "video360": ".",
     "images": [
-      "foto/127 (1).webp",
-      "foto/127 (4).webp",
-      "foto/127 (16).webp",
-      "foto/127 (2).webp",
-      "foto/127 (5).webp",
-      "foto/127 (6).webp",
-      "foto/127 (7).webp",
-      "foto/127 (8).webp",
-      "foto/127 (9).webp",
-      "foto/127 (10).webp",
-      "foto/127 (11).webp",
-      "foto/127 (12).webp",
-      "foto/127 (13).webp",
-      "foto/127 (14).webp",
-      "foto/127 (15).webp",
-      "foto/127 (3).webp",
-      "foto/127 (17).webp",
-      "foto/127 (18).webp",
-      "foto/127 (19).webp",
-      "foto/127 (20).webp",
-      "foto/127 (21).webp",
-      "foto/127 (22).webp",
-      "foto/127 (23).webp",
-      "foto/127 (24).webp",
-      "foto/127 (25).webp",
-      "foto/127 (26).webp",
-      "foto/127 (27).webp",
-      "foto/127 (28).webp",
-      "foto/127 (29).webp",
-      "foto/127 (30).webp",
-      "foto/127 (31).webp",
-      "foto/127 (32).webp",
-      "foto/127 (33).webp",
-      "foto/127 (34).webp",
-      "foto/127 (35).webp",
-      "foto/127 (36).webp",
-      "foto/127 (37).webp",
-      "foto/127 (38).webp",
-      "foto/127 (39).webp",
-      "foto/127 (40).webp",
-      "foto/127 (41).webp",
-      "foto/127 (42).webp",
-      "foto/127 (43).webp",
-      "foto/127 (44).webp",
-      "foto/127 (45).webp",
-      "foto/127 (46).webp",
-      "foto/127 (47).webp",
-      "foto/127 (48).webp",
-      "foto/127 (49).webp",
-      "foto/127 (50).webp",
-      "foto/127 (51).webp",
-      "foto/127 (52).webp",
-      "foto/127 (53).webp",
-      "foto/127 (54).webp",
-      "foto/127 (55).webp",
-      "foto/127 (56).webp",
-      "foto/127 (57).webp",
-      "foto/127 (58).webp",
-      "foto/127 (59).webp",
-      "foto/127 (60).webp",
-      "foto/127 (61).webp",
-      "foto/127 (62).webp"
+      {
+        "src": "foto/127 (1).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/127 (4).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/127 (16).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/127 (2).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/127 (5).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/127 (6).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/127 (7).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/127 (8).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/127 (9).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/127 (10).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/127 (11).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/127 (12).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/127 (13).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/127 (14).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/127 (15).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/127 (3).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/127 (17).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/127 (18).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/127 (19).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/127 (20).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/127 (21).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/127 (22).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/127 (23).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/127 (24).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/127 (25).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/127 (26).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/127 (27).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/127 (28).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/127 (29).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/127 (30).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/127 (31).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/127 (32).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/127 (33).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/127 (34).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/127 (35).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/127 (36).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/127 (37).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/127 (38).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/127 (39).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/127 (40).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/127 (41).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/127 (42).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/127 (43).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/127 (44).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/127 (45).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/127 (46).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/127 (47).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/127 (48).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/127 (49).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/127 (50).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/127 (51).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/127 (52).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/127 (53).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/127 (54).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/127 (55).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/127 (56).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/127 (57).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/127 (58).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/127 (59).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/127 (60).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/127 (61).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/127 (62).webp",
+        "alt": ""
+      }
     ],
     "latitude": "39.789699",
     "longitude": "15.802923"
@@ -787,22 +1873,70 @@
     "video": " ",
     "video360": " ",
     "images": [
-      "foto/dji_0240.webp",
-      "foto/dsc02189-hdr.webp",
-      "foto/dsc02166-hdr.webp",
-      "foto/dsc02157-hdr.webp",
-      "foto/dsc02160-hdr.webp",
-      "foto/dsc02201-hdr.webp",
-      "foto/dsc02169-hdr.webp",
-      "foto/dsc02194-hdr.webp",
-      "foto/dsc02195-hdr.webp",
-      "foto/dsc02198-hdr.webp",
-      "foto/dsc02210-hdr.webp",
-      "foto/dsc02213-hdr.webp",
-      "foto/dsc02216-hdr.webp",
-      "foto/dsc02180-hdr.webp",
-      "foto/dsc02177-hdr.webp",
-      "foto/dsc02183-hdr.webp"
+      {
+        "src": "foto/dji_0240.webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/dsc02189-hdr.webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/dsc02166-hdr.webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/dsc02157-hdr.webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/dsc02160-hdr.webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/dsc02201-hdr.webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/dsc02169-hdr.webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/dsc02194-hdr.webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/dsc02195-hdr.webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/dsc02198-hdr.webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/dsc02210-hdr.webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/dsc02213-hdr.webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/dsc02216-hdr.webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/dsc02180-hdr.webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/dsc02177-hdr.webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/dsc02183-hdr.webp",
+        "alt": ""
+      }
     ],
     "latitude": "39.824416",
     "longitude": "15.778587 "
@@ -846,25 +1980,82 @@
     "video": ".",
     "video360": ".",
     "images": [
-      "foto/712 (9).webp",
-      "foto/712 (15).webp",
-      "foto/712 (5).webp",
-      "foto/712 (4).webp",
-      "foto/712 (3).webp",
-      "foto/712 (6).webp",
-      "foto/712 (7).webp",
-      "foto/712 (8).webp",
-      "foto/712 (1).webp",
-      "foto/712 (10).webp",
-      "foto/712 (11).webp",
-      "foto/712 (12).webp",
-      "foto/712 (13).webp",
-      "foto/712 (14).webp",
-      "foto/712 (2).webp",
-      "foto/712 (16).webp",
-      "foto/712 (17).webp",
-      "foto/712 (18).webp",
-      "foto/712 (19).webp"
+      {
+        "src": "foto/712 (9).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/712 (15).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/712 (5).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/712 (4).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/712 (3).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/712 (6).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/712 (7).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/712 (8).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/712 (1).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/712 (10).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/712 (11).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/712 (12).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/712 (13).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/712 (14).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/712 (2).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/712 (16).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/712 (17).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/712 (18).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/712 (19).webp",
+        "alt": ""
+      }
     ],
     "latitude": "39.717655",
     "longitude": "15.849170"
@@ -908,38 +2099,134 @@
     "video": "https://www.youtube.com/watch?v=PnIvsy5Klqg",
     "video360": ".",
     "images": [
-      "foto/115 (1).webp",
-      "foto/115 (7).webp",
-      "foto/115 (6).webp",
-      "foto/115 (5).webp",
-      "foto/115 (4).webp",
-      "foto/115 (2).webp",
-      "foto/115 (3).webp",
-      "foto/115 (8).webp",
-      "foto/115 (9).webp",
-      "foto/115 (10).webp",
-      "foto/115 (11).webp",
-      "foto/115 (12).webp",
-      "foto/115 (13).webp",
-      "foto/115 (14).webp",
-      "foto/115 (15).webp",
-      "foto/115 (16).webp",
-      "foto/115 (17).webp",
-      "foto/115 (18).webp",
-      "foto/115 (19).webp",
-      "foto/115 (20).webp",
-      "foto/115 (21).webp",
-      "foto/115 (22).webp",
-      "foto/115 (23).webp",
-      "foto/115 (24).webp",
-      "foto/115 (25).webp",
-      "foto/115 (26).webp",
-      "foto/115 (27).webp",
-      "foto/115 (28).webp",
-      "foto/115 (29).webp",
-      "foto/115 (30).webp",
-      "foto/115 (31).webp",
-      "foto/115 (32).webp"
+      {
+        "src": "foto/115 (1).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/115 (7).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/115 (6).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/115 (5).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/115 (4).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/115 (2).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/115 (3).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/115 (8).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/115 (9).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/115 (10).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/115 (11).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/115 (12).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/115 (13).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/115 (14).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/115 (15).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/115 (16).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/115 (17).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/115 (18).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/115 (19).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/115 (20).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/115 (21).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/115 (22).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/115 (23).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/115 (24).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/115 (25).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/115 (26).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/115 (27).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/115 (28).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/115 (29).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/115 (30).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/115 (31).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/115 (32).webp",
+        "alt": ""
+      }
     ],
     "latitude": "39.722876",
     "longitude": "15.857913"
@@ -983,32 +2270,110 @@
     "video": " ",
     "video360": " ",
     "images": [
-      "foto/103 (1).webp",
-      "foto/103 (2).webp",
-      "foto/103 (14).webp",
-      "foto/103 (10).webp",
-      "foto/103 (11).webp",
-      "foto/103 (12).webp",
-      "foto/103 (13).webp",
-      "foto/103 (15).webp",
-      "foto/103 (16).webp",
-      "foto/103 (17).webp",
-      "foto/103 (18).webp",
-      "foto/103 (19).webp",
-      "foto/103 (20).webp",
-      "foto/103 (21).webp",
-      "foto/103 (22).webp",
-      "foto/103 (23).webp",
-      "foto/103 (24).webp",
-      "foto/103 (25).webp",
-      "foto/103 (26).webp",
-      "foto/103 (3).webp",
-      "foto/103 (4).webp",
-      "foto/103 (5).webp",
-      "foto/103 (6).webp",
-      "foto/103 (7).webp",
-      "foto/103 (8).webp",
-      "foto/103 (9).webp"
+      {
+        "src": "foto/103 (1).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/103 (2).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/103 (14).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/103 (10).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/103 (11).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/103 (12).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/103 (13).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/103 (15).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/103 (16).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/103 (17).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/103 (18).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/103 (19).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/103 (20).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/103 (21).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/103 (22).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/103 (23).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/103 (24).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/103 (25).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/103 (26).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/103 (3).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/103 (4).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/103 (5).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/103 (6).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/103 (7).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/103 (8).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/103 (9).webp",
+        "alt": ""
+      }
     ],
     "latitude": "39.822460",
     "longitude": "15.778885"
@@ -1052,13 +2417,34 @@
     "video": "https://www.youtube.com/watch?v=jmITnawDauo",
     "video360": ".",
     "images": [
-      "foto/117 (1).webp",
-      "foto/117 (6).webp",
-      "foto/117 (4).webp",
-      "foto/117 (3).webp",
-      "foto/117 (5).webp",
-      "foto/117 (2).webp",
-      "foto/117 (7).webp"
+      {
+        "src": "foto/117 (1).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/117 (6).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/117 (4).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/117 (3).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/117 (5).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/117 (2).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/117 (7).webp",
+        "alt": ""
+      }
     ],
     "latitude": "39.789233",
     "longitude": "15.801846"
@@ -1102,41 +2488,146 @@
     "video": ".",
     "video360": ".",
     "images": [
-      "foto/144 (8).webp",
-      "foto/144 (1).webp",
-      "foto/144 (31).webp",
-      "foto/144 (4).webp",
-      "foto/144 (5).webp",
-      "foto/144 (6).webp",
-      "foto/144 (7).webp",
-      "foto/144 (2).webp",
-      "foto/144 (9).webp",
-      "foto/144 (10).webp",
-      "foto/144 (11).webp",
-      "foto/144 (12).webp",
-      "foto/144 (13).webp",
-      "foto/144 (14).webp",
-      "foto/144 (15).webp",
-      "foto/144 (16).webp",
-      "foto/144 (17).webp",
-      "foto/144 (18).webp",
-      "foto/144 (19).webp",
-      "foto/144 (20).webp",
-      "foto/144 (21).webp",
-      "foto/144 (22).webp",
-      "foto/144 (23).webp",
-      "foto/144 (24).webp",
-      "foto/144 (25).webp",
-      "foto/144 (26).webp",
-      "foto/144 (27).webp",
-      "foto/144 (28).webp",
-      "foto/144 (29).webp",
-      "foto/144 (30).webp",
-      "foto/144 (3).webp",
-      "foto/144 (32).webp",
-      "foto/144 (33).webp",
-      "foto/144 (34).webp",
-      "foto/144 (35).webp"
+      {
+        "src": "foto/144 (8).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/144 (1).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/144 (31).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/144 (4).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/144 (5).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/144 (6).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/144 (7).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/144 (2).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/144 (9).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/144 (10).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/144 (11).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/144 (12).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/144 (13).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/144 (14).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/144 (15).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/144 (16).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/144 (17).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/144 (18).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/144 (19).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/144 (20).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/144 (21).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/144 (22).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/144 (23).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/144 (24).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/144 (25).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/144 (26).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/144 (27).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/144 (28).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/144 (29).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/144 (30).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/144 (3).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/144 (32).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/144 (33).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/144 (34).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/144 (35).webp",
+        "alt": ""
+      }
     ],
     "latitude": "39.989051",
     "longitude": "15.709051"
@@ -1180,58 +2671,214 @@
     "video": ".",
     "video360": ".",
     "images": [
-      "foto/307 (4).webp",
-      "foto/307 (1).webp",
-      "foto/307 (3).webp",
-      "foto/307 (2).webp",
-      "foto/307 (5).webp",
-      "foto/307 (6).webp",
-      "foto/307 (7).webp",
-      "foto/307 (8).webp",
-      "foto/307 (9).webp",
-      "foto/307 (10).webp",
-      "foto/307 (11).webp",
-      "foto/307 (12).webp",
-      "foto/307 (13).webp",
-      "foto/307 (14).webp",
-      "foto/307 (15).webp",
-      "foto/307 (16).webp",
-      "foto/307 (17).webp",
-      "foto/307 (18).webp",
-      "foto/307 (19).webp",
-      "foto/307 (20).webp",
-      "foto/307 (21).webp",
-      "foto/307 (22).webp",
-      "foto/307 (23).webp",
-      "foto/307 (24).webp",
-      "foto/307 (25).webp",
-      "foto/307 (26).webp",
-      "foto/307 (27).webp",
-      "foto/307 (28).webp",
-      "foto/307 (29).webp",
-      "foto/307 (30).webp",
-      "foto/307 (31).webp",
-      "foto/307 (32).webp",
-      "foto/307 (33).webp",
-      "foto/307 (34).webp",
-      "foto/307 (35).webp",
-      "foto/307 (36).webp",
-      "foto/307 (37).webp",
-      "foto/307 (38).webp",
-      "foto/307 (39).webp",
-      "foto/307 (40).webp",
-      "foto/307 (41).webp",
-      "foto/307 (42).webp",
-      "foto/307 (43).webp",
-      "foto/307 (44).webp",
-      "foto/307 (45).webp",
-      "foto/307 (46).webp",
-      "foto/307 (47).webp",
-      "foto/307 (48).webp",
-      "foto/307 (49).webp",
-      "foto/307 (50).webp",
-      "foto/307 (51).webp",
-      "foto/307 (52).webp"
+      {
+        "src": "foto/307 (4).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/307 (1).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/307 (3).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/307 (2).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/307 (5).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/307 (6).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/307 (7).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/307 (8).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/307 (9).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/307 (10).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/307 (11).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/307 (12).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/307 (13).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/307 (14).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/307 (15).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/307 (16).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/307 (17).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/307 (18).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/307 (19).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/307 (20).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/307 (21).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/307 (22).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/307 (23).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/307 (24).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/307 (25).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/307 (26).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/307 (27).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/307 (28).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/307 (29).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/307 (30).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/307 (31).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/307 (32).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/307 (33).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/307 (34).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/307 (35).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/307 (36).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/307 (37).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/307 (38).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/307 (39).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/307 (40).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/307 (41).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/307 (42).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/307 (43).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/307 (44).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/307 (45).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/307 (46).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/307 (47).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/307 (48).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/307 (49).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/307 (50).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/307 (51).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/307 (52).webp",
+        "alt": ""
+      }
     ],
     "latitude": "39.873049",
     "longitude": "15.790619"
@@ -1275,13 +2922,34 @@
     "video": ".",
     "video360": ".",
     "images": [
-      "foto/113 (5).webp",
-      "foto/113 (1).webp",
-      "foto/113 (7).webp",
-      "foto/113 (4).webp",
-      "foto/113 (2).webp",
-      "foto/113 (6).webp",
-      "foto/113 (3).webp"
+      {
+        "src": "foto/113 (5).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/113 (1).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/113 (7).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/113 (4).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/113 (2).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/113 (6).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/113 (3).webp",
+        "alt": ""
+      }
     ],
     "latitude": "39.823311",
     "longitude": "15.778088"
@@ -1325,51 +2993,186 @@
     "video": "https://www.youtube.com/watch?v=_Me6VTGlaDM",
     "video360": ".",
     "images": [
-      "foto/107 (29).webp",
-      "foto/107 (22).webp",
-      "foto/107 (30).webp",
-      "foto/107 (4).webp",
-      "foto/107 (5).webp",
-      "foto/107 (6).webp",
-      "foto/107 (7).webp",
-      "foto/107 (8).webp",
-      "foto/107 (9).webp",
-      "foto/107 (10).webp",
-      "foto/107 (11).webp",
-      "foto/107 (12).webp",
-      "foto/107 (13).webp",
-      "foto/107 (14).webp",
-      "foto/107 (15).webp",
-      "foto/107 (16).webp",
-      "foto/107 (17).webp",
-      "foto/107 (18).webp",
-      "foto/107 (19).webp",
-      "foto/107 (20).webp",
-      "foto/107 (21).webp",
-      "foto/107 (2).webp",
-      "foto/107 (23).webp",
-      "foto/107 (24).webp",
-      "foto/107 (25).webp",
-      "foto/107 (26).webp",
-      "foto/107 (27).webp",
-      "foto/107 (28).webp",
-      "foto/107 (1).webp",
-      "foto/107 (3).webp",
-      "foto/107 (31).webp",
-      "foto/107 (32).webp",
-      "foto/107 (33).webp",
-      "foto/107 (34).webp",
-      "foto/107 (35).webp",
-      "foto/107 (36).webp",
-      "foto/107 (37).webp",
-      "foto/107 (38).webp",
-      "foto/107 (39).webp",
-      "foto/107 (40).webp",
-      "foto/107 (41).webp",
-      "foto/107 (42).webp",
-      "foto/107 (43).webp",
-      "foto/107 (44).webp",
-      "foto/107 (45).webp"
+      {
+        "src": "foto/107 (29).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/107 (22).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/107 (30).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/107 (4).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/107 (5).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/107 (6).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/107 (7).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/107 (8).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/107 (9).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/107 (10).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/107 (11).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/107 (12).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/107 (13).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/107 (14).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/107 (15).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/107 (16).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/107 (17).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/107 (18).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/107 (19).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/107 (20).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/107 (21).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/107 (2).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/107 (23).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/107 (24).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/107 (25).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/107 (26).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/107 (27).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/107 (28).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/107 (1).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/107 (3).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/107 (31).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/107 (32).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/107 (33).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/107 (34).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/107 (35).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/107 (36).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/107 (37).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/107 (38).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/107 (39).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/107 (40).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/107 (41).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/107 (42).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/107 (43).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/107 (44).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/107 (45).webp",
+        "alt": ""
+      }
     ],
     "latitude": "39.844904",
     "longitude": "15.790757"
@@ -1413,38 +3216,134 @@
     "video": " ",
     "video360": " ",
     "images": [
-      "foto/708 (32).webp",
-      "foto/708 (6).webp",
-      "foto/708 (2).webp",
-      "foto/708 (3).webp",
-      "foto/708 (4).webp",
-      "foto/708 (5).webp",
-      "foto/708 (1).webp",
-      "foto/708 (7).webp",
-      "foto/708 (8).webp",
-      "foto/708 (9).webp",
-      "foto/708 (10).webp",
-      "foto/708 (11).webp",
-      "foto/708 (12).webp",
-      "foto/708 (13).webp",
-      "foto/708 (14).webp",
-      "foto/708 (15).webp",
-      "foto/708 (16).webp",
-      "foto/708 (17).webp",
-      "foto/708 (18).webp",
-      "foto/708 (19).webp",
-      "foto/708 (20).webp",
-      "foto/708 (21).webp",
-      "foto/708 (22).webp",
-      "foto/708 (23).webp",
-      "foto/708 (24).webp",
-      "foto/708 (25).webp",
-      "foto/708 (26).webp",
-      "foto/708 (27).webp",
-      "foto/708 (28).webp",
-      "foto/708 (29).webp",
-      "foto/708 (30).webp",
-      "foto/708 (31).webp"
+      {
+        "src": "foto/708 (32).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/708 (6).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/708 (2).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/708 (3).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/708 (4).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/708 (5).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/708 (1).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/708 (7).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/708 (8).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/708 (9).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/708 (10).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/708 (11).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/708 (12).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/708 (13).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/708 (14).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/708 (15).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/708 (16).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/708 (17).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/708 (18).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/708 (19).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/708 (20).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/708 (21).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/708 (22).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/708 (23).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/708 (24).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/708 (25).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/708 (26).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/708 (27).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/708 (28).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/708 (29).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/708 (30).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/708 (31).webp",
+        "alt": ""
+      }
     ],
     "latitude": "39.814509",
     "longitude": "15.801874"
@@ -1488,30 +3387,102 @@
     "video": "https://www.youtube.com/watch?v=fQcTaWwxzn0",
     "video360": ".",
     "images": [
-      "foto/130 (23).webp",
-      "foto/130 (4).webp",
-      "foto/130 (10).webp",
-      "foto/130 (2).webp",
-      "foto/130 (5).webp",
-      "foto/130 (6).webp",
-      "foto/130 (7).webp",
-      "foto/130 (8).webp",
-      "foto/130 (9).webp",
-      "foto/130 (3).webp",
-      "foto/130 (11).webp",
-      "foto/130 (12).webp",
-      "foto/130 (13).webp",
-      "foto/130 (14).webp",
-      "foto/130 (15).webp",
-      "foto/130 (16).webp",
-      "foto/130 (17).webp",
-      "foto/130 (18).webp",
-      "foto/130 (19).webp",
-      "foto/130 (20).webp",
-      "foto/130 (21).webp",
-      "foto/130 (22).webp",
-      "foto/130 (1).webp",
-      "foto/130 (24).webp"
+      {
+        "src": "foto/130 (23).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/130 (4).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/130 (10).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/130 (2).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/130 (5).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/130 (6).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/130 (7).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/130 (8).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/130 (9).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/130 (3).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/130 (11).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/130 (12).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/130 (13).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/130 (14).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/130 (15).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/130 (16).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/130 (17).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/130 (18).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/130 (19).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/130 (20).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/130 (21).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/130 (22).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/130 (1).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/130 (24).webp",
+        "alt": ""
+      }
     ],
     "latitude": "39.726871",
     "longitude": "15.854461"
@@ -1555,19 +3526,58 @@
     "video": ",",
     "video360": ",",
     "images": [
-      "foto/rif-133-132-7-.webp",
-      "foto/rif-133-132-1-.webp",
-      "foto/rif-133-132-2-.webp",
-      "foto/rif-133-132-3-.webp",
-      "foto/rif-133-132-4-.webp",
-      "foto/rif-133-132-5-.webp",
-      "foto/rif-133-132-6-.webp",
-      "foto/rif-133-132-8-.webp",
-      "foto/rif-133-132-9-.webp",
-      "foto/rif-133-132-10-.webp",
-      "foto/rif-133-132-11-.webp",
-      "foto/rif-133-132-12-.webp",
-      "foto/rif-133-132-13-.webp"
+      {
+        "src": "foto/rif-133-132-7-.webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/rif-133-132-1-.webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/rif-133-132-2-.webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/rif-133-132-3-.webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/rif-133-132-4-.webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/rif-133-132-5-.webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/rif-133-132-6-.webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/rif-133-132-8-.webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/rif-133-132-9-.webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/rif-133-132-10-.webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/rif-133-132-11-.webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/rif-133-132-12-.webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/rif-133-132-13-.webp",
+        "alt": ""
+      }
     ],
     "latitude": "39.808340",
     "longitude": "15.804020"
@@ -1611,34 +3621,118 @@
     "video": false,
     "video360": false,
     "images": [
-      "foto/145 (3).webp",
-      "foto/145 (2).webp",
-      "foto/145 (15).webp",
-      "foto/145 (4).webp",
-      "foto/145 (5).webp",
-      "foto/145 (6).webp",
-      "foto/145 (7).webp",
-      "foto/145 (8).webp",
-      "foto/145 (9).webp",
-      "foto/145 (10).webp",
-      "foto/145 (11).webp",
-      "foto/145 (12).webp",
-      "foto/145 (13).webp",
-      "foto/145 (14).webp",
-      "foto/145 (1).webp",
-      "foto/145 (16).webp",
-      "foto/145 (17).webp",
-      "foto/145 (18).webp",
-      "foto/145 (19).webp",
-      "foto/145 (20).webp",
-      "foto/145 (21).webp",
-      "foto/145 (22).webp",
-      "foto/145 (23).webp",
-      "foto/145 (24).webp",
-      "foto/145 (25).webp",
-      "foto/145 (26).webp",
-      "foto/145 (27).webp",
-      "foto/145 (28).webp"
+      {
+        "src": "foto/145 (3).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/145 (2).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/145 (15).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/145 (4).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/145 (5).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/145 (6).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/145 (7).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/145 (8).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/145 (9).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/145 (10).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/145 (11).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/145 (12).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/145 (13).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/145 (14).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/145 (1).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/145 (16).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/145 (17).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/145 (18).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/145 (19).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/145 (20).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/145 (21).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/145 (22).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/145 (23).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/145 (24).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/145 (25).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/145 (26).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/145 (27).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/145 (28).webp",
+        "alt": ""
+      }
     ],
     "latitude": "39.758732",
     "longitude": "15.912679"
@@ -1682,28 +3776,94 @@
     "video": ".",
     "video360": ".",
     "images": [
-      "foto/711 (2).webp",
-      "foto/711 (9).webp",
-      "foto/711 (5).webp",
-      "foto/711 (4).webp",
-      "foto/711 (3).webp",
-      "foto/711 (6).webp",
-      "foto/711 (7).webp",
-      "foto/711 (8).webp",
-      "foto/711 (1).webp",
-      "foto/711 (10).webp",
-      "foto/711 (11).webp",
-      "foto/711 (12).webp",
-      "foto/711 (13).webp",
-      "foto/711 (14).webp",
-      "foto/711 (15).webp",
-      "foto/711 (16).webp",
-      "foto/711 (17).webp",
-      "foto/711 (18).webp",
-      "foto/711 (19).webp",
-      "foto/711 (20).webp",
-      "foto/711 (21).webp",
-      "foto/711 (22).webp"
+      {
+        "src": "foto/711 (2).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/711 (9).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/711 (5).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/711 (4).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/711 (3).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/711 (6).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/711 (7).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/711 (8).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/711 (1).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/711 (10).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/711 (11).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/711 (12).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/711 (13).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/711 (14).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/711 (15).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/711 (16).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/711 (17).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/711 (18).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/711 (19).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/711 (20).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/711 (21).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/711 (22).webp",
+        "alt": ""
+      }
     ],
     "latitude": "44.701861",
     "longitude": "10.636792"
@@ -1747,42 +3907,150 @@
     "video": false,
     "video360": false,
     "images": [
-      "foto/146 (8).webp",
-      "foto/146 (24).webp",
-      "foto/146 (33).webp",
-      "foto/146 (4).webp",
-      "foto/146 (5).webp",
-      "foto/146 (6).webp",
-      "foto/146 (7).webp",
-      "foto/146 (1).webp",
-      "foto/146 (9).webp",
-      "foto/146 (10).webp",
-      "foto/146 (11).webp",
-      "foto/146 (12).webp",
-      "foto/146 (13).webp",
-      "foto/146 (14).webp",
-      "foto/146 (15).webp",
-      "foto/146 (16).webp",
-      "foto/146 (17).webp",
-      "foto/146 (18).webp",
-      "foto/146 (19).webp",
-      "foto/146 (20).webp",
-      "foto/146 (21).webp",
-      "foto/146 (22).webp",
-      "foto/146 (23).webp",
-      "foto/146 (2).webp",
-      "foto/146 (25).webp",
-      "foto/146 (26).webp",
-      "foto/146 (27).webp",
-      "foto/146 (28).webp",
-      "foto/146 (29).webp",
-      "foto/146 (30).webp",
-      "foto/146 (31).webp",
-      "foto/146 (32).webp",
-      "foto/146 (3).webp",
-      "foto/146 (34).webp",
-      "foto/146 (35).webp",
-      "foto/146 (36).webp"
+      {
+        "src": "foto/146 (8).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/146 (24).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/146 (33).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/146 (4).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/146 (5).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/146 (6).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/146 (7).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/146 (1).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/146 (9).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/146 (10).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/146 (11).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/146 (12).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/146 (13).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/146 (14).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/146 (15).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/146 (16).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/146 (17).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/146 (18).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/146 (19).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/146 (20).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/146 (21).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/146 (22).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/146 (23).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/146 (2).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/146 (25).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/146 (26).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/146 (27).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/146 (28).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/146 (29).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/146 (30).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/146 (31).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/146 (32).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/146 (3).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/146 (34).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/146 (35).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/146 (36).webp",
+        "alt": ""
+      }
     ],
     "latitude": "39.807704",
     "longitude": "15.805973"
@@ -1826,20 +4094,62 @@
     "video": ".",
     "video360": ".",
     "images": [
-      "foto/118 (14).webp",
-      "foto/118 (9).webp",
-      "foto/118 (1).webp",
-      "foto/118 (4).webp",
-      "foto/118 (5).webp",
-      "foto/118 (6).webp",
-      "foto/118 (7).webp",
-      "foto/118 (8).webp",
-      "foto/118 (2).webp",
-      "foto/118 (10).webp",
-      "foto/118 (11).webp",
-      "foto/118 (12).webp",
-      "foto/118 (13).webp",
-      "foto/118 (3).webp"
+      {
+        "src": "foto/118 (14).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/118 (9).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/118 (1).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/118 (4).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/118 (5).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/118 (6).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/118 (7).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/118 (8).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/118 (2).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/118 (10).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/118 (11).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/118 (12).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/118 (13).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/118 (3).webp",
+        "alt": ""
+      }
     ],
     "latitude": "39.789694",
     "longitude": "15.802784"
@@ -1883,22 +4193,70 @@
     "video": "https://www.youtube.com/watch?v=nFzLdEh3m_4",
     "video360": ".",
     "images": [
-      "foto/125 (4).webp",
-      "foto/125 (12).webp",
-      "foto/125 (15).webp",
-      "foto/125 (1).webp",
-      "foto/125 (5).webp",
-      "foto/125 (6).webp",
-      "foto/125 (7).webp",
-      "foto/125 (8).webp",
-      "foto/125 (9).webp",
-      "foto/125 (10).webp",
-      "foto/125 (11).webp",
-      "foto/125 (2).webp",
-      "foto/125 (13).webp",
-      "foto/125 (14).webp",
-      "foto/125 (3).webp",
-      "foto/125 (16).webp"
+      {
+        "src": "foto/125 (4).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/125 (12).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/125 (15).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/125 (1).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/125 (5).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/125 (6).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/125 (7).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/125 (8).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/125 (9).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/125 (10).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/125 (11).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/125 (2).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/125 (13).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/125 (14).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/125 (3).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/125 (16).webp",
+        "alt": ""
+      }
     ],
     "latitude": "39.821892",
     "longitude": "15.856001"
@@ -1942,43 +4300,154 @@
     "video": " ",
     "video360": " ",
     "images": [
-      "foto/104 (13).webp",
-      "foto/104 (10).webp",
-      "foto/104 (19).webp",
-      "foto/104 (12).webp",
-      "foto/104 (1).webp",
-      "foto/104 (14).webp",
-      "foto/104 (15).webp",
-      "foto/104 (16).webp",
-      "foto/104 (17).webp",
-      "foto/104 (18).webp",
-      "foto/104 (11).webp",
-      "foto/104 (2).webp",
-      "foto/104 (20).webp",
-      "foto/104 (21).webp",
-      "foto/104 (22).webp",
-      "foto/104 (23).webp",
-      "foto/104 (24).webp",
-      "foto/104 (25).webp",
-      "foto/104 (26).webp",
-      "foto/104 (27).webp",
-      "foto/104 (28).webp",
-      "foto/104 (29).webp",
-      "foto/104 (3).webp",
-      "foto/104 (30).webp",
-      "foto/104 (31).webp",
-      "foto/104 (32).webp",
-      "foto/104 (33).webp",
-      "foto/104 (34).webp",
-      "foto/104 (35).webp",
-      "foto/104 (36).webp",
-      "foto/104 (37).webp",
-      "foto/104 (4).webp",
-      "foto/104 (5).webp",
-      "foto/104 (6).webp",
-      "foto/104 (7).webp",
-      "foto/104 (8).webp",
-      "foto/104 (9).webp"
+      {
+        "src": "foto/104 (13).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/104 (10).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/104 (19).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/104 (12).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/104 (1).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/104 (14).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/104 (15).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/104 (16).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/104 (17).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/104 (18).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/104 (11).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/104 (2).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/104 (20).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/104 (21).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/104 (22).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/104 (23).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/104 (24).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/104 (25).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/104 (26).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/104 (27).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/104 (28).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/104 (29).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/104 (3).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/104 (30).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/104 (31).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/104 (32).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/104 (33).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/104 (34).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/104 (35).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/104 (36).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/104 (37).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/104 (4).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/104 (5).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/104 (6).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/104 (7).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/104 (8).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/104 (9).webp",
+        "alt": ""
+      }
     ],
     "latitude": "39.822460",
     "longitude": "15.778885"
@@ -2022,40 +4491,142 @@
     "video": ".",
     "video360": ".",
     "images": [
-      "foto/141 (1).webp",
-      "foto/141 (2).webp",
-      "foto/141 (25).webp",
-      "foto/141 (4).webp",
-      "foto/141 (5).webp",
-      "foto/141 (6).webp",
-      "foto/141 (7).webp",
-      "foto/141 (8).webp",
-      "foto/141 (9).webp",
-      "foto/141 (10).webp",
-      "foto/141 (11).webp",
-      "foto/141 (12).webp",
-      "foto/141 (13).webp",
-      "foto/141 (14).webp",
-      "foto/141 (15).webp",
-      "foto/141 (16).webp",
-      "foto/141 (17).webp",
-      "foto/141 (18).webp",
-      "foto/141 (19).webp",
-      "foto/141 (20).webp",
-      "foto/141 (21).webp",
-      "foto/141 (22).webp",
-      "foto/141 (23).webp",
-      "foto/141 (24).webp",
-      "foto/141 (3).webp",
-      "foto/141 (26).webp",
-      "foto/141 (27).webp",
-      "foto/141 (28).webp",
-      "foto/141 (29).webp",
-      "foto/141 (30).webp",
-      "foto/141 (31).webp",
-      "foto/141 (32).webp",
-      "foto/141 (33).webp",
-      "foto/141 (34).webp"
+      {
+        "src": "foto/141 (1).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/141 (2).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/141 (25).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/141 (4).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/141 (5).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/141 (6).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/141 (7).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/141 (8).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/141 (9).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/141 (10).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/141 (11).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/141 (12).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/141 (13).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/141 (14).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/141 (15).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/141 (16).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/141 (17).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/141 (18).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/141 (19).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/141 (20).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/141 (21).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/141 (22).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/141 (23).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/141 (24).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/141 (3).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/141 (26).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/141 (27).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/141 (28).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/141 (29).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/141 (30).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/141 (31).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/141 (32).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/141 (33).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/141 (34).webp",
+        "alt": ""
+      }
     ],
     "latitude": "39.800513",
     "longitude": "15.909561"
@@ -2099,44 +4670,158 @@
     "video": "https://www.youtube.com/watch?v=7CVYDGU1LbA",
     "video360": ".",
     "images": [
-      "foto/108 (13).webp",
-      "foto/108 (8).webp",
-      "foto/108 (3).webp",
-      "foto/108 (4).webp",
-      "foto/108 (5).webp",
-      "foto/108 (6).webp",
-      "foto/108 (7).webp",
-      "foto/108 (2).webp",
-      "foto/108 (9).webp",
-      "foto/108 (10).webp",
-      "foto/108 (11).webp",
-      "foto/108 (12).webp",
-      "foto/108 (1).webp",
-      "foto/108 (14).webp",
-      "foto/108 (15).webp",
-      "foto/108 (16).webp",
-      "foto/108 (17).webp",
-      "foto/108 (18).webp",
-      "foto/108 (19).webp",
-      "foto/108 (20).webp",
-      "foto/108 (21).webp",
-      "foto/108 (22).webp",
-      "foto/108 (23).webp",
-      "foto/108 (24).webp",
-      "foto/108 (25).webp",
-      "foto/108 (26).webp",
-      "foto/108 (27).webp",
-      "foto/108 (28).webp",
-      "foto/108 (29).webp",
-      "foto/108 (30).webp",
-      "foto/108 (31).webp",
-      "foto/108 (32).webp",
-      "foto/108 (33).webp",
-      "foto/108 (34).webp",
-      "foto/108 (35).webp",
-      "foto/108 (36).webp",
-      "foto/108 (37).webp",
-      "foto/108 (38).webp"
+      {
+        "src": "foto/108 (13).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/108 (8).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/108 (3).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/108 (4).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/108 (5).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/108 (6).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/108 (7).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/108 (2).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/108 (9).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/108 (10).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/108 (11).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/108 (12).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/108 (1).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/108 (14).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/108 (15).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/108 (16).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/108 (17).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/108 (18).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/108 (19).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/108 (20).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/108 (21).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/108 (22).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/108 (23).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/108 (24).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/108 (25).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/108 (26).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/108 (27).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/108 (28).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/108 (29).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/108 (30).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/108 (31).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/108 (32).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/108 (33).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/108 (34).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/108 (35).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/108 (36).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/108 (37).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/108 (38).webp",
+        "alt": ""
+      }
     ],
     "latitude": "39.516868",
     "longitude": "15.944590"
@@ -2180,26 +4865,86 @@
     "video": "https://www.youtube.com/watch?v=Parr__rA79M",
     "video360": " ",
     "images": [
-      "foto/703 (17).webp",
-      "foto/703 (12).webp",
-      "foto/703 (15).webp",
-      "foto/703 (4).webp",
-      "foto/703 (5).webp",
-      "foto/703 (6).webp",
-      "foto/703 (7).webp",
-      "foto/703 (8).webp",
-      "foto/703 (9).webp",
-      "foto/703 (10).webp",
-      "foto/703 (11).webp",
-      "foto/703 (2).webp",
-      "foto/703 (13).webp",
-      "foto/703 (14).webp",
-      "foto/703 (3).webp",
-      "foto/703 (16).webp",
-      "foto/703 (1).webp",
-      "foto/703 (18).webp",
-      "foto/703 (19).webp",
-      "foto/703 (20).webp"
+      {
+        "src": "foto/703 (17).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/703 (12).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/703 (15).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/703 (4).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/703 (5).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/703 (6).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/703 (7).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/703 (8).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/703 (9).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/703 (10).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/703 (11).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/703 (2).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/703 (13).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/703 (14).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/703 (3).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/703 (16).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/703 (1).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/703 (18).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/703 (19).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/703 (20).webp",
+        "alt": ""
+      }
     ],
     "latitude": "39.784774",
     "longitude": "15.811043"
@@ -2243,14 +4988,38 @@
     "video": " ",
     "video360": " ",
     "images": [
-      "foto/whatsapp-image-2025-04-05-at-13.04.25-3-.webp",
-      "foto/whatsapp-image-2025-04-05-at-13.04.24.webp",
-      "foto/whatsapp-image-2025-04-05-at-13.04.25.webp",
-      "foto/whatsapp-image-2025-04-05-at-13.04.25-2-.webp",
-      "foto/whatsapp-image-2025-04-05-at-13.04.25-1-.webp",
-      "foto/whatsapp-image-2025-04-06-at-11.51.54.webp",
-      "foto/whatsapp-image-2025-04-06-at-11.52.00.webp",
-      "foto/whatsapp-image-2025-04-06-at-11.52.01.webp"
+      {
+        "src": "foto/whatsapp-image-2025-04-05-at-13.04.25-3-.webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/whatsapp-image-2025-04-05-at-13.04.24.webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/whatsapp-image-2025-04-05-at-13.04.25.webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/whatsapp-image-2025-04-05-at-13.04.25-2-.webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/whatsapp-image-2025-04-05-at-13.04.25-1-.webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/whatsapp-image-2025-04-06-at-11.51.54.webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/whatsapp-image-2025-04-06-at-11.52.00.webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/whatsapp-image-2025-04-06-at-11.52.01.webp",
+        "alt": ""
+      }
     ],
     "latitude": "39.822697",
     "longitude": "15.777868"
@@ -2294,16 +5063,46 @@
     "video": " ",
     "video360": " ",
     "images": [
-      "foto/dsc02092.webp",
-      "foto/dsc02052-hdr.webp",
-      "foto/dsc02072-hdr.webp",
-      "foto/dsc02081-hdr.webp",
-      "foto/dsc02048-hdr.webp",
-      "foto/dsc02082-hdr.webp",
-      "foto/dsc02064-hdr.webp",
-      "foto/dsc02058-hdr.webp",
-      "foto/dji_0205.webp",
-      "foto/dji_0208.webp"
+      {
+        "src": "foto/dsc02092.webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/dsc02052-hdr.webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/dsc02072-hdr.webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/dsc02081-hdr.webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/dsc02048-hdr.webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/dsc02082-hdr.webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/dsc02064-hdr.webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/dsc02058-hdr.webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/dji_0205.webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/dji_0208.webp",
+        "alt": ""
+      }
     ],
     "latitude": "39.755806",
     "longitude": "15.809581"
@@ -2347,36 +5146,126 @@
     "video": ".",
     "video360": ".",
     "images": [
-      "foto/306 (19).webp",
-      "foto/306 (27).webp",
-      "foto/306 (30).webp",
-      "foto/306 (4).webp",
-      "foto/306 (5).webp",
-      "foto/306 (6).webp",
-      "foto/306 (7).webp",
-      "foto/306 (8).webp",
-      "foto/306 (9).webp",
-      "foto/306 (10).webp",
-      "foto/306 (11).webp",
-      "foto/306 (12).webp",
-      "foto/306 (13).webp",
-      "foto/306 (14).webp",
-      "foto/306 (15).webp",
-      "foto/306 (16).webp",
-      "foto/306 (17).webp",
-      "foto/306 (18).webp",
-      "foto/306 (1).webp",
-      "foto/306 (20).webp",
-      "foto/306 (21).webp",
-      "foto/306 (22).webp",
-      "foto/306 (23).webp",
-      "foto/306 (24).webp",
-      "foto/306 (25).webp",
-      "foto/306 (26).webp",
-      "foto/306 (2).webp",
-      "foto/306 (28).webp",
-      "foto/306 (29).webp",
-      "foto/306 (3).webp"
+      {
+        "src": "foto/306 (19).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/306 (27).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/306 (30).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/306 (4).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/306 (5).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/306 (6).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/306 (7).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/306 (8).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/306 (9).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/306 (10).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/306 (11).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/306 (12).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/306 (13).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/306 (14).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/306 (15).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/306 (16).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/306 (17).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/306 (18).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/306 (1).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/306 (20).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/306 (21).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/306 (22).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/306 (23).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/306 (24).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/306 (25).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/306 (26).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/306 (2).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/306 (28).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/306 (29).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/306 (3).webp",
+        "alt": ""
+      }
     ],
     "latitude": "39.825909",
     "longitude": "15.783058"
@@ -2420,25 +5309,82 @@
     "video": ".",
     "video360": ".",
     "images": [
-      "foto/120 (16).webp",
-      "foto/120 (13).webp",
-      "foto/120 (1).webp",
-      "foto/120 (4).webp",
-      "foto/120 (5).webp",
-      "foto/120 (6).webp",
-      "foto/120 (7).webp",
-      "foto/120 (8).webp",
-      "foto/120 (9).webp",
-      "foto/120 (10).webp",
-      "foto/120 (11).webp",
-      "foto/120 (12).webp",
-      "foto/120 (2).webp",
-      "foto/120 (14).webp",
-      "foto/120 (15).webp",
-      "foto/120 (3).webp",
-      "foto/120 (17).webp",
-      "foto/120 (18).webp",
-      "foto/120 (19).webp"
+      {
+        "src": "foto/120 (16).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/120 (13).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/120 (1).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/120 (4).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/120 (5).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/120 (6).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/120 (7).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/120 (8).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/120 (9).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/120 (10).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/120 (11).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/120 (12).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/120 (2).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/120 (14).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/120 (15).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/120 (3).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/120 (17).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/120 (18).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/120 (19).webp",
+        "alt": ""
+      }
     ],
     "latitude": "39.805326",
     "longitude": "15.798820"
@@ -2482,13 +5428,34 @@
     "video": ".",
     "video360": ".",
     "images": [
-      "foto/713 (6).webp",
-      "foto/713 (1).webp",
-      "foto/713 (4).webp",
-      "foto/713 (3).webp",
-      "foto/713 (5).webp",
-      "foto/713 (7).webp",
-      "foto/713 (2).webp"
+      {
+        "src": "foto/713 (6).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/713 (1).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/713 (4).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/713 (3).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/713 (5).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/713 (7).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/713 (2).webp",
+        "alt": ""
+      }
     ],
     "latitude": "39.812744",
     "longitude": "15.800896"
@@ -2532,13 +5499,34 @@
     "video": "https://www.youtube.com/watch?v=q_FSeZaJzYw",
     "video360": ".",
     "images": [
-      "foto/129 (7).webp",
-      "foto/129 (4).webp",
-      "foto/129 (3).webp",
-      "foto/129 (2).webp",
-      "foto/129 (5).webp",
-      "foto/129 (6).webp",
-      "foto/129 (1).webp"
+      {
+        "src": "foto/129 (7).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/129 (4).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/129 (3).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/129 (2).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/129 (5).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/129 (6).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/129 (1).webp",
+        "alt": ""
+      }
     ],
     "latitude": "39.813076",
     "longitude": "15.801210"
@@ -2582,12 +5570,30 @@
     "video": "https://www.youtube.com/watch?v=xC_qeHke3kM",
     "video360": ".",
     "images": [
-      "foto/116 (1).webp",
-      "foto/116 (5).webp",
-      "foto/116 (3).webp",
-      "foto/116 (4).webp",
-      "foto/116 (2).webp",
-      "foto/116 (6).webp"
+      {
+        "src": "foto/116 (1).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/116 (5).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/116 (3).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/116 (4).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/116 (2).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/116 (6).webp",
+        "alt": ""
+      }
     ],
     "latitude": "39.789233",
     "longitude": "15.801846"
@@ -2631,42 +5637,150 @@
     "video": ".",
     "video360": ".",
     "images": [
-      "foto/122 (1).webp",
-      "foto/122 (13).webp",
-      "foto/122 (21).webp",
-      "foto/122 (4).webp",
-      "foto/122 (5).webp",
-      "foto/122 (6).webp",
-      "foto/122 (7).webp",
-      "foto/122 (8).webp",
-      "foto/122 (9).webp",
-      "foto/122 (10).webp",
-      "foto/122 (11).webp",
-      "foto/122 (12).webp",
-      "foto/122 (2).webp",
-      "foto/122 (14).webp",
-      "foto/122 (15).webp",
-      "foto/122 (16).webp",
-      "foto/122 (17).webp",
-      "foto/122 (18).webp",
-      "foto/122 (19).webp",
-      "foto/122 (20).webp",
-      "foto/122 (3).webp",
-      "foto/122 (22).webp",
-      "foto/122 (23).webp",
-      "foto/122 (24).webp",
-      "foto/122 (25).webp",
-      "foto/122 (26).webp",
-      "foto/122 (27).webp",
-      "foto/122 (28).webp",
-      "foto/122 (29).webp",
-      "foto/122 (30).webp",
-      "foto/122 (31).webp",
-      "foto/122 (32).webp",
-      "foto/122 (33).webp",
-      "foto/122 (34).webp",
-      "foto/122 (35).webp",
-      "foto/122 (36).webp"
+      {
+        "src": "foto/122 (1).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/122 (13).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/122 (21).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/122 (4).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/122 (5).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/122 (6).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/122 (7).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/122 (8).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/122 (9).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/122 (10).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/122 (11).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/122 (12).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/122 (2).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/122 (14).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/122 (15).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/122 (16).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/122 (17).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/122 (18).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/122 (19).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/122 (20).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/122 (3).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/122 (22).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/122 (23).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/122 (24).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/122 (25).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/122 (26).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/122 (27).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/122 (28).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/122 (29).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/122 (30).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/122 (31).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/122 (32).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/122 (33).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/122 (34).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/122 (35).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/122 (36).webp",
+        "alt": ""
+      }
     ],
     "latitude": "39.837599",
     "longitude": "15.779716"
@@ -2710,14 +5824,38 @@
     "video": "https://www.youtube.com/watch?v=Dmbik6_eqyU",
     "video360": ".",
     "images": [
-      "foto/109 (1).webp",
-      "foto/109 (4).webp",
-      "foto/109 (7).webp",
-      "foto/109 (2).webp",
-      "foto/109 (5).webp",
-      "foto/109 (6).webp",
-      "foto/109 (3).webp",
-      "foto/109 (8).webp"
+      {
+        "src": "foto/109 (1).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/109 (4).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/109 (7).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/109 (2).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/109 (5).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/109 (6).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/109 (3).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/109 (8).webp",
+        "alt": ""
+      }
     ],
     "latitude": "39.806367",
     "longitude": "15.800134"
@@ -2761,25 +5899,82 @@
     "video": "https://www.youtube.com/watch?v=Ga1PLUFBCwg",
     "video360": ".",
     "images": [
-      "foto/123 (1).webp",
-      "foto/123 (4).webp",
-      "foto/123 (12).webp",
-      "foto/123 (2).webp",
-      "foto/123 (5).webp",
-      "foto/123 (6).webp",
-      "foto/123 (7).webp",
-      "foto/123 (8).webp",
-      "foto/123 (9).webp",
-      "foto/123 (10).webp",
-      "foto/123 (11).webp",
-      "foto/123 (3).webp",
-      "foto/123 (13).webp",
-      "foto/123 (14).webp",
-      "foto/123 (15).webp",
-      "foto/123 (16).webp",
-      "foto/123 (17).webp",
-      "foto/123 (18).webp",
-      "foto/123 (19).webp"
+      {
+        "src": "foto/123 (1).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/123 (4).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/123 (12).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/123 (2).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/123 (5).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/123 (6).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/123 (7).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/123 (8).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/123 (9).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/123 (10).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/123 (11).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/123 (3).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/123 (13).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/123 (14).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/123 (15).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/123 (16).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/123 (17).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/123 (18).webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/123 (19).webp",
+        "alt": ""
+      }
     ],
     "latitude": "39.824210",
     "longitude": "15.778558"
@@ -2823,19 +6018,58 @@
     "video": " ",
     "video360": " ",
     "images": [
-      "foto/dji_0220.webp",
-      "foto/dsc02129.webp",
-      "foto/dsc02104-hdr.webp",
-      "foto/dsc02101-hdr.webp",
-      "foto/dsc02108.webp",
-      "foto/dsc02113.webp",
-      "foto/dsc02118.webp",
-      "foto/dsc02120.webp",
-      "foto/dsc02124.webp",
-      "foto/dsc02132.webp",
-      "foto/dsc02141-hdr.webp",
-      "foto/dsc02144-hdr.webp",
-      "foto/dsc02147-hdr.webp"
+      {
+        "src": "foto/dji_0220.webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/dsc02129.webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/dsc02104-hdr.webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/dsc02101-hdr.webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/dsc02108.webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/dsc02113.webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/dsc02118.webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/dsc02120.webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/dsc02124.webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/dsc02132.webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/dsc02141-hdr.webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/dsc02144-hdr.webp",
+        "alt": ""
+      },
+      {
+        "src": "foto/dsc02147-hdr.webp",
+        "alt": ""
+      }
     ],
     "latitude": "39.816461",
     "longitude": "15.790950"

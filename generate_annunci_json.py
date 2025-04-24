@@ -11,6 +11,12 @@ for file in md_folder.glob("*.md"):
     post = frontmatter.load(file)
     meta = post.metadata
     riferimento = meta.get("riferimento") or meta.get("RIF1") or file.stem
+
+    # Приводим изображения к нужному виду: [{src: "...", alt: "..."}]
+    images = meta.get("images", [])
+    if isinstance(images, list) and all(isinstance(i, str) for i in images):
+        images = [{"src": i, "alt": ""} for i in images]
+
     data.append({
         "slug": riferimento,
         "riferimento": riferimento,
@@ -49,7 +55,7 @@ for file in md_folder.glob("*.md"):
         "text6": meta.get("text6", ""),
         "video": meta.get("video", ""),
         "video360": meta.get("video360", ""),
-        "images": meta.get("images", []),
+        "images": images,
         "latitude": meta.get("latitude", ""),
         "longitude": meta.get("longitude", "")
     })

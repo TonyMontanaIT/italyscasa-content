@@ -51,7 +51,12 @@ collections:
       - { label: "text6", name: "text6", widget: "text" }
       - { label: "Video", name: "video", widget: "text" }
       - { label: "Video360", name: "video360", widget: "text" }
-      - { label: "Images", name: "images", widget: "list", field: { label: "Image", name: "image", widget: "image" } }
+      - label: "Immagini"
+    name: "images"
+    widget: "list"
+    fields:
+    - { label: "Immagine", name: "src", widget: "image" }
+    - { label: "Alt", name: "alt", widget: "string" }
       - { label: "Latitude", name: "latitude", widget: "string" }
       - { label: "Longitude", name: "longitude", widget: "string" }
 

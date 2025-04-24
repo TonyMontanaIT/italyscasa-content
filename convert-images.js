@@ -1,23 +1,35 @@
-const fs = require("fs");
+const fs = require("fs-extra");
 const path = require("path");
 const matter = require("gray-matter");
 
-const folder = path.join(__dirname, "blog");
+const dir = path.join(__dirname, "anunci");
 
-fs.readdirSync(folder).forEach(file => {
-  if (!file.endsWith(".md")) return;
+(async () => {
+  const files = await fs.readdir(dir);
+  const mdFiles = files.filter(file => file.endsWith(".md"));
 
-  const filePath = path.join(folder, file);
-  const content = fs.readFileSync(filePath, "utf8");
-  const parsed = matter(content);
+  for (const file of mdFiles) {
+    const filePath = path.join(dir, file);
+    const content = await fs.readFile(filePath, "utf-8");
+    const parsed = matter(content);
 
-  const images = parsed.data.images;
+    const { data, content: body } = parsed;
 
-  if (Array.isArray(images) && images.every(img => typeof img === "string")) {
-    parsed.data.images = images.map(src => ({ src, alt: "" }));
+    // Преобразуем только если старый формат
+    if (
+      Array.isArray(data.images) &&
+      data.images.length &&
+      typeof data.images[0] === "string"
+    ) {
+      data.images = data.images.map(src => ({ src, alt: "" }));
 
-    const updatedContent = matter.stringify(parsed.content, parsed.data);
-    fs.writeFileSync(filePath, updatedContent, "utf8");
-    console.log(`✅ Aggiornato: ${file}`);
+      const newFile = matter.stringify(body, data);
+      await fs.writeFile(filePath, newFile, "utf-8");
+      console.log(`✅ Обновлён: ${file}`);
+    } else {
+      console.log(`⏩ Пропущен (уже в новом формате или пусто): ${file}`);
+    }
   }
-});
+
+  console.log("🎉 Все подходящие файлы обновлены!");
+})();
