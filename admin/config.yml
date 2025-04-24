@@ -16,14 +16,14 @@ collections:
     slug: "rif-{{fields.riferimento}}"
     fields:
       - { label: "RIF", name: "riferimento", widget: "string" }
-      - { label: "RIF", name: "RIF1", widget: "string" }                           
+      - { label: "RIF", name: "RIF1", widget: "string" }
       - { label: "Nome Annuncio", name: "nomeAnunci", widget: "string" }
       - { label: "Zona", name: "nomeZona", widget: "string" }
       - { label: "Città", name: "city1", widget: "string" }
       - { label: "Via", name: "street1", widget: "string" }
       - { label: "Prezzo", name: "prezzo1", widget: "string" }
       - { label: "Tipo di Immobile", name: "tipo", widget: "string" }
-      - { label: "Camere Totale", name: "totalrooms", widget: "string" }      
+      - { label: "Camere Totale", name: "totalrooms", widget: "string" }
       - { label: "Numero Camere", name: "rooms", widget: "string" }
       - { label: "Bagni", name: "bagni", widget: "string" }
       - { label: "Superficie", name: "zonam2", widget: "string" }
@@ -31,8 +31,8 @@ collections:
       - { label: "Ascensore", name: "elevator", widget: "string" }
       - { label: "Terrazzo", name: "terrazzo", widget: "string" }
       - { label: "Prezzo Finale", name: "prezzo", widget: "string" }
-      - { label: "Giardino", name: "giardino", widget: "string" }   
-      - { label: "Garage", name: "garage", widget: "string" }           
+      - { label: "Giardino", name: "giardino", widget: "string" }
+      - { label: "Garage", name: "garage", widget: "string" }
       - { label: "Arredamenti", name: "arredamenti", widget: "text" }
       - { label: "Patio", name: "patio", widget: "text" }
       - { label: "Corte Esterna", name: "corte", widget: "text" }
@@ -52,11 +52,11 @@ collections:
       - { label: "Video", name: "video", widget: "text" }
       - { label: "Video360", name: "video360", widget: "text" }
       - label: "Immagini"
-    name: "images"
-    widget: "list"
-    fields:
-    - { label: "Immagine", name: "src", widget: "image" }
-    - { label: "Alt", name: "alt", widget: "string" }
+        name: "images"
+        widget: "list"
+        fields:
+          - { label: "Immagine", name: "src", widget: "image" }
+          - { label: "Alt", name: "alt", widget: "string" }
       - { label: "Latitude", name: "latitude", widget: "string" }
       - { label: "Longitude", name: "longitude", widget: "string" }
 
@@ -76,13 +76,13 @@ collections:
       - { label: "h2t2", name: "h2t2", widget: "text" }
       - { label: "text2", name: "text2", widget: "text" }
       - { label: "h2t3", name: "h2t3", widget: "text" }
-      - { label: "text3", name: "text3", widget: "text" } 
+      - { label: "text3", name: "text3", widget: "text" }
       - { label: "h2t4", name: "h2t4", widget: "text" }
       - { label: "text4", name: "text4", widget: "text" }
       - { label: "h2t5", name: "h2t5", widget: "text" }
       - { label: "text5", name: "text5", widget: "text" }
       - { label: "h2t6", name: "h2t6", widget: "text" }
-      - { label: "text6", name: "text6", widget: "text" }  
+      - { label: "text6", name: "text6", widget: "text" }
       - { label: "phone", name: "phone", widget: "text" }
       - label: "Immagini"
         name: "images"
@@ -90,5 +90,3 @@ collections:
         fields:
           - { label: "Immagine", name: "src", widget: "image" }
           - { label: "Alt", name: "alt", widget: "string" }
-
-
