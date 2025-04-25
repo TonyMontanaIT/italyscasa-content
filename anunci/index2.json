@@ -4403,11 +4403,11 @@
     "bagni": "1",
     "zonam2": "70",
     "floor": "2",
-    "elevator": "No",
+    "elevator": false,
     "terrazzo": "Si",
     "prezzo": "330.000",
-    "giardino": "No",
-    "garage": "No",
+    "giardino": false,
+    "garage": false,
     "arredamenti": " ",
     "patio": " ",
     "corte": " ",
@@ -4424,148 +4424,148 @@
     "text5": ".",
     "h2t6": ".",
     "text6": ".",
-    "video": ".",
+    "video": "https://www.youtube.com/watch?v=wgfKcFItN0w&t=2s",
     "video360": ".",
     "images": [
       {
         "src": "foto/144 (8).webp",
-        "alt": ""
+        "alt": "maratea, casa a maratea, porto di maratea, barche, cristro di maratea, agenzia immobiliare maratea, property management maratea"
       },
       {
         "src": "foto/144 (1).webp",
-        "alt": ""
+        "alt": "maratea, casa a maratea, porto di maratea, barche, cristro di maratea, agenzia immobiliare maratea, property management maratea"
       },
       {
         "src": "foto/144 (31).webp",
-        "alt": ""
+        "alt": "maratea, casa a maratea, porto di maratea, barche, cristro di maratea, agenzia immobiliare maratea, property management maratea"
       },
       {
         "src": "foto/144 (4).webp",
-        "alt": ""
+        "alt": "maratea, casa a maratea, porto di maratea, barche, cristro di maratea, agenzia immobiliare maratea, property management maratea"
       },
       {
         "src": "foto/144 (5).webp",
-        "alt": ""
+        "alt": "maratea, casa a maratea, porto di maratea, barche, cristro di maratea, agenzia immobiliare maratea, property management maratea"
       },
       {
         "src": "foto/144 (6).webp",
-        "alt": ""
+        "alt": "maratea, casa a maratea, porto di maratea, barche, cristro di maratea, agenzia immobiliare maratea, property management maratea"
       },
       {
         "src": "foto/144 (7).webp",
-        "alt": ""
+        "alt": "maratea, casa a maratea, porto di maratea, barche, cristro di maratea, agenzia immobiliare maratea, property management maratea"
       },
       {
         "src": "foto/144 (2).webp",
-        "alt": ""
+        "alt": "maratea, casa a maratea, porto di maratea, barche, cristro di maratea, agenzia immobiliare maratea, property management maratea"
       },
       {
         "src": "foto/144 (9).webp",
-        "alt": ""
+        "alt": "maratea, casa a maratea, porto di maratea, barche, cristro di maratea, agenzia immobiliare maratea, property management maratea"
       },
       {
         "src": "foto/144 (10).webp",
-        "alt": ""
+        "alt": "maratea, casa a maratea, porto di maratea, barche, cristro di maratea, agenzia immobiliare maratea, property management maratea"
       },
       {
         "src": "foto/144 (11).webp",
-        "alt": ""
+        "alt": "maratea, casa a maratea, porto di maratea, barche, cristro di maratea, agenzia immobiliare maratea, property management maratea"
       },
       {
         "src": "foto/144 (12).webp",
-        "alt": ""
+        "alt": "maratea, casa a maratea, porto di maratea, barche, cristro di maratea, agenzia immobiliare maratea, property management maratea"
       },
       {
         "src": "foto/144 (13).webp",
-        "alt": ""
+        "alt": "maratea, casa a maratea, porto di maratea, barche, cristro di maratea, agenzia immobiliare maratea, property management maratea"
       },
       {
         "src": "foto/144 (14).webp",
-        "alt": ""
+        "alt": "maratea, casa a maratea, porto di maratea, barche, cristro di maratea, agenzia immobiliare maratea, property management maratea"
       },
       {
         "src": "foto/144 (15).webp",
-        "alt": ""
+        "alt": "maratea, casa a maratea, porto di maratea, barche, cristro di maratea, agenzia immobiliare maratea, property management maratea"
       },
       {
         "src": "foto/144 (16).webp",
-        "alt": ""
+        "alt": "maratea, casa a maratea, porto di maratea, barche, cristro di maratea, agenzia immobiliare maratea, property management maratea"
       },
       {
         "src": "foto/144 (17).webp",
-        "alt": ""
+        "alt": "maratea, casa a maratea, porto di maratea, barche, cristro di maratea, agenzia immobiliare maratea, property management maratea"
       },
       {
         "src": "foto/144 (18).webp",
-        "alt": ""
+        "alt": "maratea, casa a maratea, porto di maratea, barche, cristro di maratea, agenzia immobiliare maratea, property management maratea"
       },
       {
         "src": "foto/144 (19).webp",
-        "alt": ""
+        "alt": "maratea, casa a maratea, porto di maratea, barche, cristro di maratea, agenzia immobiliare maratea, property management maratea"
       },
       {
         "src": "foto/144 (20).webp",
-        "alt": ""
+        "alt": "maratea, casa a maratea, porto di maratea, barche, cristro di maratea, agenzia immobiliare maratea, property management maratea"
       },
       {
         "src": "foto/144 (21).webp",
-        "alt": ""
+        "alt": "maratea, casa a maratea, porto di maratea, barche, cristro di maratea, agenzia immobiliare maratea, property management maratea"
       },
       {
         "src": "foto/144 (22).webp",
-        "alt": ""
+        "alt": "maratea, casa a maratea, porto di maratea, barche, cristro di maratea, agenzia immobiliare maratea, property management maratea"
       },
       {
         "src": "foto/144 (23).webp",
-        "alt": ""
+        "alt": "maratea, casa a maratea, porto di maratea, barche, cristro di maratea, agenzia immobiliare maratea, property management maratea"
       },
       {
         "src": "foto/144 (24).webp",
-        "alt": ""
+        "alt": "maratea, casa a maratea, porto di maratea, barche, cristro di maratea, agenzia immobiliare maratea, property management maratea"
       },
       {
         "src": "foto/144 (25).webp",
-        "alt": ""
+        "alt": "maratea, casa a maratea, porto di maratea, barche, cristro di maratea, agenzia immobiliare maratea, property management maratea"
       },
       {
         "src": "foto/144 (26).webp",
-        "alt": ""
+        "alt": "maratea, casa a maratea, porto di maratea, barche, cristro di maratea, agenzia immobiliare maratea, property management maratea"
       },
       {
         "src": "foto/144 (27).webp",
-        "alt": ""
+        "alt": "maratea, casa a maratea, porto di maratea, barche, cristro di maratea, agenzia immobiliare maratea, property management maratea"
       },
       {
         "src": "foto/144 (28).webp",
-        "alt": ""
+        "alt": "maratea, casa a maratea, porto di maratea, barche, cristro di maratea, agenzia immobiliare maratea, property management maratea"
       },
       {
         "src": "foto/144 (29).webp",
-        "alt": ""
+        "alt": "maratea, casa a maratea, porto di maratea, barche, cristro di maratea, agenzia immobiliare maratea, property management maratea"
       },
       {
         "src": "foto/144 (30).webp",
-        "alt": ""
+        "alt": "maratea, casa a maratea, porto di maratea, barche, cristro di maratea, agenzia immobiliare maratea, property management maratea"
       },
       {
         "src": "foto/144 (3).webp",
-        "alt": ""
+        "alt": "maratea, casa a maratea, porto di maratea, barche, cristro di maratea, agenzia immobiliare maratea, property management maratea"
       },
       {
         "src": "foto/144 (32).webp",
-        "alt": ""
+        "alt": "maratea, casa a maratea, porto di maratea, barche, cristro di maratea, agenzia immobiliare maratea, property management maratea"
       },
       {
         "src": "foto/144 (33).webp",
-        "alt": ""
+        "alt": "maratea, casa a maratea, porto di maratea, barche, cristro di maratea, agenzia immobiliare maratea, property management maratea"
       },
       {
         "src": "foto/144 (34).webp",
-        "alt": ""
+        "alt": "maratea, casa a maratea, porto di maratea, barche, cristro di maratea, agenzia immobiliare maratea, property management maratea"
       },
       {
         "src": "foto/144 (35).webp",
-        "alt": ""
+        "alt": "maratea, casa a maratea, porto di maratea, barche, cristro di maratea, agenzia immobiliare maratea, property management maratea"
       }
     ],
     "latitude": "39.989051",
