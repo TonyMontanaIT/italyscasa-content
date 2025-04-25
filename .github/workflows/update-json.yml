@@ -1,4 +1,5 @@
-name: Update index.json from Markdown
+
+name: Update index.json and structured-blog.json from Markdown
 
 on:
   push:
@@ -23,8 +24,10 @@ jobs:
       - name: Install dependencies
         run: pip install python-frontmatter
 
-      - name: Generate index.json
-        run: python generate_json.py
+      - name: Generate index.json and structured-blog.json
+        run: |
+          python generate_json.py
+          python generate_structured_blog.py
 
       - name: Commit and push changes
         env:
@@ -32,6 +35,6 @@ jobs:
         run: |
           git config --global user.name "GitHub Action"
           git config --global user.email "action@github.com"
-          git add blog/index.json
-          git commit -m "Update index.json [skip ci]" || echo "No changes to commit"
+          git add blog/index.json blog/structured-blog.json
+          git commit -m "Update blog JSON files [skip ci]" || echo "No changes to commit"
           git push origin HEAD:main
