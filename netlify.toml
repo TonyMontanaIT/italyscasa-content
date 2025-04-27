@@ -1,6 +1,6 @@
 [build]
 command = "node generate_structured_annunci.js"
-publish = "/admin"
+publish = "/"
 
 
 [[redirects]]
