@@ -1,6 +1,7 @@
 [build]
-  command = "echo 'no build'"
-  publish = "."
+command = "node generate_structured_annunci.js"
+publish = "/admin"
+
 
 [[redirects]]
   from = "/*"
