@@ -1,15 +1,17 @@
 [
   {
     "@context": "https://schema.org",
-    "@type": "Offer",
-    "mainEntityOfPage": {
-      "@type": "WebPage",
-      "@id": "https://italyscasa.com/anunci/?slug=117"
-    },
+    "@type": "Product",
     "name": "Scalea Villa a schiera",
     "description": "Italys Casa propone in vendita una villa a schiera al Villaggio VIP a Scalea (CS).",
-    "price": "79.000",
     "image": "https://tonymontanait.github.io/italyscasa-content/foto/117 (1).webp",
+    "offers": {
+      "@type": "Offer",
+      "url": "https://italyscasa.com/anunci/dynamic/?rif=117",
+      "price": 79,
+      "priceCurrency": "EUR",
+      "availability": "https://schema.org/InStock"
+    },
     "inLanguage": "it",
     "isAccessibleForFree": true,
     "wordCount": 349,
@@ -40,15 +42,17 @@
   },
   {
     "@context": "https://schema.org",
-    "@type": "Offer",
-    "mainEntityOfPage": {
-      "@type": "WebPage",
-      "@id": "https://italyscasa.com/anunci/?slug=130"
-    },
+    "@type": "Product",
     "name": "Grisolia Casa Palazzina a tre piani con giardino",
     "description": "Grisolia (CS) - Splendida Palazzina Singola in Vendita vicino Scalea tra Storia e Cultura Italiana",
-    "price": "150.000",
     "image": "https://tonymontanait.github.io/italyscasa-content/foto/130 (23).webp",
+    "offers": {
+      "@type": "Offer",
+      "url": "https://italyscasa.com/anunci/dynamic/?rif=130",
+      "price": 150,
+      "priceCurrency": "EUR",
+      "availability": "https://schema.org/InStock"
+    },
     "inLanguage": "it",
     "isAccessibleForFree": true,
     "wordCount": 282,
@@ -79,15 +83,17 @@
   },
   {
     "@context": "https://schema.org",
-    "@type": "Offer",
-    "mainEntityOfPage": {
-      "@type": "WebPage",
-      "@id": "https://italyscasa.com/anunci/?slug=306"
-    },
+    "@type": "Product",
     "name": "Scalea Villa a schiera",
     "description": "Italys Casa propone in vendita a Scalea, nella splendida Baia del Carpino, una villa a schiera al prezzo di 180.000 euro.",
-    "price": "180.000",
     "image": "https://tonymontanait.github.io/italyscasa-content/foto/306 (19).webp",
+    "offers": {
+      "@type": "Offer",
+      "url": "https://italyscasa.com/anunci/dynamic/?rif=306",
+      "price": 180,
+      "priceCurrency": "EUR",
+      "availability": "https://schema.org/InStock"
+    },
     "inLanguage": "it",
     "isAccessibleForFree": true,
     "wordCount": 120,
@@ -118,15 +124,17 @@
   },
   {
     "@context": "https://schema.org",
-    "@type": "Offer",
-    "mainEntityOfPage": {
-      "@type": "WebPage",
-      "@id": "https://italyscasa.com/anunci/?slug=129"
-    },
+    "@type": "Product",
     "name": "Scalea Appartamento con vista",
     "description": "Scalea (CS) - Appartamento con vista in Via Dottor La Terza | Italys Casa",
-    "price": "55.000",
     "image": "https://tonymontanait.github.io/italyscasa-content/foto/129 (7).webp",
+    "offers": {
+      "@type": "Offer",
+      "url": "https://italyscasa.com/anunci/dynamic/?rif=129",
+      "price": 55,
+      "priceCurrency": "EUR",
+      "availability": "https://schema.org/InStock"
+    },
     "inLanguage": "it",
     "isAccessibleForFree": true,
     "wordCount": 246,
@@ -157,15 +165,17 @@
   },
   {
     "@context": "https://schema.org",
-    "@type": "Offer",
-    "mainEntityOfPage": {
-      "@type": "WebPage",
-      "@id": "https://italyscasa.com/anunci/?slug=712"
-    },
+    "@type": "Product",
     "name": "Maierà (CS)  Appartamento ",
     "description": "Appartamento con Vista Spettacolare a Maierà",
-    "price": "99.000",
     "image": "https://tonymontanait.github.io/italyscasa-content/foto/712 (9).webp",
+    "offers": {
+      "@type": "Offer",
+      "url": "https://italyscasa.com/anunci/dynamic/?rif=712",
+      "price": 99,
+      "priceCurrency": "EUR",
+      "availability": "https://schema.org/InStock"
+    },
     "inLanguage": "it",
     "isAccessibleForFree": true,
     "wordCount": 309,
@@ -196,15 +206,17 @@
   },
   {
     "@context": "https://schema.org",
-    "@type": "Offer",
-    "mainEntityOfPage": {
-      "@type": "WebPage",
-      "@id": "https://italyscasa.com/anunci/?slug=104"
-    },
+    "@type": "Product",
     "name": "Scalea Appartamento con Vista Mare",
     "description": "Appartamento, Baia del Carpino, Scalea (CS)",
-    "price": "120.000",
     "image": "https://tonymontanait.github.io/italyscasa-content/foto/104 (13).webp",
+    "offers": {
+      "@type": "Offer",
+      "url": "https://italyscasa.com/anunci/dynamic/?rif=104",
+      "price": 120,
+      "priceCurrency": "EUR",
+      "availability": "https://schema.org/InStock"
+    },
     "inLanguage": "it",
     "isAccessibleForFree": true,
     "wordCount": 201,
@@ -235,15 +247,17 @@
   },
   {
     "@context": "https://schema.org",
-    "@type": "Offer",
-    "mainEntityOfPage": {
-      "@type": "WebPage",
-      "@id": "https://italyscasa.com/anunci/?slug=140"
-    },
+    "@type": "Product",
     "name": "Orsomarso Casa indipendente a 2 piani",
     "description": "Casa indipendente a 2 piani, Orsomarso (CS), località Scorpari",
-    "price": "50.000",
     "image": "https://tonymontanait.github.io/italyscasa-content/foto/140 (6).webp",
+    "offers": {
+      "@type": "Offer",
+      "url": "https://italyscasa.com/anunci/dynamic/?rif=140",
+      "price": 50,
+      "priceCurrency": "EUR",
+      "availability": "https://schema.org/InStock"
+    },
     "inLanguage": "it",
     "isAccessibleForFree": true,
     "wordCount": 230,
@@ -274,15 +288,17 @@
   },
   {
     "@context": "https://schema.org",
-    "@type": "Offer",
-    "mainEntityOfPage": {
-      "@type": "WebPage",
-      "@id": "https://italyscasa.com/anunci/?slug=118"
-    },
+    "@type": "Product",
     "name": "Scalea Villa a schiera",
     "description": "Italys Casa propone in vendita una villa a schiera al Villaggio VIP a Scalea (CS).",
-    "price": "80.000",
     "image": "https://tonymontanait.github.io/italyscasa-content/foto/118 (14).webp",
+    "offers": {
+      "@type": "Offer",
+      "url": "https://italyscasa.com/anunci/dynamic/?rif=118",
+      "price": 80,
+      "priceCurrency": "EUR",
+      "availability": "https://schema.org/InStock"
+    },
     "inLanguage": "it",
     "isAccessibleForFree": true,
     "wordCount": 346,
@@ -313,15 +329,17 @@
   },
   {
     "@context": "https://schema.org",
-    "@type": "Offer",
-    "mainEntityOfPage": {
-      "@type": "WebPage",
-      "@id": "https://italyscasa.com/anunci/?slug=146"
-    },
+    "@type": "Product",
     "name": "Scalea Villa bifamiliare  su 2 piani",
     "description": "Villa bifamiliare a Scalea su 2 piani, Via Piano Lettieri",
-    "price": "260.000",
     "image": "https://tonymontanait.github.io/italyscasa-content/foto/146 (8).webp",
+    "offers": {
+      "@type": "Offer",
+      "url": "https://italyscasa.com/anunci/dynamic/?rif=146",
+      "price": 260,
+      "priceCurrency": "EUR",
+      "availability": "https://schema.org/InStock"
+    },
     "inLanguage": "it",
     "isAccessibleForFree": true,
     "wordCount": 325,
@@ -352,15 +370,17 @@
   },
   {
     "@context": "https://schema.org",
-    "@type": "Offer",
-    "mainEntityOfPage": {
-      "@type": "WebPage",
-      "@id": "https://italyscasa.com/anunci/?slug=122"
-    },
+    "@type": "Product",
     "name": "San Nicola Arcella Appartamento ",
     "description": "Appartamento in Vendita a San Nicola Arcella: Eleganza e Relax al Parco I Delfini",
-    "price": "44.000 ",
     "image": "https://tonymontanait.github.io/italyscasa-content/foto/122 (1).webp",
+    "offers": {
+      "@type": "Offer",
+      "url": "https://italyscasa.com/anunci/dynamic/?rif=122",
+      "price": 44,
+      "priceCurrency": "EUR",
+      "availability": "https://schema.org/InStock"
+    },
     "inLanguage": "it",
     "isAccessibleForFree": true,
     "wordCount": 248,
@@ -391,15 +411,17 @@
   },
   {
     "@context": "https://schema.org",
-    "@type": "Offer",
-    "mainEntityOfPage": {
-      "@type": "WebPage",
-      "@id": "https://italyscasa.com/anunci/?slug=116"
-    },
+    "@type": "Product",
     "name": "Scalea Villa a schiera",
     "description": "Italys Casa propone in vendita una villa a schiera al Villaggio VIP a Scalea (CS).",
-    "price": "65.000",
     "image": "https://tonymontanait.github.io/italyscasa-content/foto/116 (1).webp",
+    "offers": {
+      "@type": "Offer",
+      "url": "https://italyscasa.com/anunci/dynamic/?rif=116",
+      "price": 65,
+      "priceCurrency": "EUR",
+      "availability": "https://schema.org/InStock"
+    },
     "inLanguage": "it",
     "isAccessibleForFree": true,
     "wordCount": 346,
@@ -430,15 +452,17 @@
   },
   {
     "@context": "https://schema.org",
-    "@type": "Offer",
-    "mainEntityOfPage": {
-      "@type": "WebPage",
-      "@id": "https://italyscasa.com/anunci/?slug=141"
-    },
+    "@type": "Product",
     "name": "Orsomarso Appartamento a centro storico",
     "description": "Appartamento a Orsomarso (CS), centro storico",
-    "price": "28.000",
     "image": "https://tonymontanait.github.io/italyscasa-content/foto/141 (1).webp",
+    "offers": {
+      "@type": "Offer",
+      "url": "https://italyscasa.com/anunci/dynamic/?rif=141",
+      "price": 28,
+      "priceCurrency": "EUR",
+      "availability": "https://schema.org/InStock"
+    },
     "inLanguage": "it",
     "isAccessibleForFree": true,
     "wordCount": 392,
@@ -469,15 +493,17 @@
   },
   {
     "@context": "https://schema.org",
-    "@type": "Offer",
-    "mainEntityOfPage": {
-      "@type": "WebPage",
-      "@id": "https://italyscasa.com/anunci/?slug=103"
-    },
+    "@type": "Product",
     "name": "Scalea Villa a schiera",
     "description": "Villa a schiera,Baia del Carpino a Scalea (CS) - Italys Casa",
-    "price": "90.000",
     "image": "https://tonymontanait.github.io/italyscasa-content/foto/103 (1).webp",
+    "offers": {
+      "@type": "Offer",
+      "url": "https://italyscasa.com/anunci/dynamic/?rif=103",
+      "price": 90,
+      "priceCurrency": "EUR",
+      "availability": "https://schema.org/InStock"
+    },
     "inLanguage": "it",
     "isAccessibleForFree": true,
     "wordCount": 306,
@@ -508,15 +534,17 @@
   },
   {
     "@context": "https://schema.org",
-    "@type": "Offer",
-    "mainEntityOfPage": {
-      "@type": "WebPage",
-      "@id": "https://italyscasa.com/anunci/?slug=703"
-    },
+    "@type": "Product",
     "name": "Scalea Villa indipendente con piscina",
     "description": "Villa Prestigiosa con Piscina Privata a Scalea",
-    "price": "490.000",
     "image": "https://tonymontanait.github.io/italyscasa-content/foto/703 (17).webp",
+    "offers": {
+      "@type": "Offer",
+      "url": "https://italyscasa.com/anunci/dynamic/?rif=703",
+      "price": 490,
+      "priceCurrency": "EUR",
+      "availability": "https://schema.org/InStock"
+    },
     "inLanguage": "it",
     "isAccessibleForFree": true,
     "wordCount": 257,
@@ -547,15 +575,17 @@
   },
   {
     "@context": "https://schema.org",
-    "@type": "Offer",
-    "mainEntityOfPage": {
-      "@type": "WebPage",
-      "@id": "https://italyscasa.com/anunci/?slug=702"
-    },
+    "@type": "Product",
     "name": "Scalea Appartamento nel Centro Storico",
     "description": "Appartamento nel Centro Storico di Scalea, Edificio del 1820",
-    "price": "140.000",
     "image": "https://tonymontanait.github.io/italyscasa-content/foto/dji_0220.webp",
+    "offers": {
+      "@type": "Offer",
+      "url": "https://italyscasa.com/anunci/dynamic/?rif=702",
+      "price": 140,
+      "priceCurrency": "EUR",
+      "availability": "https://schema.org/InStock"
+    },
     "inLanguage": "it",
     "isAccessibleForFree": true,
     "wordCount": 262,
@@ -586,15 +616,17 @@
   },
   {
     "@context": "https://schema.org",
-    "@type": "Offer",
-    "mainEntityOfPage": {
-      "@type": "WebPage",
-      "@id": "https://italyscasa.com/anunci/?slug=711"
-    },
+    "@type": "Product",
     "name": "Reggio Emilia Villa con piscina ",
     "description": "Villa con piscina a Reggio Emilia - Italys Casa",
-    "price": "399.000",
     "image": "https://tonymontanait.github.io/italyscasa-content/foto/711 (2).webp",
+    "offers": {
+      "@type": "Offer",
+      "url": "https://italyscasa.com/anunci/dynamic/?rif=711",
+      "price": 399,
+      "priceCurrency": "EUR",
+      "availability": "https://schema.org/InStock"
+    },
     "inLanguage": "it",
     "isAccessibleForFree": true,
     "wordCount": 330,
@@ -625,15 +657,17 @@
   },
   {
     "@context": "https://schema.org",
-    "@type": "Offer",
-    "mainEntityOfPage": {
-      "@type": "WebPage",
-      "@id": "https://italyscasa.com/anunci/?slug=110"
-    },
+    "@type": "Product",
     "name": "Scalea, Appartamento su 3 Piani",
     "description": "Appartamento su 3 Piani con Giardino a Scalea, Baia del Carpino",
-    "price": "95.000",
     "image": "https://tonymontanait.github.io/italyscasa-content/foto/dji_0240.webp",
+    "offers": {
+      "@type": "Offer",
+      "url": "https://italyscasa.com/anunci/dynamic/?rif=110",
+      "price": 95,
+      "priceCurrency": "EUR",
+      "availability": "https://schema.org/InStock"
+    },
     "inLanguage": "it",
     "isAccessibleForFree": true,
     "wordCount": 313,
@@ -664,15 +698,17 @@
   },
   {
     "@context": "https://schema.org",
-    "@type": "Offer",
-    "mainEntityOfPage": {
-      "@type": "WebPage",
-      "@id": "https://italyscasa.com/anunci/?slug=119"
-    },
+    "@type": "Product",
     "name": "Scalea Appartamento ",
     "description": "Delizioso Appartamento in Vendita a Scalea, Calabria - Parco Mimose",
-    "price": "49.000",
     "image": "https://tonymontanait.github.io/italyscasa-content/foto/119 (2).webp",
+    "offers": {
+      "@type": "Offer",
+      "url": "https://italyscasa.com/anunci/dynamic/?rif=119",
+      "price": 49,
+      "priceCurrency": "EUR",
+      "availability": "https://schema.org/InStock"
+    },
     "inLanguage": "it",
     "isAccessibleForFree": true,
     "wordCount": 289,
@@ -703,15 +739,17 @@
   },
   {
     "@context": "https://schema.org",
-    "@type": "Offer",
-    "mainEntityOfPage": {
-      "@type": "WebPage",
-      "@id": "https://italyscasa.com/anunci/?slug=120"
-    },
+    "@type": "Product",
     "name": "Scalea  Appartamento su 2 piani",
     "description": "Appartamento su Due Piani in Vendita a Scalea: Un'Opportunità Unica nel Cuore della Città",
-    "price": "37.000",
     "image": "https://tonymontanait.github.io/italyscasa-content/foto/120 (16).webp",
+    "offers": {
+      "@type": "Offer",
+      "url": "https://italyscasa.com/anunci/dynamic/?rif=120",
+      "price": 37,
+      "priceCurrency": "EUR",
+      "availability": "https://schema.org/InStock"
+    },
     "inLanguage": "it",
     "isAccessibleForFree": true,
     "wordCount": 269,
@@ -742,15 +780,17 @@
   },
   {
     "@context": "https://schema.org",
-    "@type": "Offer",
-    "mainEntityOfPage": {
-      "@type": "WebPage",
-      "@id": "https://italyscasa.com/anunci/?slug=111"
-    },
+    "@type": "Product",
     "name": "Scalea, Casa Albergo",
     "description": "Appartamento monolocale a Baia del Carpino, Scalea",
-    "price": "65.000",
     "image": "https://tonymontanait.github.io/italyscasa-content/foto/whatsapp-image-2025-04-05-at-13.04.25-3-.webp",
+    "offers": {
+      "@type": "Offer",
+      "url": "https://italyscasa.com/anunci/dynamic/?rif=111",
+      "price": 65,
+      "priceCurrency": "EUR",
+      "availability": "https://schema.org/InStock"
+    },
     "inLanguage": "it",
     "isAccessibleForFree": true,
     "wordCount": 225,
@@ -781,15 +821,17 @@
   },
   {
     "@context": "https://schema.org",
-    "@type": "Offer",
-    "mainEntityOfPage": {
-      "@type": "WebPage",
-      "@id": "https://italyscasa.com/anunci/?slug=106"
-    },
+    "@type": "Product",
     "name": "San Nicola Arcella Villa ",
     "description": "Villa a 3 Piani con Vista Mare Mozzafiato a San Nicola Arcella, Calabria",
-    "price": "260.000",
     "image": "https://tonymontanait.github.io/italyscasa-content/foto/106 (13).webp",
+    "offers": {
+      "@type": "Offer",
+      "url": "https://italyscasa.com/anunci/dynamic/?rif=106",
+      "price": 260,
+      "priceCurrency": "EUR",
+      "availability": "https://schema.org/InStock"
+    },
     "inLanguage": "it",
     "isAccessibleForFree": true,
     "wordCount": 285,
@@ -820,15 +862,17 @@
   },
   {
     "@context": "https://schema.org",
-    "@type": "Offer",
-    "mainEntityOfPage": {
-      "@type": "WebPage",
-      "@id": "https://italyscasa.com/anunci/?slug=147"
-    },
+    "@type": "Product",
     "name": "Santa Maria del Cedro Appartamento",
     "description": "Appartamento a Santa Maria del Cedro Marina",
-    "price": "35.000",
     "image": "https://tonymontanait.github.io/italyscasa-content/foto/dsc02092.webp",
+    "offers": {
+      "@type": "Offer",
+      "url": "https://italyscasa.com/anunci/dynamic/?rif=147",
+      "price": 35,
+      "priceCurrency": "EUR",
+      "availability": "https://schema.org/InStock"
+    },
     "inLanguage": "it",
     "isAccessibleForFree": true,
     "wordCount": 197,
@@ -859,15 +903,17 @@
   },
   {
     "@context": "https://schema.org",
-    "@type": "Offer",
-    "mainEntityOfPage": {
-      "@type": "WebPage",
-      "@id": "https://italyscasa.com/anunci/?slug=701"
-    },
+    "@type": "Product",
     "name": "San Nicola Arcella Villa familiare",
     "description": "Villa con 4 Camere da Letto e Vista Spettacolare a San Nicola Arcella",
-    "price": "379.000",
     "image": "https://tonymontanait.github.io/italyscasa-content/foto/701 (13).webp",
+    "offers": {
+      "@type": "Offer",
+      "url": "https://italyscasa.com/anunci/dynamic/?rif=701",
+      "price": 379,
+      "priceCurrency": "EUR",
+      "availability": "https://schema.org/InStock"
+    },
     "inLanguage": "it",
     "isAccessibleForFree": true,
     "wordCount": 400,
@@ -898,15 +944,17 @@
   },
   {
     "@context": "https://schema.org",
-    "@type": "Offer",
-    "mainEntityOfPage": {
-      "@type": "WebPage",
-      "@id": "https://italyscasa.com/anunci/?slug=142"
-    },
+    "@type": "Product",
     "name": "Scalea Trilocale a centro ",
     "description": "Trilocale in Via Fiume Lao",
-    "price": "70.000",
     "image": "https://tonymontanait.github.io/italyscasa-content/foto/142 (1).webp",
+    "offers": {
+      "@type": "Offer",
+      "url": "https://italyscasa.com/anunci/dynamic/?rif=142",
+      "price": 70,
+      "priceCurrency": "EUR",
+      "availability": "https://schema.org/InStock"
+    },
     "inLanguage": "it",
     "isAccessibleForFree": true,
     "wordCount": 251,
@@ -937,15 +985,17 @@
   },
   {
     "@context": "https://schema.org",
-    "@type": "Offer",
-    "mainEntityOfPage": {
-      "@type": "WebPage",
-      "@id": "https://italyscasa.com/anunci/?slug=108"
-    },
+    "@type": "Product",
     "name": "Cetraro Appartamento con Vista",
     "description": "Appartamento Confortevole in Via Fontana 10, Cetraro Paese",
-    "price": "85.000",
     "image": "https://tonymontanait.github.io/italyscasa-content/foto/108 (13).webp",
+    "offers": {
+      "@type": "Offer",
+      "url": "https://italyscasa.com/anunci/dynamic/?rif=108",
+      "price": 85,
+      "priceCurrency": "EUR",
+      "availability": "https://schema.org/InStock"
+    },
     "inLanguage": "it",
     "isAccessibleForFree": true,
     "wordCount": 267,
@@ -976,15 +1026,17 @@
   },
   {
     "@context": "https://schema.org",
-    "@type": "Offer",
-    "mainEntityOfPage": {
-      "@type": "WebPage",
-      "@id": "https://italyscasa.com/anunci/?slug=145"
-    },
+    "@type": "Product",
     "name": "Verbicaro Villa con vista mozzafiato",
     "description": "Villa con vista mozzafiato su due piani a Verbicaro (CS)",
-    "price": "170.000",
     "image": "https://tonymontanait.github.io/italyscasa-content/foto/145 (3).webp",
+    "offers": {
+      "@type": "Offer",
+      "url": "https://italyscasa.com/anunci/dynamic/?rif=145",
+      "price": 170,
+      "priceCurrency": "EUR",
+      "availability": "https://schema.org/InStock"
+    },
     "inLanguage": "it",
     "isAccessibleForFree": true,
     "wordCount": 378,
@@ -1015,15 +1067,17 @@
   },
   {
     "@context": "https://schema.org",
-    "@type": "Offer",
-    "mainEntityOfPage": {
-      "@type": "WebPage",
-      "@id": "https://italyscasa.com/anunci/?slug=113"
-    },
+    "@type": "Product",
     "name": "Scalea Appartamento",
     "description": "Incantevole Appartamento alla Baia del Carpino, Scalea",
-    "price": "55.000",
     "image": "https://tonymontanait.github.io/italyscasa-content/foto/113 (5).webp",
+    "offers": {
+      "@type": "Offer",
+      "url": "https://italyscasa.com/anunci/dynamic/?rif=113",
+      "price": 55,
+      "priceCurrency": "EUR",
+      "availability": "https://schema.org/InStock"
+    },
     "inLanguage": "it",
     "isAccessibleForFree": true,
     "wordCount": 174,
@@ -1054,15 +1108,17 @@
   },
   {
     "@context": "https://schema.org",
-    "@type": "Offer",
-    "mainEntityOfPage": {
-      "@type": "WebPage",
-      "@id": "https://italyscasa.com/anunci/?slug=133-132"
-    },
+    "@type": "Product",
     "name": "Scalea Appartamento su 2 piani",
     "description": "Appartamento su 2 piani in Via Tommaso Campanella, Scalea (CS)",
-    "price": "55.000",
     "image": "https://tonymontanait.github.io/italyscasa-content/foto/rif-133-132-7-.webp",
+    "offers": {
+      "@type": "Offer",
+      "url": "https://italyscasa.com/anunci/dynamic/?rif=133-132",
+      "price": 55,
+      "priceCurrency": "EUR",
+      "availability": "https://schema.org/InStock"
+    },
     "inLanguage": "it",
     "isAccessibleForFree": true,
     "wordCount": 188,
@@ -1093,15 +1149,17 @@
   },
   {
     "@context": "https://schema.org",
-    "@type": "Offer",
-    "mainEntityOfPage": {
-      "@type": "WebPage",
-      "@id": "https://italyscasa.com/anunci/?slug=307"
-    },
+    "@type": "Product",
     "name": "Praia a Mare Appartamento nella roccaforte",
     "description": "Appartamento nella roccaforte “Il Fortino”, Praia a Mare (CS)",
-    "price": "130.000",
     "image": "https://tonymontanait.github.io/italyscasa-content/foto/307 (4).webp",
+    "offers": {
+      "@type": "Offer",
+      "url": "https://italyscasa.com/anunci/dynamic/?rif=307",
+      "price": 130,
+      "priceCurrency": "EUR",
+      "availability": "https://schema.org/InStock"
+    },
     "inLanguage": "it",
     "isAccessibleForFree": true,
     "wordCount": 311,
@@ -1132,15 +1190,17 @@
   },
   {
     "@context": "https://schema.org",
-    "@type": "Offer",
-    "mainEntityOfPage": {
-      "@type": "WebPage",
-      "@id": "https://italyscasa.com/anunci/?slug=125"
-    },
+    "@type": "Product",
     "name": "Santa Domenica Talao Appartamento a due piani",
     "description": "Santa Domenica Talao (CS) - Casa su Due Piani in Vendita",
-    "price": "37.500",
     "image": "https://tonymontanait.github.io/italyscasa-content/foto/125 (4).webp",
+    "offers": {
+      "@type": "Offer",
+      "url": "https://italyscasa.com/anunci/dynamic/?rif=125",
+      "price": 37.5,
+      "priceCurrency": "EUR",
+      "availability": "https://schema.org/InStock"
+    },
     "inLanguage": "it",
     "isAccessibleForFree": true,
     "wordCount": 229,
@@ -1171,15 +1231,17 @@
   },
   {
     "@context": "https://schema.org",
-    "@type": "Offer",
-    "mainEntityOfPage": {
-      "@type": "WebPage",
-      "@id": "https://italyscasa.com/anunci/?slug=128"
-    },
+    "@type": "Product",
     "name": "Scalea Appartamento al Parco Mimose",
     "description": "Appartamento Accogliente con Balcone nel Parco Mimose a Scalea (CS) – Italys Casa",
-    "price": "42.000",
     "image": "https://tonymontanait.github.io/italyscasa-content/foto/128 (23).webp",
+    "offers": {
+      "@type": "Offer",
+      "url": "https://italyscasa.com/anunci/dynamic/?rif=128",
+      "price": 42,
+      "priceCurrency": "EUR",
+      "availability": "https://schema.org/InStock"
+    },
     "inLanguage": "it",
     "isAccessibleForFree": true,
     "wordCount": 326,
@@ -1210,15 +1272,17 @@
   },
   {
     "@context": "https://schema.org",
-    "@type": "Offer",
-    "mainEntityOfPage": {
-      "@type": "WebPage",
-      "@id": "https://italyscasa.com/anunci/?slug=144"
-    },
+    "@type": "Product",
     "name": "Porto di Maratea Appartamento esclusivo",
     "description": "Appartamento esclusivo al Porto di Maratea (PZ) – Italys Casa",
-    "price": "330.000",
     "image": "https://tonymontanait.github.io/italyscasa-content/foto/144 (8).webp",
+    "offers": {
+      "@type": "Offer",
+      "url": "https://italyscasa.com/anunci/dynamic/?rif=144",
+      "price": 330,
+      "priceCurrency": "EUR",
+      "availability": "https://schema.org/InStock"
+    },
     "inLanguage": "it",
     "isAccessibleForFree": true,
     "wordCount": 298,
@@ -1249,15 +1313,17 @@
   },
   {
     "@context": "https://schema.org",
-    "@type": "Offer",
-    "mainEntityOfPage": {
-      "@type": "WebPage",
-      "@id": "https://italyscasa.com/anunci/?slug=708"
-    },
+    "@type": "Product",
     "name": "Scalea Appartamento in Via dottor",
     "description": "Scopri Scalea su Via Imparato con Italys Casa! 🏖️",
-    "price": "90.000",
     "image": "https://tonymontanait.github.io/italyscasa-content/foto/708 (32).webp",
+    "offers": {
+      "@type": "Offer",
+      "url": "https://italyscasa.com/anunci/dynamic/?rif=708",
+      "price": 90,
+      "priceCurrency": "EUR",
+      "availability": "https://schema.org/InStock"
+    },
     "inLanguage": "it",
     "isAccessibleForFree": true,
     "wordCount": 138,
@@ -1288,15 +1354,17 @@
   },
   {
     "@context": "https://schema.org",
-    "@type": "Offer",
-    "mainEntityOfPage": {
-      "@type": "WebPage",
-      "@id": "https://italyscasa.com/anunci/?slug=127"
-    },
+    "@type": "Product",
     "name": "Scalea Villa a schiera con giardino",
     "description": "Villa a Schiera in Vendita al Villaggio VIP di Scalea (CS)",
-    "price": "88.500",
     "image": "https://tonymontanait.github.io/italyscasa-content/foto/127 (1).webp",
+    "offers": {
+      "@type": "Offer",
+      "url": "https://italyscasa.com/anunci/dynamic/?rif=127",
+      "price": 88.5,
+      "priceCurrency": "EUR",
+      "availability": "https://schema.org/InStock"
+    },
     "inLanguage": "it",
     "isAccessibleForFree": true,
     "wordCount": 413,
@@ -1327,15 +1395,17 @@
   },
   {
     "@context": "https://schema.org",
-    "@type": "Offer",
-    "mainEntityOfPage": {
-      "@type": "WebPage",
-      "@id": "https://italyscasa.com/anunci/?slug=123"
-    },
+    "@type": "Product",
     "name": "Appartamento in trattativa",
     "description": "Appartamento in Vendita a Scalea: Comfort e Natura nella Baia del Carpino",
-    "price": " ",
     "image": "https://tonymontanait.github.io/italyscasa-content/foto/123 (1).webp",
+    "offers": {
+      "@type": "Offer",
+      "url": "https://italyscasa.com/anunci/dynamic/?rif=123",
+      "price": 0,
+      "priceCurrency": "EUR",
+      "availability": "https://schema.org/InStock"
+    },
     "inLanguage": "it",
     "isAccessibleForFree": true,
     "wordCount": 251,
@@ -1366,15 +1436,17 @@
   },
   {
     "@context": "https://schema.org",
-    "@type": "Offer",
-    "mainEntityOfPage": {
-      "@type": "WebPage",
-      "@id": "https://italyscasa.com/anunci/?slug=109"
-    },
+    "@type": "Product",
     "name": "Scalea Appartamento",
     "description": "Appartamento in Vendita a Scalea in Via Pitagora - Un'Occasione da Non Perdere!",
-    "price": "40.000",
     "image": "https://tonymontanait.github.io/italyscasa-content/foto/109 (1).webp",
+    "offers": {
+      "@type": "Offer",
+      "url": "https://italyscasa.com/anunci/dynamic/?rif=109",
+      "price": 40,
+      "priceCurrency": "EUR",
+      "availability": "https://schema.org/InStock"
+    },
     "inLanguage": "it",
     "isAccessibleForFree": true,
     "wordCount": 259,
@@ -1405,15 +1477,17 @@
   },
   {
     "@context": "https://schema.org",
-    "@type": "Offer",
-    "mainEntityOfPage": {
-      "@type": "WebPage",
-      "@id": "https://italyscasa.com/anunci/?slug=112"
-    },
+    "@type": "Product",
     "name": "Scalea Appartamento",
     "description": "Affascinante Appartamento a Scalea - Via Campo Volo",
-    "price": "33.000",
     "image": "https://tonymontanait.github.io/italyscasa-content/foto/112 (1).webp",
+    "offers": {
+      "@type": "Offer",
+      "url": "https://italyscasa.com/anunci/dynamic/?rif=112",
+      "price": 33,
+      "priceCurrency": "EUR",
+      "availability": "https://schema.org/InStock"
+    },
     "inLanguage": "it",
     "isAccessibleForFree": true,
     "wordCount": 188,
@@ -1444,15 +1518,17 @@
   },
   {
     "@context": "https://schema.org",
-    "@type": "Offer",
-    "mainEntityOfPage": {
-      "@type": "WebPage",
-      "@id": "https://italyscasa.com/anunci/?slug=115"
-    },
+    "@type": "Product",
     "name": "Grisolia  Casa indipendente al centro storico",
     "description": "Casa a Schiera con Terrazzo e Giardino in Vendita a Grisolia (CS)",
-    "price": "79.000",
     "image": "https://tonymontanait.github.io/italyscasa-content/foto/115 (1).webp",
+    "offers": {
+      "@type": "Offer",
+      "url": "https://italyscasa.com/anunci/dynamic/?rif=115",
+      "price": 79,
+      "priceCurrency": "EUR",
+      "availability": "https://schema.org/InStock"
+    },
     "inLanguage": "it",
     "isAccessibleForFree": true,
     "wordCount": 260,
@@ -1483,15 +1559,17 @@
   },
   {
     "@context": "https://schema.org",
-    "@type": "Offer",
-    "mainEntityOfPage": {
-      "@type": "WebPage",
-      "@id": "https://italyscasa.com/anunci/?slug=107"
-    },
+    "@type": "Product",
     "name": "San Nicola Arcella Villa con vista mozzafiato",
     "description": "Villa Ristrutturata con Vista Panoramica a San Nicola Arcella, Calabria",
-    "price": "170.000",
     "image": "https://tonymontanait.github.io/italyscasa-content/foto/107 (29).webp",
+    "offers": {
+      "@type": "Offer",
+      "url": "https://italyscasa.com/anunci/dynamic/?rif=107",
+      "price": 170,
+      "priceCurrency": "EUR",
+      "availability": "https://schema.org/InStock"
+    },
     "inLanguage": "it",
     "isAccessibleForFree": true,
     "wordCount": 242,
@@ -1522,15 +1600,17 @@
   },
   {
     "@context": "https://schema.org",
-    "@type": "Offer",
-    "mainEntityOfPage": {
-      "@type": "WebPage",
-      "@id": "https://italyscasa.com/anunci/?slug=713"
-    },
+    "@type": "Product",
     "name": "Appartamento in trattativa",
     "description": "Appartamento con Terrazza in Resort a Scalea, Monticello",
-    "price": "0",
     "image": "https://tonymontanait.github.io/italyscasa-content/foto/713 (6).webp",
+    "offers": {
+      "@type": "Offer",
+      "url": "https://italyscasa.com/anunci/dynamic/?rif=713",
+      "price": 0,
+      "priceCurrency": "EUR",
+      "availability": "https://schema.org/InStock"
+    },
     "inLanguage": "it",
     "isAccessibleForFree": true,
     "wordCount": 228,
@@ -1561,15 +1641,17 @@
   },
   {
     "@context": "https://schema.org",
-    "@type": "Offer",
-    "mainEntityOfPage": {
-      "@type": "WebPage",
-      "@id": "https://italyscasa.com/anunci/?slug=135"
-    },
+    "@type": "Product",
     "name": "Scalea Casa Castello a Centro Storico",
     "description": "Casa nel Centro Storico di Scalea, Accanto al Castello Normanno",
-    "price": "230.000",
     "image": "https://tonymontanait.github.io/italyscasa-content/foto/135 (1).webp",
+    "offers": {
+      "@type": "Offer",
+      "url": "https://italyscasa.com/anunci/dynamic/?rif=135",
+      "price": 230,
+      "priceCurrency": "EUR",
+      "availability": "https://schema.org/InStock"
+    },
     "inLanguage": "it",
     "isAccessibleForFree": true,
     "wordCount": 276,
