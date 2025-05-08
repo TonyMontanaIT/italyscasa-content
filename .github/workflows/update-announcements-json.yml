@@ -21,13 +21,18 @@ jobs:
         with:
           python-version: '3.11'
 
+      - name: Set up Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '18'    
+
       - name: Install dependencies
         run: pip install python-frontmatter
 
       - name: Generate index2.json and structured-annunci.json
         run: |
           python generate_annunci_json.py
-          python generate_structured_annunci.py
+          node generate_structured_annunci.js
 
       - name: Commit and push changes
         env:

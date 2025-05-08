@@ -10,7 +10,7 @@ collections:
   - name: "anunci"
     label: "Annunci"
     folder: "anunci"
-    media_folder: "foto"
+    media_folder: "/foto"
     public_folder: "/foto"
     create: true
     slug: "rif-{{fields.riferimento}}"
@@ -63,7 +63,7 @@ collections:
   - name: "blog"
     label: "Blog"
     folder: "blog"
-    media_folder: "uploads"
+    media_folder: "/uploads"
     public_folder: "/uploads"
     create: true
     slug: "blog-{{slug}}"

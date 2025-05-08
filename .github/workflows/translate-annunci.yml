@@ -1,0 +1,36 @@
+
+name: Translate Annunci JSON
+
+on:
+  push:
+    paths:
+      - 'anunci/index2.json'
+
+jobs:
+  translate-annunci:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests
+
+      - name: Run translate_annunci.py
+        run: python translate_annunci.py
+
+      - name: Commit translated file
+        run: |
+          git config --global user.name "GitHub Action"
+          git config --global user.email "action@github.com"
+          git add anunci/index2_translated.json
+          git commit -m "🔁 Update translated announcements [skip ci]" || echo "No changes"
+          git push
