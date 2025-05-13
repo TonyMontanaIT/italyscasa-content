@@ -1,10 +1,12 @@
-
-name: Update index2.json and structured-annunci.json from Markdown
+name: Generate and Translate Annunci JSON
 
 on:
   push:
     paths:
       - 'anunci/*.md'
+      - 'generate_annunci_json.py'
+      - 'generate_structured_annunci.js'
+      - 'translate_annunci.py'
 
 jobs:
   build:
@@ -24,22 +26,27 @@ jobs:
       - name: Set up Node.js
         uses: actions/setup-node@v3
         with:
-          node-version: '18'    
+          node-version: '18'
 
-      - name: Install dependencies
-        run: pip install python-frontmatter
+      - name: Install Python dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install python-frontmatter requests
 
       - name: Generate index2.json and structured-annunci.json
         run: |
           python generate_annunci_json.py
           node generate_structured_annunci.js
 
-      - name: Commit and push changes
+      - name: Translate index2.json
+        run: python translate_annunci.py
+
+      - name: Commit and push ALL changes
         env:
           GH_PAT: ${{ secrets.GH_PAT }}
         run: |
           git config --global user.name "GitHub Action"
           git config --global user.email "action@github.com"
-          git add anunci/index2.json anunci/structured-annunci.json
-          git commit -m "Update announcements JSON files [skip ci]" || echo "No changes to commit"
+          git add anunci/index2.json anunci/structured-annunci.json anunci/index2_translated.json
+          git commit -m "🔁 Update ALL annunci JSON files" || echo "No changes to commit"
           git push origin HEAD:main
