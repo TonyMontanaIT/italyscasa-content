@@ -494,8 +494,8 @@
   {
     "@context": "https://schema.org",
     "@type": "Product",
-    "name": "Scalea Villa a schiera",
-    "description": "Villa a schiera,Baia del Carpino a Scalea (CS) - Italys Casa",
+    "name": "Villa a schiera a Scalea (CS)",
+    "description": "Villa a schiera, Baia del Carpino a Scalea (CS) - Italys Casa",
     "image": "https://tonymontanait.github.io/italyscasa-content/foto/103 (1).webp",
     "offers": {
       "@type": "Offer",
@@ -506,7 +506,7 @@
     },
     "inLanguage": "it",
     "isAccessibleForFree": true,
-    "wordCount": 306,
+    "wordCount": 307,
     "keywords": "della, casa, scalea, villa, baia, carpino, senza, massimo",
     "address": {
       "@type": "PostalAddress",

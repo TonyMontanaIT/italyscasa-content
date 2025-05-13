@@ -1703,26 +1703,26 @@
     "slug": "103",
     "riferimento": "103",
     "rif1": "103",
-    "nomeAnunci": "Scalea Villa a schiera",
+    "nomeAnunci": "Villa a schiera a Scalea (CS)",
     "nomeZona": "Baia del Carpino",
     "city1": "Scalea (CS)",
     "street1": "Via Raffaele Sanseverino, 100",
     "prezzo1": "90.000 ",
-    "tipo": "Villa",
+    "tipo": "Villa a schiera",
     "totalrooms": "2",
     "rooms": "2",
     "bagni": "2",
     "zonam2": "60 m²",
     "floor": "1",
-    "elevator": "No",
+    "elevator": false,
     "terrazzo": "Si",
     "prezzo": "90.000",
     "giardino": "93 m²",
-    "garage": "No",
+    "garage": false,
     "arredamenti": " ",
     "patio": " ",
     "corte": " ",
-    "descrizione": "Villa a schiera,Baia del Carpino a Scalea (CS) - Italys Casa",
+    "descrizione": "Villa a schiera, Baia del Carpino a Scalea (CS) - Italys Casa",
     "h2t1": "Presentazione proprietà",
     "text1": "Italys Casa è lieta di presentare una straordinaria villa situata nel cuore della Baia del Carpino, una delle località più apprezzate della Costa Tirrenica, a Scalea, in Calabria. Questa casa rappresenta una rara opportunità di vivere o trascorrere le proprie vacanze in uno dei luoghi più affascinanti della regione, dove il mare cristallino e il paesaggio mediterraneo si incontrano in un’atmosfera di totale tranquillità.",
     "h2t2": "Posizione Ideale: Tra Mare e Tranquillità",
@@ -1740,107 +1740,107 @@
     "images": [
       {
         "src": "foto/103 (1).webp",
-        "alt": ""
+        "alt": "casa a scalea"
       },
       {
         "src": "foto/103 (2).webp",
-        "alt": ""
+        "alt": "casa a scalea"
       },
       {
         "src": "foto/103 (14).webp",
-        "alt": ""
+        "alt": "casa a scalea"
       },
       {
         "src": "foto/103 (10).webp",
-        "alt": ""
+        "alt": "casa a scalea"
       },
       {
         "src": "foto/103 (11).webp",
-        "alt": ""
+        "alt": "casa a scalea"
       },
       {
         "src": "foto/103 (12).webp",
-        "alt": ""
+        "alt": "casa a scalea"
       },
       {
         "src": "foto/103 (13).webp",
-        "alt": ""
+        "alt": "casa a scalea"
       },
       {
         "src": "foto/103 (15).webp",
-        "alt": ""
+        "alt": "casa a scalea"
       },
       {
         "src": "foto/103 (16).webp",
-        "alt": ""
+        "alt": "casa a scalea"
       },
       {
         "src": "foto/103 (17).webp",
-        "alt": ""
+        "alt": "casa a scalea"
       },
       {
         "src": "foto/103 (18).webp",
-        "alt": ""
+        "alt": "casa a scalea"
       },
       {
         "src": "foto/103 (19).webp",
-        "alt": ""
+        "alt": "casa a scalea"
       },
       {
         "src": "foto/103 (20).webp",
-        "alt": ""
+        "alt": "casa a scalea"
       },
       {
         "src": "foto/103 (21).webp",
-        "alt": ""
+        "alt": "casa a scalea"
       },
       {
         "src": "foto/103 (22).webp",
-        "alt": ""
+        "alt": "casa a scalea"
       },
       {
         "src": "foto/103 (23).webp",
-        "alt": ""
+        "alt": "casa a scalea"
       },
       {
         "src": "foto/103 (24).webp",
-        "alt": ""
+        "alt": "casa a scalea"
       },
       {
         "src": "foto/103 (25).webp",
-        "alt": ""
+        "alt": "casa a scalea"
       },
       {
         "src": "foto/103 (26).webp",
-        "alt": ""
+        "alt": "casa a scalea"
       },
       {
         "src": "foto/103 (3).webp",
-        "alt": ""
+        "alt": "casa a scalea"
       },
       {
         "src": "foto/103 (4).webp",
-        "alt": ""
+        "alt": "casa a scalea"
       },
       {
         "src": "foto/103 (5).webp",
-        "alt": ""
+        "alt": "casa a scalea"
       },
       {
         "src": "foto/103 (6).webp",
-        "alt": ""
+        "alt": "casa a scalea"
       },
       {
         "src": "foto/103 (7).webp",
-        "alt": ""
+        "alt": "casa a scalea"
       },
       {
         "src": "foto/103 (8).webp",
-        "alt": ""
+        "alt": "casa a scalea"
       },
       {
         "src": "foto/103 (9).webp",
-        "alt": ""
+        "alt": "casa a scalea"
       }
     ],
     "latitude": "39.822460",
