@@ -1,4 +1,3 @@
-
 import json
 import os
 import requests
@@ -27,13 +26,18 @@ def translate(text, target):
             "source": "it",
             "target": target,
             "format": "text"
-        })
+        }, timeout=10)
+        response.raise_for_status()
         data = response.json()
-        return data.get("translatedText", text)
+        translated = data.get("translatedText", "").strip()
+        if translated:
+            return translated
+        else:
+            print(f"⚠️ Empty translation for '{text}' → {target}")
+            return text
     except Exception as e:
-        print(f"❌ Errore traducendo '{text}' → {target}: {e}")
+        print(f"❌ Error translating '{text}' → {target}: {e}")
         return text
-
 
 def main():
     with open(SOURCE_FILE, encoding='utf-8') as f:
@@ -47,7 +51,7 @@ def main():
 
     translated_map = {item['riferimento']: item for item in translated_data}
 
-    for entry in source_data:
+    for i, entry in enumerate(source_data):
         rif = entry['riferimento']
         base = translated_map.get(rif, entry.copy())
 
@@ -63,15 +67,15 @@ def main():
                 if original and field not in base['translations'][lang]:
                     translated = translate(original, lang)
                     base['translations'][lang][field] = translated
-                    print(f"✅ Tradotto {field} → {lang}")
-                    time.sleep(1)  # чтобы не превысить лимит API
+                    print(f"[{i+1}/{len(source_data)}] {rif} — {field} → {lang}: OK")
+                    time.sleep(1.2)  # чуть больше пауза для стабильности
 
         translated_map[rif] = base
 
     with open(TRANSLATED_FILE, 'w', encoding='utf-8') as f:
         json.dump(list(translated_map.values()), f, ensure_ascii=False, indent=2)
 
-    print("\n✅ File aggiornato:", TRANSLATED_FILE)
+    print("\n✅ Translated file saved:", TRANSLATED_FILE)
 
 
 if __name__ == '__main__':
