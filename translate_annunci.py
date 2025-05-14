@@ -17,27 +17,33 @@ FIELDS_TO_TRANSLATE = [
     'descrizione', 'tipo', 'arredamenti'
 ]
 
-def translate(text, target):
+def translate(text, target, retries=2):
     if not text.strip():
         return text
-    try:
-        response = requests.post(API_URL, json={
-            "q": text,
-            "source": "it",
-            "target": target,
-            "format": "text"
-        }, timeout=50)
-        response.raise_for_status()
-        data = response.json()
-        translated = data.get("translatedText", "").strip()
-        if translated:
-            return translated
-        else:
-            print(f"⚠️ Empty translation for '{text}' → {target}")
-            return text
-    except Exception as e:
-        print(f"❌ Error translating '{text}' → {target}: {e}")
-        return text
+
+    for attempt in range(retries + 1):
+        try:
+            response = requests.post(API_URL, json={
+                "q": text,
+                "source": "it",
+                "target": target,
+                "format": "text"
+            }, timeout=50)
+            response.raise_for_status()
+            data = response.json()
+            translated = data.get("translatedText", "").strip()
+            if translated:
+                return translated
+            else:
+                print(f"⚠️ Empty translation for '{text}' → {target}")
+                return text
+        except Exception as e:
+            if attempt < retries:
+                print(f"🔁 Retry {attempt+1}/{retries} for '{text[:40]}...' → {target} due to error: {e}")
+                time.sleep(4)
+            else:
+                print(f"❌ Final failure for '{text[:40]}...' → {target}: {e}")
+                return text
 
 def main():
     with open(SOURCE_FILE, encoding='utf-8') as f:
@@ -68,7 +74,7 @@ def main():
                     translated = translate(original, lang)
                     base['translations'][lang][field] = translated
                     print(f"[{i+1}/{len(source_data)}] {rif} — {field} → {lang}: OK")
-                    time.sleep(1.5)  # чуть больше пауза для стабильности
+                    time.sleep(4.5)
 
         translated_map[rif] = base
 
@@ -76,7 +82,6 @@ def main():
         json.dump(list(translated_map.values()), f, ensure_ascii=False, indent=2)
 
     print("\n✅ Translated file saved:", TRANSLATED_FILE)
-
 
 if __name__ == '__main__':
     main()
