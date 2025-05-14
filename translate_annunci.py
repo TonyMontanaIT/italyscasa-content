@@ -1,3 +1,4 @@
+
 import json
 import os
 import requests
@@ -17,18 +18,17 @@ FIELDS_TO_TRANSLATE = [
     'descrizione', 'tipo', 'arredamenti'
 ]
 
-def translate(text, target, retries=2):
+def translate(text, target, retries=3):
     if not text.strip():
         return text
-
-    for attempt in range(retries + 1):
+    for attempt in range(1, retries + 1):
         try:
             response = requests.post(API_URL, json={
                 "q": text,
                 "source": "it",
                 "target": target,
                 "format": "text"
-            }, timeout=50)
+            }, timeout=60)
             response.raise_for_status()
             data = response.json()
             translated = data.get("translatedText", "").strip()
@@ -38,12 +38,10 @@ def translate(text, target, retries=2):
                 print(f"⚠️ Empty translation for '{text}' → {target}")
                 return text
         except Exception as e:
-            if attempt < retries:
-                print(f"🔁 Retry {attempt+1}/{retries} for '{text[:40]}...' → {target} due to error: {e}")
-                time.sleep(4)
-            else:
-                print(f"❌ Final failure for '{text[:40]}...' → {target}: {e}")
-                return text
+            print(f"❌ Retry {attempt}/{retries} for '{text}' → {target} due to error: {e}")
+            time.sleep(10)
+    print(f"💀 Final failure for '{text}' → {target}")
+    return text
 
 def main():
     with open(SOURCE_FILE, encoding='utf-8') as f:
@@ -74,7 +72,7 @@ def main():
                     translated = translate(original, lang)
                     base['translations'][lang][field] = translated
                     print(f"[{i+1}/{len(source_data)}] {rif} — {field} → {lang}: OK")
-                    time.sleep(4.5)
+                    time.sleep(10)
 
         translated_map[rif] = base
 
@@ -82,6 +80,7 @@ def main():
         json.dump(list(translated_map.values()), f, ensure_ascii=False, indent=2)
 
     print("\n✅ Translated file saved:", TRANSLATED_FILE)
+
 
 if __name__ == '__main__':
     main()
