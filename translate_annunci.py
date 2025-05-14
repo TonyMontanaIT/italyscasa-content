@@ -1,74 +1,97 @@
-import json, os, requests, time
+import json
+import os
+import requests
+import time
 
 SOURCE_FILE = 'anunci/index2.json'
 TRANSLATED_FILE = 'anunci/index2_translated.json'
 API_URL = 'https://libretranslate-railway-production-e5c2.up.railway.app/translate'
 
-TARGET_LANGS = ['en', 'ru', 'lt', 'lv', 'pl', 'fi', 'cs', 'de', 'ar', 'fr', 'es', 'sv']
+TARGET_LANGS = [
+    'en', 'ru', 'lt', 'lv', 'pl', 'fi', 'cs', 'de', 'ar', 'fr', 'es', 'sv'
+]
+
 FIELDS_TO_TRANSLATE = [
     'nomeAnunci', 'h1', 'h2t1', 'h2t2', 'h2t3', 'h2t4', 'h2t5', 'h2t6',
     'text1', 'text2', 'text3', 'text4', 'text5', 'text6',
     'descrizione', 'tipo', 'arredamenti'
 ]
 
-def smart_split(text, max_length=400):
-    parts, buffer = [], ''
-    for sentence in text.split('. '):
-        if len(buffer) + len(sentence) + 1 <= max_length:
-            buffer += sentence + '. '
+CHUNK_SIZE = 400
+CHUNK_PAUSE = 3
+ENTRY_PAUSE = 10
+MAX_RETRIES = 3
+
+def split_text(text, size=CHUNK_SIZE):
+    return [text[i:i+size] for i in range(0, len(text), size)]
+
+def translate(text, target):
+    chunks = split_text(text)
+    translated_chunks = []
+
+    for chunk in chunks:
+        for attempt in range(1, MAX_RETRIES + 1):
+            try:
+                response = requests.post(API_URL, json={
+                    "q": chunk,
+                    "source": "it",
+                    "target": target,
+                    "format": "text"
+                }, timeout=50)
+                response.raise_for_status()
+                data = response.json()
+                translated = data.get("translatedText", "").strip()
+                if translated:
+                    translated_chunks.append(translated)
+                    break
+                else:
+                    print(f"⚠️ Empty translation (try {attempt}) for chunk → {target}")
+            except Exception as e:
+                print(f"⚠️ Retry {attempt}/{MAX_RETRIES} for chunk → {target} due to error: {e}")
+                time.sleep(CHUNK_PAUSE)
         else:
-            parts.append(buffer.strip())
-            buffer = sentence + '. '
-    if buffer: parts.append(buffer.strip())
-    return parts
+            print(f"❌ Final failure for chunk → {target}")
+            translated_chunks.append(chunk)
+        time.sleep(CHUNK_PAUSE)
 
-def translate_chunk(text, target):
-    for attempt in range(1, 4):
-        try:
-            response = requests.post(API_URL, json={
-                "q": text, "source": "it", "target": target, "format": "text"
-            }, timeout=50)
-            response.raise_for_status()
-            result = response.json().get("translatedText", "").strip()
-            if result: return result
-        except Exception as e:
-            print(f"⚠️ Retry {attempt}/3 for chunk → {target}: {e}")
-            time.sleep(2)
-    return text
-
-def translate_text(text, target):
-    return ' '.join([translate_chunk(part, target) for part in smart_split(text)])
+    return ' '.join(translated_chunks)
 
 def main():
     with open(SOURCE_FILE, encoding='utf-8') as f:
-        source = json.load(f)
+        source_data = json.load(f)
 
     if os.path.exists(TRANSLATED_FILE):
         with open(TRANSLATED_FILE, encoding='utf-8') as f:
-            translated = json.load(f)
+            translated_data = json.load(f)
     else:
-        translated = []
+        translated_data = []
 
-    result_map = {item['riferimento']: item for item in translated}
+    translated_map = {item['riferimento']: item for item in translated_data}
 
-    for i, entry in enumerate(source):
+    for i, entry in enumerate(source_data):
         rif = entry['riferimento']
-        base = result_map.get(rif, entry.copy())
-        base.setdefault('translations', {})
+        base = translated_map.get(rif, entry.copy())
+
+        if 'translations' not in base:
+            base['translations'] = {}
 
         for lang in TARGET_LANGS:
-            base['translations'].setdefault(lang, {})
+            if lang not in base['translations']:
+                base['translations'][lang] = {}
+
             for field in FIELDS_TO_TRANSLATE:
-                if field not in base['translations'][lang] and entry.get(field):
-                    translated = translate_text(entry[field], lang)
+                original = entry.get(field, '')
+                if original and field not in base['translations'][lang]:
+                    translated = translate(original, lang)
                     base['translations'][lang][field] = translated
-                    print(f"[{i+1}/{len(source)}] {rif} — {field} → {lang}: OK")
-                    time.sleep(3)
+                    print(f"[{i+1}/{len(source_data)}] {rif} — {field} → {lang}: OK")
 
-        result_map[rif] = base
+        translated_map[rif] = base
 
-    with open(TRANSLATED_FILE, 'w', encoding='utf-8') as f:
-        json.dump(list(result_map.values()), f, ensure_ascii=False, indent=2)
+        with open(TRANSLATED_FILE, 'w', encoding='utf-8') as f:
+            json.dump(list(translated_map.values()), f, ensure_ascii=False, indent=2)
+
+        time.sleep(ENTRY_PAUSE)
 
     print("\n✅ Translated file saved:", TRANSLATED_FILE)
 
