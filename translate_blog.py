@@ -24,7 +24,7 @@ def translate(text, target):
             "source": "it",
             "target": target,
             "format": "text"
-        }, timeout=10)
+        }, timeout=50)
         response.raise_for_status()
         data = response.json()
         translated = data.get("translatedText", "").strip()
@@ -66,7 +66,7 @@ def main():
                     translated = translate(original, lang)
                     base['translations'][lang][field] = translated
                     print(f"[{i+1}/{len(source_data)}] {slug} — {field} → {lang}: OK")
-                    time.sleep(1.2)
+                    time.sleep(1.5)
 
         translated_map[slug] = base
 
