@@ -1092,9 +1092,9 @@
     "totalrooms": "7",
     "rooms": "3",
     "bagni": "2",
-    "zonam2": "148",
+    "zonam2": "148 m²",
     "floor": "2",
-    "elevator": "No",
+    "elevator": false,
     "terrazzo": "Si",
     "prezzo": "260.000",
     "giardino": "86",
@@ -1115,152 +1115,152 @@
     "text5": "Situata in una zona tranquilla e panoramica, la villa offre un'esperienza di vita esclusiva, pur rimanendo vicino a tutti i principali servizi. La zona è perfetta per chi cerca una casa lontano dal caos cittadino, senza rinunciare alla comodità delle infrastrutture.",
     "h2t6": "Un'Occasione Imperdibile",
     "text6": "Questa villa bifamiliare rappresenta un'opportunità unica per chi desidera vivere in un ambiente elegante e tranquillo, con spazi ampi e ben distribuiti. Non perdere l'occasione di acquistare una casa che unisce qualità, comfort e una posizione esclusiva.",
-    "video": "No",
-    "video360": "No",
+    "video": "https://youtu.be/xsMSH73oyf8",
+    "video360": false,
     "images": [
       {
         "src": "foto/146 (8).webp",
-        "alt": ""
+        "alt": "scalea, casa a scalea, case a scalea, agenzia immobiliare scalea, property management scalea "
       },
       {
         "src": "foto/146 (24).webp",
-        "alt": ""
+        "alt": "scalea, casa a scalea, case a scalea, agenzia immobiliare scalea, property management scalea "
       },
       {
         "src": "foto/146 (33).webp",
-        "alt": ""
+        "alt": "scalea, casa a scalea, case a scalea, agenzia immobiliare scalea, property management scalea "
       },
       {
         "src": "foto/146 (4).webp",
-        "alt": ""
+        "alt": "scalea, casa a scalea, case a scalea, agenzia immobiliare scalea, property management scalea "
       },
       {
         "src": "foto/146 (5).webp",
-        "alt": ""
+        "alt": "scalea, casa a scalea, case a scalea, agenzia immobiliare scalea, property management scalea "
       },
       {
         "src": "foto/146 (6).webp",
-        "alt": ""
+        "alt": "scalea, casa a scalea, case a scalea, agenzia immobiliare scalea, property management scalea "
       },
       {
         "src": "foto/146 (7).webp",
-        "alt": ""
+        "alt": "scalea, casa a scalea, case a scalea, agenzia immobiliare scalea, property management scalea "
       },
       {
         "src": "foto/146 (1).webp",
-        "alt": ""
+        "alt": "scalea, casa a scalea, case a scalea, agenzia immobiliare scalea, property management scalea "
       },
       {
         "src": "foto/146 (9).webp",
-        "alt": ""
+        "alt": "scalea, casa a scalea, case a scalea, agenzia immobiliare scalea, property management scalea "
       },
       {
         "src": "foto/146 (10).webp",
-        "alt": ""
+        "alt": "scalea, casa a scalea, case a scalea, agenzia immobiliare scalea, property management scalea "
       },
       {
         "src": "foto/146 (11).webp",
-        "alt": ""
+        "alt": "scalea, casa a scalea, case a scalea, agenzia immobiliare scalea, property management scalea "
       },
       {
         "src": "foto/146 (12).webp",
-        "alt": ""
+        "alt": "scalea, casa a scalea, case a scalea, agenzia immobiliare scalea, property management scalea "
       },
       {
         "src": "foto/146 (13).webp",
-        "alt": ""
+        "alt": "scalea, casa a scalea, case a scalea, agenzia immobiliare scalea, property management scalea "
       },
       {
         "src": "foto/146 (14).webp",
-        "alt": ""
+        "alt": "scalea, casa a scalea, case a scalea, agenzia immobiliare scalea, property management scalea "
       },
       {
         "src": "foto/146 (15).webp",
-        "alt": ""
+        "alt": "scalea, casa a scalea, case a scalea, agenzia immobiliare scalea, property management scalea "
       },
       {
         "src": "foto/146 (16).webp",
-        "alt": ""
+        "alt": "scalea, casa a scalea, case a scalea, agenzia immobiliare scalea, property management scalea "
       },
       {
         "src": "foto/146 (17).webp",
-        "alt": ""
+        "alt": "scalea, casa a scalea, case a scalea, agenzia immobiliare scalea, property management scalea "
       },
       {
         "src": "foto/146 (18).webp",
-        "alt": ""
+        "alt": "scalea, casa a scalea, case a scalea, agenzia immobiliare scalea, property management scalea "
       },
       {
         "src": "foto/146 (19).webp",
-        "alt": ""
+        "alt": "scalea, casa a scalea, case a scalea, agenzia immobiliare scalea, property management scalea "
       },
       {
         "src": "foto/146 (20).webp",
-        "alt": ""
+        "alt": "scalea, casa a scalea, case a scalea, agenzia immobiliare scalea, property management scalea "
       },
       {
         "src": "foto/146 (21).webp",
-        "alt": ""
+        "alt": "scalea, casa a scalea, case a scalea, agenzia immobiliare scalea, property management scalea "
       },
       {
         "src": "foto/146 (22).webp",
-        "alt": ""
+        "alt": "scalea, casa a scalea, case a scalea, agenzia immobiliare scalea, property management scalea "
       },
       {
         "src": "foto/146 (23).webp",
-        "alt": ""
+        "alt": "scalea, casa a scalea, case a scalea, agenzia immobiliare scalea, property management scalea "
       },
       {
         "src": "foto/146 (2).webp",
-        "alt": ""
+        "alt": "scalea, casa a scalea, case a scalea, agenzia immobiliare scalea, property management scalea "
       },
       {
         "src": "foto/146 (25).webp",
-        "alt": ""
+        "alt": "scalea, casa a scalea, case a scalea, agenzia immobiliare scalea, property management scalea "
       },
       {
         "src": "foto/146 (26).webp",
-        "alt": ""
+        "alt": "scalea, casa a scalea, case a scalea, agenzia immobiliare scalea, property management scalea "
       },
       {
         "src": "foto/146 (27).webp",
-        "alt": ""
+        "alt": "scalea, casa a scalea, case a scalea, agenzia immobiliare scalea, property management scalea "
       },
       {
         "src": "foto/146 (28).webp",
-        "alt": ""
+        "alt": "scalea, casa a scalea, case a scalea, agenzia immobiliare scalea, property management scalea "
       },
       {
         "src": "foto/146 (29).webp",
-        "alt": ""
+        "alt": "scalea, casa a scalea, case a scalea, agenzia immobiliare scalea, property management scalea "
       },
       {
         "src": "foto/146 (30).webp",
-        "alt": ""
+        "alt": "scalea, casa a scalea, case a scalea, agenzia immobiliare scalea, property management scalea "
       },
       {
         "src": "foto/146 (31).webp",
-        "alt": ""
+        "alt": "scalea, casa a scalea, case a scalea, agenzia immobiliare scalea, property management scalea "
       },
       {
         "src": "foto/146 (32).webp",
-        "alt": ""
+        "alt": "scalea, casa a scalea, case a scalea, agenzia immobiliare scalea, property management scalea "
       },
       {
         "src": "foto/146 (3).webp",
-        "alt": ""
+        "alt": "scalea, casa a scalea, case a scalea, agenzia immobiliare scalea, property management scalea "
       },
       {
         "src": "foto/146 (34).webp",
-        "alt": ""
+        "alt": "scalea, casa a scalea, case a scalea, agenzia immobiliare scalea, property management scalea "
       },
       {
         "src": "foto/146 (35).webp",
-        "alt": ""
+        "alt": "scalea, casa a scalea, case a scalea, agenzia immobiliare scalea, property management scalea "
       },
       {
         "src": "foto/146 (36).webp",
-        "alt": ""
+        "alt": "scalea, casa a scalea, case a scalea, agenzia immobiliare scalea, property management scalea "
       }
     ],
     "latitude": "39.807704",
@@ -3539,9 +3539,9 @@
     "totalrooms": "9",
     "rooms": "3",
     "bagni": "2",
-    "zonam2": "216 ",
+    "zonam2": "216 m²",
     "floor": "2",
-    "elevator": "No",
+    "elevator": false,
     "terrazzo": "Si",
     "prezzo": "170.000",
     "giardino": "10000",
@@ -3562,120 +3562,120 @@
     "text5": "La posizione strategica di questa proprietà la rende ancora più interessante. A pochi chilometri di distanza si trovano le spiagge della Riviera dei Cedri, note per il loro mare cristallino e la sabbia dorata. Al contempo, il centro di Verbicaro e i servizi principali sono facilmente raggiungibili, offrendo la comodità di avere tutto a portata di mano senza rinunciare alla quiete della campagna.",
     "h2t6": "Un Prezzo che Invita a Sognare",
     "text6": "Con un prezzo di soli €170.000, questa villa è una proposta dal valore eccezionale. La combinazione tra l’ampia metratura, il terreno privato e la posizione privilegiata la rendono un’opportunità unica sia per chi cerca una casa principale sia per chi desidera un investimento nel cuore della Calabria.",
-    "video": "No",
-    "video360": "No",
+    "video": "https://youtu.be/XKZO0UgS2eA",
+    "video360": false,
     "images": [
       {
         "src": "foto/145 (3).webp",
-        "alt": ""
+        "alt": "verbicaro, casa a verbicaro, case a verbicaro, agenzia immobiliare verbicaro, property management verbicaro, battenti verbicaro"
       },
       {
         "src": "foto/145 (2).webp",
-        "alt": ""
+        "alt": "verbicaro, casa a verbicaro, case a verbicaro, agenzia immobiliare verbicaro, property management verbicaro, battenti verbicaro"
       },
       {
         "src": "foto/145 (15).webp",
-        "alt": ""
+        "alt": "verbicaro, casa a verbicaro, case a verbicaro, agenzia immobiliare verbicaro, property management verbicaro, battenti verbicaro"
       },
       {
         "src": "foto/145 (4).webp",
-        "alt": ""
+        "alt": "verbicaro, casa a verbicaro, case a verbicaro, agenzia immobiliare verbicaro, property management verbicaro, battenti verbicaro"
       },
       {
         "src": "foto/145 (5).webp",
-        "alt": ""
+        "alt": "verbicaro, casa a verbicaro, case a verbicaro, agenzia immobiliare verbicaro, property management verbicaro, battenti verbicaro"
       },
       {
         "src": "foto/145 (6).webp",
-        "alt": ""
+        "alt": "verbicaro, casa a verbicaro, case a verbicaro, agenzia immobiliare verbicaro, property management verbicaro, battenti verbicaro"
       },
       {
         "src": "foto/145 (7).webp",
-        "alt": ""
+        "alt": "verbicaro, casa a verbicaro, case a verbicaro, agenzia immobiliare verbicaro, property management verbicaro, battenti verbicaro"
       },
       {
         "src": "foto/145 (8).webp",
-        "alt": ""
+        "alt": "verbicaro, casa a verbicaro, case a verbicaro, agenzia immobiliare verbicaro, property management verbicaro, battenti verbicaro"
       },
       {
         "src": "foto/145 (9).webp",
-        "alt": ""
+        "alt": "verbicaro, casa a verbicaro, case a verbicaro, agenzia immobiliare verbicaro, property management verbicaro, battenti verbicaro"
       },
       {
         "src": "foto/145 (10).webp",
-        "alt": ""
+        "alt": "verbicaro, casa a verbicaro, case a verbicaro, agenzia immobiliare verbicaro, property management verbicaro, battenti verbicaro"
       },
       {
         "src": "foto/145 (11).webp",
-        "alt": ""
+        "alt": "verbicaro, casa a verbicaro, case a verbicaro, agenzia immobiliare verbicaro, property management verbicaro, battenti verbicaro"
       },
       {
         "src": "foto/145 (12).webp",
-        "alt": ""
+        "alt": "verbicaro, casa a verbicaro, case a verbicaro, agenzia immobiliare verbicaro, property management verbicaro, battenti verbicaro"
       },
       {
         "src": "foto/145 (13).webp",
-        "alt": ""
+        "alt": "verbicaro, casa a verbicaro, case a verbicaro, agenzia immobiliare verbicaro, property management verbicaro, battenti verbicaro"
       },
       {
         "src": "foto/145 (14).webp",
-        "alt": ""
+        "alt": "verbicaro, casa a verbicaro, case a verbicaro, agenzia immobiliare verbicaro, property management verbicaro, battenti verbicaro"
       },
       {
         "src": "foto/145 (1).webp",
-        "alt": ""
+        "alt": "verbicaro, casa a verbicaro, case a verbicaro, agenzia immobiliare verbicaro, property management verbicaro, battenti verbicaro"
       },
       {
         "src": "foto/145 (16).webp",
-        "alt": ""
+        "alt": "verbicaro, casa a verbicaro, case a verbicaro, agenzia immobiliare verbicaro, property management verbicaro, battenti verbicaro"
       },
       {
         "src": "foto/145 (17).webp",
-        "alt": ""
+        "alt": "verbicaro, casa a verbicaro, case a verbicaro, agenzia immobiliare verbicaro, property management verbicaro, battenti verbicaro"
       },
       {
         "src": "foto/145 (18).webp",
-        "alt": ""
+        "alt": "verbicaro, casa a verbicaro, case a verbicaro, agenzia immobiliare verbicaro, property management verbicaro, battenti verbicaro"
       },
       {
         "src": "foto/145 (19).webp",
-        "alt": ""
+        "alt": "verbicaro, casa a verbicaro, case a verbicaro, agenzia immobiliare verbicaro, property management verbicaro, battenti verbicaro"
       },
       {
         "src": "foto/145 (20).webp",
-        "alt": ""
+        "alt": "verbicaro, casa a verbicaro, case a verbicaro, agenzia immobiliare verbicaro, property management verbicaro, battenti verbicaro"
       },
       {
         "src": "foto/145 (21).webp",
-        "alt": ""
+        "alt": "verbicaro, casa a verbicaro, case a verbicaro, agenzia immobiliare verbicaro, property management verbicaro, battenti verbicaro"
       },
       {
         "src": "foto/145 (22).webp",
-        "alt": ""
+        "alt": "verbicaro, casa a verbicaro, case a verbicaro, agenzia immobiliare verbicaro, property management verbicaro, battenti verbicaro"
       },
       {
         "src": "foto/145 (23).webp",
-        "alt": ""
+        "alt": "verbicaro, casa a verbicaro, case a verbicaro, agenzia immobiliare verbicaro, property management verbicaro, battenti verbicaro"
       },
       {
         "src": "foto/145 (24).webp",
-        "alt": ""
+        "alt": "verbicaro, casa a verbicaro, case a verbicaro, agenzia immobiliare verbicaro, property management verbicaro, battenti verbicaro"
       },
       {
         "src": "foto/145 (25).webp",
-        "alt": ""
+        "alt": "verbicaro, casa a verbicaro, case a verbicaro, agenzia immobiliare verbicaro, property management verbicaro, battenti verbicaro"
       },
       {
         "src": "foto/145 (26).webp",
-        "alt": ""
+        "alt": "verbicaro, casa a verbicaro, case a verbicaro, agenzia immobiliare verbicaro, property management verbicaro, battenti verbicaro"
       },
       {
         "src": "foto/145 (27).webp",
-        "alt": ""
+        "alt": "verbicaro, casa a verbicaro, case a verbicaro, agenzia immobiliare verbicaro, property management verbicaro, battenti verbicaro"
       },
       {
         "src": "foto/145 (28).webp",
-        "alt": ""
+        "alt": "verbicaro, casa a verbicaro, case a verbicaro, agenzia immobiliare verbicaro, property management verbicaro, battenti verbicaro"
       }
     ],
     "latitude": "39.758732",
@@ -3696,57 +3696,113 @@
     "bagni": "1",
     "zonam2": "55 m²",
     "floor": "1",
-    "elevator": "No",
+    "elevator": false,
     "terrazzo": "Si",
     "prezzo": "55.000",
-    "giardino": "No",
-    "garage": "No",
+    "giardino": false,
+    "garage": false,
     "arredamenti": " ",
     "patio": " ",
     "corte": " ",
     "descrizione": "Incantevole Appartamento alla Baia del Carpino, Scalea",
-    "h2t1": ".",
+    "h2t1": " ",
     "text1": "Benvenuti alla Baia del Carpino, dove il mare cristallino e i tramonti mozzafiato creano il quadro perfetto per la tua nuova casa! Italys Casa è lieta di presentare questo affascinante appartamento che incanta con il suo comfort e la sua posizione unica.",
-    "h2t2": ".",
+    "h2t2": " ",
     "text2": "Caratteristiche Principali:\n- Posizione Paradisiaca: Situato nella rinomata Baia del Carpino a Scalea, questo appartamento offre la pace e la tranquillità che cerchi, a pochi passi dal mare e dalla bellezza della costa calabra.",
-    "h2t3": ".",
+    "h2t3": " ",
     "text3": "- Spazio e Comfort: Con una superficie di 55 mq, questa proprietà vanta un layout ben progettato che include 2 camere da letto accoglienti, un luminoso soggiorno, una cucina funzionale e un bagno moderno. Inoltre, potrai godere di un piccolo terrazzo che offre uno spazio perfetto per rilassarsi e goderti l'aria fresca del mare.",
-    "h2t4": ".",
+    "h2t4": " ",
     "text4": "- Opportunità Unica: Questo appartamento rappresenta un'opportunità ideale per chi cerca una residenza vacanziera o un investimento immobiliare in una delle zone più ambite della Calabria, nota per le sue spiagge incontaminate e la sua bellezza naturale.",
-    "h2t5": ".",
-    "text5": ".",
-    "h2t6": ".",
-    "text6": ".",
+    "h2t5": " ",
+    "text5": " ",
+    "h2t6": " ",
+    "text6": " ",
     "video": ".",
     "video360": ".",
     "images": [
       {
-        "src": "foto/113 (5).webp",
-        "alt": ""
+        "src": "/foto/whatsapp-image-2025-05-14-at-10.53.03-2-.jpeg",
+        "alt": "casa a scalea, scalea, case a scalea, casa al mare, italys casa, agenzia immobiliare scalea, property management scalea"
       },
       {
-        "src": "foto/113 (1).webp",
-        "alt": ""
+        "src": "/foto/whatsapp-image-2025-05-14-at-10.53.04-4-.jpeg",
+        "alt": "casa a scalea, scalea, case a scalea, casa al mare, italys casa, agenzia immobiliare scalea, property management scalea"
       },
       {
-        "src": "foto/113 (7).webp",
-        "alt": ""
+        "src": "/foto/whatsapp-image-2025-05-14-at-10.53.07-2-.jpeg",
+        "alt": "casa a scalea, scalea, case a scalea, casa al mare, italys casa, agenzia immobiliare scalea, property management scalea"
       },
       {
-        "src": "foto/113 (4).webp",
-        "alt": ""
+        "src": "/foto/whatsapp-image-2025-05-14-at-10.53.02.jpeg",
+        "alt": "casa a scalea, scalea, case a scalea, casa al mare, italys casa, agenzia immobiliare scalea, property management scalea"
       },
       {
-        "src": "foto/113 (2).webp",
-        "alt": ""
+        "src": "/foto/whatsapp-image-2025-05-14-at-10.53.03-1-.jpeg",
+        "alt": "casa a scalea, scalea, case a scalea, casa al mare, italys casa, agenzia immobiliare scalea, property management scalea"
       },
       {
-        "src": "foto/113 (6).webp",
-        "alt": ""
+        "src": "/foto/whatsapp-image-2025-05-14-at-10.53.03-3-.jpeg",
+        "alt": "casa a scalea, scalea, case a scalea, casa al mare, italys casa, agenzia immobiliare scalea, property management scalea"
       },
       {
-        "src": "foto/113 (3).webp",
-        "alt": ""
+        "src": "/foto/whatsapp-image-2025-05-14-at-10.53.03-4-.jpeg",
+        "alt": "casa a scalea, scalea, case a scalea, casa al mare, italys casa, agenzia immobiliare scalea, property management scalea"
+      },
+      {
+        "src": "/foto/whatsapp-image-2025-05-14-at-10.53.04-1-.jpeg",
+        "alt": "casa a scalea, scalea, case a scalea, casa al mare, italys casa, agenzia immobiliare scalea, property management scalea"
+      },
+      {
+        "src": "/foto/whatsapp-image-2025-05-14-at-10.53.04-2-.jpeg",
+        "alt": "casa a scalea, scalea, case a scalea, casa al mare, italys casa, agenzia immobiliare scalea, property management scalea"
+      },
+      {
+        "src": "/foto/whatsapp-image-2025-05-14-at-10.53.04-3-.jpeg",
+        "alt": "casa a scalea, scalea, case a scalea, casa al mare, italys casa, agenzia immobiliare scalea, property management scalea"
+      },
+      {
+        "src": "/foto/whatsapp-image-2025-05-14-at-10.53.04-4-.jpeg",
+        "alt": "casa a scalea, scalea, case a scalea, casa al mare, italys casa, agenzia immobiliare scalea, property management scalea"
+      },
+      {
+        "src": "/foto/whatsapp-image-2025-05-14-at-10.53.04-5-.jpeg",
+        "alt": "casa a scalea, scalea, case a scalea, casa al mare, italys casa, agenzia immobiliare scalea, property management scalea"
+      },
+      {
+        "src": "/foto/whatsapp-image-2025-05-14-at-10.53.04-6-.jpeg",
+        "alt": "casa a scalea, scalea, case a scalea, casa al mare, italys casa, agenzia immobiliare scalea, property management scalea"
+      },
+      {
+        "src": "/foto/whatsapp-image-2025-05-14-at-10.53.04.jpeg",
+        "alt": "casa a scalea, scalea, case a scalea, casa al mare, italys casa, agenzia immobiliare scalea, property management scalea"
+      },
+      {
+        "src": "/foto/whatsapp-image-2025-05-14-at-10.53.05-2-.jpeg",
+        "alt": "casa a scalea, scalea, case a scalea, casa al mare, italys casa, agenzia immobiliare scalea, property management scalea"
+      },
+      {
+        "src": "/foto/whatsapp-image-2025-05-14-at-10.53.07-1-.jpeg",
+        "alt": "casa a scalea, scalea, case a scalea, casa al mare, italys casa, agenzia immobiliare scalea, property management scalea"
+      },
+      {
+        "src": "/foto/whatsapp-image-2025-05-14-at-10.53.07-2-.jpeg",
+        "alt": "casa a scalea, scalea, case a scalea, casa al mare, italys casa, agenzia immobiliare scalea, property management scalea"
+      },
+      {
+        "src": "/foto/whatsapp-image-2025-05-14-at-10.53.07-3-.jpeg",
+        "alt": "casa a scalea, scalea, case a scalea, casa al mare, italys casa, agenzia immobiliare scalea, property management scalea"
+      },
+      {
+        "src": "/foto/whatsapp-image-2025-05-14-at-10.53.08-1-.jpeg",
+        "alt": "casa a scalea, scalea, case a scalea, casa al mare, italys casa, agenzia immobiliare scalea, property management scalea"
+      },
+      {
+        "src": "/foto/whatsapp-image-2025-05-14-at-10.53.08-2-.jpeg",
+        "alt": "casa a scalea, scalea, case a scalea, casa al mare, italys casa, agenzia immobiliare scalea, property management scalea"
+      },
+      {
+        "src": "/foto/whatsapp-image-2025-05-14-at-10.53.08-3-.jpeg",
+        "alt": "casa a scalea, scalea, case a scalea, casa al mare, italys casa, agenzia immobiliare scalea, property management scalea"
       }
     ],
     "latitude": "39.823311",
@@ -4401,7 +4457,7 @@
     "totalrooms": "3",
     "rooms": "2",
     "bagni": "1",
-    "zonam2": "70",
+    "zonam2": "70 m²",
     "floor": "2",
     "elevator": false,
     "terrazzo": "Si",
@@ -4424,7 +4480,7 @@
     "text5": ".",
     "h2t6": ".",
     "text6": ".",
-    "video": "https://www.youtube.com/watch?v=wgfKcFItN0w&t=2s",
+    "video": "https://www.youtube.com/watch?v=wgfKcFItN0w",
     "video360": ".",
     "images": [
       {
