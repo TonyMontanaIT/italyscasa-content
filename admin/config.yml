@@ -49,6 +49,7 @@ collections:
       - { label: "text5", name: "text5", widget: "text" }
       - { label: "h2t6", name: "h2t6", widget: "text" }
       - { label: "text6", name: "text6", widget: "text" }
+      - { label: "prezzoDescrizione", name: "prezzoDescrizione", widget: "string" }
       - { label: "Video", name: "video", widget: "text" }
       - { label: "Video360", name: "video360", widget: "text" }
       - label: "Immagini"
