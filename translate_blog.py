@@ -5,7 +5,7 @@ import time
 
 SOURCE_FILE = 'blog/index.json'
 TRANSLATED_FILE = 'blog/index_translated.json'
-API_URL = 'https://libretranslate.com/translate'
+API_URL = 'https://libretranslate-railway-production-e5c2.up.railway.app/translate'
 
 TARGET_LANGS = [
     'en', 'ru', 'lt', 'lv', 'pl', 'fi', 'cs', 'de', 'ar', 'fr', 'es', 'sv'

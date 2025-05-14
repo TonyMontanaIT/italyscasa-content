@@ -5,7 +5,7 @@ import time
 
 SOURCE_FILE = 'anunci/index2.json'
 TRANSLATED_FILE = 'anunci/index2_translated.json'
-API_URL = 'https://libretranslate.com/translate'
+API_URL = 'https://libretranslate-railway-production-e5c2.up.railway.app/translate'
 
 TARGET_LANGS = [
     'en', 'ru', 'lt', 'lv', 'pl', 'fi', 'cs', 'de', 'ar', 'fr', 'es', 'sv'
