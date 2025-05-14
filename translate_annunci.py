@@ -1,3 +1,4 @@
+
 import json
 import os
 import requests
@@ -75,13 +76,25 @@ def main():
         if 'translations' not in base:
             base['translations'] = {}
 
+        if 'it' not in base['translations']:
+            base['translations']['it'] = {}
+
         for lang in TARGET_LANGS:
             if lang not in base['translations']:
                 base['translations'][lang] = {}
 
             for field in FIELDS_TO_TRANSLATE:
                 original = entry.get(field, '')
-                if original and field not in base['translations'][lang]:
+                base['translations']['it'][field] = original
+
+                prev_original = base['translations']['it'].get(field, '')
+                if (
+                    field in base['translations'][lang]
+                    and original == prev_original
+                ):
+                    continue
+
+                if original:
                     translated = translate(original, lang)
                     base['translations'][lang][field] = translated
                     print(f"[{i+1}/{len(source_data)}] {rif} — {field} → {lang}: OK")

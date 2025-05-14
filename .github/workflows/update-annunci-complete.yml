@@ -47,6 +47,7 @@ jobs:
         run: |
           git config --global user.name "GitHub Action"
           git config --global user.email "action@github.com"
+          git pull origin main --rebase || echo "Nothing to pull"
           git add anunci/index2.json anunci/structured-annunci.json anunci/index2_translated.json
           git commit -m "🔁 Update ALL annunci JSON files" || echo "No changes to commit"
           git push origin HEAD:main

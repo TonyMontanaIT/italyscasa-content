@@ -16,21 +16,19 @@ FIELDS_TO_TRANSLATE = [
 ]
 
 CHUNK_SIZE = 400
-RETRY_LIMIT = 3
-DELAY_BETWEEN_CHUNKS = 3
-DELAY_BETWEEN_REQUESTS = 10
+CHUNK_PAUSE = 3
+ENTRY_PAUSE = 10
+MAX_RETRIES = 3
 
-def chunk_text(text, size):
+def split_text(text, size=CHUNK_SIZE):
     return [text[i:i+size] for i in range(0, len(text), size)]
 
 def translate(text, target):
-    if not text.strip():
-        return text
-    chunks = chunk_text(text, CHUNK_SIZE)
+    chunks = split_text(text)
     translated_chunks = []
 
     for chunk in chunks:
-        for attempt in range(RETRY_LIMIT):
+        for attempt in range(1, MAX_RETRIES + 1):
             try:
                 response = requests.post(API_URL, json={
                     "q": chunk,
@@ -43,16 +41,16 @@ def translate(text, target):
                 translated = data.get("translatedText", "").strip()
                 if translated:
                     translated_chunks.append(translated)
+                    break
                 else:
-                    print(f"⚠️ Empty translation for chunk → {target}")
-                    translated_chunks.append(chunk)
-                time.sleep(DELAY_BETWEEN_CHUNKS)
-                break
+                    print(f"⚠️ Empty translation (try {attempt}) for chunk → {target}")
             except Exception as e:
-                print(f"⚠️ Retry {attempt+1}/{RETRY_LIMIT} for chunk → {target} due to error: {e}")
-                if attempt == RETRY_LIMIT - 1:
-                    translated_chunks.append(chunk)
-                time.sleep(DELAY_BETWEEN_CHUNKS)
+                print(f"⚠️ Retry {attempt}/{MAX_RETRIES} for chunk → {target} due to error: {e}")
+                time.sleep(CHUNK_PAUSE)
+        else:
+            print(f"❌ Final failure for chunk → {target}")
+            translated_chunks.append(chunk)
+        time.sleep(CHUNK_PAUSE)
 
     return ' '.join(translated_chunks)
 
@@ -74,6 +72,8 @@ def main():
 
         if 'translations' not in base:
             base['translations'] = {}
+        if 'it' not in base['translations']:
+            base['translations']['it'] = {}
 
         for lang in TARGET_LANGS:
             if lang not in base['translations']:
@@ -81,16 +81,21 @@ def main():
 
             for field in FIELDS_TO_TRANSLATE:
                 original = entry.get(field, '')
-                if original and field not in base['translations'][lang]:
+                saved_original = base['translations']['it'].get(field, '')
+                already_translated = field in base['translations'][lang]
+
+                if original and (original != saved_original or not already_translated):
                     translated = translate(original, lang)
                     base['translations'][lang][field] = translated
+                    base['translations']['it'][field] = original
                     print(f"[{i+1}/{len(source_data)}] {slug} — {field} → {lang}: OK")
-                    time.sleep(DELAY_BETWEEN_REQUESTS)
 
         translated_map[slug] = base
 
-    with open(TRANSLATED_FILE, 'w', encoding='utf-8') as f:
-        json.dump(list(translated_map.values()), f, ensure_ascii=False, indent=2)
+        with open(TRANSLATED_FILE, 'w', encoding='utf-8') as f:
+            json.dump(list(translated_map.values()), f, ensure_ascii=False, indent=2)
+
+        time.sleep(ENTRY_PAUSE)
 
     print("\n✅ Translated file saved:", TRANSLATED_FILE)
 

@@ -47,6 +47,7 @@ jobs:
         run: |
           git config --global user.name "GitHub Action"
           git config --global user.email "action@github.com"
+          git pull origin main --rebase || echo "Nothing to pull"
           git add blog/index.json blog/structured-blog.json blog/index_translated.json
           git commit -m "🔁 Update ALL blog JSON files" || echo "No changes to commit"
           git push origin HEAD:main
