@@ -26,8 +26,9 @@ def split_text(text, size=CHUNK_SIZE):
     return [text[i:i+size] for i in range(0, len(text), size)]
 
 def translate(text, target, field=""):
-if not isinstance(text, str) or not text.strip():
-    return ""
+    if not isinstance(text, str) or not text.strip():
+        return ""
+
     chunks = split_text(text)
     translated_chunks = []
 
