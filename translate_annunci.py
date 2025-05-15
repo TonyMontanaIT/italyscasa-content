@@ -1,4 +1,3 @@
-
 import json
 import os
 import requests
@@ -6,7 +5,7 @@ import time
 
 SOURCE_FILE = 'anunci/index2.json'
 TRANSLATED_FILE = 'anunci/index2_translated.json'
-API_URL = 'https://libretranslate-railway-production-e5c2.up.railway.app/translate'
+API_URL = 'https://deft-chaja-1fac8a.netlify.app/.netlify/functions/translate'
 
 TARGET_LANGS = [
     'en', 'ru', 'lt', 'lv', 'pl', 'fi', 'cs', 'de', 'ar', 'fr', 'es', 'sv'
@@ -34,10 +33,9 @@ def translate(text, target):
         for attempt in range(1, MAX_RETRIES + 1):
             try:
                 response = requests.post(API_URL, json={
-                    "q": chunk,
-                    "source": "it",
-                    "target": target,
-                    "format": "text"
+                    "text": chunk,
+                    "sourceLang": "it",
+                    "targetLang": target
                 }, timeout=50)
                 response.raise_for_status()
                 data = response.json()
@@ -56,6 +54,7 @@ def translate(text, target):
         time.sleep(CHUNK_PAUSE)
 
     return ' '.join(translated_chunks)
+
 
 def main():
     with open(SOURCE_FILE, encoding='utf-8') as f:
