@@ -15,7 +15,7 @@ FIELDS_TO_TRANSLATE = [
     'title', 'h1', 'h2', 'text', 'text1', 'text2', 'text3', 'text4', 'text5', 'text6', 'tipo'
 ]
 
-CHUNK_SIZE = 400
+CHUNK_SIZE = 200
 CHUNK_PAUSE = 3
 ENTRY_PAUSE = 10
 MAX_RETRIES = 3
@@ -23,13 +23,14 @@ MAX_RETRIES = 3
 def split_text(text, size=CHUNK_SIZE):
     return [text[i:i+size] for i in range(0, len(text), size)]
 
-def translate(text, target):
+def translate(text, target, field=""):
     chunks = split_text(text)
     translated_chunks = []
 
     for chunk in chunks:
         for attempt in range(1, MAX_RETRIES + 1):
             try:
+                print(f"[DEBUG] Sending → lang: {target}, field: {field}, chunk: {chunk[:100]}")
                 response = requests.post(API_URL, json={
                     "text": chunk,
                     "sourceLang": "it",
@@ -52,6 +53,7 @@ def translate(text, target):
         time.sleep(CHUNK_PAUSE)
 
     return ' '.join(translated_chunks)
+
 
 
 
