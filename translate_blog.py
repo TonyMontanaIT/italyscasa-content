@@ -5,7 +5,7 @@ import time
 
 SOURCE_FILE = 'blog/index.json'
 TRANSLATED_FILE = 'blog/index_translated.json'
-API_URL = 'https://deft-chaja-1fac8a.netlify.app/.netlify/functions/translate'
+API_URL = 'https://translate-api.italyscasa-api.workers.dev'
 
 TARGET_LANGS = [
     'en', 'ru', 'lt', 'lv', 'pl', 'fi', 'cs', 'de', 'ar', 'fr', 'es', 'sv'
@@ -52,6 +52,7 @@ def translate(text, target):
         time.sleep(CHUNK_PAUSE)
 
     return ' '.join(translated_chunks)
+
 
 
 def main():
