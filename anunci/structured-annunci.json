@@ -4,416 +4,6 @@
     "@type": "Product",
     "name": "Scalea Villa a schiera",
     "description": "Italys Casa propone in vendita una villa a schiera al Villaggio VIP a Scalea (CS).",
-    "image": "https://tonymontanait.github.io/italyscasa-content/foto/117 (1).webp",
-    "offers": {
-      "@type": "Offer",
-      "url": "https://italyscasa.com/anunci/dynamic/?rif=117",
-      "price": 79,
-      "priceCurrency": "EUR",
-      "availability": "https://schema.org/InStock"
-    },
-    "inLanguage": "it",
-    "isAccessibleForFree": true,
-    "wordCount": 349,
-    "keywords": "piano, scalea, appartamenti, complesso, primo, terra, terrazza, appartamento",
-    "address": {
-      "@type": "PostalAddress",
-      "addressLocality": "Scalea",
-      "streetAddress": "Via Campo Volo, 19"
-    },
-    "geo": {
-      "@type": "GeoCoordinates",
-      "latitude": 39.789233,
-      "longitude": 15.801846
-    },
-    "publisher": {
-      "@type": "Organization",
-      "name": "ItalysCasa",
-      "logo": {
-        "@type": "ImageObject",
-        "url": "https://tonymontanait.github.io/italyscasa-content/uploads/logo.webp"
-      }
-    },
-    "sameAs": [
-      "https://www.instagram.com/italyscasa?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
-      "https://www.facebook.com/profile.php?id=61551668563870",
-      "https://www.tiktok.com/@italyscasa1?is_from_webapp=1&sender_device=pc"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Product",
-    "name": "Grisolia Casa Palazzina a tre piani con giardino",
-    "description": "Grisolia (CS) - Splendida Palazzina Singola in Vendita vicino Scalea tra Storia e Cultura Italiana",
-    "image": "https://tonymontanait.github.io/italyscasa-content/foto/130 (23).webp",
-    "offers": {
-      "@type": "Offer",
-      "url": "https://italyscasa.com/anunci/dynamic/?rif=130",
-      "price": 150,
-      "priceCurrency": "EUR",
-      "availability": "https://schema.org/InStock"
-    },
-    "inLanguage": "it",
-    "isAccessibleForFree": true,
-    "wordCount": 282,
-    "keywords": "grisolia, casa, palazzina, sono, giardino, splendida, singola, vendita",
-    "address": {
-      "@type": "PostalAddress",
-      "addressLocality": "Grisolia (CS)",
-      "streetAddress": "Via Lucido"
-    },
-    "geo": {
-      "@type": "GeoCoordinates",
-      "latitude": 39.726871,
-      "longitude": 15.854461
-    },
-    "publisher": {
-      "@type": "Organization",
-      "name": "ItalysCasa",
-      "logo": {
-        "@type": "ImageObject",
-        "url": "https://tonymontanait.github.io/italyscasa-content/uploads/logo.webp"
-      }
-    },
-    "sameAs": [
-      "https://www.instagram.com/italyscasa?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
-      "https://www.facebook.com/profile.php?id=61551668563870",
-      "https://www.tiktok.com/@italyscasa1?is_from_webapp=1&sender_device=pc"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Product",
-    "name": "Scalea Villa a schiera",
-    "description": "Italys Casa propone in vendita a Scalea, nella splendida Baia del Carpino, una villa a schiera al prezzo di 180.000 euro.",
-    "image": "https://tonymontanait.github.io/italyscasa-content/foto/306 (19).webp",
-    "offers": {
-      "@type": "Offer",
-      "url": "https://italyscasa.com/anunci/dynamic/?rif=306",
-      "price": 180,
-      "priceCurrency": "EUR",
-      "availability": "https://schema.org/InStock"
-    },
-    "inLanguage": "it",
-    "isAccessibleForFree": true,
-    "wordCount": 120,
-    "keywords": "scalea, villa, schiera, italys, casa, vendita, piano, bagno",
-    "address": {
-      "@type": "PostalAddress",
-      "addressLocality": "Scalea ",
-      "streetAddress": "Via Valeriano de Bonis, 23"
-    },
-    "geo": {
-      "@type": "GeoCoordinates",
-      "latitude": 39.825909,
-      "longitude": 15.783058
-    },
-    "publisher": {
-      "@type": "Organization",
-      "name": "ItalysCasa",
-      "logo": {
-        "@type": "ImageObject",
-        "url": "https://tonymontanait.github.io/italyscasa-content/uploads/logo.webp"
-      }
-    },
-    "sameAs": [
-      "https://www.instagram.com/italyscasa?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
-      "https://www.facebook.com/profile.php?id=61551668563870",
-      "https://www.tiktok.com/@italyscasa1?is_from_webapp=1&sender_device=pc"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Product",
-    "name": "Scalea Appartamento con vista",
-    "description": "Scalea (CS) - Appartamento con vista in Via Dottor La Terza | Italys Casa",
-    "image": "https://tonymontanait.github.io/italyscasa-content/foto/129 (7).webp",
-    "offers": {
-      "@type": "Offer",
-      "url": "https://italyscasa.com/anunci/dynamic/?rif=129",
-      "price": 55,
-      "priceCurrency": "EUR",
-      "availability": "https://schema.org/InStock"
-    },
-    "inLanguage": "it",
-    "isAccessibleForFree": true,
-    "wordCount": 246,
-    "keywords": "scalea, casa, appartamento, vista, come, terza, questo, lungo",
-    "address": {
-      "@type": "PostalAddress",
-      "addressLocality": "Scalea",
-      "streetAddress": "Via dr. La Terza"
-    },
-    "geo": {
-      "@type": "GeoCoordinates",
-      "latitude": 39.813076,
-      "longitude": 15.80121
-    },
-    "publisher": {
-      "@type": "Organization",
-      "name": "ItalysCasa",
-      "logo": {
-        "@type": "ImageObject",
-        "url": "https://tonymontanait.github.io/italyscasa-content/uploads/logo.webp"
-      }
-    },
-    "sameAs": [
-      "https://www.instagram.com/italyscasa?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
-      "https://www.facebook.com/profile.php?id=61551668563870",
-      "https://www.tiktok.com/@italyscasa1?is_from_webapp=1&sender_device=pc"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Product",
-    "name": "Maierà (CS)  Appartamento ",
-    "description": "Appartamento con Vista Spettacolare a Maierà",
-    "image": "https://tonymontanait.github.io/italyscasa-content/foto/712 (9).webp",
-    "offers": {
-      "@type": "Offer",
-      "url": "https://italyscasa.com/anunci/dynamic/?rif=712",
-      "price": 99,
-      "priceCurrency": "EUR",
-      "availability": "https://schema.org/InStock"
-    },
-    "inLanguage": "it",
-    "isAccessibleForFree": true,
-    "wordCount": 309,
-    "keywords": "maierà, vista, casa, mare, borgo, della, appartamento, questa",
-    "address": {
-      "@type": "PostalAddress",
-      "addressLocality": "Maierà (CS) ",
-      "streetAddress": "Sciolle"
-    },
-    "geo": {
-      "@type": "GeoCoordinates",
-      "latitude": 39.717655,
-      "longitude": 15.84917
-    },
-    "publisher": {
-      "@type": "Organization",
-      "name": "ItalysCasa",
-      "logo": {
-        "@type": "ImageObject",
-        "url": "https://tonymontanait.github.io/italyscasa-content/uploads/logo.webp"
-      }
-    },
-    "sameAs": [
-      "https://www.instagram.com/italyscasa?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
-      "https://www.facebook.com/profile.php?id=61551668563870",
-      "https://www.tiktok.com/@italyscasa1?is_from_webapp=1&sender_device=pc"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Product",
-    "name": "Scalea Appartamento con Vista Mare",
-    "description": "Appartamento, Baia del Carpino, Scalea (CS)",
-    "image": "https://tonymontanait.github.io/italyscasa-content/foto/104 (13).webp",
-    "offers": {
-      "@type": "Offer",
-      "url": "https://italyscasa.com/anunci/dynamic/?rif=104",
-      "price": 120,
-      "priceCurrency": "EUR",
-      "availability": "https://schema.org/InStock"
-    },
-    "inLanguage": "it",
-    "isAccessibleForFree": true,
-    "wordCount": 201,
-    "keywords": "scalea, appartamento, baia, vista, carpino, sulla, mare, raffaele",
-    "address": {
-      "@type": "PostalAddress",
-      "addressLocality": "Scalea (CS)",
-      "streetAddress": "Via Raffaele Sanseverino, 12"
-    },
-    "geo": {
-      "@type": "GeoCoordinates",
-      "latitude": 39.82246,
-      "longitude": 15.778885
-    },
-    "publisher": {
-      "@type": "Organization",
-      "name": "ItalysCasa",
-      "logo": {
-        "@type": "ImageObject",
-        "url": "https://tonymontanait.github.io/italyscasa-content/uploads/logo.webp"
-      }
-    },
-    "sameAs": [
-      "https://www.instagram.com/italyscasa?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
-      "https://www.facebook.com/profile.php?id=61551668563870",
-      "https://www.tiktok.com/@italyscasa1?is_from_webapp=1&sender_device=pc"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Product",
-    "name": "Orsomarso Casa indipendente a 2 piani",
-    "description": "Casa indipendente a 2 piani, Orsomarso (CS), località Scorpari",
-    "image": "https://tonymontanait.github.io/italyscasa-content/foto/140 (6).webp",
-    "offers": {
-      "@type": "Offer",
-      "url": "https://italyscasa.com/anunci/dynamic/?rif=140",
-      "price": 50,
-      "priceCurrency": "EUR",
-      "availability": "https://schema.org/InStock"
-    },
-    "inLanguage": "it",
-    "isAccessibleForFree": true,
-    "wordCount": 230,
-    "keywords": "orsomarso, casa, piani, della, indipendente, località, scorpari, vivere",
-    "address": {
-      "@type": "PostalAddress",
-      "addressLocality": "Orsomarso (CS)",
-      "streetAddress": "Contrada Scopari"
-    },
-    "geo": {
-      "@type": "GeoCoordinates",
-      "latitude": 39.831932,
-      "longitude": 15.924338
-    },
-    "publisher": {
-      "@type": "Organization",
-      "name": "ItalysCasa",
-      "logo": {
-        "@type": "ImageObject",
-        "url": "https://tonymontanait.github.io/italyscasa-content/uploads/logo.webp"
-      }
-    },
-    "sameAs": [
-      "https://www.instagram.com/italyscasa?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
-      "https://www.facebook.com/profile.php?id=61551668563870",
-      "https://www.tiktok.com/@italyscasa1?is_from_webapp=1&sender_device=pc"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Product",
-    "name": "Scalea Villa a schiera",
-    "description": "Italys Casa propone in vendita una villa a schiera al Villaggio VIP a Scalea (CS).",
-    "image": "https://tonymontanait.github.io/italyscasa-content/foto/118 (14).webp",
-    "offers": {
-      "@type": "Offer",
-      "url": "https://italyscasa.com/anunci/dynamic/?rif=118",
-      "price": 92,
-      "priceCurrency": "EUR",
-      "availability": "https://schema.org/InStock"
-    },
-    "inLanguage": "it",
-    "isAccessibleForFree": true,
-    "wordCount": 347,
-    "keywords": "piano, scalea, appartamenti, complesso, terra, primo, terrazza, appartamento",
-    "address": {
-      "@type": "PostalAddress",
-      "addressLocality": "Scalea (CS)",
-      "streetAddress": "Via Campo Volo, 19"
-    },
-    "geo": {
-      "@type": "GeoCoordinates",
-      "latitude": 39.789694,
-      "longitude": 15.802784
-    },
-    "publisher": {
-      "@type": "Organization",
-      "name": "ItalysCasa",
-      "logo": {
-        "@type": "ImageObject",
-        "url": "https://tonymontanait.github.io/italyscasa-content/uploads/logo.webp"
-      }
-    },
-    "sameAs": [
-      "https://www.instagram.com/italyscasa?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
-      "https://www.facebook.com/profile.php?id=61551668563870",
-      "https://www.tiktok.com/@italyscasa1?is_from_webapp=1&sender_device=pc"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Product",
-    "name": "Scalea Villa bifamiliare  su 2 piani",
-    "description": "Villa bifamiliare a Scalea su 2 piani, Via Piano Lettieri",
-    "image": "https://tonymontanait.github.io/italyscasa-content/foto/146 (8).webp",
-    "offers": {
-      "@type": "Offer",
-      "url": "https://italyscasa.com/anunci/dynamic/?rif=146",
-      "price": 260,
-      "priceCurrency": "EUR",
-      "availability": "https://schema.org/InStock"
-    },
-    "inLanguage": "it",
-    "isAccessibleForFree": true,
-    "wordCount": 325,
-    "keywords": "piano, villa, scalea, offre, bifamiliare, piani, lettieri, proprietà",
-    "address": {
-      "@type": "PostalAddress",
-      "addressLocality": "Scalea",
-      "streetAddress": "Via Piano Lettieri"
-    },
-    "geo": {
-      "@type": "GeoCoordinates",
-      "latitude": 39.807704,
-      "longitude": 15.805973
-    },
-    "publisher": {
-      "@type": "Organization",
-      "name": "ItalysCasa",
-      "logo": {
-        "@type": "ImageObject",
-        "url": "https://tonymontanait.github.io/italyscasa-content/uploads/logo.webp"
-      }
-    },
-    "sameAs": [
-      "https://www.instagram.com/italyscasa?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
-      "https://www.facebook.com/profile.php?id=61551668563870",
-      "https://www.tiktok.com/@italyscasa1?is_from_webapp=1&sender_device=pc"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Product",
-    "name": "San Nicola Arcella Appartamento ",
-    "description": "Appartamento in Vendita a San Nicola Arcella: Eleganza e Relax al Parco I Delfini",
-    "image": "https://tonymontanait.github.io/italyscasa-content/foto/122 (1).webp",
-    "offers": {
-      "@type": "Offer",
-      "url": "https://italyscasa.com/anunci/dynamic/?rif=122",
-      "price": 44,
-      "priceCurrency": "EUR",
-      "availability": "https://schema.org/InStock"
-    },
-    "inLanguage": "it",
-    "isAccessibleForFree": true,
-    "wordCount": 248,
-    "keywords": "nicola, arcella, della, appartamento, parco, delfini, casa, questa",
-    "address": {
-      "@type": "PostalAddress",
-      "addressLocality": "San Nicola Arcella (CS)",
-      "streetAddress": "Via del Telegrafo, 5"
-    },
-    "geo": {
-      "@type": "GeoCoordinates",
-      "latitude": 39.837599,
-      "longitude": 15.779716
-    },
-    "publisher": {
-      "@type": "Organization",
-      "name": "ItalysCasa",
-      "logo": {
-        "@type": "ImageObject",
-        "url": "https://tonymontanait.github.io/italyscasa-content/uploads/logo.webp"
-      }
-    },
-    "sameAs": [
-      "https://www.instagram.com/italyscasa?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
-      "https://www.facebook.com/profile.php?id=61551668563870",
-      "https://www.tiktok.com/@italyscasa1?is_from_webapp=1&sender_device=pc"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Product",
-    "name": "Scalea Villa a schiera",
-    "description": "Italys Casa propone in vendita una villa a schiera al Villaggio VIP a Scalea (CS).",
     "image": "https://tonymontanait.github.io/italyscasa-content/foto/116 (1).webp",
     "offers": {
       "@type": "Offer",
@@ -435,744 +25,6 @@
       "@type": "GeoCoordinates",
       "latitude": 39.789233,
       "longitude": 15.801846
-    },
-    "publisher": {
-      "@type": "Organization",
-      "name": "ItalysCasa",
-      "logo": {
-        "@type": "ImageObject",
-        "url": "https://tonymontanait.github.io/italyscasa-content/uploads/logo.webp"
-      }
-    },
-    "sameAs": [
-      "https://www.instagram.com/italyscasa?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
-      "https://www.facebook.com/profile.php?id=61551668563870",
-      "https://www.tiktok.com/@italyscasa1?is_from_webapp=1&sender_device=pc"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Product",
-    "name": "Orsomarso Appartamento a centro storico",
-    "description": "Appartamento a Orsomarso (CS), centro storico",
-    "image": "https://tonymontanait.github.io/italyscasa-content/foto/141 (1).webp",
-    "offers": {
-      "@type": "Offer",
-      "url": "https://italyscasa.com/anunci/dynamic/?rif=141",
-      "price": 28,
-      "priceCurrency": "EUR",
-      "availability": "https://schema.org/InStock"
-    },
-    "inLanguage": "it",
-    "isAccessibleForFree": true,
-    "wordCount": 392,
-    "keywords": "orsomarso, borgo, della, appartamento, casa, parco, nazionale, pollino",
-    "address": {
-      "@type": "PostalAddress",
-      "addressLocality": "Orsomarso(CS)",
-      "streetAddress": "Vico IX Vittorio Emanuele"
-    },
-    "geo": {
-      "@type": "GeoCoordinates",
-      "latitude": 39.800513,
-      "longitude": 15.909561
-    },
-    "publisher": {
-      "@type": "Organization",
-      "name": "ItalysCasa",
-      "logo": {
-        "@type": "ImageObject",
-        "url": "https://tonymontanait.github.io/italyscasa-content/uploads/logo.webp"
-      }
-    },
-    "sameAs": [
-      "https://www.instagram.com/italyscasa?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
-      "https://www.facebook.com/profile.php?id=61551668563870",
-      "https://www.tiktok.com/@italyscasa1?is_from_webapp=1&sender_device=pc"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Product",
-    "name": "Villa a schiera a Scalea (CS)",
-    "description": "Villa a schiera, Baia del Carpino a Scalea (CS) - Italys Casa",
-    "image": "https://tonymontanait.github.io/italyscasa-content/foto/103 (1).webp",
-    "offers": {
-      "@type": "Offer",
-      "url": "https://italyscasa.com/anunci/dynamic/?rif=103",
-      "price": 90,
-      "priceCurrency": "EUR",
-      "availability": "https://schema.org/InStock"
-    },
-    "inLanguage": "it",
-    "isAccessibleForFree": true,
-    "wordCount": 307,
-    "keywords": "della, casa, scalea, villa, baia, carpino, senza, massimo",
-    "address": {
-      "@type": "PostalAddress",
-      "addressLocality": "Scalea (CS)",
-      "streetAddress": "Via Raffaele Sanseverino, 100"
-    },
-    "geo": {
-      "@type": "GeoCoordinates",
-      "latitude": 39.82246,
-      "longitude": 15.778885
-    },
-    "publisher": {
-      "@type": "Organization",
-      "name": "ItalysCasa",
-      "logo": {
-        "@type": "ImageObject",
-        "url": "https://tonymontanait.github.io/italyscasa-content/uploads/logo.webp"
-      }
-    },
-    "sameAs": [
-      "https://www.instagram.com/italyscasa?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
-      "https://www.facebook.com/profile.php?id=61551668563870",
-      "https://www.tiktok.com/@italyscasa1?is_from_webapp=1&sender_device=pc"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Product",
-    "name": "Scalea Villa indipendente con piscina",
-    "description": "Villa Prestigiosa con Piscina Privata a Scalea",
-    "image": "https://tonymontanait.github.io/italyscasa-content/foto/703 (17).webp",
-    "offers": {
-      "@type": "Offer",
-      "url": "https://italyscasa.com/anunci/dynamic/?rif=703",
-      "price": 490,
-      "priceCurrency": "EUR",
-      "availability": "https://schema.org/InStock"
-    },
-    "inLanguage": "it",
-    "isAccessibleForFree": true,
-    "wordCount": 257,
-    "keywords": "villa, piano, scalea, grande, zona, terra, ampio, piscina",
-    "address": {
-      "@type": "PostalAddress",
-      "addressLocality": "Scalea (CS)",
-      "streetAddress": "Via del Mare, 2"
-    },
-    "geo": {
-      "@type": "GeoCoordinates",
-      "latitude": 39.784774,
-      "longitude": 15.811043
-    },
-    "publisher": {
-      "@type": "Organization",
-      "name": "ItalysCasa",
-      "logo": {
-        "@type": "ImageObject",
-        "url": "https://tonymontanait.github.io/italyscasa-content/uploads/logo.webp"
-      }
-    },
-    "sameAs": [
-      "https://www.instagram.com/italyscasa?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
-      "https://www.facebook.com/profile.php?id=61551668563870",
-      "https://www.tiktok.com/@italyscasa1?is_from_webapp=1&sender_device=pc"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Product",
-    "name": "Scalea Appartamento nel Centro Storico",
-    "description": "Appartamento nel Centro Storico di Scalea, Edificio del 1820",
-    "image": "https://tonymontanait.github.io/italyscasa-content/foto/dji_0220.webp",
-    "offers": {
-      "@type": "Offer",
-      "url": "https://italyscasa.com/anunci/dynamic/?rif=702",
-      "price": 140,
-      "priceCurrency": "EUR",
-      "availability": "https://schema.org/InStock"
-    },
-    "inLanguage": "it",
-    "isAccessibleForFree": true,
-    "wordCount": 262,
-    "keywords": "storico, appartamento, centro, scalea, storia, questa, proprietà, mare",
-    "address": {
-      "@type": "PostalAddress",
-      "addressLocality": "Scalea ",
-      "streetAddress": "Vico Municipale, 15-20"
-    },
-    "geo": {
-      "@type": "GeoCoordinates",
-      "latitude": 39.816461,
-      "longitude": 15.79095
-    },
-    "publisher": {
-      "@type": "Organization",
-      "name": "ItalysCasa",
-      "logo": {
-        "@type": "ImageObject",
-        "url": "https://tonymontanait.github.io/italyscasa-content/uploads/logo.webp"
-      }
-    },
-    "sameAs": [
-      "https://www.instagram.com/italyscasa?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
-      "https://www.facebook.com/profile.php?id=61551668563870",
-      "https://www.tiktok.com/@italyscasa1?is_from_webapp=1&sender_device=pc"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Product",
-    "name": "Reggio Emilia Villa con piscina ",
-    "description": "Villa con piscina a Reggio Emilia - Italys Casa",
-    "image": "https://tonymontanait.github.io/italyscasa-content/foto/711 (2).webp",
-    "offers": {
-      "@type": "Offer",
-      "url": "https://italyscasa.com/anunci/dynamic/?rif=711",
-      "price": 399,
-      "priceCurrency": "EUR",
-      "availability": "https://schema.org/InStock"
-    },
-    "inLanguage": "it",
-    "isAccessibleForFree": true,
-    "wordCount": 330,
-    "keywords": "villa, reggio, emilia, piscina, piano, fienile, elegante, dalla",
-    "address": {
-      "@type": "PostalAddress",
-      "addressLocality": "Reggio Emilia (RE)",
-      "streetAddress": "Reggio Emilia"
-    },
-    "geo": {
-      "@type": "GeoCoordinates",
-      "latitude": 44.701861,
-      "longitude": 10.636792
-    },
-    "publisher": {
-      "@type": "Organization",
-      "name": "ItalysCasa",
-      "logo": {
-        "@type": "ImageObject",
-        "url": "https://tonymontanait.github.io/italyscasa-content/uploads/logo.webp"
-      }
-    },
-    "sameAs": [
-      "https://www.instagram.com/italyscasa?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
-      "https://www.facebook.com/profile.php?id=61551668563870",
-      "https://www.tiktok.com/@italyscasa1?is_from_webapp=1&sender_device=pc"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Product",
-    "name": "Scalea, Appartamento su 3 Piani",
-    "description": "Appartamento su 3 Piani con Giardino a Scalea, Baia del Carpino",
-    "image": "https://tonymontanait.github.io/italyscasa-content/foto/dji_0240.webp",
-    "offers": {
-      "@type": "Offer",
-      "url": "https://italyscasa.com/anunci/dynamic/?rif=110",
-      "price": 95,
-      "priceCurrency": "EUR",
-      "availability": "https://schema.org/InStock"
-    },
-    "inLanguage": "it",
-    "isAccessibleForFree": true,
-    "wordCount": 313,
-    "keywords": "appartamento, piani, giardino, spazio, scalea, circa, famiglie, giardini",
-    "address": {
-      "@type": "PostalAddress",
-      "addressLocality": "Scalea",
-      "streetAddress": "Raffaele Sanseverino 20-28"
-    },
-    "geo": {
-      "@type": "GeoCoordinates",
-      "latitude": 39.824416,
-      "longitude": 15.778587
-    },
-    "publisher": {
-      "@type": "Organization",
-      "name": "ItalysCasa",
-      "logo": {
-        "@type": "ImageObject",
-        "url": "https://tonymontanait.github.io/italyscasa-content/uploads/logo.webp"
-      }
-    },
-    "sameAs": [
-      "https://www.instagram.com/italyscasa?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
-      "https://www.facebook.com/profile.php?id=61551668563870",
-      "https://www.tiktok.com/@italyscasa1?is_from_webapp=1&sender_device=pc"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Product",
-    "name": "Scalea Appartamento ",
-    "description": "Delizioso Appartamento in Vendita a Scalea, Calabria - Parco Mimose",
-    "image": "https://tonymontanait.github.io/italyscasa-content/foto/119 (2).webp",
-    "offers": {
-      "@type": "Offer",
-      "url": "https://italyscasa.com/anunci/dynamic/?rif=119",
-      "price": 49,
-      "priceCurrency": "EUR",
-      "availability": "https://schema.org/InStock"
-    },
-    "inLanguage": "it",
-    "isAccessibleForFree": true,
-    "wordCount": 289,
-    "keywords": "appartamento, scalea, mare, zona, calabria, casa, cerca, soli",
-    "address": {
-      "@type": "PostalAddress",
-      "addressLocality": "Scalea (CS)",
-      "streetAddress": "Via Lauro, 131"
-    },
-    "geo": {
-      "@type": "GeoCoordinates",
-      "latitude": 39.810293,
-      "longitude": 15.795988
-    },
-    "publisher": {
-      "@type": "Organization",
-      "name": "ItalysCasa",
-      "logo": {
-        "@type": "ImageObject",
-        "url": "https://tonymontanait.github.io/italyscasa-content/uploads/logo.webp"
-      }
-    },
-    "sameAs": [
-      "https://www.instagram.com/italyscasa?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
-      "https://www.facebook.com/profile.php?id=61551668563870",
-      "https://www.tiktok.com/@italyscasa1?is_from_webapp=1&sender_device=pc"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Product",
-    "name": "Scalea  Appartamento su 2 piani",
-    "description": "Appartamento su Due Piani in Vendita a Scalea: Un'Opportunità Unica nel Cuore della Città",
-    "image": "https://tonymontanait.github.io/italyscasa-content/foto/120 (16).webp",
-    "offers": {
-      "@type": "Offer",
-      "url": "https://italyscasa.com/anunci/dynamic/?rif=120",
-      "price": 37,
-      "priceCurrency": "EUR",
-      "availability": "https://schema.org/InStock"
-    },
-    "inLanguage": "it",
-    "isAccessibleForFree": true,
-    "wordCount": 269,
-    "keywords": "scalea, appartamento, casa, questa, piani, vivere, immobile, posizione",
-    "address": {
-      "@type": "PostalAddress",
-      "addressLocality": "Scalea (CS)",
-      "streetAddress": "Via del mulino, 70"
-    },
-    "geo": {
-      "@type": "GeoCoordinates",
-      "latitude": 39.805326,
-      "longitude": 15.79882
-    },
-    "publisher": {
-      "@type": "Organization",
-      "name": "ItalysCasa",
-      "logo": {
-        "@type": "ImageObject",
-        "url": "https://tonymontanait.github.io/italyscasa-content/uploads/logo.webp"
-      }
-    },
-    "sameAs": [
-      "https://www.instagram.com/italyscasa?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
-      "https://www.facebook.com/profile.php?id=61551668563870",
-      "https://www.tiktok.com/@italyscasa1?is_from_webapp=1&sender_device=pc"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Product",
-    "name": "Scalea, Casa Albergo",
-    "description": "Appartamento monolocale a Baia del Carpino, Scalea",
-    "image": "https://tonymontanait.github.io/italyscasa-content/foto/whatsapp-image-2025-04-05-at-13.04.25-3-.webp",
-    "offers": {
-      "@type": "Offer",
-      "url": "https://italyscasa.com/anunci/dynamic/?rif=111",
-      "price": 65,
-      "priceCurrency": "EUR",
-      "availability": "https://schema.org/InStock"
-    },
-    "inLanguage": "it",
-    "isAccessibleForFree": true,
-    "wordCount": 225,
-    "keywords": "scalea, appartamento, mare, accogliente, casa, albergo, baia, carpino",
-    "address": {
-      "@type": "PostalAddress",
-      "addressLocality": "Scalea",
-      "streetAddress": "San Severino"
-    },
-    "geo": {
-      "@type": "GeoCoordinates",
-      "latitude": 39.822697,
-      "longitude": 15.777868
-    },
-    "publisher": {
-      "@type": "Organization",
-      "name": "ItalysCasa",
-      "logo": {
-        "@type": "ImageObject",
-        "url": "https://tonymontanait.github.io/italyscasa-content/uploads/logo.webp"
-      }
-    },
-    "sameAs": [
-      "https://www.instagram.com/italyscasa?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
-      "https://www.facebook.com/profile.php?id=61551668563870",
-      "https://www.tiktok.com/@italyscasa1?is_from_webapp=1&sender_device=pc"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Product",
-    "name": "San Nicola Arcella Villa ",
-    "description": "Villa a 3 Piani con Vista Mare Mozzafiato a San Nicola Arcella, Calabria",
-    "image": "https://tonymontanait.github.io/italyscasa-content/foto/106 (13).webp",
-    "offers": {
-      "@type": "Offer",
-      "url": "https://italyscasa.com/anunci/dynamic/?rif=106",
-      "price": 260,
-      "priceCurrency": "EUR",
-      "availability": "https://schema.org/InStock"
-    },
-    "inLanguage": "it",
-    "isAccessibleForFree": true,
-    "wordCount": 285,
-    "keywords": "villa, camera, nicola, arcella, vista, mare, della, piano",
-    "address": {
-      "@type": "PostalAddress",
-      "addressLocality": "San Nicola Arcella",
-      "streetAddress": "Via Pico"
-    },
-    "geo": {
-      "@type": "GeoCoordinates",
-      "latitude": 39.864147,
-      "longitude": 15.80177
-    },
-    "publisher": {
-      "@type": "Organization",
-      "name": "ItalysCasa",
-      "logo": {
-        "@type": "ImageObject",
-        "url": "https://tonymontanait.github.io/italyscasa-content/uploads/logo.webp"
-      }
-    },
-    "sameAs": [
-      "https://www.instagram.com/italyscasa?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
-      "https://www.facebook.com/profile.php?id=61551668563870",
-      "https://www.tiktok.com/@italyscasa1?is_from_webapp=1&sender_device=pc"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Product",
-    "name": "Santa Maria del Cedro Appartamento",
-    "description": "Appartamento a Santa Maria del Cedro Marina",
-    "image": "https://tonymontanait.github.io/italyscasa-content/foto/dsc02092.webp",
-    "offers": {
-      "@type": "Offer",
-      "url": "https://italyscasa.com/anunci/dynamic/?rif=147",
-      "price": 35,
-      "priceCurrency": "EUR",
-      "availability": "https://schema.org/InStock"
-    },
-    "inLanguage": "it",
-    "isAccessibleForFree": true,
-    "wordCount": 197,
-    "keywords": "appartamento, santa, maria, cedro, mare, marina, casa, letto",
-    "address": {
-      "@type": "PostalAddress",
-      "addressLocality": "Santa Maria del Cedro Marina",
-      "streetAddress": "Degli Ulivi 373"
-    },
-    "geo": {
-      "@type": "GeoCoordinates",
-      "latitude": 39.755806,
-      "longitude": 15.809581
-    },
-    "publisher": {
-      "@type": "Organization",
-      "name": "ItalysCasa",
-      "logo": {
-        "@type": "ImageObject",
-        "url": "https://tonymontanait.github.io/italyscasa-content/uploads/logo.webp"
-      }
-    },
-    "sameAs": [
-      "https://www.instagram.com/italyscasa?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
-      "https://www.facebook.com/profile.php?id=61551668563870",
-      "https://www.tiktok.com/@italyscasa1?is_from_webapp=1&sender_device=pc"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Product",
-    "name": "San Nicola Arcella Villa Familiare",
-    "description": "Villa con 4 Camere da Letto e Vista Spettacolare a San Nicola Arcella realizazione per nuova pescina in corso",
-    "image": "https://tonymontanait.github.io/italyscasa-content/foto/701 (13).webp",
-    "offers": {
-      "@type": "Offer",
-      "url": "https://italyscasa.com/anunci/dynamic/?rif=701",
-      "price": 530,
-      "priceCurrency": "EUR",
-      "availability": "https://schema.org/InStock"
-    },
-    "inLanguage": "it",
-    "isAccessibleForFree": true,
-    "wordCount": 406,
-    "keywords": "villa, nicola, arcella, letto, offre, piano, camere, vista",
-    "address": {
-      "@type": "PostalAddress",
-      "addressLocality": "San Nicola Arcella (CS)",
-      "streetAddress": "Via del Telegrafo"
-    },
-    "geo": {
-      "@type": "GeoCoordinates",
-      "latitude": 39.840051,
-      "longitude": 15.781051
-    },
-    "publisher": {
-      "@type": "Organization",
-      "name": "ItalysCasa",
-      "logo": {
-        "@type": "ImageObject",
-        "url": "https://tonymontanait.github.io/italyscasa-content/uploads/logo.webp"
-      }
-    },
-    "sameAs": [
-      "https://www.instagram.com/italyscasa?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
-      "https://www.facebook.com/profile.php?id=61551668563870",
-      "https://www.tiktok.com/@italyscasa1?is_from_webapp=1&sender_device=pc"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Product",
-    "name": "Scalea Trilocale a centro ",
-    "description": "Trilocale in Via Fiume Lao",
-    "image": "https://tonymontanait.github.io/italyscasa-content/foto/142 (1).webp",
-    "offers": {
-      "@type": "Offer",
-      "url": "https://italyscasa.com/anunci/dynamic/?rif=142",
-      "price": 70,
-      "priceCurrency": "EUR",
-      "availability": "https://schema.org/InStock"
-    },
-    "inLanguage": "it",
-    "isAccessibleForFree": true,
-    "wordCount": 251,
-    "keywords": "scalea, trilocale, della, questo, mare, proprietà, centro, fiume",
-    "address": {
-      "@type": "PostalAddress",
-      "addressLocality": "Scalea",
-      "streetAddress": "Via Fiume Lao, 155"
-    },
-    "geo": {
-      "@type": "GeoCoordinates",
-      "latitude": 39.80798,
-      "longitude": 15.793747
-    },
-    "publisher": {
-      "@type": "Organization",
-      "name": "ItalysCasa",
-      "logo": {
-        "@type": "ImageObject",
-        "url": "https://tonymontanait.github.io/italyscasa-content/uploads/logo.webp"
-      }
-    },
-    "sameAs": [
-      "https://www.instagram.com/italyscasa?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
-      "https://www.facebook.com/profile.php?id=61551668563870",
-      "https://www.tiktok.com/@italyscasa1?is_from_webapp=1&sender_device=pc"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Product",
-    "name": "Cetraro Appartamento con Vista",
-    "description": "Appartamento Confortevole in Via Fontana 10, Cetraro Paese",
-    "image": "https://tonymontanait.github.io/italyscasa-content/foto/108 (13).webp",
-    "offers": {
-      "@type": "Offer",
-      "url": "https://italyscasa.com/anunci/dynamic/?rif=108",
-      "price": 85,
-      "priceCurrency": "EUR",
-      "availability": "https://schema.org/InStock"
-    },
-    "inLanguage": "it",
-    "isAccessibleForFree": true,
-    "wordCount": 267,
-    "keywords": "appartamento, cetraro, vista, della, piano, zona, sulle, montagne",
-    "address": {
-      "@type": "PostalAddress",
-      "addressLocality": "Cetraro (CS)",
-      "streetAddress": "Via Fontana, 10"
-    },
-    "geo": {
-      "@type": "GeoCoordinates",
-      "latitude": 39.516868,
-      "longitude": 15.94459
-    },
-    "publisher": {
-      "@type": "Organization",
-      "name": "ItalysCasa",
-      "logo": {
-        "@type": "ImageObject",
-        "url": "https://tonymontanait.github.io/italyscasa-content/uploads/logo.webp"
-      }
-    },
-    "sameAs": [
-      "https://www.instagram.com/italyscasa?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
-      "https://www.facebook.com/profile.php?id=61551668563870",
-      "https://www.tiktok.com/@italyscasa1?is_from_webapp=1&sender_device=pc"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Product",
-    "name": "Verbicaro Villa con vista mozzafiato",
-    "description": "Villa con vista mozzafiato su due piani a Verbicaro (CS)",
-    "image": "https://tonymontanait.github.io/italyscasa-content/foto/145 (3).webp",
-    "offers": {
-      "@type": "Offer",
-      "url": "https://italyscasa.com/anunci/dynamic/?rif=145",
-      "price": 170,
-      "priceCurrency": "EUR",
-      "availability": "https://schema.org/InStock"
-    },
-    "inLanguage": "it",
-    "isAccessibleForFree": true,
-    "wordCount": 378,
-    "keywords": "della, verbicaro, villa, mozzafiato, vista, questa, natura, proprietà",
-    "address": {
-      "@type": "PostalAddress",
-      "addressLocality": "Verbicaro (CS)",
-      "streetAddress": "Verbicaro (CS)"
-    },
-    "geo": {
-      "@type": "GeoCoordinates",
-      "latitude": 39.758732,
-      "longitude": 15.912679
-    },
-    "publisher": {
-      "@type": "Organization",
-      "name": "ItalysCasa",
-      "logo": {
-        "@type": "ImageObject",
-        "url": "https://tonymontanait.github.io/italyscasa-content/uploads/logo.webp"
-      }
-    },
-    "sameAs": [
-      "https://www.instagram.com/italyscasa?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
-      "https://www.facebook.com/profile.php?id=61551668563870",
-      "https://www.tiktok.com/@italyscasa1?is_from_webapp=1&sender_device=pc"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Product",
-    "name": "Scalea Appartamento",
-    "description": "Incantevole Appartamento alla Baia del Carpino, Scalea",
-    "image": "https://tonymontanait.github.io/italyscasa-content//foto/whatsapp-image-2025-05-14-at-10.53.03-2-.jpeg",
-    "offers": {
-      "@type": "Offer",
-      "url": "https://italyscasa.com/anunci/dynamic/?rif=113",
-      "price": 55,
-      "priceCurrency": "EUR",
-      "availability": "https://schema.org/InStock"
-    },
-    "inLanguage": "it",
-    "isAccessibleForFree": true,
-    "wordCount": 174,
-    "keywords": "appartamento, scalea, baia, carpino, mare, questo, alla, perfetto",
-    "address": {
-      "@type": "PostalAddress",
-      "addressLocality": "Scalea",
-      "streetAddress": "Via Pezzotti"
-    },
-    "geo": {
-      "@type": "GeoCoordinates",
-      "latitude": 39.823311,
-      "longitude": 15.778088
-    },
-    "publisher": {
-      "@type": "Organization",
-      "name": "ItalysCasa",
-      "logo": {
-        "@type": "ImageObject",
-        "url": "https://tonymontanait.github.io/italyscasa-content/uploads/logo.webp"
-      }
-    },
-    "sameAs": [
-      "https://www.instagram.com/italyscasa?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
-      "https://www.facebook.com/profile.php?id=61551668563870",
-      "https://www.tiktok.com/@italyscasa1?is_from_webapp=1&sender_device=pc"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Product",
-    "name": "Scalea Appartamento su 2 piani",
-    "description": "Appartamento su 2 piani in Via Tommaso Campanella, Scalea (CS)",
-    "image": "https://tonymontanait.github.io/italyscasa-content/foto/rif-133-132-7-.webp",
-    "offers": {
-      "@type": "Offer",
-      "url": "https://italyscasa.com/anunci/dynamic/?rif=133-132",
-      "price": 55,
-      "priceCurrency": "EUR",
-      "availability": "https://schema.org/InStock"
-    },
-    "inLanguage": "it",
-    "isAccessibleForFree": true,
-    "wordCount": 188,
-    "keywords": "appartamento, scalea, tommaso, campanella, piani, dotato, ideale, della",
-    "address": {
-      "@type": "PostalAddress",
-      "addressLocality": "Scalea ",
-      "streetAddress": "Via Tommaso Campanella, 142"
-    },
-    "geo": {
-      "@type": "GeoCoordinates",
-      "latitude": 39.80834,
-      "longitude": 15.80402
-    },
-    "publisher": {
-      "@type": "Organization",
-      "name": "ItalysCasa",
-      "logo": {
-        "@type": "ImageObject",
-        "url": "https://tonymontanait.github.io/italyscasa-content/uploads/logo.webp"
-      }
-    },
-    "sameAs": [
-      "https://www.instagram.com/italyscasa?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
-      "https://www.facebook.com/profile.php?id=61551668563870",
-      "https://www.tiktok.com/@italyscasa1?is_from_webapp=1&sender_device=pc"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Product",
-    "name": "Praia a Mare Appartamento nella roccaforte",
-    "description": "Appartamento nella roccaforte “Il Fortino”, Praia a Mare (CS)",
-    "image": "https://tonymontanait.github.io/italyscasa-content/foto/307 (4).webp",
-    "offers": {
-      "@type": "Offer",
-      "url": "https://italyscasa.com/anunci/dynamic/?rif=307",
-      "price": 130,
-      "priceCurrency": "EUR",
-      "availability": "https://schema.org/InStock"
-    },
-    "inLanguage": "it",
-    "isAccessibleForFree": true,
-    "wordCount": 311,
-    "keywords": "praia, mare, appartamento, delle, roccaforte, fortino, della, isola",
-    "address": {
-      "@type": "PostalAddress",
-      "addressLocality": "Praia a Mare",
-      "streetAddress": "Via Don Matteo dei Marchesi Cosentini, 18"
-    },
-    "geo": {
-      "@type": "GeoCoordinates",
-      "latitude": 39.873049,
-      "longitude": 15.790619
     },
     "publisher": {
       "@type": "Organization",
@@ -1232,6 +84,47 @@
   {
     "@context": "https://schema.org",
     "@type": "Product",
+    "name": "Scalea Appartamento",
+    "description": "Appartamento in Vendita a Scalea in Via Pitagora - Un'Occasione da Non Perdere!",
+    "image": "https://tonymontanait.github.io/italyscasa-content/foto/109 (1).webp",
+    "offers": {
+      "@type": "Offer",
+      "url": "https://italyscasa.com/anunci/dynamic/?rif=109",
+      "price": 40,
+      "priceCurrency": "EUR",
+      "availability": "https://schema.org/InStock"
+    },
+    "inLanguage": "it",
+    "isAccessibleForFree": true,
+    "wordCount": 259,
+    "keywords": "appartamento, scalea, pitagora, questa, delle, ideale, vendita, occasione",
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Scalea (CS)",
+      "streetAddress": "Via Pitagora, 10"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": 39.806367,
+      "longitude": 15.800134
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "ItalysCasa",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://tonymontanait.github.io/italyscasa-content/uploads/logo.webp"
+      }
+    },
+    "sameAs": [
+      "https://www.instagram.com/italyscasa?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
+      "https://www.facebook.com/profile.php?id=61551668563870",
+      "https://www.tiktok.com/@italyscasa1?is_from_webapp=1&sender_device=pc"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
     "name": "Scalea Appartamento al Parco Mimose",
     "description": "Appartamento Accogliente con Balcone nel Parco Mimose a Scalea (CS) – Italys Casa",
     "image": "https://tonymontanait.github.io/italyscasa-content/foto/128 (23).webp",
@@ -1273,29 +166,275 @@
   {
     "@context": "https://schema.org",
     "@type": "Product",
-    "name": "Porto di Maratea Appartamento esclusivo",
-    "description": "Appartamento esclusivo al Porto di Maratea (PZ) – Italys Casa",
-    "image": "https://tonymontanait.github.io/italyscasa-content/foto/144 (8).webp",
+    "name": "Scalea Appartamento con Vista Mare",
+    "description": "Appartamento, Baia del Carpino, Scalea (CS)",
+    "image": "https://tonymontanait.github.io/italyscasa-content/foto/104 (13).webp",
     "offers": {
       "@type": "Offer",
-      "url": "https://italyscasa.com/anunci/dynamic/?rif=144",
-      "price": 330,
+      "url": "https://italyscasa.com/anunci/dynamic/?rif=104",
+      "price": 120,
       "priceCurrency": "EUR",
       "availability": "https://schema.org/InStock"
     },
     "inLanguage": "it",
     "isAccessibleForFree": true,
-    "wordCount": 298,
-    "keywords": "porto, maratea, appartamento, casa, della, mare, esclusivo, italys",
+    "wordCount": 201,
+    "keywords": "scalea, appartamento, baia, vista, carpino, sulla, mare, raffaele",
     "address": {
       "@type": "PostalAddress",
-      "addressLocality": "Maratea",
-      "streetAddress": "Via Porto 28"
+      "addressLocality": "Scalea (CS)",
+      "streetAddress": "Via Raffaele Sanseverino, 12"
     },
     "geo": {
       "@type": "GeoCoordinates",
-      "latitude": 39.989051,
-      "longitude": 15.709051
+      "latitude": 39.82246,
+      "longitude": 15.778885
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "ItalysCasa",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://tonymontanait.github.io/italyscasa-content/uploads/logo.webp"
+      }
+    },
+    "sameAs": [
+      "https://www.instagram.com/italyscasa?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
+      "https://www.facebook.com/profile.php?id=61551668563870",
+      "https://www.tiktok.com/@italyscasa1?is_from_webapp=1&sender_device=pc"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "Scalea Villa a schiera",
+    "description": "Italys Casa propone in vendita a Scalea, nella splendida Baia del Carpino, una villa a schiera al prezzo di 180.000 euro.",
+    "image": "https://tonymontanait.github.io/italyscasa-content/foto/306 (19).webp",
+    "offers": {
+      "@type": "Offer",
+      "url": "https://italyscasa.com/anunci/dynamic/?rif=306",
+      "price": 180,
+      "priceCurrency": "EUR",
+      "availability": "https://schema.org/InStock"
+    },
+    "inLanguage": "it",
+    "isAccessibleForFree": true,
+    "wordCount": 120,
+    "keywords": "scalea, villa, schiera, italys, casa, vendita, piano, bagno",
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Scalea ",
+      "streetAddress": "Via Valeriano de Bonis, 23"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": 39.825909,
+      "longitude": 15.783058
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "ItalysCasa",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://tonymontanait.github.io/italyscasa-content/uploads/logo.webp"
+      }
+    },
+    "sameAs": [
+      "https://www.instagram.com/italyscasa?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
+      "https://www.facebook.com/profile.php?id=61551668563870",
+      "https://www.tiktok.com/@italyscasa1?is_from_webapp=1&sender_device=pc"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "Scalea Appartamento",
+    "description": "Incantevole Appartamento alla Baia del Carpino, Scalea",
+    "image": "https://tonymontanait.github.io/italyscasa-content//foto/whatsapp-image-2025-05-14-at-10.53.03-2-.jpeg",
+    "offers": {
+      "@type": "Offer",
+      "url": "https://italyscasa.com/anunci/dynamic/?rif=113",
+      "price": 55,
+      "priceCurrency": "EUR",
+      "availability": "https://schema.org/InStock"
+    },
+    "inLanguage": "it",
+    "isAccessibleForFree": true,
+    "wordCount": 174,
+    "keywords": "appartamento, scalea, baia, carpino, mare, questo, alla, perfetto",
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Scalea",
+      "streetAddress": "Via Pezzotti"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": 39.823311,
+      "longitude": 15.778088
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "ItalysCasa",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://tonymontanait.github.io/italyscasa-content/uploads/logo.webp"
+      }
+    },
+    "sameAs": [
+      "https://www.instagram.com/italyscasa?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
+      "https://www.facebook.com/profile.php?id=61551668563870",
+      "https://www.tiktok.com/@italyscasa1?is_from_webapp=1&sender_device=pc"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "Cetraro Appartamento con Vista",
+    "description": "Appartamento Confortevole in Via Fontana 10, Cetraro Paese",
+    "image": "https://tonymontanait.github.io/italyscasa-content/foto/108 (13).webp",
+    "offers": {
+      "@type": "Offer",
+      "url": "https://italyscasa.com/anunci/dynamic/?rif=108",
+      "price": 85,
+      "priceCurrency": "EUR",
+      "availability": "https://schema.org/InStock"
+    },
+    "inLanguage": "it",
+    "isAccessibleForFree": true,
+    "wordCount": 267,
+    "keywords": "appartamento, cetraro, vista, della, piano, zona, sulle, montagne",
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Cetraro (CS)",
+      "streetAddress": "Via Fontana, 10"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": 39.516868,
+      "longitude": 15.94459
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "ItalysCasa",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://tonymontanait.github.io/italyscasa-content/uploads/logo.webp"
+      }
+    },
+    "sameAs": [
+      "https://www.instagram.com/italyscasa?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
+      "https://www.facebook.com/profile.php?id=61551668563870",
+      "https://www.tiktok.com/@italyscasa1?is_from_webapp=1&sender_device=pc"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "San Nicola Arcella Villa Familiare",
+    "description": "Villa con 4 Camere da Letto e Vista Spettacolare a San Nicola Arcella realizazione per nuova pescina in corso",
+    "image": "https://tonymontanait.github.io/italyscasa-content/foto/701 (13).webp",
+    "offers": {
+      "@type": "Offer",
+      "url": "https://italyscasa.com/anunci/dynamic/?rif=701",
+      "price": 489,
+      "priceCurrency": "EUR",
+      "availability": "https://schema.org/InStock"
+    },
+    "inLanguage": "it",
+    "isAccessibleForFree": true,
+    "wordCount": 406,
+    "keywords": "villa, nicola, arcella, letto, offre, piano, camere, vista",
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "San Nicola Arcella (CS)",
+      "streetAddress": "Via del Telegrafo"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": 39.840051,
+      "longitude": 15.781051
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "ItalysCasa",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://tonymontanait.github.io/italyscasa-content/uploads/logo.webp"
+      }
+    },
+    "sameAs": [
+      "https://www.instagram.com/italyscasa?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
+      "https://www.facebook.com/profile.php?id=61551668563870",
+      "https://www.tiktok.com/@italyscasa1?is_from_webapp=1&sender_device=pc"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "Scalea  Appartamento su 2 piani",
+    "description": "Appartamento su Due Piani in Vendita a Scalea: Un'Opportunità Unica nel Cuore della Città",
+    "image": "https://tonymontanait.github.io/italyscasa-content/foto/120 (16).webp",
+    "offers": {
+      "@type": "Offer",
+      "url": "https://italyscasa.com/anunci/dynamic/?rif=120",
+      "price": 37,
+      "priceCurrency": "EUR",
+      "availability": "https://schema.org/InStock"
+    },
+    "inLanguage": "it",
+    "isAccessibleForFree": true,
+    "wordCount": 269,
+    "keywords": "scalea, appartamento, casa, questa, piani, vivere, immobile, posizione",
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Scalea (CS)",
+      "streetAddress": "Via del mulino, 70"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": 39.805326,
+      "longitude": 15.79882
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "ItalysCasa",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://tonymontanait.github.io/italyscasa-content/uploads/logo.webp"
+      }
+    },
+    "sameAs": [
+      "https://www.instagram.com/italyscasa?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
+      "https://www.facebook.com/profile.php?id=61551668563870",
+      "https://www.tiktok.com/@italyscasa1?is_from_webapp=1&sender_device=pc"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "Maierà (CS)  Appartamento ",
+    "description": "Appartamento con Vista Spettacolare a Maierà",
+    "image": "https://tonymontanait.github.io/italyscasa-content/foto/712 (9).webp",
+    "offers": {
+      "@type": "Offer",
+      "url": "https://italyscasa.com/anunci/dynamic/?rif=712",
+      "price": 99,
+      "priceCurrency": "EUR",
+      "availability": "https://schema.org/InStock"
+    },
+    "inLanguage": "it",
+    "isAccessibleForFree": true,
+    "wordCount": 309,
+    "keywords": "maierà, vista, casa, mare, borgo, della, appartamento, questa",
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Maierà (CS) ",
+      "streetAddress": "Sciolle"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": 39.717655,
+      "longitude": 15.84917
     },
     "publisher": {
       "@type": "Organization",
@@ -1355,29 +494,275 @@
   {
     "@context": "https://schema.org",
     "@type": "Product",
-    "name": "Scalea Villa a schiera con giardino",
-    "description": "Villa a Schiera in Vendita al Villaggio VIP di Scalea (CS)",
-    "image": "https://tonymontanait.github.io/italyscasa-content/foto/127 (1).webp",
+    "name": "Praia a Mare Appartamento nella roccaforte",
+    "description": "Appartamento nella roccaforte “Il Fortino”, Praia a Mare (CS)",
+    "image": "https://tonymontanait.github.io/italyscasa-content/foto/307 (4).webp",
     "offers": {
       "@type": "Offer",
-      "url": "https://italyscasa.com/anunci/dynamic/?rif=127",
-      "price": 92,
+      "url": "https://italyscasa.com/anunci/dynamic/?rif=307",
+      "price": 130,
       "priceCurrency": "EUR",
       "availability": "https://schema.org/InStock"
     },
     "inLanguage": "it",
     "isAccessibleForFree": true,
-    "wordCount": 413,
-    "keywords": "piano, scalea, terra, appartamento, villaggio, complesso, ideale, vista",
+    "wordCount": 311,
+    "keywords": "praia, mare, appartamento, delle, roccaforte, fortino, della, isola",
     "address": {
       "@type": "PostalAddress",
-      "addressLocality": "Scalea",
-      "streetAddress": "Via Campo Volo, 35"
+      "addressLocality": "Praia a Mare",
+      "streetAddress": "Via Don Matteo dei Marchesi Cosentini, 18"
     },
     "geo": {
       "@type": "GeoCoordinates",
-      "latitude": 39.789699,
-      "longitude": 15.802923
+      "latitude": 39.873049,
+      "longitude": 15.790619
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "ItalysCasa",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://tonymontanait.github.io/italyscasa-content/uploads/logo.webp"
+      }
+    },
+    "sameAs": [
+      "https://www.instagram.com/italyscasa?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
+      "https://www.facebook.com/profile.php?id=61551668563870",
+      "https://www.tiktok.com/@italyscasa1?is_from_webapp=1&sender_device=pc"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "Scalea, Appartamento su 3 Piani",
+    "description": "Appartamento su 3 Piani con Giardino a Scalea, Baia del Carpino",
+    "image": "https://tonymontanait.github.io/italyscasa-content/foto/dji_0240.webp",
+    "offers": {
+      "@type": "Offer",
+      "url": "https://italyscasa.com/anunci/dynamic/?rif=110",
+      "price": 95,
+      "priceCurrency": "EUR",
+      "availability": "https://schema.org/InStock"
+    },
+    "inLanguage": "it",
+    "isAccessibleForFree": true,
+    "wordCount": 313,
+    "keywords": "appartamento, piani, giardino, spazio, scalea, circa, famiglie, giardini",
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Scalea",
+      "streetAddress": "Raffaele Sanseverino 20-28"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": 39.824416,
+      "longitude": 15.778587
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "ItalysCasa",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://tonymontanait.github.io/italyscasa-content/uploads/logo.webp"
+      }
+    },
+    "sameAs": [
+      "https://www.instagram.com/italyscasa?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
+      "https://www.facebook.com/profile.php?id=61551668563870",
+      "https://www.tiktok.com/@italyscasa1?is_from_webapp=1&sender_device=pc"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "Orsomarso Appartamento a centro storico",
+    "description": "Appartamento a Orsomarso (CS), centro storico",
+    "image": "https://tonymontanait.github.io/italyscasa-content/foto/141 (1).webp",
+    "offers": {
+      "@type": "Offer",
+      "url": "https://italyscasa.com/anunci/dynamic/?rif=141",
+      "price": 28,
+      "priceCurrency": "EUR",
+      "availability": "https://schema.org/InStock"
+    },
+    "inLanguage": "it",
+    "isAccessibleForFree": true,
+    "wordCount": 392,
+    "keywords": "orsomarso, borgo, della, appartamento, casa, parco, nazionale, pollino",
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Orsomarso(CS)",
+      "streetAddress": "Vico IX Vittorio Emanuele"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": 39.800513,
+      "longitude": 15.909561
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "ItalysCasa",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://tonymontanait.github.io/italyscasa-content/uploads/logo.webp"
+      }
+    },
+    "sameAs": [
+      "https://www.instagram.com/italyscasa?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
+      "https://www.facebook.com/profile.php?id=61551668563870",
+      "https://www.tiktok.com/@italyscasa1?is_from_webapp=1&sender_device=pc"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "Scalea Villa bifamiliare  su 2 piani",
+    "description": "Villa bifamiliare a Scalea su 2 piani, Via Piano Lettieri",
+    "image": "https://tonymontanait.github.io/italyscasa-content/foto/146 (8).webp",
+    "offers": {
+      "@type": "Offer",
+      "url": "https://italyscasa.com/anunci/dynamic/?rif=146",
+      "price": 260,
+      "priceCurrency": "EUR",
+      "availability": "https://schema.org/InStock"
+    },
+    "inLanguage": "it",
+    "isAccessibleForFree": true,
+    "wordCount": 325,
+    "keywords": "piano, villa, scalea, offre, bifamiliare, piani, lettieri, proprietà",
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Scalea",
+      "streetAddress": "Via Piano Lettieri"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": 39.807704,
+      "longitude": 15.805973
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "ItalysCasa",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://tonymontanait.github.io/italyscasa-content/uploads/logo.webp"
+      }
+    },
+    "sameAs": [
+      "https://www.instagram.com/italyscasa?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
+      "https://www.facebook.com/profile.php?id=61551668563870",
+      "https://www.tiktok.com/@italyscasa1?is_from_webapp=1&sender_device=pc"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "Santa Maria del Cedro Appartamento",
+    "description": "Appartamento a Santa Maria del Cedro Marina",
+    "image": "https://tonymontanait.github.io/italyscasa-content/foto/dsc02092.webp",
+    "offers": {
+      "@type": "Offer",
+      "url": "https://italyscasa.com/anunci/dynamic/?rif=147",
+      "price": 35,
+      "priceCurrency": "EUR",
+      "availability": "https://schema.org/InStock"
+    },
+    "inLanguage": "it",
+    "isAccessibleForFree": true,
+    "wordCount": 197,
+    "keywords": "appartamento, santa, maria, cedro, mare, marina, casa, letto",
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Santa Maria del Cedro Marina",
+      "streetAddress": "Degli Ulivi 373"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": 39.755806,
+      "longitude": 15.809581
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "ItalysCasa",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://tonymontanait.github.io/italyscasa-content/uploads/logo.webp"
+      }
+    },
+    "sameAs": [
+      "https://www.instagram.com/italyscasa?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
+      "https://www.facebook.com/profile.php?id=61551668563870",
+      "https://www.tiktok.com/@italyscasa1?is_from_webapp=1&sender_device=pc"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "San Nicola Arcella Villa ",
+    "description": "Villa a 3 Piani con Vista Mare Mozzafiato a San Nicola Arcella, Calabria",
+    "image": "https://tonymontanait.github.io/italyscasa-content/foto/106 (13).webp",
+    "offers": {
+      "@type": "Offer",
+      "url": "https://italyscasa.com/anunci/dynamic/?rif=106",
+      "price": 260,
+      "priceCurrency": "EUR",
+      "availability": "https://schema.org/InStock"
+    },
+    "inLanguage": "it",
+    "isAccessibleForFree": true,
+    "wordCount": 285,
+    "keywords": "villa, camera, nicola, arcella, vista, mare, della, piano",
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "San Nicola Arcella",
+      "streetAddress": "Via Pico"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": 39.864147,
+      "longitude": 15.80177
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "ItalysCasa",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://tonymontanait.github.io/italyscasa-content/uploads/logo.webp"
+      }
+    },
+    "sameAs": [
+      "https://www.instagram.com/italyscasa?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
+      "https://www.facebook.com/profile.php?id=61551668563870",
+      "https://www.tiktok.com/@italyscasa1?is_from_webapp=1&sender_device=pc"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "Villa a schiera a Scalea (CS)",
+    "description": "Villa a schiera, Baia del Carpino a Scalea (CS) - Italys Casa",
+    "image": "https://tonymontanait.github.io/italyscasa-content/foto/103 (1).webp",
+    "offers": {
+      "@type": "Offer",
+      "url": "https://italyscasa.com/anunci/dynamic/?rif=103",
+      "price": 90,
+      "priceCurrency": "EUR",
+      "availability": "https://schema.org/InStock"
+    },
+    "inLanguage": "it",
+    "isAccessibleForFree": true,
+    "wordCount": 307,
+    "keywords": "della, casa, scalea, villa, baia, carpino, senza, massimo",
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Scalea (CS)",
+      "streetAddress": "Via Raffaele Sanseverino, 100"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": 39.82246,
+      "longitude": 15.778885
     },
     "publisher": {
       "@type": "Organization",
@@ -1437,152 +822,70 @@
   {
     "@context": "https://schema.org",
     "@type": "Product",
-    "name": "Scalea Appartamento",
-    "description": "Appartamento in Vendita a Scalea in Via Pitagora - Un'Occasione da Non Perdere!",
-    "image": "https://tonymontanait.github.io/italyscasa-content/foto/109 (1).webp",
+    "name": "Scalea Appartamento su 2 piani",
+    "description": "Appartamento su 2 piani in Via Tommaso Campanella, Scalea (CS)",
+    "image": "https://tonymontanait.github.io/italyscasa-content/foto/rif-133-132-7-.webp",
     "offers": {
       "@type": "Offer",
-      "url": "https://italyscasa.com/anunci/dynamic/?rif=109",
-      "price": 40,
-      "priceCurrency": "EUR",
-      "availability": "https://schema.org/InStock"
-    },
-    "inLanguage": "it",
-    "isAccessibleForFree": true,
-    "wordCount": 259,
-    "keywords": "appartamento, scalea, pitagora, questa, delle, ideale, vendita, occasione",
-    "address": {
-      "@type": "PostalAddress",
-      "addressLocality": "Scalea (CS)",
-      "streetAddress": "Via Pitagora, 10"
-    },
-    "geo": {
-      "@type": "GeoCoordinates",
-      "latitude": 39.806367,
-      "longitude": 15.800134
-    },
-    "publisher": {
-      "@type": "Organization",
-      "name": "ItalysCasa",
-      "logo": {
-        "@type": "ImageObject",
-        "url": "https://tonymontanait.github.io/italyscasa-content/uploads/logo.webp"
-      }
-    },
-    "sameAs": [
-      "https://www.instagram.com/italyscasa?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
-      "https://www.facebook.com/profile.php?id=61551668563870",
-      "https://www.tiktok.com/@italyscasa1?is_from_webapp=1&sender_device=pc"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Product",
-    "name": "Scalea Appartamento",
-    "description": "Affascinante Appartamento a Scalea - Via Campo Volo",
-    "image": "https://tonymontanait.github.io/italyscasa-content/foto/112 (1).webp",
-    "offers": {
-      "@type": "Offer",
-      "url": "https://italyscasa.com/anunci/dynamic/?rif=112",
-      "price": 33,
+      "url": "https://italyscasa.com/anunci/dynamic/?rif=133-132",
+      "price": 55,
       "priceCurrency": "EUR",
       "availability": "https://schema.org/InStock"
     },
     "inLanguage": "it",
     "isAccessibleForFree": true,
     "wordCount": 188,
-    "keywords": "appartamento, scalea, campo, volo, questo, affascinante, della, calabria",
+    "keywords": "appartamento, scalea, tommaso, campanella, piani, dotato, ideale, della",
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Scalea ",
+      "streetAddress": "Via Tommaso Campanella, 142"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": 39.80834,
+      "longitude": 15.80402
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "ItalysCasa",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://tonymontanait.github.io/italyscasa-content/uploads/logo.webp"
+      }
+    },
+    "sameAs": [
+      "https://www.instagram.com/italyscasa?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
+      "https://www.facebook.com/profile.php?id=61551668563870",
+      "https://www.tiktok.com/@italyscasa1?is_from_webapp=1&sender_device=pc"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "Scalea Casa Castello a Centro Storico",
+    "description": "Casa nel Centro Storico di Scalea, Accanto al Castello Normanno",
+    "image": "https://tonymontanait.github.io/italyscasa-content/foto/135 (1).webp",
+    "offers": {
+      "@type": "Offer",
+      "url": "https://italyscasa.com/anunci/dynamic/?rif=135",
+      "price": 230,
+      "priceCurrency": "EUR",
+      "availability": "https://schema.org/InStock"
+    },
+    "inLanguage": "it",
+    "isAccessibleForFree": true,
+    "wordCount": 276,
+    "keywords": "scalea, castello, casa, piano, centro, storico, normanno, questo",
     "address": {
       "@type": "PostalAddress",
       "addressLocality": "Scalea (CS)",
-      "streetAddress": "Via Campo Volo"
+      "streetAddress": "Via Castello"
     },
     "geo": {
       "@type": "GeoCoordinates",
-      "latitude": 39.790504,
-      "longitude": 15.801535
-    },
-    "publisher": {
-      "@type": "Organization",
-      "name": "ItalysCasa",
-      "logo": {
-        "@type": "ImageObject",
-        "url": "https://tonymontanait.github.io/italyscasa-content/uploads/logo.webp"
-      }
-    },
-    "sameAs": [
-      "https://www.instagram.com/italyscasa?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
-      "https://www.facebook.com/profile.php?id=61551668563870",
-      "https://www.tiktok.com/@italyscasa1?is_from_webapp=1&sender_device=pc"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Product",
-    "name": "Grisolia  Casa indipendente al centro storico",
-    "description": "Casa a Schiera con Terrazzo e Giardino in Vendita a Grisolia (CS)",
-    "image": "https://tonymontanait.github.io/italyscasa-content/foto/115 (1).webp",
-    "offers": {
-      "@type": "Offer",
-      "url": "https://italyscasa.com/anunci/dynamic/?rif=115",
-      "price": 79,
-      "priceCurrency": "EUR",
-      "availability": "https://schema.org/InStock"
-    },
-    "inLanguage": "it",
-    "isAccessibleForFree": true,
-    "wordCount": 260,
-    "keywords": "casa, giardino, piano, grisolia, terrazzo, spazio, letto, cucina",
-    "address": {
-      "@type": "PostalAddress",
-      "addressLocality": "Grisolia (CS)",
-      "streetAddress": "Via Schina"
-    },
-    "geo": {
-      "@type": "GeoCoordinates",
-      "latitude": 39.722876,
-      "longitude": 15.857913
-    },
-    "publisher": {
-      "@type": "Organization",
-      "name": "ItalysCasa",
-      "logo": {
-        "@type": "ImageObject",
-        "url": "https://tonymontanait.github.io/italyscasa-content/uploads/logo.webp"
-      }
-    },
-    "sameAs": [
-      "https://www.instagram.com/italyscasa?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
-      "https://www.facebook.com/profile.php?id=61551668563870",
-      "https://www.tiktok.com/@italyscasa1?is_from_webapp=1&sender_device=pc"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Product",
-    "name": "San Nicola Arcella Villa con vista mozzafiato",
-    "description": "Villa Ristrutturata con Vista Panoramica a San Nicola Arcella, Calabria",
-    "image": "https://tonymontanait.github.io/italyscasa-content/foto/107 (29).webp",
-    "offers": {
-      "@type": "Offer",
-      "url": "https://italyscasa.com/anunci/dynamic/?rif=107",
-      "price": 170,
-      "priceCurrency": "EUR",
-      "availability": "https://schema.org/InStock"
-    },
-    "inLanguage": "it",
-    "isAccessibleForFree": true,
-    "wordCount": 242,
-    "keywords": "villa, vista, nicola, arcella, questa, mare, piano, mozzafiato",
-    "address": {
-      "@type": "PostalAddress",
-      "addressLocality": "San Nicola Arcella (CS)",
-      "streetAddress": "Via Sandro Pertini"
-    },
-    "geo": {
-      "@type": "GeoCoordinates",
-      "latitude": 39.844904,
-      "longitude": 15.790757
+      "latitude": 39.817739,
+      "longitude": 15.790952
     },
     "publisher": {
       "@type": "Organization",
@@ -1642,29 +945,726 @@
   {
     "@context": "https://schema.org",
     "@type": "Product",
-    "name": "Scalea Casa Castello a Centro Storico",
-    "description": "Casa nel Centro Storico di Scalea, Accanto al Castello Normanno",
-    "image": "https://tonymontanait.github.io/italyscasa-content/foto/135 (1).webp",
+    "name": "Verbicaro Villa con vista mozzafiato",
+    "description": "Villa con vista mozzafiato su due piani a Verbicaro (CS)",
+    "image": "https://tonymontanait.github.io/italyscasa-content/foto/145 (3).webp",
     "offers": {
       "@type": "Offer",
-      "url": "https://italyscasa.com/anunci/dynamic/?rif=135",
-      "price": 230,
+      "url": "https://italyscasa.com/anunci/dynamic/?rif=145",
+      "price": 170,
       "priceCurrency": "EUR",
       "availability": "https://schema.org/InStock"
     },
     "inLanguage": "it",
     "isAccessibleForFree": true,
-    "wordCount": 276,
-    "keywords": "scalea, castello, casa, piano, centro, storico, normanno, questo",
+    "wordCount": 378,
+    "keywords": "della, verbicaro, villa, mozzafiato, vista, questa, natura, proprietà",
     "address": {
       "@type": "PostalAddress",
-      "addressLocality": "Scalea (CS)",
-      "streetAddress": "Via Castello"
+      "addressLocality": "Verbicaro (CS)",
+      "streetAddress": "Verbicaro (CS)"
     },
     "geo": {
       "@type": "GeoCoordinates",
-      "latitude": 39.817739,
-      "longitude": 15.790952
+      "latitude": 39.758732,
+      "longitude": 15.912679
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "ItalysCasa",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://tonymontanait.github.io/italyscasa-content/uploads/logo.webp"
+      }
+    },
+    "sameAs": [
+      "https://www.instagram.com/italyscasa?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
+      "https://www.facebook.com/profile.php?id=61551668563870",
+      "https://www.tiktok.com/@italyscasa1?is_from_webapp=1&sender_device=pc"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "Scalea Villa a schiera con giardino",
+    "description": "Villa a Schiera in Vendita al Villaggio VIP di Scalea (CS)",
+    "image": "https://tonymontanait.github.io/italyscasa-content/foto/127 (1).webp",
+    "offers": {
+      "@type": "Offer",
+      "url": "https://italyscasa.com/anunci/dynamic/?rif=127",
+      "price": 92,
+      "priceCurrency": "EUR",
+      "availability": "https://schema.org/InStock"
+    },
+    "inLanguage": "it",
+    "isAccessibleForFree": true,
+    "wordCount": 413,
+    "keywords": "piano, scalea, terra, appartamento, villaggio, complesso, ideale, vista",
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Scalea",
+      "streetAddress": "Via Campo Volo, 35"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": 39.789699,
+      "longitude": 15.802923
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "ItalysCasa",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://tonymontanait.github.io/italyscasa-content/uploads/logo.webp"
+      }
+    },
+    "sameAs": [
+      "https://www.instagram.com/italyscasa?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
+      "https://www.facebook.com/profile.php?id=61551668563870",
+      "https://www.tiktok.com/@italyscasa1?is_from_webapp=1&sender_device=pc"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "Scalea Trilocale a centro ",
+    "description": "Trilocale in Via Fiume Lao",
+    "image": "https://tonymontanait.github.io/italyscasa-content/foto/142 (1).webp",
+    "offers": {
+      "@type": "Offer",
+      "url": "https://italyscasa.com/anunci/dynamic/?rif=142",
+      "price": 70,
+      "priceCurrency": "EUR",
+      "availability": "https://schema.org/InStock"
+    },
+    "inLanguage": "it",
+    "isAccessibleForFree": true,
+    "wordCount": 251,
+    "keywords": "scalea, trilocale, della, questo, mare, proprietà, centro, fiume",
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Scalea",
+      "streetAddress": "Via Fiume Lao, 155"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": 39.80798,
+      "longitude": 15.793747
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "ItalysCasa",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://tonymontanait.github.io/italyscasa-content/uploads/logo.webp"
+      }
+    },
+    "sameAs": [
+      "https://www.instagram.com/italyscasa?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
+      "https://www.facebook.com/profile.php?id=61551668563870",
+      "https://www.tiktok.com/@italyscasa1?is_from_webapp=1&sender_device=pc"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "Scalea Appartamento",
+    "description": "Affascinante Appartamento a Scalea - Via Campo Volo",
+    "image": "https://tonymontanait.github.io/italyscasa-content/foto/112 (1).webp",
+    "offers": {
+      "@type": "Offer",
+      "url": "https://italyscasa.com/anunci/dynamic/?rif=112",
+      "price": 33,
+      "priceCurrency": "EUR",
+      "availability": "https://schema.org/InStock"
+    },
+    "inLanguage": "it",
+    "isAccessibleForFree": true,
+    "wordCount": 188,
+    "keywords": "appartamento, scalea, campo, volo, questo, affascinante, della, calabria",
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Scalea (CS)",
+      "streetAddress": "Via Campo Volo"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": 39.790504,
+      "longitude": 15.801535
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "ItalysCasa",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://tonymontanait.github.io/italyscasa-content/uploads/logo.webp"
+      }
+    },
+    "sameAs": [
+      "https://www.instagram.com/italyscasa?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
+      "https://www.facebook.com/profile.php?id=61551668563870",
+      "https://www.tiktok.com/@italyscasa1?is_from_webapp=1&sender_device=pc"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "Scalea, Casa Albergo",
+    "description": "Appartamento monolocale a Baia del Carpino, Scalea",
+    "image": "https://tonymontanait.github.io/italyscasa-content/foto/whatsapp-image-2025-04-05-at-13.04.25-3-.webp",
+    "offers": {
+      "@type": "Offer",
+      "url": "https://italyscasa.com/anunci/dynamic/?rif=111",
+      "price": 65,
+      "priceCurrency": "EUR",
+      "availability": "https://schema.org/InStock"
+    },
+    "inLanguage": "it",
+    "isAccessibleForFree": true,
+    "wordCount": 225,
+    "keywords": "scalea, appartamento, mare, accogliente, casa, albergo, baia, carpino",
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Scalea",
+      "streetAddress": "San Severino"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": 39.822697,
+      "longitude": 15.777868
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "ItalysCasa",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://tonymontanait.github.io/italyscasa-content/uploads/logo.webp"
+      }
+    },
+    "sameAs": [
+      "https://www.instagram.com/italyscasa?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
+      "https://www.facebook.com/profile.php?id=61551668563870",
+      "https://www.tiktok.com/@italyscasa1?is_from_webapp=1&sender_device=pc"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "San Nicola Arcella Villa con vista mozzafiato",
+    "description": "Villa Ristrutturata con Vista Panoramica a San Nicola Arcella, Calabria",
+    "image": "https://tonymontanait.github.io/italyscasa-content/foto/107 (29).webp",
+    "offers": {
+      "@type": "Offer",
+      "url": "https://italyscasa.com/anunci/dynamic/?rif=107",
+      "price": 170,
+      "priceCurrency": "EUR",
+      "availability": "https://schema.org/InStock"
+    },
+    "inLanguage": "it",
+    "isAccessibleForFree": true,
+    "wordCount": 242,
+    "keywords": "villa, vista, nicola, arcella, questa, mare, piano, mozzafiato",
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "San Nicola Arcella (CS)",
+      "streetAddress": "Via Sandro Pertini"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": 39.844904,
+      "longitude": 15.790757
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "ItalysCasa",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://tonymontanait.github.io/italyscasa-content/uploads/logo.webp"
+      }
+    },
+    "sameAs": [
+      "https://www.instagram.com/italyscasa?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
+      "https://www.facebook.com/profile.php?id=61551668563870",
+      "https://www.tiktok.com/@italyscasa1?is_from_webapp=1&sender_device=pc"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "Grisolia Casa Palazzina a tre piani con giardino",
+    "description": "Grisolia (CS) - Splendida Palazzina Singola in Vendita vicino Scalea tra Storia e Cultura Italiana",
+    "image": "https://tonymontanait.github.io/italyscasa-content/foto/130 (23).webp",
+    "offers": {
+      "@type": "Offer",
+      "url": "https://italyscasa.com/anunci/dynamic/?rif=130",
+      "price": 150,
+      "priceCurrency": "EUR",
+      "availability": "https://schema.org/InStock"
+    },
+    "inLanguage": "it",
+    "isAccessibleForFree": true,
+    "wordCount": 282,
+    "keywords": "grisolia, casa, palazzina, sono, giardino, splendida, singola, vendita",
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Grisolia (CS)",
+      "streetAddress": "Via Lucido"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": 39.726871,
+      "longitude": 15.854461
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "ItalysCasa",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://tonymontanait.github.io/italyscasa-content/uploads/logo.webp"
+      }
+    },
+    "sameAs": [
+      "https://www.instagram.com/italyscasa?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
+      "https://www.facebook.com/profile.php?id=61551668563870",
+      "https://www.tiktok.com/@italyscasa1?is_from_webapp=1&sender_device=pc"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "Scalea Appartamento nel Centro Storico",
+    "description": "Appartamento nel Centro Storico di Scalea, Edificio del 1820",
+    "image": "https://tonymontanait.github.io/italyscasa-content/foto/dji_0220.webp",
+    "offers": {
+      "@type": "Offer",
+      "url": "https://italyscasa.com/anunci/dynamic/?rif=702",
+      "price": 140,
+      "priceCurrency": "EUR",
+      "availability": "https://schema.org/InStock"
+    },
+    "inLanguage": "it",
+    "isAccessibleForFree": true,
+    "wordCount": 262,
+    "keywords": "storico, appartamento, centro, scalea, storia, questa, proprietà, mare",
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Scalea ",
+      "streetAddress": "Vico Municipale, 15-20"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": 39.816461,
+      "longitude": 15.79095
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "ItalysCasa",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://tonymontanait.github.io/italyscasa-content/uploads/logo.webp"
+      }
+    },
+    "sameAs": [
+      "https://www.instagram.com/italyscasa?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
+      "https://www.facebook.com/profile.php?id=61551668563870",
+      "https://www.tiktok.com/@italyscasa1?is_from_webapp=1&sender_device=pc"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "San Nicola Arcella Appartamento ",
+    "description": "Appartamento in Vendita a San Nicola Arcella: Eleganza e Relax al Parco I Delfini",
+    "image": "https://tonymontanait.github.io/italyscasa-content/foto/122 (1).webp",
+    "offers": {
+      "@type": "Offer",
+      "url": "https://italyscasa.com/anunci/dynamic/?rif=122",
+      "price": 44,
+      "priceCurrency": "EUR",
+      "availability": "https://schema.org/InStock"
+    },
+    "inLanguage": "it",
+    "isAccessibleForFree": true,
+    "wordCount": 248,
+    "keywords": "nicola, arcella, della, appartamento, parco, delfini, casa, questa",
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "San Nicola Arcella (CS)",
+      "streetAddress": "Via del Telegrafo, 5"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": 39.837599,
+      "longitude": 15.779716
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "ItalysCasa",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://tonymontanait.github.io/italyscasa-content/uploads/logo.webp"
+      }
+    },
+    "sameAs": [
+      "https://www.instagram.com/italyscasa?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
+      "https://www.facebook.com/profile.php?id=61551668563870",
+      "https://www.tiktok.com/@italyscasa1?is_from_webapp=1&sender_device=pc"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "Scalea Villa indipendente con piscina",
+    "description": "Villa Prestigiosa con Piscina Privata a Scalea",
+    "image": "https://tonymontanait.github.io/italyscasa-content/foto/703 (17).webp",
+    "offers": {
+      "@type": "Offer",
+      "url": "https://italyscasa.com/anunci/dynamic/?rif=703",
+      "price": 490,
+      "priceCurrency": "EUR",
+      "availability": "https://schema.org/InStock"
+    },
+    "inLanguage": "it",
+    "isAccessibleForFree": true,
+    "wordCount": 257,
+    "keywords": "villa, piano, scalea, grande, zona, terra, ampio, piscina",
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Scalea (CS)",
+      "streetAddress": "Via del Mare, 2"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": 39.784774,
+      "longitude": 15.811043
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "ItalysCasa",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://tonymontanait.github.io/italyscasa-content/uploads/logo.webp"
+      }
+    },
+    "sameAs": [
+      "https://www.instagram.com/italyscasa?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
+      "https://www.facebook.com/profile.php?id=61551668563870",
+      "https://www.tiktok.com/@italyscasa1?is_from_webapp=1&sender_device=pc"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "Scalea Villa a schiera",
+    "description": "Italys Casa propone in vendita una villa a schiera al Villaggio VIP a Scalea (CS).",
+    "image": "https://tonymontanait.github.io/italyscasa-content/foto/117 (1).webp",
+    "offers": {
+      "@type": "Offer",
+      "url": "https://italyscasa.com/anunci/dynamic/?rif=117",
+      "price": 79,
+      "priceCurrency": "EUR",
+      "availability": "https://schema.org/InStock"
+    },
+    "inLanguage": "it",
+    "isAccessibleForFree": true,
+    "wordCount": 349,
+    "keywords": "piano, scalea, appartamenti, complesso, primo, terra, terrazza, appartamento",
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Scalea",
+      "streetAddress": "Via Campo Volo, 19"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": 39.789233,
+      "longitude": 15.801846
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "ItalysCasa",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://tonymontanait.github.io/italyscasa-content/uploads/logo.webp"
+      }
+    },
+    "sameAs": [
+      "https://www.instagram.com/italyscasa?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
+      "https://www.facebook.com/profile.php?id=61551668563870",
+      "https://www.tiktok.com/@italyscasa1?is_from_webapp=1&sender_device=pc"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "Scalea Appartamento con vista",
+    "description": "Scalea (CS) - Appartamento con vista in Via Dottor La Terza | Italys Casa",
+    "image": "https://tonymontanait.github.io/italyscasa-content/foto/129 (7).webp",
+    "offers": {
+      "@type": "Offer",
+      "url": "https://italyscasa.com/anunci/dynamic/?rif=129",
+      "price": 55,
+      "priceCurrency": "EUR",
+      "availability": "https://schema.org/InStock"
+    },
+    "inLanguage": "it",
+    "isAccessibleForFree": true,
+    "wordCount": 246,
+    "keywords": "scalea, casa, appartamento, vista, come, terza, questo, lungo",
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Scalea",
+      "streetAddress": "Via dr. La Terza"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": 39.813076,
+      "longitude": 15.80121
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "ItalysCasa",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://tonymontanait.github.io/italyscasa-content/uploads/logo.webp"
+      }
+    },
+    "sameAs": [
+      "https://www.instagram.com/italyscasa?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
+      "https://www.facebook.com/profile.php?id=61551668563870",
+      "https://www.tiktok.com/@italyscasa1?is_from_webapp=1&sender_device=pc"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "Reggio Emilia Villa con piscina ",
+    "description": "Villa con piscina a Reggio Emilia - Italys Casa",
+    "image": "https://tonymontanait.github.io/italyscasa-content/foto/711 (2).webp",
+    "offers": {
+      "@type": "Offer",
+      "url": "https://italyscasa.com/anunci/dynamic/?rif=711",
+      "price": 399,
+      "priceCurrency": "EUR",
+      "availability": "https://schema.org/InStock"
+    },
+    "inLanguage": "it",
+    "isAccessibleForFree": true,
+    "wordCount": 330,
+    "keywords": "villa, reggio, emilia, piscina, piano, fienile, elegante, dalla",
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Reggio Emilia (RE)",
+      "streetAddress": "Reggio Emilia"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": 44.701861,
+      "longitude": 10.636792
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "ItalysCasa",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://tonymontanait.github.io/italyscasa-content/uploads/logo.webp"
+      }
+    },
+    "sameAs": [
+      "https://www.instagram.com/italyscasa?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
+      "https://www.facebook.com/profile.php?id=61551668563870",
+      "https://www.tiktok.com/@italyscasa1?is_from_webapp=1&sender_device=pc"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "Scalea Appartamento ",
+    "description": "Delizioso Appartamento in Vendita a Scalea, Calabria - Parco Mimose",
+    "image": "https://tonymontanait.github.io/italyscasa-content/foto/119 (2).webp",
+    "offers": {
+      "@type": "Offer",
+      "url": "https://italyscasa.com/anunci/dynamic/?rif=119",
+      "price": 49,
+      "priceCurrency": "EUR",
+      "availability": "https://schema.org/InStock"
+    },
+    "inLanguage": "it",
+    "isAccessibleForFree": true,
+    "wordCount": 289,
+    "keywords": "appartamento, scalea, mare, zona, calabria, casa, cerca, soli",
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Scalea (CS)",
+      "streetAddress": "Via Lauro, 131"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": 39.810293,
+      "longitude": 15.795988
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "ItalysCasa",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://tonymontanait.github.io/italyscasa-content/uploads/logo.webp"
+      }
+    },
+    "sameAs": [
+      "https://www.instagram.com/italyscasa?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
+      "https://www.facebook.com/profile.php?id=61551668563870",
+      "https://www.tiktok.com/@italyscasa1?is_from_webapp=1&sender_device=pc"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "Grisolia  Casa indipendente al centro storico",
+    "description": "Casa a Schiera con Terrazzo e Giardino in Vendita a Grisolia (CS)",
+    "image": "https://tonymontanait.github.io/italyscasa-content/foto/115 (1).webp",
+    "offers": {
+      "@type": "Offer",
+      "url": "https://italyscasa.com/anunci/dynamic/?rif=115",
+      "price": 79,
+      "priceCurrency": "EUR",
+      "availability": "https://schema.org/InStock"
+    },
+    "inLanguage": "it",
+    "isAccessibleForFree": true,
+    "wordCount": 260,
+    "keywords": "casa, giardino, piano, grisolia, terrazzo, spazio, letto, cucina",
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Grisolia (CS)",
+      "streetAddress": "Via Schina"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": 39.722876,
+      "longitude": 15.857913
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "ItalysCasa",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://tonymontanait.github.io/italyscasa-content/uploads/logo.webp"
+      }
+    },
+    "sameAs": [
+      "https://www.instagram.com/italyscasa?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
+      "https://www.facebook.com/profile.php?id=61551668563870",
+      "https://www.tiktok.com/@italyscasa1?is_from_webapp=1&sender_device=pc"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "Porto di Maratea Appartamento esclusivo",
+    "description": "Appartamento esclusivo al Porto di Maratea (PZ) – Italys Casa",
+    "image": "https://tonymontanait.github.io/italyscasa-content/foto/144 (8).webp",
+    "offers": {
+      "@type": "Offer",
+      "url": "https://italyscasa.com/anunci/dynamic/?rif=144",
+      "price": 330,
+      "priceCurrency": "EUR",
+      "availability": "https://schema.org/InStock"
+    },
+    "inLanguage": "it",
+    "isAccessibleForFree": true,
+    "wordCount": 298,
+    "keywords": "porto, maratea, appartamento, casa, della, mare, esclusivo, italys",
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Maratea",
+      "streetAddress": "Via Porto 28"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": 39.989051,
+      "longitude": 15.709051
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "ItalysCasa",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://tonymontanait.github.io/italyscasa-content/uploads/logo.webp"
+      }
+    },
+    "sameAs": [
+      "https://www.instagram.com/italyscasa?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
+      "https://www.facebook.com/profile.php?id=61551668563870",
+      "https://www.tiktok.com/@italyscasa1?is_from_webapp=1&sender_device=pc"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "Scalea Villa a schiera",
+    "description": "Italys Casa propone in vendita una villa a schiera al Villaggio VIP a Scalea (CS).",
+    "image": "https://tonymontanait.github.io/italyscasa-content/foto/118 (14).webp",
+    "offers": {
+      "@type": "Offer",
+      "url": "https://italyscasa.com/anunci/dynamic/?rif=118",
+      "price": 92,
+      "priceCurrency": "EUR",
+      "availability": "https://schema.org/InStock"
+    },
+    "inLanguage": "it",
+    "isAccessibleForFree": true,
+    "wordCount": 347,
+    "keywords": "piano, scalea, appartamenti, complesso, terra, primo, terrazza, appartamento",
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Scalea (CS)",
+      "streetAddress": "Via Campo Volo, 19"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": 39.789694,
+      "longitude": 15.802784
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "ItalysCasa",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://tonymontanait.github.io/italyscasa-content/uploads/logo.webp"
+      }
+    },
+    "sameAs": [
+      "https://www.instagram.com/italyscasa?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
+      "https://www.facebook.com/profile.php?id=61551668563870",
+      "https://www.tiktok.com/@italyscasa1?is_from_webapp=1&sender_device=pc"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "Orsomarso Casa indipendente a 2 piani",
+    "description": "Casa indipendente a 2 piani, Orsomarso (CS), località Scorpari",
+    "image": "https://tonymontanait.github.io/italyscasa-content/foto/140 (6).webp",
+    "offers": {
+      "@type": "Offer",
+      "url": "https://italyscasa.com/anunci/dynamic/?rif=140",
+      "price": 50,
+      "priceCurrency": "EUR",
+      "availability": "https://schema.org/InStock"
+    },
+    "inLanguage": "it",
+    "isAccessibleForFree": true,
+    "wordCount": 230,
+    "keywords": "orsomarso, casa, piani, della, indipendente, località, scorpari, vivere",
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Orsomarso (CS)",
+      "streetAddress": "Contrada Scopari"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": 39.831932,
+      "longitude": 15.924338
     },
     "publisher": {
       "@type": "Organization",
