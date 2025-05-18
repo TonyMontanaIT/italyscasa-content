@@ -6830,18 +6830,18 @@
     "nomeZona": "Scalea ",
     "city1": "Scalea (CS)",
     "street1": "Via del mulino, 70",
-    "prezzo1": "37.000 ",
+    "prezzo1": "39.000 ",
     "tipo": "Appartamento",
     "totalrooms": "4",
     "rooms": "2",
     "bagni": "1",
     "zonam2": "80 m²",
     "floor": "1",
-    "elevator": "No",
-    "terrazzo": "No",
-    "prezzo": "37.000",
-    "giardino": "No",
-    "garage": "No",
+    "elevator": false,
+    "terrazzo": false,
+    "prezzo": "39.000",
+    "giardino": false,
+    "garage": false,
     "arredamenti": " ",
     "patio": " ",
     "corte": " ",
@@ -6957,7 +6957,8 @@
         "text6": ".",
         "nomeAnunci": "Scalea  Appartamento su 2 piani",
         "descrizione": "Appartamento su Due Piani in Vendita a Scalea: Un'Opportunità Unica nel Cuore della Città",
-        "arredamenti": " "
+        "arredamenti": " ",
+        "prezzoDescrizione": "39.000"
       },
       "ru": {
         "tipo": "Appartamento",
@@ -6975,7 +6976,8 @@
         "text6": ".",
         "nomeAnunci": "Scalea  Appartamento su 2 piani",
         "descrizione": "Appartamento su Due Piani in Vendita a Scalea: Un'Opportunità Unica nel Cuore della Città",
-        "arredamenti": " "
+        "arredamenti": " ",
+        "prezzoDescrizione": "39.000"
       },
       "lt": {
         "tipo": "Appartamento",
@@ -6993,7 +6995,8 @@
         "text6": ".",
         "nomeAnunci": "Scalea  Appartamento su 2 piani",
         "descrizione": "Appartamento su Due Piani in Vendita a Scalea: Un'Opportunità Unica nel Cuore della Città",
-        "arredamenti": " "
+        "arredamenti": " ",
+        "prezzoDescrizione": "39.000"
       },
       "lv": {
         "tipo": "Appartamento",
@@ -7011,7 +7014,8 @@
         "text6": ".",
         "nomeAnunci": "Scalea  Appartamento su 2 piani",
         "descrizione": "Appartamento su Due Piani in Vendita a Scalea: Un'Opportunità Unica nel Cuore della Città",
-        "arredamenti": " "
+        "arredamenti": " ",
+        "prezzoDescrizione": "39.000"
       },
       "pl": {
         "tipo": "Appartamento",
@@ -7029,7 +7033,8 @@
         "text6": ".",
         "nomeAnunci": "Scalea  Appartamento su 2 piani",
         "descrizione": "Appartamento su Due Piani in Vendita a Scalea: Un'Opportunità Unica nel Cuore della Città",
-        "arredamenti": " "
+        "arredamenti": " ",
+        "prezzoDescrizione": "39.000"
       },
       "fi": {
         "tipo": "Appartamento",
@@ -7047,7 +7052,8 @@
         "text6": ".",
         "nomeAnunci": "Scalea  Appartamento su 2 piani",
         "descrizione": "Appartamento su Due Piani in Vendita a Scalea: Un'Opportunità Unica nel Cuore della Città",
-        "arredamenti": " "
+        "arredamenti": " ",
+        "prezzoDescrizione": "39.000"
       },
       "cs": {
         "tipo": "Appartamento",
@@ -7065,7 +7071,8 @@
         "text6": ".",
         "nomeAnunci": "Scalea  Appartamento su 2 piani",
         "descrizione": "Appartamento su Due Piani in Vendita a Scalea: Un'Opportunità Unica nel Cuore della Città",
-        "arredamenti": " "
+        "arredamenti": " ",
+        "prezzoDescrizione": "39.000"
       },
       "de": {
         "tipo": "Appartamento",
@@ -7083,7 +7090,8 @@
         "text6": ".",
         "nomeAnunci": "Scalea  Appartamento su 2 piani",
         "descrizione": "Appartamento su Due Piani in Vendita a Scalea: Un'Opportunità Unica nel Cuore della Città",
-        "arredamenti": " "
+        "arredamenti": " ",
+        "prezzoDescrizione": "39.000"
       },
       "ar": {
         "tipo": "Appartamento",
@@ -7101,7 +7109,8 @@
         "text6": ".",
         "nomeAnunci": "Scalea  Appartamento su 2 piani",
         "descrizione": "Appartamento su Due Piani in Vendita a Scalea: Un'Opportunità Unica nel Cuore della Città",
-        "arredamenti": " "
+        "arredamenti": " ",
+        "prezzoDescrizione": "39.000"
       },
       "sv": {
         "tipo": "Appartamento",
@@ -7119,7 +7128,8 @@
         "text6": ".",
         "nomeAnunci": "Scalea  Appartamento su 2 piani",
         "descrizione": "Appartamento su Due Piani in Vendita a Scalea: Un'Opportunità Unica nel Cuore della Città",
-        "arredamenti": " "
+        "arredamenti": " ",
+        "prezzoDescrizione": "39.000"
       },
       "fr": {
         "tipo": "Appartamento",
@@ -7137,7 +7147,8 @@
         "text6": ".",
         "nomeAnunci": "Scalea  Appartamento su 2 piani",
         "descrizione": "Appartamento su Due Piani in Vendita a Scalea: Un'Opportunità Unica nel Cuore della Città",
-        "arredamenti": " "
+        "arredamenti": " ",
+        "prezzoDescrizione": "39.000"
       },
       "es": {
         "tipo": "Appartamento",
@@ -7155,7 +7166,8 @@
         "text6": ".",
         "nomeAnunci": "Scalea  Appartamento su 2 piani",
         "descrizione": "Appartamento su Due Piani in Vendita a Scalea: Un'Opportunità Unica nel Cuore della Città",
-        "arredamenti": " "
+        "arredamenti": " ",
+        "prezzoDescrizione": "39.000"
       },
       "it": {
         "nomeAnunci": "Scalea  Appartamento su 2 piani",
@@ -7174,10 +7186,11 @@
         "text6": ".",
         "descrizione": "Appartamento su Due Piani in Vendita a Scalea: Un'Opportunità Unica nel Cuore della Città",
         "tipo": "Appartamento",
-        "arredamenti": " "
+        "arredamenti": " ",
+        "prezzoDescrizione": "39.000"
       }
     },
-    "prezzoDescrizione": ""
+    "prezzoDescrizione": "39.000"
   },
   {
     "slug": "111",

@@ -1255,19 +1255,19 @@
     "nomeZona": "Scalea ",
     "city1": "Scalea (CS)",
     "street1": "Via del mulino, 70",
-    "prezzo1": "37.000 ",
+    "prezzo1": "39.000 ",
     "tipo": "Appartamento",
     "totalrooms": "4",
     "rooms": "2",
     "bagni": "1",
     "zonam2": "80 m²",
     "floor": "1",
-    "elevator": "No",
-    "terrazzo": "No",
-    "prezzo": "37.000",
-    "prezzoDescrizione": "",
-    "giardino": "No",
-    "garage": "No",
+    "elevator": false,
+    "terrazzo": false,
+    "prezzo": "39.000",
+    "prezzoDescrizione": "39.000",
+    "giardino": false,
+    "garage": false,
     "arredamenti": " ",
     "patio": " ",
     "corte": " ",
@@ -1289,79 +1289,79 @@
     "images": [
       {
         "src": "foto/120 (16).webp",
-        "alt": ""
+        "alt": " "
       },
       {
         "src": "foto/120 (13).webp",
-        "alt": ""
+        "alt": " "
       },
       {
         "src": "foto/120 (1).webp",
-        "alt": ""
+        "alt": " "
       },
       {
         "src": "foto/120 (4).webp",
-        "alt": ""
+        "alt": " "
       },
       {
         "src": "foto/120 (5).webp",
-        "alt": ""
+        "alt": " "
       },
       {
         "src": "foto/120 (6).webp",
-        "alt": ""
+        "alt": " "
       },
       {
         "src": "foto/120 (7).webp",
-        "alt": ""
+        "alt": " "
       },
       {
         "src": "foto/120 (8).webp",
-        "alt": ""
+        "alt": " "
       },
       {
         "src": "foto/120 (9).webp",
-        "alt": ""
+        "alt": " "
       },
       {
         "src": "foto/120 (10).webp",
-        "alt": ""
+        "alt": " "
       },
       {
         "src": "foto/120 (11).webp",
-        "alt": ""
+        "alt": " "
       },
       {
         "src": "foto/120 (12).webp",
-        "alt": ""
+        "alt": " "
       },
       {
         "src": "foto/120 (2).webp",
-        "alt": ""
+        "alt": " "
       },
       {
         "src": "foto/120 (14).webp",
-        "alt": ""
+        "alt": " "
       },
       {
         "src": "foto/120 (15).webp",
-        "alt": ""
+        "alt": " "
       },
       {
         "src": "foto/120 (3).webp",
-        "alt": ""
+        "alt": " "
       },
       {
         "src": "foto/120 (17).webp",
-        "alt": ""
+        "alt": " "
       },
       {
         "src": "foto/120 (18).webp",
-        "alt": ""
+        "alt": " "
       },
       {
         "src": "foto/120 (19).webp",
-        "alt": ""
+        "alt": " "
       }
     ],
     "latitude": "39.805326",
