@@ -740,20 +740,20 @@
   {
     "@context": "https://schema.org",
     "@type": "Product",
-    "name": "Villa a schiera a Scalea (CS)",
+    "name": "Appartamento in trattativa",
     "description": "Villa a schiera, Baia del Carpino a Scalea (CS) - Italys Casa",
     "image": "https://tonymontanait.github.io/italyscasa-content/foto/103 (1).webp",
     "offers": {
       "@type": "Offer",
       "url": "https://italyscasa.com/anunci/dynamic/?rif=103",
-      "price": 90,
+      "price": 0,
       "priceCurrency": "EUR",
       "availability": "https://schema.org/InStock"
     },
     "inLanguage": "it",
     "isAccessibleForFree": true,
     "wordCount": 307,
-    "keywords": "della, casa, scalea, villa, baia, carpino, senza, massimo",
+    "keywords": "della, casa, scalea, baia, carpino, senza, massimo, angolo",
     "address": {
       "@type": "PostalAddress",
       "addressLocality": "Scalea (CS)",
