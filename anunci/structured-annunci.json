@@ -1320,7 +1320,7 @@
     "offers": {
       "@type": "Offer",
       "url": "https://italyscasa.com/anunci/dynamic/?rif=703",
-      "price": 490,
+      "price": 499.5,
       "priceCurrency": "EUR",
       "availability": "https://schema.org/InStock"
     },

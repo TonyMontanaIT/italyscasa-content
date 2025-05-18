@@ -4987,16 +4987,16 @@
     "nomeZona": "Scalea ",
     "city1": "Scalea (CS)",
     "street1": "Via del Mare, 2",
-    "prezzo1": "490.000 ",
+    "prezzo1": "499.500 ",
     "tipo": "Villa",
     "totalrooms": "6",
     "rooms": "4",
     "bagni": "5",
     "zonam2": "400 m²",
     "floor": "1",
-    "elevator": "No",
+    "elevator": false,
     "terrazzo": "Si",
-    "prezzo": "490.000",
+    "prezzo": "499.500 ",
     "giardino": "2000 m²",
     "garage": "Si",
     "arredamenti": " ",
@@ -5118,7 +5118,8 @@
         "text6": "Questa villa di 6 camere da letto e 5 bagni, con una superficie interna totale di 400 mq, offre una grande qualità della vita, immersa in un’area tranquilla ma ben servita. La posizione esclusiva e gli ampi spazi esterni la rendono ideale per famiglie o come casa per le vacanze.",
         "nomeAnunci": "Scalea Villa indipendente con piscina",
         "descrizione": "Villa Prestigiosa con Piscina Privata a Scalea",
-        "arredamenti": " "
+        "arredamenti": " ",
+        "prezzoDescrizione": "499.500 "
       },
       "ru": {
         "tipo": "Villa",
@@ -5136,7 +5137,8 @@
         "text6": "Questa villa di 6 camere da letto e 5 bagni, con una superficie interna totale di 400 mq, offre una grande qualità della vita, immersa in un’area tranquilla ma ben servita. La posizione esclusiva e gli ampi spazi esterni la rendono ideale per famiglie o come casa per le vacanze.",
         "nomeAnunci": "Scalea Villa indipendente con piscina",
         "descrizione": "Villa Prestigiosa con Piscina Privata a Scalea",
-        "arredamenti": " "
+        "arredamenti": " ",
+        "prezzoDescrizione": "499.500 "
       },
       "lt": {
         "tipo": "Villa",
@@ -5154,7 +5156,8 @@
         "text6": "Questa villa di 6 camere da letto e 5 bagni, con una superficie interna totale di 400 mq, offre una grande qualità della vita, immersa in un’area tranquilla ma ben servita. La posizione esclusiva e gli ampi spazi esterni la rendono ideale per famiglie o come casa per le vacanze.",
         "nomeAnunci": "Scalea Villa indipendente con piscina",
         "descrizione": "Villa Prestigiosa con Piscina Privata a Scalea",
-        "arredamenti": " "
+        "arredamenti": " ",
+        "prezzoDescrizione": "499.500 "
       },
       "lv": {
         "tipo": "Villa",
@@ -5172,7 +5175,8 @@
         "text6": "Questa villa di 6 camere da letto e 5 bagni, con una superficie interna totale di 400 mq, offre una grande qualità della vita, immersa in un’area tranquilla ma ben servita. La posizione esclusiva e gli ampi spazi esterni la rendono ideale per famiglie o come casa per le vacanze.",
         "nomeAnunci": "Scalea Villa indipendente con piscina",
         "descrizione": "Villa Prestigiosa con Piscina Privata a Scalea",
-        "arredamenti": " "
+        "arredamenti": " ",
+        "prezzoDescrizione": "499.500 "
       },
       "pl": {
         "tipo": "Villa",
@@ -5190,7 +5194,8 @@
         "text6": "Questa villa di 6 camere da letto e 5 bagni, con una superficie interna totale di 400 mq, offre una grande qualità della vita, immersa in un’area tranquilla ma ben servita. La posizione esclusiva e gli ampi spazi esterni la rendono ideale per famiglie o come casa per le vacanze.",
         "nomeAnunci": "Scalea Villa indipendente con piscina",
         "descrizione": "Villa Prestigiosa con Piscina Privata a Scalea",
-        "arredamenti": " "
+        "arredamenti": " ",
+        "prezzoDescrizione": "499.500 "
       },
       "fi": {
         "tipo": "Villa",
@@ -5208,7 +5213,8 @@
         "text6": "Questa villa di 6 camere da letto e 5 bagni, con una superficie interna totale di 400 mq, offre una grande qualità della vita, immersa in un’area tranquilla ma ben servita. La posizione esclusiva e gli ampi spazi esterni la rendono ideale per famiglie o come casa per le vacanze.",
         "nomeAnunci": "Scalea Villa indipendente con piscina",
         "descrizione": "Villa Prestigiosa con Piscina Privata a Scalea",
-        "arredamenti": " "
+        "arredamenti": " ",
+        "prezzoDescrizione": "499.500 "
       },
       "cs": {
         "tipo": "Villa",
@@ -5226,7 +5232,8 @@
         "text6": "Questa villa di 6 camere da letto e 5 bagni, con una superficie interna totale di 400 mq, offre una grande qualità della vita, immersa in un’area tranquilla ma ben servita. La posizione esclusiva e gli ampi spazi esterni la rendono ideale per famiglie o come casa per le vacanze.",
         "nomeAnunci": "Scalea Villa indipendente con piscina",
         "descrizione": "Villa Prestigiosa con Piscina Privata a Scalea",
-        "arredamenti": " "
+        "arredamenti": " ",
+        "prezzoDescrizione": "499.500 "
       },
       "de": {
         "tipo": "Villa",
@@ -5244,7 +5251,8 @@
         "text6": "Questa villa di 6 camere da letto e 5 bagni, con una superficie interna totale di 400 mq, offre una grande qualità della vita, immersa in un’area tranquilla ma ben servita. La posizione esclusiva e gli ampi spazi esterni la rendono ideale per famiglie o come casa per le vacanze.",
         "nomeAnunci": "Scalea Villa indipendente con piscina",
         "descrizione": "Villa Prestigiosa con Piscina Privata a Scalea",
-        "arredamenti": " "
+        "arredamenti": " ",
+        "prezzoDescrizione": "499.500 "
       },
       "ar": {
         "tipo": "Villa",
@@ -5262,7 +5270,8 @@
         "text6": "Questa villa di 6 camere da letto e 5 bagni, con una superficie interna totale di 400 mq, offre una grande qualità della vita, immersa in un’area tranquilla ma ben servita. La posizione esclusiva e gli ampi spazi esterni la rendono ideale per famiglie o come casa per le vacanze.",
         "nomeAnunci": "Scalea Villa indipendente con piscina",
         "descrizione": "Villa Prestigiosa con Piscina Privata a Scalea",
-        "arredamenti": " "
+        "arredamenti": " ",
+        "prezzoDescrizione": "499.500 "
       },
       "sv": {
         "tipo": "Villa",
@@ -5280,7 +5289,8 @@
         "text6": "Questa villa di 6 camere da letto e 5 bagni, con una superficie interna totale di 400 mq, offre una grande qualità della vita, immersa in un’area tranquilla ma ben servita. La posizione esclusiva e gli ampi spazi esterni la rendono ideale per famiglie o come casa per le vacanze.",
         "nomeAnunci": "Scalea Villa indipendente con piscina",
         "descrizione": "Villa Prestigiosa con Piscina Privata a Scalea",
-        "arredamenti": " "
+        "arredamenti": " ",
+        "prezzoDescrizione": "499.500 "
       },
       "fr": {
         "tipo": "Villa",
@@ -5298,7 +5308,8 @@
         "text6": "Questa villa di 6 camere da letto e 5 bagni, con una superficie interna totale di 400 mq, offre una grande qualità della vita, immersa in un’area tranquilla ma ben servita. La posizione esclusiva e gli ampi spazi esterni la rendono ideale per famiglie o come casa per le vacanze.",
         "nomeAnunci": "Scalea Villa indipendente con piscina",
         "descrizione": "Villa Prestigiosa con Piscina Privata a Scalea",
-        "arredamenti": " "
+        "arredamenti": " ",
+        "prezzoDescrizione": "499.500 "
       },
       "es": {
         "tipo": "Villa",
@@ -5316,7 +5327,8 @@
         "text6": "Questa villa di 6 camere da letto e 5 bagni, con una superficie interna totale di 400 mq, offre una grande qualità della vita, immersa in un’area tranquilla ma ben servita. La posizione esclusiva e gli ampi spazi esterni la rendono ideale per famiglie o come casa per le vacanze.",
         "nomeAnunci": "Scalea Villa indipendente con piscina",
         "descrizione": "Villa Prestigiosa con Piscina Privata a Scalea",
-        "arredamenti": " "
+        "arredamenti": " ",
+        "prezzoDescrizione": "499.500 "
       },
       "it": {
         "nomeAnunci": "Scalea Villa indipendente con piscina",
@@ -5335,10 +5347,11 @@
         "text6": "Questa villa di 6 camere da letto e 5 bagni, con una superficie interna totale di 400 mq, offre una grande qualità della vita, immersa in un’area tranquilla ma ben servita. La posizione esclusiva e gli ampi spazi esterni la rendono ideale per famiglie o come casa per le vacanze.",
         "descrizione": "Villa Prestigiosa con Piscina Privata a Scalea",
         "tipo": "Villa",
-        "arredamenti": " "
+        "arredamenti": " ",
+        "prezzoDescrizione": "499.500 "
       }
     },
-    "prezzoDescrizione": ""
+    "prezzoDescrizione": "499.500 "
   },
   {
     "slug": "702",
