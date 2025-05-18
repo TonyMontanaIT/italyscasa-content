@@ -35,6 +35,7 @@ for file in md_folder.glob("*.md"):
         "elevator": meta.get("elevator", ""),
         "terrazzo": meta.get("terrazzo", ""),
         "prezzo": meta.get("prezzo", ""),
+        "prezzoDescrizione": meta.get("prezzoDescrizione", ""),
         "giardino": meta.get("giardino", ""),
         "garage": meta.get("garage", ""),
         "arredamenti": meta.get("arredamenti", ""),
