@@ -4499,17 +4499,17 @@
     "nomeZona": "Grisolia ",
     "city1": "Grisolia (CS)",
     "street1": "Via Lucido",
-    "prezzo1": "150.000 ",
+    "prezzo1": "160.000 ",
     "tipo": "Villa",
     "totalrooms": "10",
     "rooms": "4",
     "bagni": "2",
     "zonam2": "400 m²",
     "floor": "1",
-    "elevator": "No",
+    "elevator": false,
     "terrazzo": "Si",
-    "prezzo": "150.000",
-    "prezzoDescrizione": "",
+    "prezzo": "160.000",
+    "prezzoDescrizione": "160.000",
     "giardino": "500 m²",
     "garage": "Si",
     "arredamenti": " ",
@@ -4533,99 +4533,99 @@
     "images": [
       {
         "src": "foto/130 (23).webp",
-        "alt": ""
+        "alt": " "
       },
       {
         "src": "foto/130 (4).webp",
-        "alt": ""
+        "alt": " "
       },
       {
         "src": "foto/130 (10).webp",
-        "alt": ""
+        "alt": " "
       },
       {
         "src": "foto/130 (2).webp",
-        "alt": ""
+        "alt": " "
       },
       {
         "src": "foto/130 (5).webp",
-        "alt": ""
+        "alt": " "
       },
       {
         "src": "foto/130 (6).webp",
-        "alt": ""
+        "alt": " "
       },
       {
         "src": "foto/130 (7).webp",
-        "alt": ""
+        "alt": " "
       },
       {
         "src": "foto/130 (8).webp",
-        "alt": ""
+        "alt": " "
       },
       {
         "src": "foto/130 (9).webp",
-        "alt": ""
+        "alt": " "
       },
       {
         "src": "foto/130 (3).webp",
-        "alt": ""
+        "alt": " "
       },
       {
         "src": "foto/130 (11).webp",
-        "alt": ""
+        "alt": " "
       },
       {
         "src": "foto/130 (12).webp",
-        "alt": ""
+        "alt": " "
       },
       {
         "src": "foto/130 (13).webp",
-        "alt": ""
+        "alt": " "
       },
       {
         "src": "foto/130 (14).webp",
-        "alt": ""
+        "alt": " "
       },
       {
         "src": "foto/130 (15).webp",
-        "alt": ""
+        "alt": " "
       },
       {
         "src": "foto/130 (16).webp",
-        "alt": ""
+        "alt": " "
       },
       {
         "src": "foto/130 (17).webp",
-        "alt": ""
+        "alt": " "
       },
       {
         "src": "foto/130 (18).webp",
-        "alt": ""
+        "alt": " "
       },
       {
         "src": "foto/130 (19).webp",
-        "alt": ""
+        "alt": " "
       },
       {
         "src": "foto/130 (20).webp",
-        "alt": ""
+        "alt": " "
       },
       {
         "src": "foto/130 (21).webp",
-        "alt": ""
+        "alt": " "
       },
       {
         "src": "foto/130 (22).webp",
-        "alt": ""
+        "alt": " "
       },
       {
         "src": "foto/130 (1).webp",
-        "alt": ""
+        "alt": " "
       },
       {
         "src": "foto/130 (24).webp",
-        "alt": ""
+        "alt": " "
       }
     ],
     "latitude": "39.726871",

@@ -329,16 +329,16 @@
     "nomeZona": "Grisolia ",
     "city1": "Grisolia (CS)",
     "street1": "Via Lucido",
-    "prezzo1": "150.000 ",
+    "prezzo1": "160.000 ",
     "tipo": "Villa",
     "totalrooms": "10",
     "rooms": "4",
     "bagni": "2",
     "zonam2": "400 m²",
     "floor": "1",
-    "elevator": "No",
+    "elevator": false,
     "terrazzo": "Si",
-    "prezzo": "150.000",
+    "prezzo": "160.000",
     "giardino": "500 m²",
     "garage": "Si",
     "arredamenti": " ",
@@ -476,7 +476,8 @@
         "text6": "Questa palazzina singola a Grisolia, vicino Scalea, rappresenta un’opportunità unica per chi cerca una casa spaziosa, con una vista incantevole e un ambiente tranquillo. La proprietà viene venduta a corpo e non a misura, e con un prezzo richiesto di soli € 160.000,00 è un vero affare, difficile da trovare in zona.",
         "nomeAnunci": "Grisolia Casa Palazzina a tre piani con giardino",
         "descrizione": "Grisolia (CS) - Splendida Palazzina Singola in Vendita vicino Scalea tra Storia e Cultura Italiana",
-        "arredamenti": " "
+        "arredamenti": " ",
+        "prezzoDescrizione": "160.000"
       },
       "ru": {
         "tipo": "Villa",
@@ -494,7 +495,8 @@
         "text6": "Questa palazzina singola a Grisolia, vicino Scalea, rappresenta un’opportunità unica per chi cerca una casa spaziosa, con una vista incantevole e un ambiente tranquillo. La proprietà viene venduta a corpo e non a misura, e con un prezzo richiesto di soli € 160.000,00 è un vero affare, difficile da trovare in zona.",
         "nomeAnunci": "Grisolia Casa Palazzina a tre piani con giardino",
         "descrizione": "Grisolia (CS) - Splendida Palazzina Singola in Vendita vicino Scalea tra Storia e Cultura Italiana",
-        "arredamenti": " "
+        "arredamenti": " ",
+        "prezzoDescrizione": "160.000"
       },
       "lt": {
         "tipo": "Villa",
@@ -512,7 +514,8 @@
         "text6": "Questa palazzina singola a Grisolia, vicino Scalea, rappresenta un’opportunità unica per chi cerca una casa spaziosa, con una vista incantevole e un ambiente tranquillo. La proprietà viene venduta a corpo e non a misura, e con un prezzo richiesto di soli € 160.000,00 è un vero affare, difficile da trovare in zona.",
         "nomeAnunci": "Grisolia Casa Palazzina a tre piani con giardino",
         "descrizione": "Grisolia (CS) - Splendida Palazzina Singola in Vendita vicino Scalea tra Storia e Cultura Italiana",
-        "arredamenti": " "
+        "arredamenti": " ",
+        "prezzoDescrizione": "160.000"
       },
       "lv": {
         "tipo": "Villa",
@@ -530,7 +533,8 @@
         "text6": "Questa palazzina singola a Grisolia, vicino Scalea, rappresenta un’opportunità unica per chi cerca una casa spaziosa, con una vista incantevole e un ambiente tranquillo. La proprietà viene venduta a corpo e non a misura, e con un prezzo richiesto di soli € 160.000,00 è un vero affare, difficile da trovare in zona.",
         "nomeAnunci": "Grisolia Casa Palazzina a tre piani con giardino",
         "descrizione": "Grisolia (CS) - Splendida Palazzina Singola in Vendita vicino Scalea tra Storia e Cultura Italiana",
-        "arredamenti": " "
+        "arredamenti": " ",
+        "prezzoDescrizione": "160.000"
       },
       "pl": {
         "tipo": "Villa",
@@ -548,7 +552,8 @@
         "text6": "Questa palazzina singola a Grisolia, vicino Scalea, rappresenta un’opportunità unica per chi cerca una casa spaziosa, con una vista incantevole e un ambiente tranquillo. La proprietà viene venduta a corpo e non a misura, e con un prezzo richiesto di soli € 160.000,00 è un vero affare, difficile da trovare in zona.",
         "nomeAnunci": "Grisolia Casa Palazzina a tre piani con giardino",
         "descrizione": "Grisolia (CS) - Splendida Palazzina Singola in Vendita vicino Scalea tra Storia e Cultura Italiana",
-        "arredamenti": " "
+        "arredamenti": " ",
+        "prezzoDescrizione": "160.000"
       },
       "fi": {
         "tipo": "Villa",
@@ -566,7 +571,8 @@
         "text6": "Questa palazzina singola a Grisolia, vicino Scalea, rappresenta un’opportunità unica per chi cerca una casa spaziosa, con una vista incantevole e un ambiente tranquillo. La proprietà viene venduta a corpo e non a misura, e con un prezzo richiesto di soli € 160.000,00 è un vero affare, difficile da trovare in zona.",
         "nomeAnunci": "Grisolia Casa Palazzina a tre piani con giardino",
         "descrizione": "Grisolia (CS) - Splendida Palazzina Singola in Vendita vicino Scalea tra Storia e Cultura Italiana",
-        "arredamenti": " "
+        "arredamenti": " ",
+        "prezzoDescrizione": "160.000"
       },
       "cs": {
         "tipo": "Villa",
@@ -584,7 +590,8 @@
         "text6": "Questa palazzina singola a Grisolia, vicino Scalea, rappresenta un’opportunità unica per chi cerca una casa spaziosa, con una vista incantevole e un ambiente tranquillo. La proprietà viene venduta a corpo e non a misura, e con un prezzo richiesto di soli € 160.000,00 è un vero affare, difficile da trovare in zona.",
         "nomeAnunci": "Grisolia Casa Palazzina a tre piani con giardino",
         "descrizione": "Grisolia (CS) - Splendida Palazzina Singola in Vendita vicino Scalea tra Storia e Cultura Italiana",
-        "arredamenti": " "
+        "arredamenti": " ",
+        "prezzoDescrizione": "160.000"
       },
       "de": {
         "tipo": "Villa",
@@ -602,7 +609,8 @@
         "text6": "Questa palazzina singola a Grisolia, vicino Scalea, rappresenta un’opportunità unica per chi cerca una casa spaziosa, con una vista incantevole e un ambiente tranquillo. La proprietà viene venduta a corpo e non a misura, e con un prezzo richiesto di soli € 160.000,00 è un vero affare, difficile da trovare in zona.",
         "nomeAnunci": "Grisolia Casa Palazzina a tre piani con giardino",
         "descrizione": "Grisolia (CS) - Splendida Palazzina Singola in Vendita vicino Scalea tra Storia e Cultura Italiana",
-        "arredamenti": " "
+        "arredamenti": " ",
+        "prezzoDescrizione": "160.000"
       },
       "ar": {
         "tipo": "Villa",
@@ -620,7 +628,8 @@
         "text6": "Questa palazzina singola a Grisolia, vicino Scalea, rappresenta un’opportunità unica per chi cerca una casa spaziosa, con una vista incantevole e un ambiente tranquillo. La proprietà viene venduta a corpo e non a misura, e con un prezzo richiesto di soli € 160.000,00 è un vero affare, difficile da trovare in zona.",
         "nomeAnunci": "Grisolia Casa Palazzina a tre piani con giardino",
         "descrizione": "Grisolia (CS) - Splendida Palazzina Singola in Vendita vicino Scalea tra Storia e Cultura Italiana",
-        "arredamenti": " "
+        "arredamenti": " ",
+        "prezzoDescrizione": "160.000"
       },
       "sv": {
         "tipo": "Villa",
@@ -638,7 +647,8 @@
         "text6": "Questa palazzina singola a Grisolia, vicino Scalea, rappresenta un’opportunità unica per chi cerca una casa spaziosa, con una vista incantevole e un ambiente tranquillo. La proprietà viene venduta a corpo e non a misura, e con un prezzo richiesto di soli € 160.000,00 è un vero affare, difficile da trovare in zona.",
         "nomeAnunci": "Grisolia Casa Palazzina a tre piani con giardino",
         "descrizione": "Grisolia (CS) - Splendida Palazzina Singola in Vendita vicino Scalea tra Storia e Cultura Italiana",
-        "arredamenti": " "
+        "arredamenti": " ",
+        "prezzoDescrizione": "160.000"
       },
       "fr": {
         "tipo": "Villa",
@@ -656,7 +666,8 @@
         "text6": "Questa palazzina singola a Grisolia, vicino Scalea, rappresenta un’opportunità unica per chi cerca una casa spaziosa, con una vista incantevole e un ambiente tranquillo. La proprietà viene venduta a corpo e non a misura, e con un prezzo richiesto di soli € 160.000,00 è un vero affare, difficile da trovare in zona.",
         "nomeAnunci": "Grisolia Casa Palazzina a tre piani con giardino",
         "descrizione": "Grisolia (CS) - Splendida Palazzina Singola in Vendita vicino Scalea tra Storia e Cultura Italiana",
-        "arredamenti": " "
+        "arredamenti": " ",
+        "prezzoDescrizione": "160.000"
       },
       "es": {
         "tipo": "Villa",
@@ -674,7 +685,8 @@
         "text6": "Questa palazzina singola a Grisolia, vicino Scalea, rappresenta un’opportunità unica per chi cerca una casa spaziosa, con una vista incantevole e un ambiente tranquillo. La proprietà viene venduta a corpo e non a misura, e con un prezzo richiesto di soli € 160.000,00 è un vero affare, difficile da trovare in zona.",
         "nomeAnunci": "Grisolia Casa Palazzina a tre piani con giardino",
         "descrizione": "Grisolia (CS) - Splendida Palazzina Singola in Vendita vicino Scalea tra Storia e Cultura Italiana",
-        "arredamenti": " "
+        "arredamenti": " ",
+        "prezzoDescrizione": "160.000"
       },
       "it": {
         "nomeAnunci": "Grisolia Casa Palazzina a tre piani con giardino",
@@ -693,10 +705,11 @@
         "text6": "Questa palazzina singola a Grisolia, vicino Scalea, rappresenta un’opportunità unica per chi cerca una casa spaziosa, con una vista incantevole e un ambiente tranquillo. La proprietà viene venduta a corpo e non a misura, e con un prezzo richiesto di soli € 160.000,00 è un vero affare, difficile da trovare in zona.",
         "descrizione": "Grisolia (CS) - Splendida Palazzina Singola in Vendita vicino Scalea tra Storia e Cultura Italiana",
         "tipo": "Villa",
-        "arredamenti": " "
+        "arredamenti": " ",
+        "prezzoDescrizione": "160.000"
       }
     },
-    "prezzoDescrizione": ""
+    "prezzoDescrizione": "160.000"
   },
   {
     "slug": "306",
