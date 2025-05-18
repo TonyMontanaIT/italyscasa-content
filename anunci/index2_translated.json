@@ -8702,7 +8702,7 @@
     "nomeZona": "Parco Lao",
     "city1": "Scalea",
     "street1": "Via Fiume Lao, 155",
-    "prezzo1": "70.000 ",
+    "prezzo1": "72.000 ",
     "tipo": "Appartamento",
     "totalrooms": "3",
     "rooms": "1",
@@ -8711,8 +8711,8 @@
     "floor": "3",
     "elevator": "Si",
     "terrazzo": "Si",
-    "prezzo": "70.000",
-    "giardino": "No",
+    "prezzo": "72.000",
+    "giardino": false,
     "garage": "Si",
     "arredamenti": " ",
     "patio": " ",
@@ -8925,7 +8925,8 @@
         "text6": "Non lasciarti sfuggire questa occasione unica! Contatta Italys Casa oggi stesso per maggiori informazioni o per organizzare una visita e scoprire di persona il fascino e le possibilità offerte da questa splendida proprietà a Scalea.",
         "nomeAnunci": "Scalea Trilocale a centro ",
         "descrizione": "Trilocale in Via Fiume Lao",
-        "arredamenti": " "
+        "arredamenti": " ",
+        "prezzoDescrizione": "72.000 "
       },
       "ru": {
         "tipo": "Appartamento",
@@ -8943,7 +8944,8 @@
         "text6": "Non lasciarti sfuggire questa occasione unica! Contatta Italys Casa oggi stesso per maggiori informazioni o per organizzare una visita e scoprire di persona il fascino e le possibilità offerte da questa splendida proprietà a Scalea.",
         "nomeAnunci": "Scalea Trilocale a centro ",
         "descrizione": "Trilocale in Via Fiume Lao",
-        "arredamenti": " "
+        "arredamenti": " ",
+        "prezzoDescrizione": "72.000 "
       },
       "lt": {
         "tipo": "Appartamento",
@@ -8961,7 +8963,8 @@
         "text6": "Non lasciarti sfuggire questa occasione unica! Contatta Italys Casa oggi stesso per maggiori informazioni o per organizzare una visita e scoprire di persona il fascino e le possibilità offerte da questa splendida proprietà a Scalea.",
         "nomeAnunci": "Scalea Trilocale a centro ",
         "descrizione": "Trilocale in Via Fiume Lao",
-        "arredamenti": " "
+        "arredamenti": " ",
+        "prezzoDescrizione": "72.000 "
       },
       "lv": {
         "tipo": "Appartamento",
@@ -8979,7 +8982,8 @@
         "text6": "Non lasciarti sfuggire questa occasione unica! Contatta Italys Casa oggi stesso per maggiori informazioni o per organizzare una visita e scoprire di persona il fascino e le possibilità offerte da questa splendida proprietà a Scalea.",
         "nomeAnunci": "Scalea Trilocale a centro ",
         "descrizione": "Trilocale in Via Fiume Lao",
-        "arredamenti": " "
+        "arredamenti": " ",
+        "prezzoDescrizione": "72.000 "
       },
       "pl": {
         "tipo": "Appartamento",
@@ -8997,7 +9001,8 @@
         "text6": "Non lasciarti sfuggire questa occasione unica! Contatta Italys Casa oggi stesso per maggiori informazioni o per organizzare una visita e scoprire di persona il fascino e le possibilità offerte da questa splendida proprietà a Scalea.",
         "nomeAnunci": "Scalea Trilocale a centro ",
         "descrizione": "Trilocale in Via Fiume Lao",
-        "arredamenti": " "
+        "arredamenti": " ",
+        "prezzoDescrizione": "72.000 "
       },
       "fi": {
         "tipo": "Appartamento",
@@ -9015,7 +9020,8 @@
         "text6": "Non lasciarti sfuggire questa occasione unica! Contatta Italys Casa oggi stesso per maggiori informazioni o per organizzare una visita e scoprire di persona il fascino e le possibilità offerte da questa splendida proprietà a Scalea.",
         "nomeAnunci": "Scalea Trilocale a centro ",
         "descrizione": "Trilocale in Via Fiume Lao",
-        "arredamenti": " "
+        "arredamenti": " ",
+        "prezzoDescrizione": "72.000 "
       },
       "cs": {
         "tipo": "Appartamento",
@@ -9033,7 +9039,8 @@
         "text6": "Non lasciarti sfuggire questa occasione unica! Contatta Italys Casa oggi stesso per maggiori informazioni o per organizzare una visita e scoprire di persona il fascino e le possibilità offerte da questa splendida proprietà a Scalea.",
         "nomeAnunci": "Scalea Trilocale a centro ",
         "descrizione": "Trilocale in Via Fiume Lao",
-        "arredamenti": " "
+        "arredamenti": " ",
+        "prezzoDescrizione": "72.000 "
       },
       "de": {
         "tipo": "Appartamento",
@@ -9051,7 +9058,8 @@
         "text6": "Non lasciarti sfuggire questa occasione unica! Contatta Italys Casa oggi stesso per maggiori informazioni o per organizzare una visita e scoprire di persona il fascino e le possibilità offerte da questa splendida proprietà a Scalea.",
         "nomeAnunci": "Scalea Trilocale a centro ",
         "descrizione": "Trilocale in Via Fiume Lao",
-        "arredamenti": " "
+        "arredamenti": " ",
+        "prezzoDescrizione": "72.000 "
       },
       "ar": {
         "tipo": "Appartamento",
@@ -9069,7 +9077,8 @@
         "text6": "Non lasciarti sfuggire questa occasione unica! Contatta Italys Casa oggi stesso per maggiori informazioni o per organizzare una visita e scoprire di persona il fascino e le possibilità offerte da questa splendida proprietà a Scalea.",
         "nomeAnunci": "Scalea Trilocale a centro ",
         "descrizione": "Trilocale in Via Fiume Lao",
-        "arredamenti": " "
+        "arredamenti": " ",
+        "prezzoDescrizione": "72.000 "
       },
       "sv": {
         "tipo": "Appartamento",
@@ -9087,7 +9096,8 @@
         "text6": "Non lasciarti sfuggire questa occasione unica! Contatta Italys Casa oggi stesso per maggiori informazioni o per organizzare una visita e scoprire di persona il fascino e le possibilità offerte da questa splendida proprietà a Scalea.",
         "nomeAnunci": "Scalea Trilocale a centro ",
         "descrizione": "Trilocale in Via Fiume Lao",
-        "arredamenti": " "
+        "arredamenti": " ",
+        "prezzoDescrizione": "72.000 "
       },
       "fr": {
         "tipo": "Appartamento",
@@ -9105,7 +9115,8 @@
         "text6": "Non lasciarti sfuggire questa occasione unica! Contatta Italys Casa oggi stesso per maggiori informazioni o per organizzare una visita e scoprire di persona il fascino e le possibilità offerte da questa splendida proprietà a Scalea.",
         "nomeAnunci": "Scalea Trilocale a centro ",
         "descrizione": "Trilocale in Via Fiume Lao",
-        "arredamenti": " "
+        "arredamenti": " ",
+        "prezzoDescrizione": "72.000 "
       },
       "es": {
         "tipo": "Appartamento",
@@ -9123,7 +9134,8 @@
         "text6": "Non lasciarti sfuggire questa occasione unica! Contatta Italys Casa oggi stesso per maggiori informazioni o per organizzare una visita e scoprire di persona il fascino e le possibilità offerte da questa splendida proprietà a Scalea.",
         "nomeAnunci": "Scalea Trilocale a centro ",
         "descrizione": "Trilocale in Via Fiume Lao",
-        "arredamenti": " "
+        "arredamenti": " ",
+        "prezzoDescrizione": "72.000 "
       },
       "it": {
         "nomeAnunci": "Scalea Trilocale a centro ",
@@ -9142,10 +9154,11 @@
         "text6": "Non lasciarti sfuggire questa occasione unica! Contatta Italys Casa oggi stesso per maggiori informazioni o per organizzare una visita e scoprire di persona il fascino e le possibilità offerte da questa splendida proprietà a Scalea.",
         "descrizione": "Trilocale in Via Fiume Lao",
         "tipo": "Appartamento",
-        "arredamenti": " "
+        "arredamenti": " ",
+        "prezzoDescrizione": "72.000 "
       }
     },
-    "prezzoDescrizione": ""
+    "prezzoDescrizione": "72.000 "
   },
   {
     "slug": "108",

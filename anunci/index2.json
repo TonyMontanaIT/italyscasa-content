@@ -3887,7 +3887,7 @@
     "nomeZona": "Parco Lao",
     "city1": "Scalea",
     "street1": "Via Fiume Lao, 155",
-    "prezzo1": "70.000 ",
+    "prezzo1": "72.000 ",
     "tipo": "Appartamento",
     "totalrooms": "3",
     "rooms": "1",
@@ -3896,9 +3896,9 @@
     "floor": "3",
     "elevator": "Si",
     "terrazzo": "Si",
-    "prezzo": "70.000",
-    "prezzoDescrizione": "",
-    "giardino": "No",
+    "prezzo": "72.000",
+    "prezzoDescrizione": "72.000 ",
+    "giardino": false,
     "garage": "Si",
     "arredamenti": " ",
     "patio": " ",
@@ -3921,175 +3921,175 @@
     "images": [
       {
         "src": "foto/142 (1).webp",
-        "alt": ""
+        "alt": " "
       },
       {
         "src": "foto/142 (6).webp",
-        "alt": ""
+        "alt": " "
       },
       {
         "src": "foto/142 (17).webp",
-        "alt": ""
+        "alt": " "
       },
       {
         "src": "foto/142 (4).webp",
-        "alt": ""
+        "alt": " "
       },
       {
         "src": "foto/142 (5).webp",
-        "alt": ""
+        "alt": " "
       },
       {
         "src": "foto/142 (2).webp",
-        "alt": ""
+        "alt": " "
       },
       {
         "src": "foto/142 (7).webp",
-        "alt": ""
+        "alt": " "
       },
       {
         "src": "foto/142 (8).webp",
-        "alt": ""
+        "alt": " "
       },
       {
         "src": "foto/142 (9).webp",
-        "alt": ""
+        "alt": " "
       },
       {
         "src": "foto/142 (10).webp",
-        "alt": ""
+        "alt": " "
       },
       {
         "src": "foto/142 (11).webp",
-        "alt": ""
+        "alt": " "
       },
       {
         "src": "foto/142 (12).webp",
-        "alt": ""
+        "alt": " "
       },
       {
         "src": "foto/142 (13).webp",
-        "alt": ""
+        "alt": " "
       },
       {
         "src": "foto/142 (14).webp",
-        "alt": ""
+        "alt": " "
       },
       {
         "src": "foto/142 (15).webp",
-        "alt": ""
+        "alt": " "
       },
       {
         "src": "foto/142 (16).webp",
-        "alt": ""
+        "alt": " "
       },
       {
         "src": "foto/142 (3).webp",
-        "alt": ""
+        "alt": " "
       },
       {
         "src": "foto/142 (18).webp",
-        "alt": ""
+        "alt": " "
       },
       {
         "src": "foto/142 (19).webp",
-        "alt": ""
+        "alt": " "
       },
       {
         "src": "foto/142 (20).webp",
-        "alt": ""
+        "alt": " "
       },
       {
         "src": "foto/142 (21).webp",
-        "alt": ""
+        "alt": " "
       },
       {
         "src": "foto/142 (22).webp",
-        "alt": ""
+        "alt": " "
       },
       {
         "src": "foto/142 (23).webp",
-        "alt": ""
+        "alt": " "
       },
       {
         "src": "foto/142 (24).webp",
-        "alt": ""
+        "alt": " "
       },
       {
         "src": "foto/142 (25).webp",
-        "alt": ""
+        "alt": " "
       },
       {
         "src": "foto/142 (26).webp",
-        "alt": ""
+        "alt": " "
       },
       {
         "src": "foto/142 (27).webp",
-        "alt": ""
+        "alt": " "
       },
       {
         "src": "foto/142 (28).webp",
-        "alt": ""
+        "alt": " "
       },
       {
         "src": "foto/142 (29).webp",
-        "alt": ""
+        "alt": " "
       },
       {
         "src": "foto/142 (30).webp",
-        "alt": ""
+        "alt": " "
       },
       {
         "src": "foto/142 (31).webp",
-        "alt": ""
+        "alt": " "
       },
       {
         "src": "foto/142 (32).webp",
-        "alt": ""
+        "alt": " "
       },
       {
         "src": "foto/142 (33).webp",
-        "alt": ""
+        "alt": " "
       },
       {
         "src": "foto/142 (34).webp",
-        "alt": ""
+        "alt": " "
       },
       {
         "src": "foto/142 (35).webp",
-        "alt": ""
+        "alt": " "
       },
       {
         "src": "foto/142 (36).webp",
-        "alt": ""
+        "alt": " "
       },
       {
         "src": "foto/142 (37).webp",
-        "alt": ""
+        "alt": " "
       },
       {
         "src": "foto/142 (38).webp",
-        "alt": ""
+        "alt": " "
       },
       {
         "src": "foto/142 (39).webp",
-        "alt": ""
+        "alt": " "
       },
       {
         "src": "foto/142 (40).webp",
-        "alt": ""
+        "alt": " "
       },
       {
         "src": "foto/142 (41).webp",
-        "alt": ""
+        "alt": " "
       },
       {
         "src": "foto/142 (42).webp",
-        "alt": ""
+        "alt": " "
       },
       {
         "src": "foto/142 (43).webp",
-        "alt": ""
+        "alt": " "
       }
     ],
     "latitude": "39.807980",
