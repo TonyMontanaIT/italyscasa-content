@@ -265,7 +265,7 @@
     "address": {
       "@type": "PostalAddress",
       "addressLocality": "Scalea",
-      "streetAddress": "Via Pezzotti"
+      "streetAddress": "Via Pezzotti."
     },
     "geo": {
       "@type": "GeoCoordinates",
