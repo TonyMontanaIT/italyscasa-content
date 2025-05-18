@@ -37,25 +37,30 @@ def main():
         if 'it' not in base['translations']:
             base['translations']['it'] = {}
 
-        for lang in TARGET_LANGS:
-            if lang not in base['translations']:
-                base['translations'][lang] = {}
+        updated = False
 
-            for field in FIELDS_TO_TRANSLATE:
-                original = entry.get(field, '')
-                base['translations']['it'][field] = original
+        for field in FIELDS_TO_TRANSLATE:
+            new_val = entry.get(field, '')
+            old_val = base['translations']['it'].get(field, '')
 
-                # ⚠️ временно записываем оригинал вместо перевода
-                if original:
-                    base['translations'][lang][field] = original
-                    print(f"[{i+1}/{len(source_data)}] {slug} — {field} → {lang}: SKIPPED")
+            if new_val != old_val:
+                base['translations']['it'][field] = new_val
+                updated = True
+                for lang in TARGET_LANGS:
+                    if lang not in base['translations']:
+                        base['translations'][lang] = {}
+                    base['translations'][lang][field] = new_val  # пока без реального перевода
+                print(f"[{i+1}/{len(source_data)}] {slug} — {field}: UPDATED")
+            else:
+                print(f"[{i+1}/{len(source_data)}] {slug} — {field}: SKIPPED")
 
         translated_map[slug] = base
 
-        with open(TRANSLATED_FILE, 'w', encoding='utf-8') as f:
-            json.dump(list(translated_map.values()), f, ensure_ascii=False, indent=2)
+        if updated:
+            with open(TRANSLATED_FILE, 'w', encoding='utf-8') as f:
+                json.dump(list(translated_map.values()), f, ensure_ascii=False, indent=2)
 
-        time.sleep(ENTRY_PAUSE)
+            time.sleep(ENTRY_PAUSE)
 
     print("\n✅ Translated file saved:", TRANSLATED_FILE)
 
