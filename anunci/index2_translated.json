@@ -7973,18 +7973,18 @@
     "nomeZona": "Condominio Edelweis",
     "city1": "Santa Maria del Cedro Marina",
     "street1": "Degli Ulivi 373",
-    "prezzo1": "35.000",
+    "prezzo1": "37.000",
     "tipo": "Appartamento",
     "totalrooms": "3",
     "rooms": "2",
     "bagni": "1",
     "zonam2": "38 m²",
     "floor": "2",
-    "elevator": "No",
+    "elevator": false,
     "terrazzo": "Si",
-    "prezzo": "35.000",
-    "giardino": "No",
-    "garage": "No",
+    "prezzo": "37.000",
+    "giardino": false,
+    "garage": false,
     "arredamenti": " ",
     "patio": " ",
     "corte": " ",
@@ -8064,7 +8064,8 @@
         "text6": " ",
         "nomeAnunci": "Santa Maria del Cedro Appartamento",
         "descrizione": "Appartamento a Santa Maria del Cedro Marina",
-        "arredamenti": " "
+        "arredamenti": " ",
+        "prezzoDescrizione": "37.000"
       },
       "ru": {
         "tipo": "Appartamento",
@@ -8082,7 +8083,8 @@
         "text6": " ",
         "nomeAnunci": "Santa Maria del Cedro Appartamento",
         "descrizione": "Appartamento a Santa Maria del Cedro Marina",
-        "arredamenti": " "
+        "arredamenti": " ",
+        "prezzoDescrizione": "37.000"
       },
       "lt": {
         "tipo": "Appartamento",
@@ -8100,7 +8102,8 @@
         "text6": " ",
         "nomeAnunci": "Santa Maria del Cedro Appartamento",
         "descrizione": "Appartamento a Santa Maria del Cedro Marina",
-        "arredamenti": " "
+        "arredamenti": " ",
+        "prezzoDescrizione": "37.000"
       },
       "lv": {
         "tipo": "Appartamento",
@@ -8118,7 +8121,8 @@
         "text6": " ",
         "nomeAnunci": "Santa Maria del Cedro Appartamento",
         "descrizione": "Appartamento a Santa Maria del Cedro Marina",
-        "arredamenti": " "
+        "arredamenti": " ",
+        "prezzoDescrizione": "37.000"
       },
       "pl": {
         "tipo": "Appartamento",
@@ -8136,7 +8140,8 @@
         "text6": " ",
         "nomeAnunci": "Santa Maria del Cedro Appartamento",
         "descrizione": "Appartamento a Santa Maria del Cedro Marina",
-        "arredamenti": " "
+        "arredamenti": " ",
+        "prezzoDescrizione": "37.000"
       },
       "fi": {
         "tipo": "Appartamento",
@@ -8154,7 +8159,8 @@
         "text6": " ",
         "nomeAnunci": "Santa Maria del Cedro Appartamento",
         "descrizione": "Appartamento a Santa Maria del Cedro Marina",
-        "arredamenti": " "
+        "arredamenti": " ",
+        "prezzoDescrizione": "37.000"
       },
       "cs": {
         "tipo": "Appartamento",
@@ -8172,7 +8178,8 @@
         "text6": " ",
         "nomeAnunci": "Santa Maria del Cedro Appartamento",
         "descrizione": "Appartamento a Santa Maria del Cedro Marina",
-        "arredamenti": " "
+        "arredamenti": " ",
+        "prezzoDescrizione": "37.000"
       },
       "de": {
         "tipo": "Appartamento",
@@ -8190,7 +8197,8 @@
         "text6": " ",
         "nomeAnunci": "Santa Maria del Cedro Appartamento",
         "descrizione": "Appartamento a Santa Maria del Cedro Marina",
-        "arredamenti": " "
+        "arredamenti": " ",
+        "prezzoDescrizione": "37.000"
       },
       "ar": {
         "tipo": "Appartamento",
@@ -8208,7 +8216,8 @@
         "text6": " ",
         "nomeAnunci": "Santa Maria del Cedro Appartamento",
         "descrizione": "Appartamento a Santa Maria del Cedro Marina",
-        "arredamenti": " "
+        "arredamenti": " ",
+        "prezzoDescrizione": "37.000"
       },
       "sv": {
         "tipo": "Appartamento",
@@ -8226,7 +8235,8 @@
         "text6": " ",
         "nomeAnunci": "Santa Maria del Cedro Appartamento",
         "descrizione": "Appartamento a Santa Maria del Cedro Marina",
-        "arredamenti": " "
+        "arredamenti": " ",
+        "prezzoDescrizione": "37.000"
       },
       "fr": {
         "tipo": "Appartamento",
@@ -8244,7 +8254,8 @@
         "text6": " ",
         "nomeAnunci": "Santa Maria del Cedro Appartamento",
         "descrizione": "Appartamento a Santa Maria del Cedro Marina",
-        "arredamenti": " "
+        "arredamenti": " ",
+        "prezzoDescrizione": "37.000"
       },
       "es": {
         "tipo": "Appartamento",
@@ -8262,7 +8273,8 @@
         "text6": " ",
         "nomeAnunci": "Santa Maria del Cedro Appartamento",
         "descrizione": "Appartamento a Santa Maria del Cedro Marina",
-        "arredamenti": " "
+        "arredamenti": " ",
+        "prezzoDescrizione": "37.000"
       },
       "it": {
         "nomeAnunci": "Santa Maria del Cedro Appartamento",
@@ -8281,10 +8293,11 @@
         "text6": " ",
         "descrizione": "Appartamento a Santa Maria del Cedro Marina",
         "tipo": "Appartamento",
-        "arredamenti": " "
+        "arredamenti": " ",
+        "prezzoDescrizione": "37.000"
       }
     },
-    "prezzoDescrizione": ""
+    "prezzoDescrizione": "37.000"
   },
   {
     "slug": "701",

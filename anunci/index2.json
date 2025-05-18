@@ -2395,19 +2395,19 @@
     "nomeZona": "Condominio Edelweis",
     "city1": "Santa Maria del Cedro Marina",
     "street1": "Degli Ulivi 373",
-    "prezzo1": "35.000",
+    "prezzo1": "37.000",
     "tipo": "Appartamento",
     "totalrooms": "3",
     "rooms": "2",
     "bagni": "1",
     "zonam2": "38 m²",
     "floor": "2",
-    "elevator": "No",
+    "elevator": false,
     "terrazzo": "Si",
-    "prezzo": "35.000",
-    "prezzoDescrizione": "",
-    "giardino": "No",
-    "garage": "No",
+    "prezzo": "37.000",
+    "prezzoDescrizione": "37.000",
+    "giardino": false,
+    "garage": false,
     "arredamenti": " ",
     "patio": " ",
     "corte": " ",
@@ -2429,43 +2429,43 @@
     "images": [
       {
         "src": "foto/dsc02092.webp",
-        "alt": ""
+        "alt": " "
       },
       {
         "src": "foto/dsc02052-hdr.webp",
-        "alt": ""
+        "alt": " "
       },
       {
         "src": "foto/dsc02072-hdr.webp",
-        "alt": ""
+        "alt": " "
       },
       {
         "src": "foto/dsc02081-hdr.webp",
-        "alt": ""
+        "alt": " "
       },
       {
         "src": "foto/dsc02048-hdr.webp",
-        "alt": ""
+        "alt": " "
       },
       {
         "src": "foto/dsc02082-hdr.webp",
-        "alt": ""
+        "alt": " "
       },
       {
         "src": "foto/dsc02064-hdr.webp",
-        "alt": ""
+        "alt": " "
       },
       {
         "src": "foto/dsc02058-hdr.webp",
-        "alt": ""
+        "alt": " "
       },
       {
         "src": "foto/dji_0205.webp",
-        "alt": ""
+        "alt": " "
       },
       {
         "src": "foto/dji_0208.webp",
-        "alt": ""
+        "alt": " "
       }
     ],
     "latitude": "39.755806",
