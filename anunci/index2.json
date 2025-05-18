@@ -5014,18 +5014,18 @@
     "nomeZona": "Villa a schiera",
     "city1": "Scalea",
     "street1": "Via Campo Volo, 19",
-    "prezzo1": "79.000 ",
+    "prezzo1": "79.000.e",
     "tipo": "Villa",
     "totalrooms": "2",
     "rooms": "1",
     "bagni": "1",
     "zonam2": "55 m²",
     "floor": "1",
-    "elevator": "No",
+    "elevator": false,
     "terrazzo": "Si",
-    "prezzo": "79.000",
-    "giardino": "No",
-    "garage": "No",
+    "prezzo": "79.000e",
+    "giardino": false,
+    "garage": false,
     "arredamenti": " ",
     "patio": " ",
     "corte": " ",
@@ -5047,31 +5047,31 @@
     "images": [
       {
         "src": "foto/117 (1).webp",
-        "alt": ""
+        "alt": " "
       },
       {
         "src": "foto/117 (6).webp",
-        "alt": ""
+        "alt": " "
       },
       {
         "src": "foto/117 (4).webp",
-        "alt": ""
+        "alt": " "
       },
       {
         "src": "foto/117 (3).webp",
-        "alt": ""
+        "alt": " "
       },
       {
         "src": "foto/117 (5).webp",
-        "alt": ""
+        "alt": " "
       },
       {
         "src": "foto/117 (2).webp",
-        "alt": ""
+        "alt": " "
       },
       {
         "src": "foto/117 (7).webp",
-        "alt": ""
+        "alt": " "
       }
     ],
     "latitude": "39.789233",
