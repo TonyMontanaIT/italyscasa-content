@@ -70,11 +70,6 @@ def main():
         # === Проверка всех непереводимых полей ===
         for field in FIELDS_TO_COMPARE:
             new_val = entry.get(field)
-    
-            # 🚫 Удаляем значение False, заменяем пустой строкой
-            if new_val is False or new_val == "False":
-                new_val = ""
-
             old_val = base.get(field)
 
             if new_val != old_val:
