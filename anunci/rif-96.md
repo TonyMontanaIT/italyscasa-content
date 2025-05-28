@@ -1,7 +1,7 @@
 ---
 riferimento: "96"
 RIF1: "96"
-nomeAnunci: "Villa a trattativo "
+nomeAnunci: Diamante Calabria Villa con piscina, vista mare, in trattativa
 nomeZona: Diamante
 city1: Diamante
 street1: Teresa Benvenuto, 32
@@ -297,8 +297,8 @@ prezzoDescrizione: "0"
 video: " "
 video360: " "
 images:
-  - src: /foto/diamante.webp
-    alt: Diamante
+  - src: /foto/1-7-.webp
+    alt: "Villa con piscina vicino a mare a Diamante "
 latitude: " "
 longitude: " "
 ---
