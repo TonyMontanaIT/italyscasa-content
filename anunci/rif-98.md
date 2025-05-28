@@ -230,7 +230,7 @@ video: " "
 video360: " "
 images:
   - src: /foto/1-5-.webp
-    alt: Villa con giardino a Santa Maria Del Cedro Marina
+    alt: Villa con giardino a Santa Maria Del Cedro / Riviera dei cedri
 latitude: " "
 longitude: " "
 ---
