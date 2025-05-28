@@ -371,9 +371,9 @@
   {
     "@context": "https://schema.org",
     "@type": "Product",
-    "name": "Villa a Trattativo",
+    "name": "Belvedere Marittimo Calabria, Villa con vista monte e mare di lusso in Trattativa",
     "description": "In vendita: Villa esclusiva a Belvedere Marittimo – comfort, mare e charme storico",
-    "image": "https://tonymontanait.github.io/italyscasa-content//foto/belvedere.webp",
+    "image": "https://tonymontanait.github.io/italyscasa-content//foto/1-8-.webp",
     "offers": {
       "@type": "Offer",
       "url": "https://italyscasa.com/anunci/dynamic/?rif=95",
@@ -384,7 +384,7 @@
     "inLanguage": "it",
     "isAccessibleForFree": true,
     "wordCount": 240,
-    "keywords": "villa, belvedere, mare, beach, lido, marittimo, spiaggia, club",
+    "keywords": "belvedere, villa, mare, marittimo, beach, lido, spiaggia, club",
     "address": {
       "@type": "PostalAddress",
       "addressLocality": "Belvedere",
