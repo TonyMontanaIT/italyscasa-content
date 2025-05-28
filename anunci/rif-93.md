@@ -1,7 +1,7 @@
 ---
 riferimento: "93"
 RIF1: "93"
-nomeAnunci: Marina di Fuscaldo Villa con vista bella e mozzifiato in trattativa
+nomeAnunci: Marina di Fuscaldo Villa con vista mozzifiato in trattativa
 nomeZona: Marina di Fuscaldo
 city1: Marina di Fuscaldo
 street1: Via Napoli 43
