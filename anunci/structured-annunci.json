@@ -658,6 +658,47 @@
   {
     "@context": "https://schema.org",
     "@type": "Product",
+    "name": "San Lucido Villa prestigiosa vicino al mare in trattativa",
+    "description": "In vendita: Villa esclusiva a San Lucido – tra storia, mare e panorami mozzafiato",
+    "image": "https://tonymontanait.github.io/italyscasa-content//foto/1-12-.webp",
+    "offers": {
+      "@type": "Offer",
+      "url": "https://italyscasa.com/anunci/dynamic/?rif=91",
+      "price": 0,
+      "priceCurrency": "EUR",
+      "availability": "https://schema.org/InStock"
+    },
+    "inLanguage": "it",
+    "isAccessibleForFree": true,
+    "wordCount": 326,
+    "keywords": "spiaggia, lucido, lido, villa, beach, mare, café, ristorante",
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "San Lucido",
+      "streetAddress": "Via D.Carfino 43"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": null,
+      "longitude": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "ItalysCasa",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://tonymontanait.github.io/italyscasa-content/uploads/logo.webp"
+      }
+    },
+    "sameAs": [
+      "https://www.instagram.com/italyscasa?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
+      "https://www.facebook.com/profile.php?id=61551668563870",
+      "https://www.tiktok.com/@italyscasa1?is_from_webapp=1&sender_device=pc"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
     "name": "Scalea, Appartamento su 3 Piani",
     "description": "Appartamento su 3 Piani con Giardino a Scalea, Baia del Carpino",
     "image": "https://tonymontanait.github.io/italyscasa-content/foto/dji_0240.webp",
