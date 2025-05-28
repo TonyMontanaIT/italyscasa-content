@@ -1,7 +1,7 @@
 ---
 riferimento: "99"
 RIF1: "99"
-nomeAnunci: Villa a tratativo
+nomeAnunci: Scalea Villa in Trattativa
 nomeZona: Baia Del Carpino
 city1: Scalea
 street1: Raffaele Sanseverino, 56
@@ -280,8 +280,8 @@ prezzoDescrizione: "0"
 video: " "
 video360: " "
 images:
-  - src: /foto/scalea.webp
-    alt: Scalea
+  - src: /foto/1-1-.webp
+    alt: "Villa con piscina a Scalea "
 latitude: " "
 longitude: " "
 ---
