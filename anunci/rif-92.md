@@ -1,7 +1,7 @@
 ---
 riferimento: "92"
 RIF1: "92"
-nomeAnunci: Paola Calabria . Villa con bella vista mozzifiato
+nomeAnunci: Paola Calabria . Villa con vista mozzifiato
 nomeZona: Paola
 city1: Paola
 street1: Via degli ulivi 54
