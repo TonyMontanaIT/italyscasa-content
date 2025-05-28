@@ -1,7 +1,7 @@
 ---
 riferimento: "98"
 RIF1: "98"
-nomeAnunci: Villa a trattativo
+nomeAnunci: Santa Maria Del Cedro Villa in Trattativa
 nomeZona: Santa Maria del Cedro
 city1: Santa Maria del Cedro Marina
 street1: delle Allodole
@@ -229,8 +229,8 @@ prezzoDescrizione: "0"
 video: " "
 video360: " "
 images:
-  - src: /foto/smdcedro.webp
-    alt: Santa Maria Del Cedro
+  - src: /foto/1-5-.webp
+    alt: Villa con giardino a Santa Maria Del Cedro Marina
 latitude: " "
 longitude: " "
 ---
