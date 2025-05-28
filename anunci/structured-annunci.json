@@ -1396,9 +1396,9 @@
   {
     "@context": "https://schema.org",
     "@type": "Product",
-    "name": "Villa a trattativo",
+    "name": "Cirella Villa con vista mare in Trattativa ",
     "description": "In vendita: Villa panoramica esclusiva a Cirella – il cuore della Riviera dei Cedri",
-    "image": "https://tonymontanait.github.io/italyscasa-content//foto/cirella.webp",
+    "image": "https://tonymontanait.github.io/italyscasa-content//foto/1-6-.webp",
     "offers": {
       "@type": "Offer",
       "url": "https://italyscasa.com/anunci/dynamic/?rif=97",
@@ -1409,7 +1409,7 @@
     "inLanguage": "it",
     "isAccessibleForFree": true,
     "wordCount": 244,
-    "keywords": "lido, cirella, villa, riviera, mare, spiaggia, lungomare, playa",
+    "keywords": "lido, cirella, villa, mare, riviera, spiaggia, lungomare, playa",
     "address": {
       "@type": "PostalAddress",
       "addressLocality": "Cirella",
