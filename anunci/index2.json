@@ -439,23 +439,23 @@
     "slug": "104",
     "riferimento": "104",
     "rif1": "104",
-    "nomeAnunci": "Scalea Appartamento con Vista Mare",
+    "nomeAnunci": "Scalea Appartamento con Vista e Vicino al Mare in Trattativa",
     "nomeZona": "Baia del Carpino",
     "city1": "Scalea (CS)",
     "street1": "Via Raffaele Sanseverino, 12",
-    "prezzo1": "120.000 ",
+    "prezzo1": "0 ",
     "tipo": "Appartamento",
     "totalrooms": "2",
     "rooms": "2",
     "bagni": "1",
     "zonam2": "70 m²",
     "floor": "1",
-    "elevator": "No",
+    "elevator": "False",
     "terrazzo": "Si",
-    "prezzo": "120.000",
-    "prezzoDescrizione": "",
-    "giardino": "No",
-    "garage": "No",
+    "prezzo": "0",
+    "prezzoDescrizione": " ",
+    "giardino": "False",
+    "garage": "False",
     "arredamenti": " ",
     "patio": " ",
     "corte": " ",
@@ -477,151 +477,151 @@
     "images": [
       {
         "src": "foto/104 (13).webp",
-        "alt": ""
+        "alt": " "
       },
       {
         "src": "foto/104 (10).webp",
-        "alt": ""
+        "alt": " "
       },
       {
         "src": "foto/104 (19).webp",
-        "alt": ""
+        "alt": " "
       },
       {
         "src": "foto/104 (12).webp",
-        "alt": ""
+        "alt": " "
       },
       {
         "src": "foto/104 (1).webp",
-        "alt": ""
+        "alt": " "
       },
       {
         "src": "foto/104 (14).webp",
-        "alt": ""
+        "alt": " "
       },
       {
         "src": "foto/104 (15).webp",
-        "alt": ""
+        "alt": " "
       },
       {
         "src": "foto/104 (16).webp",
-        "alt": ""
+        "alt": " "
       },
       {
         "src": "foto/104 (17).webp",
-        "alt": ""
+        "alt": " "
       },
       {
         "src": "foto/104 (18).webp",
-        "alt": ""
+        "alt": " "
       },
       {
         "src": "foto/104 (11).webp",
-        "alt": ""
+        "alt": " "
       },
       {
         "src": "foto/104 (2).webp",
-        "alt": ""
+        "alt": " "
       },
       {
         "src": "foto/104 (20).webp",
-        "alt": ""
+        "alt": " "
       },
       {
         "src": "foto/104 (21).webp",
-        "alt": ""
+        "alt": " "
       },
       {
         "src": "foto/104 (22).webp",
-        "alt": ""
+        "alt": " "
       },
       {
         "src": "foto/104 (23).webp",
-        "alt": ""
+        "alt": " "
       },
       {
         "src": "foto/104 (24).webp",
-        "alt": ""
+        "alt": " "
       },
       {
         "src": "foto/104 (25).webp",
-        "alt": ""
+        "alt": " "
       },
       {
         "src": "foto/104 (26).webp",
-        "alt": ""
+        "alt": " "
       },
       {
         "src": "foto/104 (27).webp",
-        "alt": ""
+        "alt": " "
       },
       {
         "src": "foto/104 (28).webp",
-        "alt": ""
+        "alt": " "
       },
       {
         "src": "foto/104 (29).webp",
-        "alt": ""
+        "alt": " "
       },
       {
         "src": "foto/104 (3).webp",
-        "alt": ""
+        "alt": " "
       },
       {
         "src": "foto/104 (30).webp",
-        "alt": ""
+        "alt": " "
       },
       {
         "src": "foto/104 (31).webp",
-        "alt": ""
+        "alt": " "
       },
       {
         "src": "foto/104 (32).webp",
-        "alt": ""
+        "alt": " "
       },
       {
         "src": "foto/104 (33).webp",
-        "alt": ""
+        "alt": " "
       },
       {
         "src": "foto/104 (34).webp",
-        "alt": ""
+        "alt": " "
       },
       {
         "src": "foto/104 (35).webp",
-        "alt": ""
+        "alt": " "
       },
       {
         "src": "foto/104 (36).webp",
-        "alt": ""
+        "alt": " "
       },
       {
         "src": "foto/104 (37).webp",
-        "alt": ""
+        "alt": " "
       },
       {
         "src": "foto/104 (4).webp",
-        "alt": ""
+        "alt": " "
       },
       {
         "src": "foto/104 (5).webp",
-        "alt": ""
+        "alt": " "
       },
       {
         "src": "foto/104 (6).webp",
-        "alt": ""
+        "alt": " "
       },
       {
         "src": "foto/104 (7).webp",
-        "alt": ""
+        "alt": " "
       },
       {
         "src": "foto/104 (8).webp",
-        "alt": ""
+        "alt": " "
       },
       {
         "src": "foto/104 (9).webp",
-        "alt": ""
+        "alt": " "
       }
     ],
     "latitude": "39.822460",

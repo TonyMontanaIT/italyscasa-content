@@ -1786,18 +1786,18 @@
     "nomeZona": "Baia del Carpino",
     "city1": "Scalea (CS)",
     "street1": "Via Raffaele Sanseverino, 12",
-    "prezzo1": "120.000 ",
+    "prezzo1": "0 ",
     "tipo": "Appartamento",
     "totalrooms": "2",
     "rooms": "2",
     "bagni": "1",
     "zonam2": "70 m²",
     "floor": "1",
-    "elevator": "No",
+    "elevator": "False",
     "terrazzo": "Si",
-    "prezzo": "120.000",
-    "giardino": "No",
-    "garage": "No",
+    "prezzo": "0",
+    "giardino": "False",
+    "garage": "False",
     "arredamenti": " ",
     "patio": " ",
     "corte": " ",
@@ -1983,9 +1983,10 @@
         "text5": "Non lasciarti sfuggire questa occasione imperdibile! Contattaci subito per organizzare una visita e scoprire di persona la bellezza e il fascino di questa casa. La tua nuova vita in Calabria ti aspetta!",
         "h2t6": " ",
         "text6": " ",
-        "nomeAnunci": "Scalea Appartamento con Vista Mare",
+        "nomeAnunci": "Scalea Appartamento con Vista e Vicino al Mare in Trattativa",
         "descrizione": "Appartamento, Baia del Carpino, Scalea (CS)",
-        "arredamenti": " "
+        "arredamenti": " ",
+        "prezzoDescrizione": " "
       },
       "ru": {
         "tipo": "Appartamento",
@@ -2001,9 +2002,10 @@
         "text5": "Non lasciarti sfuggire questa occasione imperdibile! Contattaci subito per organizzare una visita e scoprire di persona la bellezza e il fascino di questa casa. La tua nuova vita in Calabria ti aspetta!",
         "h2t6": " ",
         "text6": " ",
-        "nomeAnunci": "Scalea Appartamento con Vista Mare",
+        "nomeAnunci": "Scalea Appartamento con Vista e Vicino al Mare in Trattativa",
         "descrizione": "Appartamento, Baia del Carpino, Scalea (CS)",
-        "arredamenti": " "
+        "arredamenti": " ",
+        "prezzoDescrizione": " "
       },
       "lt": {
         "tipo": "Appartamento",
@@ -2019,9 +2021,10 @@
         "text5": "Non lasciarti sfuggire questa occasione imperdibile! Contattaci subito per organizzare una visita e scoprire di persona la bellezza e il fascino di questa casa. La tua nuova vita in Calabria ti aspetta!",
         "h2t6": " ",
         "text6": " ",
-        "nomeAnunci": "Scalea Appartamento con Vista Mare",
+        "nomeAnunci": "Scalea Appartamento con Vista e Vicino al Mare in Trattativa",
         "descrizione": "Appartamento, Baia del Carpino, Scalea (CS)",
-        "arredamenti": " "
+        "arredamenti": " ",
+        "prezzoDescrizione": " "
       },
       "lv": {
         "tipo": "Appartamento",
@@ -2037,9 +2040,10 @@
         "text5": "Non lasciarti sfuggire questa occasione imperdibile! Contattaci subito per organizzare una visita e scoprire di persona la bellezza e il fascino di questa casa. La tua nuova vita in Calabria ti aspetta!",
         "h2t6": " ",
         "text6": " ",
-        "nomeAnunci": "Scalea Appartamento con Vista Mare",
+        "nomeAnunci": "Scalea Appartamento con Vista e Vicino al Mare in Trattativa",
         "descrizione": "Appartamento, Baia del Carpino, Scalea (CS)",
-        "arredamenti": " "
+        "arredamenti": " ",
+        "prezzoDescrizione": " "
       },
       "pl": {
         "tipo": "Appartamento",
@@ -2055,9 +2059,10 @@
         "text5": "Non lasciarti sfuggire questa occasione imperdibile! Contattaci subito per organizzare una visita e scoprire di persona la bellezza e il fascino di questa casa. La tua nuova vita in Calabria ti aspetta!",
         "h2t6": " ",
         "text6": " ",
-        "nomeAnunci": "Scalea Appartamento con Vista Mare",
+        "nomeAnunci": "Scalea Appartamento con Vista e Vicino al Mare in Trattativa",
         "descrizione": "Appartamento, Baia del Carpino, Scalea (CS)",
-        "arredamenti": " "
+        "arredamenti": " ",
+        "prezzoDescrizione": " "
       },
       "fi": {
         "tipo": "Appartamento",
@@ -2073,9 +2078,10 @@
         "text5": "Non lasciarti sfuggire questa occasione imperdibile! Contattaci subito per organizzare una visita e scoprire di persona la bellezza e il fascino di questa casa. La tua nuova vita in Calabria ti aspetta!",
         "h2t6": " ",
         "text6": " ",
-        "nomeAnunci": "Scalea Appartamento con Vista Mare",
+        "nomeAnunci": "Scalea Appartamento con Vista e Vicino al Mare in Trattativa",
         "descrizione": "Appartamento, Baia del Carpino, Scalea (CS)",
-        "arredamenti": " "
+        "arredamenti": " ",
+        "prezzoDescrizione": " "
       },
       "cs": {
         "tipo": "Appartamento",
@@ -2091,9 +2097,10 @@
         "text5": "Non lasciarti sfuggire questa occasione imperdibile! Contattaci subito per organizzare una visita e scoprire di persona la bellezza e il fascino di questa casa. La tua nuova vita in Calabria ti aspetta!",
         "h2t6": " ",
         "text6": " ",
-        "nomeAnunci": "Scalea Appartamento con Vista Mare",
+        "nomeAnunci": "Scalea Appartamento con Vista e Vicino al Mare in Trattativa",
         "descrizione": "Appartamento, Baia del Carpino, Scalea (CS)",
-        "arredamenti": " "
+        "arredamenti": " ",
+        "prezzoDescrizione": " "
       },
       "de": {
         "tipo": "Appartamento",
@@ -2109,9 +2116,10 @@
         "text5": "Non lasciarti sfuggire questa occasione imperdibile! Contattaci subito per organizzare una visita e scoprire di persona la bellezza e il fascino di questa casa. La tua nuova vita in Calabria ti aspetta!",
         "h2t6": " ",
         "text6": " ",
-        "nomeAnunci": "Scalea Appartamento con Vista Mare",
+        "nomeAnunci": "Scalea Appartamento con Vista e Vicino al Mare in Trattativa",
         "descrizione": "Appartamento, Baia del Carpino, Scalea (CS)",
-        "arredamenti": " "
+        "arredamenti": " ",
+        "prezzoDescrizione": " "
       },
       "ar": {
         "tipo": "Appartamento",
@@ -2127,9 +2135,10 @@
         "text5": "Non lasciarti sfuggire questa occasione imperdibile! Contattaci subito per organizzare una visita e scoprire di persona la bellezza e il fascino di questa casa. La tua nuova vita in Calabria ti aspetta!",
         "h2t6": " ",
         "text6": " ",
-        "nomeAnunci": "Scalea Appartamento con Vista Mare",
+        "nomeAnunci": "Scalea Appartamento con Vista e Vicino al Mare in Trattativa",
         "descrizione": "Appartamento, Baia del Carpino, Scalea (CS)",
-        "arredamenti": " "
+        "arredamenti": " ",
+        "prezzoDescrizione": " "
       },
       "sv": {
         "tipo": "Appartamento",
@@ -2145,9 +2154,10 @@
         "text5": "Non lasciarti sfuggire questa occasione imperdibile! Contattaci subito per organizzare una visita e scoprire di persona la bellezza e il fascino di questa casa. La tua nuova vita in Calabria ti aspetta!",
         "h2t6": " ",
         "text6": " ",
-        "nomeAnunci": "Scalea Appartamento con Vista Mare",
+        "nomeAnunci": "Scalea Appartamento con Vista e Vicino al Mare in Trattativa",
         "descrizione": "Appartamento, Baia del Carpino, Scalea (CS)",
-        "arredamenti": " "
+        "arredamenti": " ",
+        "prezzoDescrizione": " "
       },
       "fr": {
         "tipo": "Appartamento",
@@ -2163,9 +2173,10 @@
         "text5": "Non lasciarti sfuggire questa occasione imperdibile! Contattaci subito per organizzare una visita e scoprire di persona la bellezza e il fascino di questa casa. La tua nuova vita in Calabria ti aspetta!",
         "h2t6": " ",
         "text6": " ",
-        "nomeAnunci": "Scalea Appartamento con Vista Mare",
+        "nomeAnunci": "Scalea Appartamento con Vista e Vicino al Mare in Trattativa",
         "descrizione": "Appartamento, Baia del Carpino, Scalea (CS)",
-        "arredamenti": " "
+        "arredamenti": " ",
+        "prezzoDescrizione": " "
       },
       "es": {
         "tipo": "Appartamento",
@@ -2181,12 +2192,13 @@
         "text5": "Non lasciarti sfuggire questa occasione imperdibile! Contattaci subito per organizzare una visita e scoprire di persona la bellezza e il fascino di questa casa. La tua nuova vita in Calabria ti aspetta!",
         "h2t6": " ",
         "text6": " ",
-        "nomeAnunci": "Scalea Appartamento con Vista Mare",
+        "nomeAnunci": "Scalea Appartamento con Vista e Vicino al Mare in Trattativa",
         "descrizione": "Appartamento, Baia del Carpino, Scalea (CS)",
-        "arredamenti": " "
+        "arredamenti": " ",
+        "prezzoDescrizione": " "
       },
       "it": {
-        "nomeAnunci": "Scalea Appartamento con Vista Mare",
+        "nomeAnunci": "Scalea Appartamento con Vista e Vicino al Mare in Trattativa",
         "h1": "",
         "h2t1": "Opportunità Immobiliare a Scalea: Casa con Vista sulla Baia del Carpino",
         "h2t2": "Caratteristiche e Comodità",
@@ -2202,10 +2214,11 @@
         "text6": " ",
         "descrizione": "Appartamento, Baia del Carpino, Scalea (CS)",
         "tipo": "Appartamento",
-        "arredamenti": " "
+        "arredamenti": " ",
+        "prezzoDescrizione": " "
       }
     },
-    "prezzoDescrizione": ""
+    "prezzoDescrizione": " "
   },
   {
     "slug": "140",

@@ -166,20 +166,20 @@
   {
     "@context": "https://schema.org",
     "@type": "Product",
-    "name": "Scalea Appartamento con Vista Mare",
+    "name": "Scalea Appartamento con Vista e Vicino al Mare in Trattativa",
     "description": "Appartamento, Baia del Carpino, Scalea (CS)",
     "image": "https://tonymontanait.github.io/italyscasa-content/foto/104 (13).webp",
     "offers": {
       "@type": "Offer",
       "url": "https://italyscasa.com/anunci/dynamic/?rif=104",
-      "price": 120,
+      "price": 0,
       "priceCurrency": "EUR",
       "availability": "https://schema.org/InStock"
     },
     "inLanguage": "it",
     "isAccessibleForFree": true,
     "wordCount": 201,
-    "keywords": "scalea, appartamento, baia, vista, carpino, sulla, mare, raffaele",
+    "keywords": "scalea, appartamento, baia, vista, carpino, sulla, vicino, mare",
     "address": {
       "@type": "PostalAddress",
       "addressLocality": "Scalea (CS)",
