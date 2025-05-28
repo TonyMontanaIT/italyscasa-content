@@ -1,7 +1,7 @@
 ---
 riferimento: "97"
 RIF1: "97"
-nomeAnunci: Villa a trattativo
+nomeAnunci: "Cirella Villa con vista mare in Trattativa "
 nomeZona: Cirella
 city1: Cirella
 street1: Vittorio Veneto, 16
@@ -177,8 +177,8 @@ prezzoDescrizione: "0"
 video: " "
 video360: " "
 images:
-  - alt: Cirella
-    src: /foto/cirella.webp
+  - src: /foto/1-6-.webp
+    alt: "Villa di lusso con vista mozzafiato sul mare "
 latitude: " "
 longitude: " "
 ---
