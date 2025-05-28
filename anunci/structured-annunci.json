@@ -330,9 +330,9 @@
   {
     "@context": "https://schema.org",
     "@type": "Product",
-    "name": "Villa a trattativo ",
+    "name": "Diamante Calabria Villa con piscina, vista mare, in trattativa",
     "description": "In vendita: Villa di lusso nel cuore di Diamante – tra arte, mare e sapori",
-    "image": "https://tonymontanait.github.io/italyscasa-content//foto/diamante.webp",
+    "image": "https://tonymontanait.github.io/italyscasa-content//foto/1-7-.webp",
     "offers": {
       "@type": "Offer",
       "url": "https://italyscasa.com/anunci/dynamic/?rif=96",
@@ -343,7 +343,7 @@
     "inLanguage": "it",
     "isAccessibleForFree": true,
     "wordCount": 442,
-    "keywords": "lido, diamante, villa, cocktail, mare, proprietà, nella, della",
+    "keywords": "lido, diamante, villa, mare, cocktail, calabria, piscina, proprietà",
     "address": {
       "@type": "PostalAddress",
       "addressLocality": "Diamante",
