@@ -59,22 +59,31 @@ def main():
                 for lang in TARGET_LANGS:
                     if lang not in base['translations']:
                         base['translations'][lang] = {}
-                    base['translations'][lang][field] = new_val  # временно оригинал
+                    # только если перевода нет — вставляем оригинал
+                    if field not in base['translations'][lang] or not base['translations'][lang][field]:
+                        base['translations'][lang][field] = new_val  # fallback оригинал
+
                 print(f"[{i+1}/{len(source_data)}] {rif} — {field}: UPDATED")
             else:
                 print(f"[{i+1}/{len(source_data)}] {rif} — {field}: SKIPPED")
 
         # === Проверка всех непереводимых полей ===
-        for field in FIELDS_TO_COMPARE:
-            new_val = entry.get(field)
-            old_val = base.get(field)
+for field in FIELDS_TO_COMPARE:
+    new_val = entry.get(field)
+    
+    # 🚫 Удаляем значение False, заменяем пустой строкой
+    if new_val is False or new_val == "False":
+        new_val = ""
 
-            if new_val != old_val:
-                base[field] = new_val
-                updated = True
-                print(f"[{i+1}/{len(source_data)}] {rif} — {field}: UPDATED")
-            else:
-                print(f"[{i+1}/{len(source_data)}] {rif} — {field}: SKIPPED")
+    old_val = base.get(field)
+
+    if new_val != old_val:
+        base[field] = new_val
+        updated = True
+        print(f"[{i+1}/{len(source_data)}] {rif} — {field}: UPDATED")
+    else:
+        print(f"[{i+1}/{len(source_data)}] {rif} — {field}: SKIPPED")
+
 
         # === Проверка массива images[] ===
         new_images = entry.get('images', [])
