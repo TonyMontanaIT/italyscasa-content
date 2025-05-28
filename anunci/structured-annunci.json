@@ -704,7 +704,7 @@
     "image": "https://tonymontanait.github.io/italyscasa-content//foto/1-13-.webp",
     "offers": {
       "@type": "Offer",
-      "url": "https://italyscasa.com/anunci/dynamic/?rif=90",
+      "url": "https://italyscasa.com/anunci/dynamic/?rif=900",
       "price": 0,
       "priceCurrency": "EUR",
       "availability": "https://schema.org/InStock"
