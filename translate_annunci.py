@@ -68,21 +68,21 @@ def main():
                 print(f"[{i+1}/{len(source_data)}] {rif} — {field}: SKIPPED")
 
         # === Проверка всех непереводимых полей ===
-for field in FIELDS_TO_COMPARE:
-    new_val = entry.get(field)
+        for field in FIELDS_TO_COMPARE:
+            new_val = entry.get(field)
     
-    # 🚫 Удаляем значение False, заменяем пустой строкой
-    if new_val is False or new_val == "False":
-        new_val = ""
+            # 🚫 Удаляем значение False, заменяем пустой строкой
+            if new_val is False or new_val == "False":
+                new_val = ""
 
-    old_val = base.get(field)
+            old_val = base.get(field)
 
-    if new_val != old_val:
-        base[field] = new_val
-        updated = True
-        print(f"[{i+1}/{len(source_data)}] {rif} — {field}: UPDATED")
-    else:
-        print(f"[{i+1}/{len(source_data)}] {rif} — {field}: SKIPPED")
+            if new_val != old_val:
+                base[field] = new_val
+                updated = True
+                print(f"[{i+1}/{len(source_data)}] {rif} — {field}: UPDATED")
+            else:
+                print(f"[{i+1}/{len(source_data)}] {rif} — {field}: SKIPPED")
 
 
         # === Проверка массива images[] ===
