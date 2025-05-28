@@ -6458,5 +6458,53 @@
     ],
     "latitude": "39.831932",
     "longitude": "15.924338"
+  },
+  {
+    "slug": "93",
+    "riferimento": "93",
+    "rif1": "93",
+    "nomeAnunci": "Marina di Fuscaldo Villa con vista bella e mozzifiato in trattativa",
+    "nomeZona": "Marina di Fuscaldo",
+    "city1": "Marina di Fuscaldo",
+    "street1": "Via Napoli 43",
+    "prezzo1": "0",
+    "tipo": "Villa",
+    "totalrooms": "5",
+    "rooms": "3",
+    "bagni": "2",
+    "zonam2": "340 mq",
+    "floor": "1",
+    "elevator": "False",
+    "terrazzo": "Si",
+    "prezzo": "0",
+    "prezzoDescrizione": "0",
+    "giardino": "Si",
+    "garage": "Si",
+    "arredamenti": " ",
+    "patio": " ",
+    "corte": " ",
+    "descrizione": "In vendita: Villa esclusiva a Marina di Fuscaldo – relax, tradizione e panorama sul Tirreno",
+    "h2t1": "A pochi passi dal mare e dal lungomare di Marina di Fuscaldo, proponiamo in vendita una villa raffinata, circondata da comfort, paesaggi mozzafiato e un'atmosfera autenticamente calabrese. Un angolo di pace ideale sia per vivere tutto l’anno, sia come investimento per l’ospitalità turistica.",
+    "text1": "La villa è composta da 2 livelli, con 4 camere da letto, 3 bagni, ampio soggiorno con camino, cucina abitabile, terrazze vista mare, giardino curato, zona barbecue e piscina privata. Completano la proprietà garage, solarium e una zona relax immersa nel verde.",
+    "h2t2": "Una soluzione perfetta per famiglie o investitori\nGrazie alla vicinanza a tutti i servizi, spiagge attrezzate e attrazioni culturali, questa villa è ideale per affitti brevi o per chi cerca una residenza di prestigio al mare.",
+    "text2": "Lidi e Spiagge\nSpiaggia Marina di Fuscaldo – 3 min\nBrezza Marina – 4 min\nLido Le Dune – 5 min\nLa Scogliera – 6 min\nLido Sirio – 7 min\nLibera Marina – 8 min\nFuscaldo Vecchia – 9 min\nIl Gabbiano – 10 min\nSpiaggia delle Ginestre – 11 min\nLido delle Palme – 12 min\nLido Il Delfino – 13 min\nBaia dei Cedri – 14 min\nTorre del Ferro – 15 min\nLido Oasi Beach – 16 min\nLido Kalymnos – 17 min\nLido Marechiaro – 18 min\nLido Solero Beach – 19 min\nLido Solero – 19 min",
+    "h2t3": "Bar e Lounge",
+    "text3": "Life Style Lounge Bar – 4 min\nBanaker – 5 min\nSea Lounge – 6 min\nInferno Cocktail Bar – 7 min\nBar Pugliese – 8 min\nDelicious Pasticceria – 9 min\nL’Etoile Bar Pasticceria – 10 min\nBar Ristorante Pizzeria Due Stelle – 11 min\nPixel Bar – 12 min",
+    "h2t4": "Pizzerie e Ristoranti",
+    "text4": "Pizzeria La Vela – 4 min\nPizzeria Due Stelle – 5 min\nRistorante Bella Vista – 6 min\nIl Gabbiano – 7 min\nSea Palace – 8 min\nLa Locanda dei Poeti – 9 min\nPizzeria Da Tonino – 10 min\nRosticceria da Mario – 11 min\nLa Capricciosa – 12 min\nPizzeria Da Angelo – 13 min\nRistorante Il Faro – 14 min\nL’Approdo – 15 min",
+    "h2t5": "Monumenti e Luoghi Storici",
+    "text5": "Chiesa Madre di San Giovanni Battista – 5 min\nSan Francesco d’Assisi – 6 min\nChiesa della SS. Annunziata – 7 min\nConvento dei Cappuccini – 8 min\nPalazzo De Gregorio – 9 min\nPalazzo Gaudio – 10 min\nPalazzo Policicchio – 11 min\nPalazzo Vivacqua – 12 min\nTorre di Guardia – 13 min\nStatua di Padre Giovanni da Fuscaldo – 14 min\nCentro Storico di Fuscaldo Superiore – 15 min\nPiazza Indipendenza – 16 min\nPiazza Vittorio Emanuele – 17 min\nBelvedere di Fuscaldo – 18 min",
+    "h2t6": "Attività Turistiche e Noleggi",
+    "text6": "Fuscaldo Beach Club – 4 min\nFuscaldo Diving Center – 5 min\nNoleggio Canoe & SUP – 6 min\nPasseggiate sul Lungomare – 7 min\nPorto Turistico di Cetraro – 8 min\nEscursioni in Barca – 9 min\nCentro Storico Tour – 10 min\nArea naturalistica delle Coste Tirreniche – 11 min\nSorgente Termale \"La Calda\" – 12 min\nFesta di San Giovanni Battista – 13 min\nSagre e mercatini estivi – 14 min\nParapendio – 15 min\nPista ciclabile Fuscaldo–Cetraro – 16 min",
+    "video": " ",
+    "video360": " ",
+    "images": [
+      {
+        "src": "/foto/1-10-.webp",
+        "alt": "Villa con piscina e giardino in Calabria"
+      }
+    ],
+    "latitude": " ",
+    "longitude": " "
   }
 ]
