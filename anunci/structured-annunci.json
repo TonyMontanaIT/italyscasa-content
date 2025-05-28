@@ -1847,6 +1847,47 @@
   {
     "@context": "https://schema.org",
     "@type": "Product",
+    "name": "Amantea Calabria. Villa di lusso con vista mozzifiato in Trattativa",
+    "description": "In vendita: Villa esclusiva ad Amantea – tra mare, storia e tradizione calabrese",
+    "image": "https://tonymontanait.github.io/italyscasa-content//foto/1-14-.webp",
+    "offers": {
+      "@type": "Offer",
+      "url": "https://italyscasa.com/anunci/dynamic/?rif=89",
+      "price": 0,
+      "priceCurrency": "EUR",
+      "availability": "https://schema.org/InStock"
+    },
+    "inLanguage": "it",
+    "isAccessibleForFree": true,
+    "wordCount": 354,
+    "keywords": "lido, amantea, mare, villa, vista, mediterraneo, tonnara, girasole",
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Amantea",
+      "streetAddress": "Pitagore 43"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": null,
+      "longitude": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "ItalysCasa",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://tonymontanait.github.io/italyscasa-content/uploads/logo.webp"
+      }
+    },
+    "sameAs": [
+      "https://www.instagram.com/italyscasa?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
+      "https://www.facebook.com/profile.php?id=61551668563870",
+      "https://www.tiktok.com/@italyscasa1?is_from_webapp=1&sender_device=pc"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
     "name": "Scalea Appartamento ",
     "description": "Delizioso Appartamento in Vendita a Scalea, Calabria - Parco Mimose",
     "image": "https://tonymontanait.github.io/italyscasa-content/foto/119 (2).webp",
