@@ -1,7 +1,8 @@
 ---
 riferimento: "95"
 RIF1: "95"
-nomeAnunci: Villa a Trattativo
+nomeAnunci: Belvedere Marittimo Calabria, Villa con vista monte e mare di lusso
+  in Trattativa
 nomeZona: Belvedere
 city1: Belvedere
 street1: Giuseppe Petrellis, 54
@@ -215,8 +216,9 @@ prezzoDescrizione: "0"
 video: " "
 video360: " "
 images:
-  - alt: Belvedere
-    src: /foto/belvedere.webp
+  - src: /foto/1-8-.webp
+    alt: Villa di lusso con piscina, giardino, vicino al mare con vista monte a
+      Belvedere Marittimo Calabria
 latitude: " "
 longitude: " "
 ---
