@@ -207,7 +207,7 @@
   {
     "@context": "https://schema.org",
     "@type": "Product",
-    "name": "Paola Calabria . Villa con bella vista mozzifiato",
+    "name": "Paola Calabria . Villa con vista mozzifiato",
     "description": "In vendita: Villa esclusiva a Paola – tra mare, fede e sapori autentici della Calabria",
     "image": "https://tonymontanait.github.io/italyscasa-content//foto/1-11-.webp",
     "offers": {
@@ -2134,7 +2134,7 @@
   {
     "@context": "https://schema.org",
     "@type": "Product",
-    "name": "Marina di Fuscaldo Villa con vista bella e mozzifiato in trattativa",
+    "name": "Marina di Fuscaldo Villa con vista mozzifiato in trattativa",
     "description": "In vendita: Villa esclusiva a Marina di Fuscaldo – relax, tradizione e panorama sul Tirreno",
     "image": "https://tonymontanait.github.io/italyscasa-content//foto/1-10-.webp",
     "offers": {
@@ -2147,7 +2147,7 @@
     "inLanguage": "it",
     "isAccessibleForFree": true,
     "wordCount": 279,
-    "keywords": "lido, marina, fuscaldo, pizzeria, villa, vista, ristorante, bella",
+    "keywords": "lido, marina, fuscaldo, pizzeria, villa, vista, ristorante, relax",
     "address": {
       "@type": "PostalAddress",
       "addressLocality": "Marina di Fuscaldo",
