@@ -781,9 +781,9 @@
   {
     "@context": "https://schema.org",
     "@type": "Product",
-    "name": "Villa a tratativo",
+    "name": "Scalea Villa in Trattativa",
     "description": "In vendita: Prestigiosa Villa Panoramica a Scalea",
-    "image": "https://tonymontanait.github.io/italyscasa-content//foto/scalea.webp",
+    "image": "https://tonymontanait.github.io/italyscasa-content//foto/1-1-.webp",
     "offers": {
       "@type": "Offer",
       "url": "https://italyscasa.com/anunci/dynamic/?rif=99",
