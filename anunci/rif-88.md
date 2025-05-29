@@ -128,8 +128,8 @@ prezzoDescrizione: "0"
 video: " "
 video360: " "
 images:
-  - src: /foto/1.webp
-    alt: "Villa familiare di lusso con vista mozzifiato in San Nicola Arcella "
+  - src: /foto/1-1-.webp
+    alt: Villa familiare San Nicola Arcella
 latitude: "  "
 longitude: "  "
 ---
