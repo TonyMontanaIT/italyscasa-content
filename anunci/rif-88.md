@@ -129,7 +129,7 @@ video: " "
 video360: " "
 images:
   - src: /foto/1-1-.webp
-    alt: Villa familiare San Nicola Arcella
+    alt: "Villa Familiare "
 latitude: "  "
 longitude: "  "
 ---
