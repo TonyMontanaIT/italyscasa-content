@@ -43,7 +43,7 @@
   {
     "@context": "https://schema.org",
     "@type": "Product",
-    "name": "Villa di lusso con piscina a Maratea in Trattativa",
+    "name": "Maratea Villa di lusso con piscina in Trattativa",
     "description": "In vendita: Villa panoramica a Maratea – tra spiagge spettacolari, storia antica e magia mediterranea",
     "image": "https://tonymontanait.github.io/italyscasa-content//foto/1-3-.webp",
     "offers": {
@@ -1314,7 +1314,7 @@
   {
     "@context": "https://schema.org",
     "@type": "Product",
-    "name": "Villa con vista mozzifiato in Trattativa",
+    "name": "Acquafredda Villa con vista mozzifiato in Trattativa",
     "description": "In vendita: Villa vista mare ad Acquafredda – tra scogliere selvagge, storia rurale e acque cristalline",
     "image": "https://tonymontanait.github.io/italyscasa-content//foto/1-4-.webp",
     "offers": {
@@ -1327,7 +1327,7 @@
     "inLanguage": "it",
     "isAccessibleForFree": true,
     "wordCount": 162,
-    "keywords": "spiaggia, ristorante, lido, acquafredda, secca, villa, gabbiano, mare",
+    "keywords": "spiaggia, ristorante, acquafredda, lido, secca, villa, gabbiano, mare",
     "address": {
       "@type": "PostalAddress",
       "addressLocality": "Acquafredda",
@@ -1519,7 +1519,7 @@
   {
     "@context": "https://schema.org",
     "@type": "Product",
-    "name": "Villa con vista in Trattativa",
+    "name": "Sapri Villa con vista in Trattativa",
     "description": "In vendita: Villa di charme a Sapri – tra mare cristallino, storia garibaldina e dolci tramonti sul golfo",
     "image": "https://tonymontanait.github.io/italyscasa-content//foto/1-1-.webp",
     "offers": {
@@ -1806,7 +1806,7 @@
   {
     "@context": "https://schema.org",
     "@type": "Product",
-    "name": "Villa con piscina a Praia a Mare in Trattativa",
+    "name": "Praia a Mare Villa con piscina  in Trattativa",
     "description": "In vendita: Villa esclusiva a Praia a Mare – tra spiagge paradisiache, mare cristallino e attrazioni senza fine",
     "image": "https://tonymontanait.github.io/italyscasa-content//foto/1-2-.webp",
     "offers": {
