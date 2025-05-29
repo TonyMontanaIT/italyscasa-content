@@ -2011,6 +2011,47 @@
   {
     "@context": "https://schema.org",
     "@type": "Product",
+    "name": "Marina di Ascea",
+    "description": "In vendita: Casa indipendente a Marina di Ascea – tra storia greca e mare cristallino",
+    "image": "https://tonymontanait.github.io/italyscasa-content//foto/1-10-.webp",
+    "offers": {
+      "@type": "Offer",
+      "url": "https://italyscasa.com/anunci/dynamic/?rif=920",
+      "price": 0,
+      "priceCurrency": "EUR",
+      "availability": "https://schema.org/InStock"
+    },
+    "inLanguage": "it",
+    "isAccessibleForFree": true,
+    "wordCount": 214,
+    "keywords": "lido, ristorante, pizzeria, mare, ascea, marina, brigantino, scirocco",
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Marina di Ascea",
+      "streetAddress": "Lauro 99"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": null,
+      "longitude": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "ItalysCasa",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://tonymontanait.github.io/italyscasa-content/uploads/logo.webp"
+      }
+    },
+    "sameAs": [
+      "https://www.instagram.com/italyscasa?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
+      "https://www.facebook.com/profile.php?id=61551668563870",
+      "https://www.tiktok.com/@italyscasa1?is_from_webapp=1&sender_device=pc"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
     "name": "San Nicola Arcella Appartamento ",
     "description": "Appartamento in Vendita a San Nicola Arcella: Eleganza e Relax al Parco I Delfini",
     "image": "https://tonymontanait.github.io/italyscasa-content/foto/122 (1).webp",
