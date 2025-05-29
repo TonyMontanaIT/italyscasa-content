@@ -43,6 +43,47 @@
   {
     "@context": "https://schema.org",
     "@type": "Product",
+    "name": "Villa di lusso con piscina a Maratea in Trattativa",
+    "description": "In vendita: Villa panoramica a Maratea – tra spiagge spettacolari, storia antica e magia mediterranea",
+    "image": "https://tonymontanait.github.io/italyscasa-content//foto/1-3-.webp",
+    "offers": {
+      "@type": "Offer",
+      "url": "https://italyscasa.com/anunci/dynamic/?rif=913",
+      "price": 0,
+      "priceCurrency": "EUR",
+      "availability": "https://schema.org/InStock"
+    },
+    "inLanguage": "it",
+    "isAccessibleForFree": true,
+    "wordCount": 272,
+    "keywords": "ristorante, spiaggia, lido, pizzeria, maratea, villa, gabbiano, caffe",
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Maratea",
+      "streetAddress": "Galileo 93"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": null,
+      "longitude": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "ItalysCasa",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://tonymontanait.github.io/italyscasa-content/uploads/logo.webp"
+      }
+    },
+    "sameAs": [
+      "https://www.instagram.com/italyscasa?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
+      "https://www.facebook.com/profile.php?id=61551668563870",
+      "https://www.tiktok.com/@italyscasa1?is_from_webapp=1&sender_device=pc"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
     "name": "Santa Domenica Talao Appartamento a due piani",
     "description": "Santa Domenica Talao (CS) - Casa su Due Piani in Vendita",
     "image": "https://tonymontanait.github.io/italyscasa-content/foto/125 (4).webp",
