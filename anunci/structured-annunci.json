@@ -576,6 +576,47 @@
   {
     "@context": "https://schema.org",
     "@type": "Product",
+    "name": "Marina di Camerota Villa familiare esclusivo in Trattativa",
+    "description": "In vendita: Villa a Marina di Camerota – tra spiagge caraibiche, borghi storici e natura selvaggia",
+    "image": "https://tonymontanait.github.io/italyscasa-content//foto/1-9-.webp",
+    "offers": {
+      "@type": "Offer",
+      "url": "https://italyscasa.com/anunci/dynamic/?rif=919",
+      "price": 0,
+      "priceCurrency": "EUR",
+      "availability": "https://schema.org/InStock"
+    },
+    "inLanguage": "it",
+    "isAccessibleForFree": true,
+    "wordCount": 239,
+    "keywords": "spiaggia, ristorante, cala, marina, pizzeria, camerota, porto, faro",
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Marina di Camerota",
+      "streetAddress": "Faro 11"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": null,
+      "longitude": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "ItalysCasa",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://tonymontanait.github.io/italyscasa-content/uploads/logo.webp"
+      }
+    },
+    "sameAs": [
+      "https://www.instagram.com/italyscasa?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
+      "https://www.facebook.com/profile.php?id=61551668563870",
+      "https://www.tiktok.com/@italyscasa1?is_from_webapp=1&sender_device=pc"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
     "name": "Belvedere Marittimo Calabria, Villa con vista monte e mare di lusso in Trattativa",
     "description": "In vendita: Villa esclusiva a Belvedere Marittimo – comfort, mare e charme storico",
     "image": "https://tonymontanait.github.io/italyscasa-content//foto/1-8-.webp",
