@@ -1,6 +1,6 @@
 ---
-riferimento: "96"
-RIF1: "96"
+riferimento: "906"
+RIF1: "906"
 nomeAnunci: Diamante Calabria Villa con piscina, vista mare, in trattativa
 nomeZona: Diamante
 city1: Diamante
