@@ -280,8 +280,8 @@ prezzoDescrizione: "0"
 video: " "
 video360: " "
 images:
-  - src: /foto/1-1-.webp
-    alt: "Villa con piscina a Scalea "
+  - src: /foto/1-5-.webp
+    alt: Villa a scalea
 latitude: " "
 longitude: " "
 ---
