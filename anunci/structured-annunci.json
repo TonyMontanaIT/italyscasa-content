@@ -1683,6 +1683,47 @@
   {
     "@context": "https://schema.org",
     "@type": "Product",
+    "name": "Villa con piscina a Praia a Mare in Trattativa",
+    "description": "In vendita: Villa esclusiva a Praia a Mare – tra spiagge paradisiache, mare cristallino e attrazioni senza fine",
+    "image": "https://tonymontanait.github.io/italyscasa-content//foto/1-2-.webp",
+    "offers": {
+      "@type": "Offer",
+      "url": "https://italyscasa.com/anunci/dynamic/?rif=912",
+      "price": 0,
+      "priceCurrency": "EUR",
+      "availability": "https://schema.org/InStock"
+    },
+    "inLanguage": "it",
+    "isAccessibleForFree": true,
+    "wordCount": 291,
+    "keywords": "ristorante, lido, pizzeria, beach, mare, gelateria, praia, villa",
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Praia a Mare ",
+      "streetAddress": "Pitagore 92"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": null,
+      "longitude": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "ItalysCasa",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://tonymontanait.github.io/italyscasa-content/uploads/logo.webp"
+      }
+    },
+    "sameAs": [
+      "https://www.instagram.com/italyscasa?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
+      "https://www.facebook.com/profile.php?id=61551668563870",
+      "https://www.tiktok.com/@italyscasa1?is_from_webapp=1&sender_device=pc"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
     "name": "San Nicola Arcella Appartamento ",
     "description": "Appartamento in Vendita a San Nicola Arcella: Eleganza e Relax al Parco I Delfini",
     "image": "https://tonymontanait.github.io/italyscasa-content/foto/122 (1).webp",
