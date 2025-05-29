@@ -1519,6 +1519,47 @@
   {
     "@context": "https://schema.org",
     "@type": "Product",
+    "name": "Villa con vista in Trattativa",
+    "description": "In vendita: Villa di charme a Sapri – tra mare cristallino, storia garibaldina e dolci tramonti sul golfo",
+    "image": "https://tonymontanait.github.io/italyscasa-content//foto/1-1-.webp",
+    "offers": {
+      "@type": "Offer",
+      "url": "https://italyscasa.com/anunci/dynamic/?rif=915",
+      "price": 0,
+      "priceCurrency": "EUR",
+      "availability": "https://schema.org/InStock"
+    },
+    "inLanguage": "it",
+    "isAccessibleForFree": true,
+    "wordCount": 188,
+    "keywords": "lido, sapri, spiaggia, villa, mare, vista, dell, lungomare",
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Sapri",
+      "streetAddress": "S. Benedetto 32"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": null,
+      "longitude": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "ItalysCasa",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://tonymontanait.github.io/italyscasa-content/uploads/logo.webp"
+      }
+    },
+    "sameAs": [
+      "https://www.instagram.com/italyscasa?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
+      "https://www.facebook.com/profile.php?id=61551668563870",
+      "https://www.tiktok.com/@italyscasa1?is_from_webapp=1&sender_device=pc"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
     "name": "Scalea, Casa Albergo",
     "description": "Appartamento monolocale a Baia del Carpino, Scalea",
     "image": "https://tonymontanait.github.io/italyscasa-content/foto/whatsapp-image-2025-04-05-at-13.04.25-3-.webp",
