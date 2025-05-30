@@ -216,9 +216,8 @@ prezzoDescrizione: "0"
 video: " "
 video360: " "
 images:
-  - src: /foto/1-8-.webp
-    alt: Villa di lusso con piscina, giardino, vicino al mare con vista monte a
-      Belvedere Marittimo Calabria
+  - src: /foto/12-5-.webp
+    alt: Villa di Lusso con piscina
 latitude: " "
 longitude: " "
 ---
