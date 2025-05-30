@@ -134,8 +134,8 @@ prezzoDescrizione: "0"
 video: " "
 video360: " "
 images:
-  - src: /foto/1-14-.webp
-    alt: Bella Villa con piscina vicino a mare in Amantea
+  - src: /foto/12-10-.webp
+    alt: Villa con piscina e vista mozzifiato
 latitude: " "
 longitude: " "
 ---
