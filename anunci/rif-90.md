@@ -8,8 +8,8 @@ street1: Via Faro 112
 prezzo1: "0"
 tipo: Villa
 totalrooms: "6"
-rooms: "3"
-bagni: "2"
+rooms: "4"
+bagni: "3"
 zonam2: 340 mq
 floor: "1"
 elevator: No
