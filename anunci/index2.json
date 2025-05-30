@@ -3487,19 +3487,19 @@
     "nomeZona": "Baia del Carpino",
     "city1": "Scalea",
     "street1": "Via Raffaele Sanseverino, 20",
-    "prezzo1": " ",
+    "prezzo1": " 0",
     "tipo": "Appartamento",
     "totalrooms": "4",
     "rooms": "2",
     "bagni": "2",
     "zonam2": "75 m²",
     "floor": "1",
-    "elevator": "No",
+    "elevator": "False",
     "terrazzo": "Si",
-    "prezzo": " ",
-    "prezzoDescrizione": "",
+    "prezzo": " 0",
+    "prezzoDescrizione": "0",
     "giardino": "200 m²",
-    "garage": "No",
+    "garage": "False",
     "arredamenti": " ",
     "patio": " ",
     "corte": " ",
@@ -3521,79 +3521,79 @@
     "images": [
       {
         "src": "foto/123 (1).webp",
-        "alt": ""
+        "alt": " "
       },
       {
         "src": "foto/123 (4).webp",
-        "alt": ""
+        "alt": " "
       },
       {
         "src": "foto/123 (12).webp",
-        "alt": ""
+        "alt": " "
       },
       {
         "src": "foto/123 (2).webp",
-        "alt": ""
+        "alt": " "
       },
       {
         "src": "foto/123 (5).webp",
-        "alt": ""
+        "alt": " "
       },
       {
         "src": "foto/123 (6).webp",
-        "alt": ""
+        "alt": " "
       },
       {
         "src": "foto/123 (7).webp",
-        "alt": ""
+        "alt": " "
       },
       {
         "src": "foto/123 (8).webp",
-        "alt": ""
+        "alt": " "
       },
       {
         "src": "foto/123 (9).webp",
-        "alt": ""
+        "alt": " "
       },
       {
         "src": "foto/123 (10).webp",
-        "alt": ""
+        "alt": " "
       },
       {
         "src": "foto/123 (11).webp",
-        "alt": ""
+        "alt": " "
       },
       {
         "src": "foto/123 (3).webp",
-        "alt": ""
+        "alt": " "
       },
       {
         "src": "foto/123 (13).webp",
-        "alt": ""
+        "alt": " "
       },
       {
         "src": "foto/123 (14).webp",
-        "alt": ""
+        "alt": " "
       },
       {
         "src": "foto/123 (15).webp",
-        "alt": ""
+        "alt": " "
       },
       {
         "src": "foto/123 (16).webp",
-        "alt": ""
+        "alt": " "
       },
       {
         "src": "foto/123 (17).webp",
-        "alt": ""
+        "alt": " "
       },
       {
         "src": "foto/123 (18).webp",
-        "alt": ""
+        "alt": " "
       },
       {
         "src": "foto/123 (19).webp",
-        "alt": ""
+        "alt": " "
       }
     ],
     "latitude": "39.824210",

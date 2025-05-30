@@ -13332,18 +13332,18 @@
     "nomeZona": "Baia del Carpino",
     "city1": "Scalea",
     "street1": "Via Raffaele Sanseverino, 20",
-    "prezzo1": " ",
+    "prezzo1": " 0",
     "tipo": "Appartamento",
     "totalrooms": "4",
     "rooms": "2",
     "bagni": "2",
     "zonam2": "75 m²",
     "floor": "1",
-    "elevator": "No",
+    "elevator": "",
     "terrazzo": "Si",
-    "prezzo": " ",
+    "prezzo": " 0",
     "giardino": "200 m²",
-    "garage": "No",
+    "garage": "",
     "arredamenti": " ",
     "patio": " ",
     "corte": " ",
@@ -13459,7 +13459,8 @@
         "text6": "Non perdere l'opportunità di vivere in questo paradiso vicino al mare, dove bellezza naturale e comfort si incontrano. Questa casa rappresenta la soluzione ideale per chi cerca un luogo esclusivo dove rilassarsi e godersi la bellezza della Calabria.",
         "nomeAnunci": "Appartamento in trattativa",
         "descrizione": "Appartamento in Vendita a Scalea: Comfort e Natura nella Baia del Carpino",
-        "arredamenti": " "
+        "arredamenti": " ",
+        "prezzoDescrizione": "0"
       },
       "ru": {
         "tipo": "Appartamento",
@@ -13477,7 +13478,8 @@
         "text6": "Non perdere l'opportunità di vivere in questo paradiso vicino al mare, dove bellezza naturale e comfort si incontrano. Questa casa rappresenta la soluzione ideale per chi cerca un luogo esclusivo dove rilassarsi e godersi la bellezza della Calabria.",
         "nomeAnunci": "Appartamento in trattativa",
         "descrizione": "Appartamento in Vendita a Scalea: Comfort e Natura nella Baia del Carpino",
-        "arredamenti": " "
+        "arredamenti": " ",
+        "prezzoDescrizione": "0"
       },
       "lt": {
         "tipo": "Appartamento",
@@ -13495,7 +13497,8 @@
         "text6": "Non perdere l'opportunità di vivere in questo paradiso vicino al mare, dove bellezza naturale e comfort si incontrano. Questa casa rappresenta la soluzione ideale per chi cerca un luogo esclusivo dove rilassarsi e godersi la bellezza della Calabria.",
         "nomeAnunci": "Appartamento in trattativa",
         "descrizione": "Appartamento in Vendita a Scalea: Comfort e Natura nella Baia del Carpino",
-        "arredamenti": " "
+        "arredamenti": " ",
+        "prezzoDescrizione": "0"
       },
       "lv": {
         "tipo": "Appartamento",
@@ -13513,7 +13516,8 @@
         "text6": "Non perdere l'opportunità di vivere in questo paradiso vicino al mare, dove bellezza naturale e comfort si incontrano. Questa casa rappresenta la soluzione ideale per chi cerca un luogo esclusivo dove rilassarsi e godersi la bellezza della Calabria.",
         "nomeAnunci": "Appartamento in trattativa",
         "descrizione": "Appartamento in Vendita a Scalea: Comfort e Natura nella Baia del Carpino",
-        "arredamenti": " "
+        "arredamenti": " ",
+        "prezzoDescrizione": "0"
       },
       "pl": {
         "tipo": "Appartamento",
@@ -13531,7 +13535,8 @@
         "text6": "Non perdere l'opportunità di vivere in questo paradiso vicino al mare, dove bellezza naturale e comfort si incontrano. Questa casa rappresenta la soluzione ideale per chi cerca un luogo esclusivo dove rilassarsi e godersi la bellezza della Calabria.",
         "nomeAnunci": "Appartamento in trattativa",
         "descrizione": "Appartamento in Vendita a Scalea: Comfort e Natura nella Baia del Carpino",
-        "arredamenti": " "
+        "arredamenti": " ",
+        "prezzoDescrizione": "0"
       },
       "fi": {
         "tipo": "Appartamento",
@@ -13549,7 +13554,8 @@
         "text6": "Non perdere l'opportunità di vivere in questo paradiso vicino al mare, dove bellezza naturale e comfort si incontrano. Questa casa rappresenta la soluzione ideale per chi cerca un luogo esclusivo dove rilassarsi e godersi la bellezza della Calabria.",
         "nomeAnunci": "Appartamento in trattativa",
         "descrizione": "Appartamento in Vendita a Scalea: Comfort e Natura nella Baia del Carpino",
-        "arredamenti": " "
+        "arredamenti": " ",
+        "prezzoDescrizione": "0"
       },
       "cs": {
         "tipo": "Appartamento",
@@ -13567,7 +13573,8 @@
         "text6": "Non perdere l'opportunità di vivere in questo paradiso vicino al mare, dove bellezza naturale e comfort si incontrano. Questa casa rappresenta la soluzione ideale per chi cerca un luogo esclusivo dove rilassarsi e godersi la bellezza della Calabria.",
         "nomeAnunci": "Appartamento in trattativa",
         "descrizione": "Appartamento in Vendita a Scalea: Comfort e Natura nella Baia del Carpino",
-        "arredamenti": " "
+        "arredamenti": " ",
+        "prezzoDescrizione": "0"
       },
       "de": {
         "tipo": "Appartamento",
@@ -13585,7 +13592,8 @@
         "text6": "Non perdere l'opportunità di vivere in questo paradiso vicino al mare, dove bellezza naturale e comfort si incontrano. Questa casa rappresenta la soluzione ideale per chi cerca un luogo esclusivo dove rilassarsi e godersi la bellezza della Calabria.",
         "nomeAnunci": "Appartamento in trattativa",
         "descrizione": "Appartamento in Vendita a Scalea: Comfort e Natura nella Baia del Carpino",
-        "arredamenti": " "
+        "arredamenti": " ",
+        "prezzoDescrizione": "0"
       },
       "ar": {
         "tipo": "Appartamento",
@@ -13603,7 +13611,8 @@
         "text6": "Non perdere l'opportunità di vivere in questo paradiso vicino al mare, dove bellezza naturale e comfort si incontrano. Questa casa rappresenta la soluzione ideale per chi cerca un luogo esclusivo dove rilassarsi e godersi la bellezza della Calabria.",
         "nomeAnunci": "Appartamento in trattativa",
         "descrizione": "Appartamento in Vendita a Scalea: Comfort e Natura nella Baia del Carpino",
-        "arredamenti": " "
+        "arredamenti": " ",
+        "prezzoDescrizione": "0"
       },
       "sv": {
         "tipo": "Appartamento",
@@ -13621,7 +13630,8 @@
         "text6": "Non perdere l'opportunità di vivere in questo paradiso vicino al mare, dove bellezza naturale e comfort si incontrano. Questa casa rappresenta la soluzione ideale per chi cerca un luogo esclusivo dove rilassarsi e godersi la bellezza della Calabria.",
         "nomeAnunci": "Appartamento in trattativa",
         "descrizione": "Appartamento in Vendita a Scalea: Comfort e Natura nella Baia del Carpino",
-        "arredamenti": " "
+        "arredamenti": " ",
+        "prezzoDescrizione": "0"
       },
       "fr": {
         "tipo": "Appartamento",
@@ -13639,7 +13649,8 @@
         "text6": "Non perdere l'opportunità di vivere in questo paradiso vicino al mare, dove bellezza naturale e comfort si incontrano. Questa casa rappresenta la soluzione ideale per chi cerca un luogo esclusivo dove rilassarsi e godersi la bellezza della Calabria.",
         "nomeAnunci": "Appartamento in trattativa",
         "descrizione": "Appartamento in Vendita a Scalea: Comfort e Natura nella Baia del Carpino",
-        "arredamenti": " "
+        "arredamenti": " ",
+        "prezzoDescrizione": "0"
       },
       "es": {
         "tipo": "Appartamento",
@@ -13657,7 +13668,8 @@
         "text6": "Non perdere l'opportunità di vivere in questo paradiso vicino al mare, dove bellezza naturale e comfort si incontrano. Questa casa rappresenta la soluzione ideale per chi cerca un luogo esclusivo dove rilassarsi e godersi la bellezza della Calabria.",
         "nomeAnunci": "Appartamento in trattativa",
         "descrizione": "Appartamento in Vendita a Scalea: Comfort e Natura nella Baia del Carpino",
-        "arredamenti": " "
+        "arredamenti": " ",
+        "prezzoDescrizione": "0"
       },
       "it": {
         "nomeAnunci": "Appartamento in trattativa",
@@ -13676,10 +13688,11 @@
         "text6": "Non perdere l'opportunità di vivere in questo paradiso vicino al mare, dove bellezza naturale e comfort si incontrano. Questa casa rappresenta la soluzione ideale per chi cerca un luogo esclusivo dove rilassarsi e godersi la bellezza della Calabria.",
         "descrizione": "Appartamento in Vendita a Scalea: Comfort e Natura nella Baia del Carpino",
         "tipo": "Appartamento",
-        "arredamenti": " "
+        "arredamenti": " ",
+        "prezzoDescrizione": "0"
       }
     },
-    "prezzoDescrizione": ""
+    "prezzoDescrizione": "0"
   },
   {
     "slug": "109",
