@@ -120,8 +120,8 @@ prezzoDescrizione: "0"
 video: " "
 video360: " "
 images:
-  - src: /foto/1-12-.webp
-    alt: Villa prestigiosa con piscina e visto mozzifiato
+  - src: /foto/12-1-.webp
+    alt: Villa di lusso
 latitude: " "
 longitude: " "
 ---
