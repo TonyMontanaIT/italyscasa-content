@@ -8,8 +8,8 @@ street1: Vittorio Veneto, 16
 prezzo1: "0"
 tipo: Villa
 totalrooms: "6"
-rooms: "4"
-bagni: "2"
+rooms: "5"
+bagni: "3"
 zonam2: 300 mq
 floor: "1"
 elevator: No
