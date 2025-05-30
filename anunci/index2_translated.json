@@ -4615,7 +4615,7 @@
     "nomeZona": "Baia del Carpino",
     "city1": "Scalea (CS)",
     "street1": "Via Raffaele Sanseverino, 100",
-    "prezzo1": " ",
+    "prezzo1": " 0",
     "tipo": "Villa",
     "totalrooms": "2",
     "rooms": "2",
@@ -4624,7 +4624,7 @@
     "floor": "1",
     "elevator": "",
     "terrazzo": "Si",
-    "prezzo": " ",
+    "prezzo": " 0",
     "giardino": "93 m²",
     "garage": "",
     "arredamenti": " ",
@@ -5000,10 +5000,10 @@
         "descrizione": "Villa a schiera, Baia del Carpino a Scalea (CS) - Italys Casa",
         "tipo": "Villa a schiera",
         "arredamenti": " ",
-        "prezzoDescrizione": " "
+        "prezzoDescrizione": " 0"
       }
     },
-    "prezzoDescrizione": " "
+    "prezzoDescrizione": " 0"
   },
   {
     "slug": "703",
