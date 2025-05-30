@@ -297,8 +297,8 @@ prezzoDescrizione: "0"
 video: " "
 video360: " "
 images:
-  - src: /foto/1-7-.webp
-    alt: "Villa con piscina vicino a mare a Diamante "
+  - src: /foto/12-6-.webp
+    alt: Villa con piscina
 latitude: " "
 longitude: " "
 ---
