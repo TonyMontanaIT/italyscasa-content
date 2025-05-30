@@ -126,8 +126,8 @@ prezzoDescrizione: "0"
 video: " "
 video360: " "
 images:
-  - src: /foto/1-9-.webp
-    alt: "Real Estate Italy Calabri Villa "
+  - src: /foto/12-3-.webp
+    alt: Villa con piscina
 latitude: " "
 longitude: " "
 ---
