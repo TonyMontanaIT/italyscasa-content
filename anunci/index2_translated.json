@@ -12394,18 +12394,18 @@
     "nomeZona": "Via dottor Imparato",
     "city1": "Scalea (CS)",
     "street1": "Via Dottor A. Imparato",
-    "prezzo1": "90.000 ",
+    "prezzo1": "90.000",
     "tipo": "Appartamento",
     "totalrooms": "2",
     "rooms": "1",
     "bagni": "2",
     "zonam2": "90 m²",
     "floor": "3",
-    "elevator": "No",
+    "elevator": "",
     "terrazzo": "Si",
     "prezzo": "90.000",
-    "giardino": "No",
-    "garage": "No",
+    "giardino": "",
+    "garage": "",
     "arredamenti": " ",
     "patio": " ",
     "corte": " ",
@@ -12573,7 +12573,8 @@
         "text6": " ",
         "nomeAnunci": "Scalea Appartamento in Via dottor",
         "descrizione": "Scopri Scalea su Via Imparato con Italys Casa! 🏖️",
-        "arredamenti": " "
+        "arredamenti": " ",
+        "prezzoDescrizione": " "
       },
       "ru": {
         "tipo": "Appartamento",
@@ -12591,7 +12592,8 @@
         "text6": " ",
         "nomeAnunci": "Scalea Appartamento in Via dottor",
         "descrizione": "Scopri Scalea su Via Imparato con Italys Casa! 🏖️",
-        "arredamenti": " "
+        "arredamenti": " ",
+        "prezzoDescrizione": " "
       },
       "lt": {
         "tipo": "Appartamento",
@@ -12609,7 +12611,8 @@
         "text6": " ",
         "nomeAnunci": "Scalea Appartamento in Via dottor",
         "descrizione": "Scopri Scalea su Via Imparato con Italys Casa! 🏖️",
-        "arredamenti": " "
+        "arredamenti": " ",
+        "prezzoDescrizione": " "
       },
       "lv": {
         "tipo": "Appartamento",
@@ -12627,7 +12630,8 @@
         "text6": " ",
         "nomeAnunci": "Scalea Appartamento in Via dottor",
         "descrizione": "Scopri Scalea su Via Imparato con Italys Casa! 🏖️",
-        "arredamenti": " "
+        "arredamenti": " ",
+        "prezzoDescrizione": " "
       },
       "pl": {
         "tipo": "Appartamento",
@@ -12645,7 +12649,8 @@
         "text6": " ",
         "nomeAnunci": "Scalea Appartamento in Via dottor",
         "descrizione": "Scopri Scalea su Via Imparato con Italys Casa! 🏖️",
-        "arredamenti": " "
+        "arredamenti": " ",
+        "prezzoDescrizione": " "
       },
       "fi": {
         "tipo": "Appartamento",
@@ -12663,7 +12668,8 @@
         "text6": " ",
         "nomeAnunci": "Scalea Appartamento in Via dottor",
         "descrizione": "Scopri Scalea su Via Imparato con Italys Casa! 🏖️",
-        "arredamenti": " "
+        "arredamenti": " ",
+        "prezzoDescrizione": " "
       },
       "cs": {
         "tipo": "Appartamento",
@@ -12681,7 +12687,8 @@
         "text6": " ",
         "nomeAnunci": "Scalea Appartamento in Via dottor",
         "descrizione": "Scopri Scalea su Via Imparato con Italys Casa! 🏖️",
-        "arredamenti": " "
+        "arredamenti": " ",
+        "prezzoDescrizione": " "
       },
       "de": {
         "tipo": "Appartamento",
@@ -12699,7 +12706,8 @@
         "text6": " ",
         "nomeAnunci": "Scalea Appartamento in Via dottor",
         "descrizione": "Scopri Scalea su Via Imparato con Italys Casa! 🏖️",
-        "arredamenti": " "
+        "arredamenti": " ",
+        "prezzoDescrizione": " "
       },
       "ar": {
         "tipo": "Appartamento",
@@ -12717,7 +12725,8 @@
         "text6": " ",
         "nomeAnunci": "Scalea Appartamento in Via dottor",
         "descrizione": "Scopri Scalea su Via Imparato con Italys Casa! 🏖️",
-        "arredamenti": " "
+        "arredamenti": " ",
+        "prezzoDescrizione": " "
       },
       "sv": {
         "tipo": "Appartamento",
@@ -12735,7 +12744,8 @@
         "text6": " ",
         "nomeAnunci": "Scalea Appartamento in Via dottor",
         "descrizione": "Scopri Scalea su Via Imparato con Italys Casa! 🏖️",
-        "arredamenti": " "
+        "arredamenti": " ",
+        "prezzoDescrizione": " "
       },
       "fr": {
         "tipo": "Appartamento",
@@ -12753,7 +12763,8 @@
         "text6": " ",
         "nomeAnunci": "Scalea Appartamento in Via dottor",
         "descrizione": "Scopri Scalea su Via Imparato con Italys Casa! 🏖️",
-        "arredamenti": " "
+        "arredamenti": " ",
+        "prezzoDescrizione": " "
       },
       "es": {
         "tipo": "Appartamento",
@@ -12771,7 +12782,8 @@
         "text6": " ",
         "nomeAnunci": "Scalea Appartamento in Via dottor",
         "descrizione": "Scopri Scalea su Via Imparato con Italys Casa! 🏖️",
-        "arredamenti": " "
+        "arredamenti": " ",
+        "prezzoDescrizione": " "
       },
       "it": {
         "nomeAnunci": "Scalea Appartamento in Via dottor",
@@ -12790,10 +12802,11 @@
         "text6": " ",
         "descrizione": "Scopri Scalea su Via Imparato con Italys Casa! 🏖️",
         "tipo": "Appartamento",
-        "arredamenti": " "
+        "arredamenti": " ",
+        "prezzoDescrizione": " "
       }
     },
-    "prezzoDescrizione": ""
+    "prezzoDescrizione": " "
   },
   {
     "slug": "127",

@@ -1879,19 +1879,19 @@
     "nomeZona": "Via dottor Imparato",
     "city1": "Scalea (CS)",
     "street1": "Via Dottor A. Imparato",
-    "prezzo1": "90.000 ",
+    "prezzo1": "90.000",
     "tipo": "Appartamento",
     "totalrooms": "2",
     "rooms": "1",
     "bagni": "2",
     "zonam2": "90 m²",
     "floor": "3",
-    "elevator": "No",
+    "elevator": "False",
     "terrazzo": "Si",
     "prezzo": "90.000",
-    "prezzoDescrizione": "",
-    "giardino": "No",
-    "garage": "No",
+    "prezzoDescrizione": " ",
+    "giardino": "False",
+    "garage": "False",
     "arredamenti": " ",
     "patio": " ",
     "corte": " ",
@@ -1913,131 +1913,131 @@
     "images": [
       {
         "src": "foto/708 (32).webp",
-        "alt": ""
+        "alt": " "
       },
       {
         "src": "foto/708 (6).webp",
-        "alt": ""
+        "alt": " "
       },
       {
         "src": "foto/708 (2).webp",
-        "alt": ""
+        "alt": " "
       },
       {
         "src": "foto/708 (3).webp",
-        "alt": ""
+        "alt": " "
       },
       {
         "src": "foto/708 (4).webp",
-        "alt": ""
+        "alt": " "
       },
       {
         "src": "foto/708 (5).webp",
-        "alt": ""
+        "alt": " "
       },
       {
         "src": "foto/708 (1).webp",
-        "alt": ""
+        "alt": " "
       },
       {
         "src": "foto/708 (7).webp",
-        "alt": ""
+        "alt": " "
       },
       {
         "src": "foto/708 (8).webp",
-        "alt": ""
+        "alt": " "
       },
       {
         "src": "foto/708 (9).webp",
-        "alt": ""
+        "alt": " "
       },
       {
         "src": "foto/708 (10).webp",
-        "alt": ""
+        "alt": " "
       },
       {
         "src": "foto/708 (11).webp",
-        "alt": ""
+        "alt": " "
       },
       {
         "src": "foto/708 (12).webp",
-        "alt": ""
+        "alt": " "
       },
       {
         "src": "foto/708 (13).webp",
-        "alt": ""
+        "alt": " "
       },
       {
         "src": "foto/708 (14).webp",
-        "alt": ""
+        "alt": " "
       },
       {
         "src": "foto/708 (15).webp",
-        "alt": ""
+        "alt": " "
       },
       {
         "src": "foto/708 (16).webp",
-        "alt": ""
+        "alt": " "
       },
       {
         "src": "foto/708 (17).webp",
-        "alt": ""
+        "alt": " "
       },
       {
         "src": "foto/708 (18).webp",
-        "alt": ""
+        "alt": " "
       },
       {
         "src": "foto/708 (19).webp",
-        "alt": ""
+        "alt": " "
       },
       {
         "src": "foto/708 (20).webp",
-        "alt": ""
+        "alt": " "
       },
       {
         "src": "foto/708 (21).webp",
-        "alt": ""
+        "alt": " "
       },
       {
         "src": "foto/708 (22).webp",
-        "alt": ""
+        "alt": " "
       },
       {
         "src": "foto/708 (23).webp",
-        "alt": ""
+        "alt": " "
       },
       {
         "src": "foto/708 (24).webp",
-        "alt": ""
+        "alt": " "
       },
       {
         "src": "foto/708 (25).webp",
-        "alt": ""
+        "alt": " "
       },
       {
         "src": "foto/708 (26).webp",
-        "alt": ""
+        "alt": " "
       },
       {
         "src": "foto/708 (27).webp",
-        "alt": ""
+        "alt": " "
       },
       {
         "src": "foto/708 (28).webp",
-        "alt": ""
+        "alt": " "
       },
       {
         "src": "foto/708 (29).webp",
-        "alt": ""
+        "alt": " "
       },
       {
         "src": "foto/708 (30).webp",
-        "alt": ""
+        "alt": " "
       },
       {
         "src": "foto/708 (31).webp",
-        "alt": ""
+        "alt": " "
       }
     ],
     "latitude": "39.814509",
