@@ -177,8 +177,8 @@ prezzoDescrizione: "0"
 video: " "
 video360: " "
 images:
-  - src: /foto/1-6-.webp
-    alt: "Villa di lusso con vista mozzafiato sul mare "
+  - src: /foto/12-7-.webp
+    alt: Villa Esclusivo con Piscina
 latitude: " "
 longitude: " "
 ---
