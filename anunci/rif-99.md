@@ -280,8 +280,8 @@ prezzoDescrizione: "0"
 video: " "
 video360: " "
 images:
-  - src: /foto/1-5-.webp
-    alt: Villa a scalea
+  - src: /foto/12-9-.webp
+    alt: Villa familiare
 latitude: " "
 longitude: " "
 ---
