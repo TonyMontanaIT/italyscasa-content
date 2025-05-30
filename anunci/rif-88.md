@@ -128,8 +128,8 @@ prezzoDescrizione: "0"
 video: " "
 video360: " "
 images:
-  - src: /foto/1-1-.webp
-    alt: "San Nicola Arcella Villa familiare con piscina "
+  - src: /foto/12-11-.webp
+    alt: Villa con piscina
 latitude: "   "
 longitude: "   "
 ---
