@@ -8,8 +8,8 @@ street1: Via D.Carfino 43
 prezzo1: "0"
 tipo: Villa
 totalrooms: "6"
-rooms: "4"
-bagni: "2"
+rooms: "6"
+bagni: "3"
 zonam2: 400 mq
 floor: "1"
 elevator: No
