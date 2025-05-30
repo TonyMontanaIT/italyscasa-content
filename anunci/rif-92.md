@@ -146,8 +146,8 @@ prezzoDescrizione: "0"
 video: " "
 video360: " "
 images:
-  - src: /foto/1-11-.webp
-    alt: Luxury Estate in Italy
+  - src: /foto/12-2-.webp
+    alt: Villa con piscina
 latitude: " "
 longitude: " "
 ---
