@@ -114,8 +114,8 @@ prezzoDescrizione: "0"
 video: " "
 video360: " "
 images:
-  - src: /foto/1-10-.webp
-    alt: Villa con piscina e giardino in Calabria
+  - src: /foto/12-4-.webp
+    alt: Villa con vista
 latitude: " "
 longitude: " "
 ---
