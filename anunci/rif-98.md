@@ -229,8 +229,8 @@ prezzoDescrizione: "0"
 video: " "
 video360: " "
 images:
-  - src: /foto/1-5-.webp
-    alt: Villa con giardino a Santa Maria Del Cedro / Riviera dei cedri
+  - src: /foto/12-8-.webp
+    alt: Villa con grande piscina
 latitude: " "
 longitude: " "
 ---
