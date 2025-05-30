@@ -15527,18 +15527,18 @@
     "nomeZona": "Centro Storico",
     "city1": "Scalea (CS)",
     "street1": "Via Castello",
-    "prezzo1": "230.000 ",
+    "prezzo1": "230.000",
     "tipo": "Appartamento",
     "totalrooms": "7",
     "rooms": "3",
     "bagni": "3",
     "zonam2": "260 m²",
     "floor": "1",
-    "elevator": "No",
+    "elevator": "",
     "terrazzo": "Si",
     "prezzo": "230.000",
     "giardino": "100 m²",
-    "garage": "No",
+    "garage": "",
     "arredamenti": " ",
     "patio": " ",
     "corte": " ",
@@ -15822,7 +15822,8 @@
         "text6": "Questa proprietà rappresenta una straordinaria occasione per vivere a stretto contatto con la storia, offrendo al contempo tutti i comfort moderni. Non lasciarti sfuggire questa opportunità unica!",
         "nomeAnunci": "Scalea Casa Castello a Centro Storico",
         "descrizione": "Casa nel Centro Storico di Scalea, Accanto al Castello Normanno",
-        "arredamenti": " "
+        "arredamenti": " ",
+        "prezzoDescrizione": " "
       },
       "ru": {
         "tipo": "Appartamento",
@@ -15840,7 +15841,8 @@
         "text6": "Questa proprietà rappresenta una straordinaria occasione per vivere a stretto contatto con la storia, offrendo al contempo tutti i comfort moderni. Non lasciarti sfuggire questa opportunità unica!",
         "nomeAnunci": "Scalea Casa Castello a Centro Storico",
         "descrizione": "Casa nel Centro Storico di Scalea, Accanto al Castello Normanno",
-        "arredamenti": " "
+        "arredamenti": " ",
+        "prezzoDescrizione": " "
       },
       "lt": {
         "tipo": "Appartamento",
@@ -15858,7 +15860,8 @@
         "text6": "Questa proprietà rappresenta una straordinaria occasione per vivere a stretto contatto con la storia, offrendo al contempo tutti i comfort moderni. Non lasciarti sfuggire questa opportunità unica!",
         "nomeAnunci": "Scalea Casa Castello a Centro Storico",
         "descrizione": "Casa nel Centro Storico di Scalea, Accanto al Castello Normanno",
-        "arredamenti": " "
+        "arredamenti": " ",
+        "prezzoDescrizione": " "
       },
       "lv": {
         "tipo": "Appartamento",
@@ -15876,7 +15879,8 @@
         "text6": "Questa proprietà rappresenta una straordinaria occasione per vivere a stretto contatto con la storia, offrendo al contempo tutti i comfort moderni. Non lasciarti sfuggire questa opportunità unica!",
         "nomeAnunci": "Scalea Casa Castello a Centro Storico",
         "descrizione": "Casa nel Centro Storico di Scalea, Accanto al Castello Normanno",
-        "arredamenti": " "
+        "arredamenti": " ",
+        "prezzoDescrizione": " "
       },
       "pl": {
         "tipo": "Appartamento",
@@ -15894,7 +15898,8 @@
         "text6": "Questa proprietà rappresenta una straordinaria occasione per vivere a stretto contatto con la storia, offrendo al contempo tutti i comfort moderni. Non lasciarti sfuggire questa opportunità unica!",
         "nomeAnunci": "Scalea Casa Castello a Centro Storico",
         "descrizione": "Casa nel Centro Storico di Scalea, Accanto al Castello Normanno",
-        "arredamenti": " "
+        "arredamenti": " ",
+        "prezzoDescrizione": " "
       },
       "fi": {
         "tipo": "Appartamento",
@@ -15912,7 +15917,8 @@
         "text6": "Questa proprietà rappresenta una straordinaria occasione per vivere a stretto contatto con la storia, offrendo al contempo tutti i comfort moderni. Non lasciarti sfuggire questa opportunità unica!",
         "nomeAnunci": "Scalea Casa Castello a Centro Storico",
         "descrizione": "Casa nel Centro Storico di Scalea, Accanto al Castello Normanno",
-        "arredamenti": " "
+        "arredamenti": " ",
+        "prezzoDescrizione": " "
       },
       "cs": {
         "tipo": "Appartamento",
@@ -15930,7 +15936,8 @@
         "text6": "Questa proprietà rappresenta una straordinaria occasione per vivere a stretto contatto con la storia, offrendo al contempo tutti i comfort moderni. Non lasciarti sfuggire questa opportunità unica!",
         "nomeAnunci": "Scalea Casa Castello a Centro Storico",
         "descrizione": "Casa nel Centro Storico di Scalea, Accanto al Castello Normanno",
-        "arredamenti": " "
+        "arredamenti": " ",
+        "prezzoDescrizione": " "
       },
       "de": {
         "tipo": "Appartamento",
@@ -15948,7 +15955,8 @@
         "text6": "Questa proprietà rappresenta una straordinaria occasione per vivere a stretto contatto con la storia, offrendo al contempo tutti i comfort moderni. Non lasciarti sfuggire questa opportunità unica!",
         "nomeAnunci": "Scalea Casa Castello a Centro Storico",
         "descrizione": "Casa nel Centro Storico di Scalea, Accanto al Castello Normanno",
-        "arredamenti": " "
+        "arredamenti": " ",
+        "prezzoDescrizione": " "
       },
       "ar": {
         "tipo": "Appartamento",
@@ -15966,7 +15974,8 @@
         "text6": "Questa proprietà rappresenta una straordinaria occasione per vivere a stretto contatto con la storia, offrendo al contempo tutti i comfort moderni. Non lasciarti sfuggire questa opportunità unica!",
         "nomeAnunci": "Scalea Casa Castello a Centro Storico",
         "descrizione": "Casa nel Centro Storico di Scalea, Accanto al Castello Normanno",
-        "arredamenti": " "
+        "arredamenti": " ",
+        "prezzoDescrizione": " "
       },
       "sv": {
         "tipo": "Appartamento",
@@ -15984,7 +15993,8 @@
         "text6": "Questa proprietà rappresenta una straordinaria occasione per vivere a stretto contatto con la storia, offrendo al contempo tutti i comfort moderni. Non lasciarti sfuggire questa opportunità unica!",
         "nomeAnunci": "Scalea Casa Castello a Centro Storico",
         "descrizione": "Casa nel Centro Storico di Scalea, Accanto al Castello Normanno",
-        "arredamenti": " "
+        "arredamenti": " ",
+        "prezzoDescrizione": " "
       },
       "fr": {
         "tipo": "Appartamento",
@@ -16002,7 +16012,8 @@
         "text6": "Questa proprietà rappresenta una straordinaria occasione per vivere a stretto contatto con la storia, offrendo al contempo tutti i comfort moderni. Non lasciarti sfuggire questa opportunità unica!",
         "nomeAnunci": "Scalea Casa Castello a Centro Storico",
         "descrizione": "Casa nel Centro Storico di Scalea, Accanto al Castello Normanno",
-        "arredamenti": " "
+        "arredamenti": " ",
+        "prezzoDescrizione": " "
       },
       "es": {
         "tipo": "Appartamento",
@@ -16020,7 +16031,8 @@
         "text6": "Questa proprietà rappresenta una straordinaria occasione per vivere a stretto contatto con la storia, offrendo al contempo tutti i comfort moderni. Non lasciarti sfuggire questa opportunità unica!",
         "nomeAnunci": "Scalea Casa Castello a Centro Storico",
         "descrizione": "Casa nel Centro Storico di Scalea, Accanto al Castello Normanno",
-        "arredamenti": " "
+        "arredamenti": " ",
+        "prezzoDescrizione": " "
       },
       "it": {
         "nomeAnunci": "Scalea Casa Castello a Centro Storico",
@@ -16039,10 +16051,11 @@
         "text6": "Questa proprietà rappresenta una straordinaria occasione per vivere a stretto contatto con la storia, offrendo al contempo tutti i comfort moderni. Non lasciarti sfuggire questa opportunità unica!",
         "descrizione": "Casa nel Centro Storico di Scalea, Accanto al Castello Normanno",
         "tipo": "Appartamento",
-        "arredamenti": " "
+        "arredamenti": " ",
+        "prezzoDescrizione": " "
       }
     },
-    "prezzoDescrizione": ""
+    "prezzoDescrizione": " "
   },
   {
     "slug": "900",

@@ -3703,19 +3703,19 @@
     "nomeZona": "Centro Storico",
     "city1": "Scalea (CS)",
     "street1": "Via Castello",
-    "prezzo1": "230.000 ",
+    "prezzo1": "230.000",
     "tipo": "Appartamento",
     "totalrooms": "7",
     "rooms": "3",
     "bagni": "3",
     "zonam2": "260 m²",
     "floor": "1",
-    "elevator": "No",
+    "elevator": "False",
     "terrazzo": "Si",
     "prezzo": "230.000",
-    "prezzoDescrizione": "",
+    "prezzoDescrizione": " ",
     "giardino": "100 m²",
-    "garage": "No",
+    "garage": "False",
     "arredamenti": " ",
     "patio": " ",
     "corte": " ",
@@ -3737,247 +3737,247 @@
     "images": [
       {
         "src": "foto/135 (1).webp",
-        "alt": ""
+        "alt": " "
       },
       {
         "src": "foto/135 (6).webp",
-        "alt": ""
+        "alt": " "
       },
       {
         "src": "foto/135 (27).webp",
-        "alt": ""
+        "alt": " "
       },
       {
         "src": "foto/135 (4).webp",
-        "alt": ""
+        "alt": " "
       },
       {
         "src": "foto/135 (5).webp",
-        "alt": ""
+        "alt": " "
       },
       {
         "src": "foto/135 (2).webp",
-        "alt": ""
+        "alt": " "
       },
       {
         "src": "foto/135 (7).webp",
-        "alt": ""
+        "alt": " "
       },
       {
         "src": "foto/135 (8).webp",
-        "alt": ""
+        "alt": " "
       },
       {
         "src": "foto/135 (9).webp",
-        "alt": ""
+        "alt": " "
       },
       {
         "src": "foto/135 (10).webp",
-        "alt": ""
+        "alt": " "
       },
       {
         "src": "foto/135 (11).webp",
-        "alt": ""
+        "alt": " "
       },
       {
         "src": "foto/135 (12).webp",
-        "alt": ""
+        "alt": " "
       },
       {
         "src": "foto/135 (13).webp",
-        "alt": ""
+        "alt": " "
       },
       {
         "src": "foto/135 (14).webp",
-        "alt": ""
+        "alt": " "
       },
       {
         "src": "foto/135 (15).webp",
-        "alt": ""
+        "alt": " "
       },
       {
         "src": "foto/135 (16).webp",
-        "alt": ""
+        "alt": " "
       },
       {
         "src": "foto/135 (17).webp",
-        "alt": ""
+        "alt": " "
       },
       {
         "src": "foto/135 (18).webp",
-        "alt": ""
+        "alt": " "
       },
       {
         "src": "foto/135 (19).webp",
-        "alt": ""
+        "alt": " "
       },
       {
         "src": "foto/135 (20).webp",
-        "alt": ""
+        "alt": " "
       },
       {
         "src": "foto/135 (21).webp",
-        "alt": ""
+        "alt": " "
       },
       {
         "src": "foto/135 (22).webp",
-        "alt": ""
+        "alt": " "
       },
       {
         "src": "foto/135 (23).webp",
-        "alt": ""
+        "alt": " "
       },
       {
         "src": "foto/135 (24).webp",
-        "alt": ""
+        "alt": " "
       },
       {
         "src": "foto/135 (25).webp",
-        "alt": ""
+        "alt": " "
       },
       {
         "src": "foto/135 (26).webp",
-        "alt": ""
+        "alt": " "
       },
       {
         "src": "foto/135 (3).webp",
-        "alt": ""
+        "alt": " "
       },
       {
         "src": "foto/135 (28).webp",
-        "alt": ""
+        "alt": " "
       },
       {
         "src": "foto/135 (29).webp",
-        "alt": ""
+        "alt": " "
       },
       {
         "src": "foto/135 (30).webp",
-        "alt": ""
+        "alt": " "
       },
       {
         "src": "foto/135 (31).webp",
-        "alt": ""
+        "alt": " "
       },
       {
         "src": "foto/135 (32).webp",
-        "alt": ""
+        "alt": " "
       },
       {
         "src": "foto/135 (33).webp",
-        "alt": ""
+        "alt": " "
       },
       {
         "src": "foto/135 (34).webp",
-        "alt": ""
+        "alt": " "
       },
       {
         "src": "foto/135 (35).webp",
-        "alt": ""
+        "alt": " "
       },
       {
         "src": "foto/135 (36).webp",
-        "alt": ""
+        "alt": " "
       },
       {
         "src": "foto/135 (37).webp",
-        "alt": ""
+        "alt": " "
       },
       {
         "src": "foto/135 (38).webp",
-        "alt": ""
+        "alt": " "
       },
       {
         "src": "foto/135 (39).webp",
-        "alt": ""
+        "alt": " "
       },
       {
         "src": "foto/135 (40).webp",
-        "alt": ""
+        "alt": " "
       },
       {
         "src": "foto/135 (41).webp",
-        "alt": ""
+        "alt": " "
       },
       {
         "src": "foto/135 (42).webp",
-        "alt": ""
+        "alt": " "
       },
       {
         "src": "foto/135 (43).webp",
-        "alt": ""
+        "alt": " "
       },
       {
         "src": "foto/135 (44).webp",
-        "alt": ""
+        "alt": " "
       },
       {
         "src": "foto/135 (45).webp",
-        "alt": ""
+        "alt": " "
       },
       {
         "src": "foto/135 (46).webp",
-        "alt": ""
+        "alt": " "
       },
       {
         "src": "foto/135 (47).webp",
-        "alt": ""
+        "alt": " "
       },
       {
         "src": "foto/135 (48).webp",
-        "alt": ""
+        "alt": " "
       },
       {
         "src": "foto/135 (49).webp",
-        "alt": ""
+        "alt": " "
       },
       {
         "src": "foto/135 (50).webp",
-        "alt": ""
+        "alt": " "
       },
       {
         "src": "foto/135 (51).webp",
-        "alt": ""
+        "alt": " "
       },
       {
         "src": "foto/135 (52).webp",
-        "alt": ""
+        "alt": " "
       },
       {
         "src": "foto/135 (53).webp",
-        "alt": ""
+        "alt": " "
       },
       {
         "src": "foto/135 (54).webp",
-        "alt": ""
+        "alt": " "
       },
       {
         "src": "foto/135 (55).webp",
-        "alt": ""
+        "alt": " "
       },
       {
         "src": "foto/135 (56).webp",
-        "alt": ""
+        "alt": " "
       },
       {
         "src": "foto/135 (57).webp",
-        "alt": ""
+        "alt": " "
       },
       {
         "src": "foto/135 (58).webp",
-        "alt": ""
+        "alt": " "
       },
       {
         "src": "foto/135 (59).webp",
-        "alt": ""
+        "alt": " "
       },
       {
         "src": "foto/135 (60).webp",
-        "alt": ""
+        "alt": " "
       },
       {
         "src": "foto/135 (61).webp",
-        "alt": ""
+        "alt": " "
       }
     ],
     "latitude": "39.817739",
