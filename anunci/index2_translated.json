@@ -14757,18 +14757,18 @@
     "nomeZona": "San Nicola Arcella",
     "city1": "San Nicola Arcella (CS)",
     "street1": "Via Sandro Pertini",
-    "prezzo1": "170.000 ",
+    "prezzo1": "170.000",
     "tipo": "Villa",
     "totalrooms": "3",
     "rooms": "2",
     "bagni": "2",
     "zonam2": "100 m²",
     "floor": "1",
-    "elevator": "No",
+    "elevator": "",
     "terrazzo": "Si",
     "prezzo": "170.000",
-    "giardino": "No",
-    "garage": "No",
+    "giardino": "",
+    "garage": "",
     "arredamenti": " ",
     "patio": " ",
     "corte": " ",
@@ -14988,7 +14988,8 @@
         "text6": "Con un prezzo di €170.000, questa villa rappresenta un'opportunità unica per chi desidera una residenza di charme a San Nicola Arcella. Grazie alla sua posizione panoramica, alla ristrutturazione recente e alla qualità degli spazi, è la soluzione ideale per chi cerca una casa in Calabria o un investimento in una delle zone più belle e ambite della regione.",
         "nomeAnunci": "San Nicola Arcella Villa con vista mozzafiato",
         "descrizione": "Villa Ristrutturata con Vista Panoramica a San Nicola Arcella, Calabria",
-        "arredamenti": " "
+        "arredamenti": " ",
+        "prezzoDescrizione": " "
       },
       "ru": {
         "tipo": "Villa",
@@ -15006,7 +15007,8 @@
         "text6": "Con un prezzo di €170.000, questa villa rappresenta un'opportunità unica per chi desidera una residenza di charme a San Nicola Arcella. Grazie alla sua posizione panoramica, alla ristrutturazione recente e alla qualità degli spazi, è la soluzione ideale per chi cerca una casa in Calabria o un investimento in una delle zone più belle e ambite della regione.",
         "nomeAnunci": "San Nicola Arcella Villa con vista mozzafiato",
         "descrizione": "Villa Ristrutturata con Vista Panoramica a San Nicola Arcella, Calabria",
-        "arredamenti": " "
+        "arredamenti": " ",
+        "prezzoDescrizione": " "
       },
       "lt": {
         "tipo": "Villa",
@@ -15024,7 +15026,8 @@
         "text6": "Con un prezzo di €170.000, questa villa rappresenta un'opportunità unica per chi desidera una residenza di charme a San Nicola Arcella. Grazie alla sua posizione panoramica, alla ristrutturazione recente e alla qualità degli spazi, è la soluzione ideale per chi cerca una casa in Calabria o un investimento in una delle zone più belle e ambite della regione.",
         "nomeAnunci": "San Nicola Arcella Villa con vista mozzafiato",
         "descrizione": "Villa Ristrutturata con Vista Panoramica a San Nicola Arcella, Calabria",
-        "arredamenti": " "
+        "arredamenti": " ",
+        "prezzoDescrizione": " "
       },
       "lv": {
         "tipo": "Villa",
@@ -15042,7 +15045,8 @@
         "text6": "Con un prezzo di €170.000, questa villa rappresenta un'opportunità unica per chi desidera una residenza di charme a San Nicola Arcella. Grazie alla sua posizione panoramica, alla ristrutturazione recente e alla qualità degli spazi, è la soluzione ideale per chi cerca una casa in Calabria o un investimento in una delle zone più belle e ambite della regione.",
         "nomeAnunci": "San Nicola Arcella Villa con vista mozzafiato",
         "descrizione": "Villa Ristrutturata con Vista Panoramica a San Nicola Arcella, Calabria",
-        "arredamenti": " "
+        "arredamenti": " ",
+        "prezzoDescrizione": " "
       },
       "pl": {
         "tipo": "Villa",
@@ -15060,7 +15064,8 @@
         "text6": "Con un prezzo di €170.000, questa villa rappresenta un'opportunità unica per chi desidera una residenza di charme a San Nicola Arcella. Grazie alla sua posizione panoramica, alla ristrutturazione recente e alla qualità degli spazi, è la soluzione ideale per chi cerca una casa in Calabria o un investimento in una delle zone più belle e ambite della regione.",
         "nomeAnunci": "San Nicola Arcella Villa con vista mozzafiato",
         "descrizione": "Villa Ristrutturata con Vista Panoramica a San Nicola Arcella, Calabria",
-        "arredamenti": " "
+        "arredamenti": " ",
+        "prezzoDescrizione": " "
       },
       "fi": {
         "tipo": "Villa",
@@ -15078,7 +15083,8 @@
         "text6": "Con un prezzo di €170.000, questa villa rappresenta un'opportunità unica per chi desidera una residenza di charme a San Nicola Arcella. Grazie alla sua posizione panoramica, alla ristrutturazione recente e alla qualità degli spazi, è la soluzione ideale per chi cerca una casa in Calabria o un investimento in una delle zone più belle e ambite della regione.",
         "nomeAnunci": "San Nicola Arcella Villa con vista mozzafiato",
         "descrizione": "Villa Ristrutturata con Vista Panoramica a San Nicola Arcella, Calabria",
-        "arredamenti": " "
+        "arredamenti": " ",
+        "prezzoDescrizione": " "
       },
       "cs": {
         "tipo": "Villa",
@@ -15096,7 +15102,8 @@
         "text6": "Con un prezzo di €170.000, questa villa rappresenta un'opportunità unica per chi desidera una residenza di charme a San Nicola Arcella. Grazie alla sua posizione panoramica, alla ristrutturazione recente e alla qualità degli spazi, è la soluzione ideale per chi cerca una casa in Calabria o un investimento in una delle zone più belle e ambite della regione.",
         "nomeAnunci": "San Nicola Arcella Villa con vista mozzafiato",
         "descrizione": "Villa Ristrutturata con Vista Panoramica a San Nicola Arcella, Calabria",
-        "arredamenti": " "
+        "arredamenti": " ",
+        "prezzoDescrizione": " "
       },
       "de": {
         "tipo": "Villa",
@@ -15114,7 +15121,8 @@
         "text6": "Con un prezzo di €170.000, questa villa rappresenta un'opportunità unica per chi desidera una residenza di charme a San Nicola Arcella. Grazie alla sua posizione panoramica, alla ristrutturazione recente e alla qualità degli spazi, è la soluzione ideale per chi cerca una casa in Calabria o un investimento in una delle zone più belle e ambite della regione.",
         "nomeAnunci": "San Nicola Arcella Villa con vista mozzafiato",
         "descrizione": "Villa Ristrutturata con Vista Panoramica a San Nicola Arcella, Calabria",
-        "arredamenti": " "
+        "arredamenti": " ",
+        "prezzoDescrizione": " "
       },
       "ar": {
         "tipo": "Villa",
@@ -15132,7 +15140,8 @@
         "text6": "Con un prezzo di €170.000, questa villa rappresenta un'opportunità unica per chi desidera una residenza di charme a San Nicola Arcella. Grazie alla sua posizione panoramica, alla ristrutturazione recente e alla qualità degli spazi, è la soluzione ideale per chi cerca una casa in Calabria o un investimento in una delle zone più belle e ambite della regione.",
         "nomeAnunci": "San Nicola Arcella Villa con vista mozzafiato",
         "descrizione": "Villa Ristrutturata con Vista Panoramica a San Nicola Arcella, Calabria",
-        "arredamenti": " "
+        "arredamenti": " ",
+        "prezzoDescrizione": " "
       },
       "sv": {
         "tipo": "Villa",
@@ -15150,7 +15159,8 @@
         "text6": "Con un prezzo di €170.000, questa villa rappresenta un'opportunità unica per chi desidera una residenza di charme a San Nicola Arcella. Grazie alla sua posizione panoramica, alla ristrutturazione recente e alla qualità degli spazi, è la soluzione ideale per chi cerca una casa in Calabria o un investimento in una delle zone più belle e ambite della regione.",
         "nomeAnunci": "San Nicola Arcella Villa con vista mozzafiato",
         "descrizione": "Villa Ristrutturata con Vista Panoramica a San Nicola Arcella, Calabria",
-        "arredamenti": " "
+        "arredamenti": " ",
+        "prezzoDescrizione": " "
       },
       "fr": {
         "tipo": "Villa",
@@ -15168,7 +15178,8 @@
         "text6": "Con un prezzo di €170.000, questa villa rappresenta un'opportunità unica per chi desidera una residenza di charme a San Nicola Arcella. Grazie alla sua posizione panoramica, alla ristrutturazione recente e alla qualità degli spazi, è la soluzione ideale per chi cerca una casa in Calabria o un investimento in una delle zone più belle e ambite della regione.",
         "nomeAnunci": "San Nicola Arcella Villa con vista mozzafiato",
         "descrizione": "Villa Ristrutturata con Vista Panoramica a San Nicola Arcella, Calabria",
-        "arredamenti": " "
+        "arredamenti": " ",
+        "prezzoDescrizione": " "
       },
       "es": {
         "tipo": "Villa",
@@ -15186,7 +15197,8 @@
         "text6": "Con un prezzo di €170.000, questa villa rappresenta un'opportunità unica per chi desidera una residenza di charme a San Nicola Arcella. Grazie alla sua posizione panoramica, alla ristrutturazione recente e alla qualità degli spazi, è la soluzione ideale per chi cerca una casa in Calabria o un investimento in una delle zone più belle e ambite della regione.",
         "nomeAnunci": "San Nicola Arcella Villa con vista mozzafiato",
         "descrizione": "Villa Ristrutturata con Vista Panoramica a San Nicola Arcella, Calabria",
-        "arredamenti": " "
+        "arredamenti": " ",
+        "prezzoDescrizione": " "
       },
       "it": {
         "nomeAnunci": "San Nicola Arcella Villa con vista mozzafiato",
@@ -15205,10 +15217,11 @@
         "text6": "Con un prezzo di €170.000, questa villa rappresenta un'opportunità unica per chi desidera una residenza di charme a San Nicola Arcella. Grazie alla sua posizione panoramica, alla ristrutturazione recente e alla qualità degli spazi, è la soluzione ideale per chi cerca una casa in Calabria o un investimento in una delle zone più belle e ambite della regione.",
         "descrizione": "Villa Ristrutturata con Vista Panoramica a San Nicola Arcella, Calabria",
         "tipo": "Villa",
-        "arredamenti": " "
+        "arredamenti": " ",
+        "prezzoDescrizione": " "
       }
     },
-    "prezzoDescrizione": ""
+    "prezzoDescrizione": " "
   },
   {
     "slug": "713",
