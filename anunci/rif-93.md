@@ -8,7 +8,7 @@ street1: Via Napoli 43
 prezzo1: "0"
 tipo: Villa
 totalrooms: "5"
-rooms: "3"
+rooms: "5"
 bagni: "2"
 zonam2: 340 mq
 floor: "1"
