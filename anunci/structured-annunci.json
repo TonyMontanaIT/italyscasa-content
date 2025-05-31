@@ -412,6 +412,47 @@
   {
     "@context": "https://schema.org",
     "@type": "Product",
+    "name": "Bagnara Calabra Villa di Lusso con piscina in Trattativa",
+    "description": "In vendita: Villa vista mare a Bagnara Calabra – tra tradizione, spiagge dorate e profumo di pescespada",
+    "image": "https://tonymontanait.github.io/italyscasa-content//foto/13-9-.webp",
+    "offers": {
+      "@type": "Offer",
+      "url": "https://italyscasa.com/anunci/dynamic/?rif=931",
+      "price": 0,
+      "priceCurrency": "EUR",
+      "availability": "https://schema.org/InStock"
+    },
+    "inLanguage": "it",
+    "isAccessibleForFree": true,
+    "wordCount": 155,
+    "keywords": "lido, pizzeria, bagnara, calabra, beach, ristorante, mare, villa",
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Bagnara Calabra",
+      "streetAddress": "Provonciale 32"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": null,
+      "longitude": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "ItalysCasa",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://tonymontanait.github.io/italyscasa-content/uploads/logo.webp"
+      }
+    },
+    "sameAs": [
+      "https://www.instagram.com/italyscasa?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
+      "https://www.facebook.com/profile.php?id=61551668563870",
+      "https://www.tiktok.com/@italyscasa1?is_from_webapp=1&sender_device=pc"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
     "name": "Capitello Villa di Lusso con giardino e piscina",
     "description": "In vendita: Elegante villa a Capitello – natura, storia e acque cristalline a pochi passi",
     "image": "https://tonymontanait.github.io/italyscasa-content//foto/12-17-.webp",
