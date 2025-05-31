@@ -2872,6 +2872,47 @@
   {
     "@context": "https://schema.org",
     "@type": "Product",
+    "name": "Palermo Villa con giardino e vista mozzifiato in Trattativa",
+    "description": "In vendita: Villa esclusiva a Palermo – tra arte arabo-normanna, spiagge dorate e sapori di Sicilia",
+    "image": "https://tonymontanait.github.io/italyscasa-content//foto/15-4-.webp",
+    "offers": {
+      "@type": "Offer",
+      "url": "https://italyscasa.com/anunci/dynamic/?rif=937",
+      "price": 0,
+      "priceCurrency": "EUR",
+      "availability": "https://schema.org/InStock"
+    },
+    "inLanguage": "it",
+    "isAccessibleForFree": true,
+    "wordCount": 255,
+    "keywords": "lido, pizzeria, spiaggia, trattoria, ristorante, palermo, pasticceria, mondello",
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Palermo",
+      "streetAddress": "Pitagoro 98"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": null,
+      "longitude": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "ItalysCasa",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://tonymontanait.github.io/italyscasa-content/uploads/logo.webp"
+      }
+    },
+    "sameAs": [
+      "https://www.instagram.com/italyscasa?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
+      "https://www.facebook.com/profile.php?id=61551668563870",
+      "https://www.tiktok.com/@italyscasa1?is_from_webapp=1&sender_device=pc"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
     "name": "Grisolia  Casa indipendente al centro storico",
     "description": "Casa a Schiera con Terrazzo e Giardino in Vendita a Grisolia (CS)",
     "image": "https://tonymontanait.github.io/italyscasa-content/foto/115 (1).webp",
