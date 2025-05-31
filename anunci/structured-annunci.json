@@ -3241,6 +3241,47 @@
   {
     "@context": "https://schema.org",
     "@type": "Product",
+    "name": "Modica Villa di Lusso on giardino e piscina in Trattativa",
+    "description": "In vendita: Residenza tipica a Modica – la città del cioccolato e dell’arte barocca",
+    "image": "https://tonymontanait.github.io/italyscasa-content//foto/15-11-.webp",
+    "offers": {
+      "@type": "Offer",
+      "url": "https://italyscasa.com/anunci/dynamic/?rif=944",
+      "price": 0,
+      "priceCurrency": "EUR",
+      "availability": "https://schema.org/InStock"
+    },
+    "inLanguage": "it",
+    "isAccessibleForFree": true,
+    "wordCount": 217,
+    "keywords": "lido, caffè, spiaggia, modica, marina, dell, arte, ristorante",
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Modica",
+      "streetAddress": "Abrau Durso"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": null,
+      "longitude": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "ItalysCasa",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://tonymontanait.github.io/italyscasa-content/uploads/logo.webp"
+      }
+    },
+    "sameAs": [
+      "https://www.instagram.com/italyscasa?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
+      "https://www.facebook.com/profile.php?id=61551668563870",
+      "https://www.tiktok.com/@italyscasa1?is_from_webapp=1&sender_device=pc"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
     "name": "Taormina Villa con piscina in Trattativa",
     "description": "In vendita: Villa esclusiva a Taormina – lusso, storia e vista mozzafiato sull’Isola Bella",
     "image": "https://tonymontanait.github.io/italyscasa-content//foto/13-11-.webp",
