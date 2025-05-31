@@ -2708,6 +2708,47 @@
   {
     "@context": "https://schema.org",
     "@type": "Product",
+    "name": "Ragusa Villa con piscina e giardino in Trattativa",
+    "description": "In vendita: Villa di charme a Ragusa – tra spiagge dorate, barocco siciliano e sapori autentici",
+    "image": "https://tonymontanait.github.io/italyscasa-content//foto/15-6-.webp",
+    "offers": {
+      "@type": "Offer",
+      "url": "https://italyscasa.com/anunci/dynamic/?rif=939",
+      "price": 0,
+      "priceCurrency": "EUR",
+      "availability": "https://schema.org/InStock"
+    },
+    "inLanguage": "it",
+    "isAccessibleForFree": true,
+    "wordCount": 214,
+    "keywords": "spiaggia, ristorante, lido, ragusa, caffè, trattoria, pizzeria, marina",
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Ragusa",
+      "streetAddress": "Peroni 88"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": null,
+      "longitude": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "ItalysCasa",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://tonymontanait.github.io/italyscasa-content/uploads/logo.webp"
+      }
+    },
+    "sameAs": [
+      "https://www.instagram.com/italyscasa?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
+      "https://www.facebook.com/profile.php?id=61551668563870",
+      "https://www.tiktok.com/@italyscasa1?is_from_webapp=1&sender_device=pc"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
     "name": "Scalea Appartamento con vista",
     "description": "Scalea (CS) - Appartamento con vista in Via Dottor La Terza | Italys Casa",
     "image": "https://tonymontanait.github.io/italyscasa-content/foto/129 (7).webp",
