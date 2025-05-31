@@ -297,7 +297,7 @@ prezzoDescrizione: "0"
 video: " "
 video360: " "
 images:
-  - src: /foto/12-6-.webp
+  - src: /foto/casa-sabene-maravillosa-villa-junto-al-mar.webp
     alt: Villa con piscina
 latitude: " "
 longitude: " "
