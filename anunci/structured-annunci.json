@@ -904,6 +904,47 @@
   {
     "@context": "https://schema.org",
     "@type": "Product",
+    "name": "Siracusa Villa con piscina di Lusso",
+    "description": "In vendita: Villa vista mare a Siracusa – tra scogliere di Ortigia, spiagge di Fontane Bianche e templi antichi",
+    "image": "https://tonymontanait.github.io/italyscasa-content//foto/15-5-.webp",
+    "offers": {
+      "@type": "Offer",
+      "url": "https://italyscasa.com/anunci/dynamic/?rif=938",
+      "price": 0,
+      "priceCurrency": "EUR",
+      "availability": "https://schema.org/InStock"
+    },
+    "inLanguage": "it",
+    "isAccessibleForFree": true,
+    "wordCount": 273,
+    "keywords": "spiaggia, ristorante, pizzeria, caffè, lido, siracusa, ortigia, mare",
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Siracusa",
+      "streetAddress": "Garibaldi 99"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": null,
+      "longitude": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "ItalysCasa",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://tonymontanait.github.io/italyscasa-content/uploads/logo.webp"
+      }
+    },
+    "sameAs": [
+      "https://www.instagram.com/italyscasa?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
+      "https://www.facebook.com/profile.php?id=61551668563870",
+      "https://www.tiktok.com/@italyscasa1?is_from_webapp=1&sender_device=pc"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
     "name": "Scalea  Appartamento su 2 piani",
     "description": "Appartamento su Due Piani in Vendita a Scalea: Un'Opportunità Unica nel Cuore della Città",
     "image": "https://tonymontanait.github.io/italyscasa-content/foto/120 (16).webp",
