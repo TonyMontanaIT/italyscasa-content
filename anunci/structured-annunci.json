@@ -1519,6 +1519,47 @@
   {
     "@context": "https://schema.org",
     "@type": "Product",
+    "name": "Lampedusa Villa di Lusso con vista mare in Trattativa",
+    "description": "In vendita: Villa panoramica a Lampedusa – tra acque turchesi e spiagge leggendarie",
+    "image": "https://tonymontanait.github.io/italyscasa-content//foto/15-8-.webp",
+    "offers": {
+      "@type": "Offer",
+      "url": "https://italyscasa.com/anunci/dynamic/?rif=941",
+      "price": 0,
+      "priceCurrency": "EUR",
+      "availability": "https://schema.org/InStock"
+    },
+    "inLanguage": "it",
+    "isAccessibleForFree": true,
+    "wordCount": 208,
+    "keywords": "ristorante, cala, lido, lampedusa, pizzeria, mare, sole, spiaggia",
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Lampedusa",
+      "streetAddress": "Lampone 32"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": null,
+      "longitude": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "ItalysCasa",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://tonymontanait.github.io/italyscasa-content/uploads/logo.webp"
+      }
+    },
+    "sameAs": [
+      "https://www.instagram.com/italyscasa?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
+      "https://www.facebook.com/profile.php?id=61551668563870",
+      "https://www.tiktok.com/@italyscasa1?is_from_webapp=1&sender_device=pc"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
     "name": "Scalea Villa in Trattativa",
     "description": "In vendita: Prestigiosa Villa Panoramica a Scalea",
     "image": "https://tonymontanait.github.io/italyscasa-content//foto/12-9-.webp",
