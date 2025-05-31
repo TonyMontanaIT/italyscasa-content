@@ -986,6 +986,47 @@
   {
     "@context": "https://schema.org",
     "@type": "Product",
+    "name": "Noto",
+    "description": "In vendita: Elegante proprietà nel cuore di Noto – tra arte barocca e spiagge dorate",
+    "image": "https://tonymontanait.github.io/italyscasa-content//foto/15-10-.webp",
+    "offers": {
+      "@type": "Offer",
+      "url": "https://italyscasa.com/anunci/dynamic/?rif=943",
+      "price": 0,
+      "priceCurrency": "EUR",
+      "availability": "https://schema.org/InStock"
+    },
+    "inLanguage": "it",
+    "isAccessibleForFree": true,
+    "wordCount": 220,
+    "keywords": "spiaggia, lido, noto, ristorante, caffè, lorenzo, calamosche, eloro",
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Noto",
+      "streetAddress": "Alessio Grosso 42"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": null,
+      "longitude": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "ItalysCasa",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://tonymontanait.github.io/italyscasa-content/uploads/logo.webp"
+      }
+    },
+    "sameAs": [
+      "https://www.instagram.com/italyscasa?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
+      "https://www.facebook.com/profile.php?id=61551668563870",
+      "https://www.tiktok.com/@italyscasa1?is_from_webapp=1&sender_device=pc"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
     "name": "Siracusa Villa con piscina di Lusso",
     "description": "In vendita: Villa vista mare a Siracusa – tra scogliere di Ortigia, spiagge di Fontane Bianche e templi antichi",
     "image": "https://tonymontanait.github.io/italyscasa-content//foto/15-5-.webp",
