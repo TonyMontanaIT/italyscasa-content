@@ -822,6 +822,47 @@
   {
     "@context": "https://schema.org",
     "@type": "Product",
+    "name": "Agrigento Villa con piscina di Lusso in Trattativa",
+    "description": "In vendita: Villa esclusiva ad Agrigento – tra Templi greci, spiagge dorate e sapori siciliani",
+    "image": "https://tonymontanait.github.io/italyscasa-content//foto/15-7-.webp",
+    "offers": {
+      "@type": "Offer",
+      "url": "https://italyscasa.com/anunci/dynamic/?rif=940",
+      "price": 0,
+      "priceCurrency": "EUR",
+      "availability": "https://schema.org/InStock"
+    },
+    "inLanguage": "it",
+    "isAccessibleForFree": true,
+    "wordCount": 225,
+    "keywords": "ristorante, spiaggia, lido, caffè, trattoria, pizzeria, agrigento, mare",
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Agrigento",
+      "streetAddress": "Barilla 22"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": null,
+      "longitude": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "ItalysCasa",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://tonymontanait.github.io/italyscasa-content/uploads/logo.webp"
+      }
+    },
+    "sameAs": [
+      "https://www.instagram.com/italyscasa?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
+      "https://www.facebook.com/profile.php?id=61551668563870",
+      "https://www.tiktok.com/@italyscasa1?is_from_webapp=1&sender_device=pc"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
     "name": "Belvedere Marittimo Calabria, Villa con vista monte e mare di lusso in Trattativa",
     "description": "In vendita: Villa esclusiva a Belvedere Marittimo – comfort, mare e charme storico",
     "image": "https://tonymontanait.github.io/italyscasa-content//foto/12-5-.webp",
