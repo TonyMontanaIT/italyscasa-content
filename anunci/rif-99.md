@@ -7,9 +7,9 @@ city1: Scalea
 street1: Raffaele Sanseverino, 56
 prezzo1: "0"
 tipo: "Villa "
-totalrooms: "4"
-rooms: "4"
-bagni: "2"
+totalrooms: "11"
+rooms: "9"
+bagni: "4"
 zonam2: " "
 floor: " "
 elevator: " "
