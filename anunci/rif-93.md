@@ -7,10 +7,10 @@ city1: Marina di Fuscaldo
 street1: Via Napoli 43
 prezzo1: "0"
 tipo: Villa
-totalrooms: "5"
-rooms: "5"
-bagni: "2"
-zonam2: 340 mq
+totalrooms: "10"
+rooms: "9"
+bagni: "5"
+zonam2: " "
 floor: "1"
 elevator: No
 terrazzo: Si
