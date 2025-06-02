@@ -7,10 +7,10 @@ city1: Torremezzo di Falconara
 street1: Via Faro 112
 prezzo1: "0"
 tipo: Villa
-totalrooms: "6"
-rooms: "4"
-bagni: "3"
-zonam2: 340 mq
+totalrooms: "9"
+rooms: "8"
+bagni: "5"
+zonam2: 578 mq
 floor: "1"
 elevator: No
 terrazzo: Si
