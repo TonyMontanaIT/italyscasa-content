@@ -10,7 +10,7 @@ tipo: Villa
 totalrooms: "7"
 rooms: "6"
 bagni: "4"
-zonam2: 477 mq
+zonam2: " "
 floor: "1"
 elevator: NO
 terrazzo: Si
