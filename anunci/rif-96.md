@@ -7,10 +7,10 @@ city1: Diamante
 street1: Teresa Benvenuto, 32
 prezzo1: "0"
 tipo: Villa
-totalrooms: "6"
-rooms: "4"
-bagni: "2"
-zonam2: 200 mq
+totalrooms: "13"
+rooms: "11"
+bagni: "7"
+zonam2: " "
 floor: "1"
 elevator: No
 terrazzo: Si
