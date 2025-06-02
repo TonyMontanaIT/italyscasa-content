@@ -7,10 +7,10 @@ city1: Cetraro Marina
 street1: Via Roma 45
 prezzo1: "0"
 tipo: Villa
-totalrooms: "6"
-rooms: "4"
-bagni: "2"
-zonam2: 400 mq
+totalrooms: "8"
+rooms: "6"
+bagni: "4"
+zonam2: " "
 floor: "1"
 elevator: No
 terrazzo: Si
