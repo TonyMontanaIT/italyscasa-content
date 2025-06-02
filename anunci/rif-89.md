@@ -7,10 +7,10 @@ city1: Amantea
 street1: Pitagore 43
 prezzo1: "0"
 tipo: "Villa "
-totalrooms: "6"
-rooms: "4"
-bagni: "2"
-zonam2: "440 mq "
+totalrooms: "16"
+rooms: "13"
+bagni: "10"
+zonam2: "  "
 floor: "1"
 elevator: No
 terrazzo: Si
