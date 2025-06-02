@@ -7,10 +7,10 @@ city1: Paola
 street1: Via degli ulivi 54
 prezzo1: "0"
 tipo: Villa
-totalrooms: "5"
-rooms: "4"
-bagni: "2"
-zonam2: 320 mq
+totalrooms: "7"
+rooms: "6"
+bagni: "4"
+zonam2: 477 mq
 floor: "1"
 elevator: NO
 terrazzo: Si
