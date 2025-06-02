@@ -7,10 +7,10 @@ city1: Santa Maria del Cedro Marina
 street1: delle Allodole
 prezzo1: "0"
 tipo: "Villa "
-totalrooms: "6"
-rooms: "5"
-bagni: "3"
-zonam2: 400 mq
+totalrooms: "12"
+rooms: "10"
+bagni: "6"
+zonam2: " "
 floor: "1"
 elevator: " "
 terrazzo: Si
