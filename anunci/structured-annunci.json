@@ -986,7 +986,7 @@
   {
     "@context": "https://schema.org",
     "@type": "Product",
-    "name": "Noto",
+    "name": "Noto Villa Famigliare con piscina e vista in Trattativa",
     "description": "In vendita: Elegante proprietà nel cuore di Noto – tra arte barocca e spiagge dorate",
     "image": "https://tonymontanait.github.io/italyscasa-content//foto/15-10-.webp",
     "offers": {
@@ -999,7 +999,7 @@
     "inLanguage": "it",
     "isAccessibleForFree": true,
     "wordCount": 220,
-    "keywords": "spiaggia, lido, noto, ristorante, caffè, lorenzo, calamosche, eloro",
+    "keywords": "spiaggia, lido, noto, ristorante, caffè, lorenzo, villa, calamosche",
     "address": {
       "@type": "PostalAddress",
       "addressLocality": "Noto",
