@@ -8,10 +8,10 @@ city1: Belvedere
 street1: Giuseppe Petrellis, 54
 prezzo1: "0"
 tipo: Villa
-totalrooms: "6"
-rooms: "4"
-bagni: "2"
-zonam2: 350 mq
+totalrooms: "10"
+rooms: "8"
+bagni: "5"
+zonam2: " "
 floor: "1"
 elevator: No
 terrazzo: Si
