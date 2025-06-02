@@ -7,10 +7,10 @@ city1: San Nicola Arcella
 street1: Licurisi 21
 prezzo1: "0"
 tipo: Villa
-totalrooms: "7"
-rooms: "5"
-bagni: "3"
-zonam2: 500 mq
+totalrooms: "10"
+rooms: "7"
+bagni: "5"
+zonam2: " "
 floor: "1"
 elevator: No
 terrazzo: Si
