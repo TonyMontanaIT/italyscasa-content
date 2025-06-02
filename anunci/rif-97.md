@@ -7,10 +7,10 @@ city1: Cirella
 street1: Vittorio Veneto, 16
 prezzo1: "0"
 tipo: Villa
-totalrooms: "6"
-rooms: "5"
-bagni: "3"
-zonam2: 300 mq
+totalrooms: "10"
+rooms: "8"
+bagni: "5"
+zonam2: " "
 floor: "1"
 elevator: No
 terrazzo: Si
