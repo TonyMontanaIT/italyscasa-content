@@ -125,6 +125,47 @@
   {
     "@context": "https://schema.org",
     "@type": "Product",
+    "name": "Ancona Villa con piscina e vista mare e monte in Trattativa",
+    "description": "In vendita: Villa panoramica ad Ancona – tra arte, mare e natura",
+    "image": "https://tonymontanait.github.io/italyscasa-content//foto/19-10-.webp",
+    "offers": {
+      "@type": "Offer",
+      "url": "https://italyscasa.com/anunci/dynamic/?rif=954",
+      "price": 0,
+      "priceCurrency": "EUR",
+      "availability": "https://schema.org/InStock"
+    },
+    "inLanguage": "it",
+    "isAccessibleForFree": true,
+    "wordCount": 379,
+    "keywords": "lido, spiaggia, ancona, mare, della, caffe, ristorante, villa",
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Ancona",
+      "streetAddress": "Andrea Solari 96"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": null,
+      "longitude": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "ItalysCasa",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://tonymontanait.github.io/italyscasa-content/uploads/logo.webp"
+      }
+    },
+    "sameAs": [
+      "https://www.instagram.com/italyscasa?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
+      "https://www.facebook.com/profile.php?id=61551668563870",
+      "https://www.tiktok.com/@italyscasa1?is_from_webapp=1&sender_device=pc"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
     "name": "Scalea Appartamento",
     "description": "Appartamento in Vendita a Scalea in Via Pitagora - Un'Occasione da Non Perdere!",
     "image": "https://tonymontanait.github.io/italyscasa-content/foto/109 (1).webp",
