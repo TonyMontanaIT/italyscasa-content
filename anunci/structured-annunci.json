@@ -4180,5 +4180,46 @@
       "https://www.facebook.com/profile.php?id=61551668563870",
       "https://www.tiktok.com/@italyscasa1?is_from_webapp=1&sender_device=pc"
     ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "Sorrento Villa per grande famiglia in Trattativa",
+    "description": "In vendita: Villa esclusiva a Sorrento con terrazze sul Golfo di Napoli",
+    "image": "https://tonymontanait.github.io/italyscasa-content//foto/19-17-.webp",
+    "offers": {
+      "@type": "Offer",
+      "url": "https://italyscasa.com/anunci/dynamic/?rif=961",
+      "price": 0,
+      "priceCurrency": "EUR",
+      "availability": "https://schema.org/InStock"
+    },
+    "inLanguage": "it",
+    "isAccessibleForFree": true,
+    "wordCount": 374,
+    "keywords": "lido, sorrento, beach, bagni, spiaggia, ristorante, villa, grande",
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Sorrento",
+      "streetAddress": "dei Gracchi"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": null,
+      "longitude": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "ItalysCasa",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://tonymontanait.github.io/italyscasa-content/uploads/logo.webp"
+      }
+    },
+    "sameAs": [
+      "https://www.instagram.com/italyscasa?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
+      "https://www.facebook.com/profile.php?id=61551668563870",
+      "https://www.tiktok.com/@italyscasa1?is_from_webapp=1&sender_device=pc"
+    ]
   }
 ]
