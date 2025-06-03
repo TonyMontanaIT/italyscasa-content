@@ -3856,6 +3856,47 @@
   {
     "@context": "https://schema.org",
     "@type": "Product",
+    "name": "Conca dei Marini Villa di Lusso con giardino e piscina in Trattativa",
+    "description": "In vendita: Villa panoramica a Conca dei Marini, con terrazze sul mare",
+    "image": "https://tonymontanait.github.io/italyscasa-content//foto/19-14-.webp",
+    "offers": {
+      "@type": "Offer",
+      "url": "https://italyscasa.com/anunci/dynamic/?rif=958",
+      "price": 0,
+      "priceCurrency": "EUR",
+      "availability": "https://schema.org/InStock"
+    },
+    "inLanguage": "it",
+    "isAccessibleForFree": true,
+    "wordCount": 302,
+    "keywords": "conca, spiaggia, marini, capo, marina, torre, villa, mare",
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Conca dei Marini",
+      "streetAddress": "Costanza 94"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": null,
+      "longitude": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "ItalysCasa",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://tonymontanait.github.io/italyscasa-content/uploads/logo.webp"
+      }
+    },
+    "sameAs": [
+      "https://www.instagram.com/italyscasa?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
+      "https://www.facebook.com/profile.php?id=61551668563870",
+      "https://www.tiktok.com/@italyscasa1?is_from_webapp=1&sender_device=pc"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
     "name": "Porto di Maratea Appartamento esclusivo",
     "description": "Appartamento esclusivo al Porto di Maratea (PZ) – Italys Casa",
     "image": "https://tonymontanait.github.io/italyscasa-content/foto/144 (8).webp",
