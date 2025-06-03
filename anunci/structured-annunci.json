@@ -125,6 +125,47 @@
   {
     "@context": "https://schema.org",
     "@type": "Product",
+    "name": "Minori Villa famigliare di lusso con vista mozzifiato in Trattativa",
+    "description": "In vendita: Villa esclusiva con vista mare a Minori",
+    "image": "https://tonymontanait.github.io/italyscasa-content//foto/19-13-.webp",
+    "offers": {
+      "@type": "Offer",
+      "url": "https://italyscasa.com/anunci/dynamic/?rif=957",
+      "price": 0,
+      "priceCurrency": "EUR",
+      "availability": "https://schema.org/InStock"
+    },
+    "inLanguage": "it",
+    "isAccessibleForFree": true,
+    "wordCount": 367,
+    "keywords": "lido, minori, pizzeria, villa, spiaggia, ambrogio, giardinetto, vista",
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Minori",
+      "streetAddress": "Egardi 33"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": null,
+      "longitude": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "ItalysCasa",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://tonymontanait.github.io/italyscasa-content/uploads/logo.webp"
+      }
+    },
+    "sameAs": [
+      "https://www.instagram.com/italyscasa?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
+      "https://www.facebook.com/profile.php?id=61551668563870",
+      "https://www.tiktok.com/@italyscasa1?is_from_webapp=1&sender_device=pc"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
     "name": "Ancona Villa con piscina e vista mare e monte in Trattativa",
     "description": "In vendita: Villa panoramica ad Ancona – tra arte, mare e natura",
     "image": "https://tonymontanait.github.io/italyscasa-content//foto/19-10-.webp",
