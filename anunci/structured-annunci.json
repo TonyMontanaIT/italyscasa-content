@@ -1314,6 +1314,47 @@
   {
     "@context": "https://schema.org",
     "@type": "Product",
+    "name": "Taranto Villa famigliare con 10 camere in Trattativa",
+    "description": "In vendita: Villa elegante a Taranto – tra mare cristallino, storia millenaria e charme pugliese",
+    "image": "https://tonymontanait.github.io/italyscasa-content//foto/19-7-.webp",
+    "offers": {
+      "@type": "Offer",
+      "url": "https://italyscasa.com/anunci/dynamic/?rif=951",
+      "price": 0,
+      "priceCurrency": "EUR",
+      "availability": "https://schema.org/InStock"
+    },
+    "inLanguage": "it",
+    "isAccessibleForFree": true,
+    "wordCount": 407,
+    "keywords": "lido, ristorante, pizzeria, spiaggia, taranto, villa, vito, caffe",
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Taranto",
+      "streetAddress": "Arena 99"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": null,
+      "longitude": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "ItalysCasa",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://tonymontanait.github.io/italyscasa-content/uploads/logo.webp"
+      }
+    },
+    "sameAs": [
+      "https://www.instagram.com/italyscasa?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
+      "https://www.facebook.com/profile.php?id=61551668563870",
+      "https://www.tiktok.com/@italyscasa1?is_from_webapp=1&sender_device=pc"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
     "name": "Scalea Appartamento in Via dottor",
     "description": "Scopri Scalea su Via Imparato con Italys Casa! 🏖️",
     "image": "https://tonymontanait.github.io/italyscasa-content/foto/708 (32).webp",
