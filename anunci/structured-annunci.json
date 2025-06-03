@@ -2134,6 +2134,47 @@
   {
     "@context": "https://schema.org",
     "@type": "Product",
+    "name": "Melito di Porto Salvo Villa famigliare di Lusso in Trattativa",
+    "description": "In vendita: Villa mediterranea a Melito di Porto Salvo – tra mare cristallino e storia millenaria",
+    "image": "https://tonymontanait.github.io/italyscasa-content//foto/19-2-.webp",
+    "offers": {
+      "@type": "Offer",
+      "url": "https://italyscasa.com/anunci/dynamic/?rif=946",
+      "price": 0,
+      "priceCurrency": "EUR",
+      "availability": "https://schema.org/InStock"
+    },
+    "inLanguage": "it",
+    "isAccessibleForFree": true,
+    "wordCount": 302,
+    "keywords": "ristorante, pizzeria, melito, porto, lido, salvo, mare, beach",
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Melito di Porto Salvo",
+      "streetAddress": "Giuseppe Piro 22"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": null,
+      "longitude": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "ItalysCasa",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://tonymontanait.github.io/italyscasa-content/uploads/logo.webp"
+      }
+    },
+    "sameAs": [
+      "https://www.instagram.com/italyscasa?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
+      "https://www.facebook.com/profile.php?id=61551668563870",
+      "https://www.tiktok.com/@italyscasa1?is_from_webapp=1&sender_device=pc"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
     "name": "Scalea Villa a schiera con giardino",
     "description": "Villa a Schiera in Vendita al Villaggio VIP di Scalea (CS)",
     "image": "https://tonymontanait.github.io/italyscasa-content/foto/127 (1).webp",
