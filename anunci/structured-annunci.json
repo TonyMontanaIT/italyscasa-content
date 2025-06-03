@@ -863,6 +863,47 @@
   {
     "@context": "https://schema.org",
     "@type": "Product",
+    "name": "Roccella Ionica Villa con vista mozzifiato in Trattativa",
+    "description": "In vendita: Villa vista mare a Roccella Ionica – tra jazz, mare cristallino e borghi antichi",
+    "image": "https://tonymontanait.github.io/italyscasa-content//foto/19-4-.webp",
+    "offers": {
+      "@type": "Offer",
+      "url": "https://italyscasa.com/anunci/dynamic/?rif=948",
+      "price": 0,
+      "priceCurrency": "EUR",
+      "availability": "https://schema.org/InStock"
+    },
+    "inLanguage": "it",
+    "isAccessibleForFree": true,
+    "wordCount": 330,
+    "keywords": "ristorante, lido, roccella, pizzeria, mare, beach, ionica, spiaggia",
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Roccella Ionica",
+      "streetAddress": "S. Calocero"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": null,
+      "longitude": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "ItalysCasa",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://tonymontanait.github.io/italyscasa-content/uploads/logo.webp"
+      }
+    },
+    "sameAs": [
+      "https://www.instagram.com/italyscasa?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
+      "https://www.facebook.com/profile.php?id=61551668563870",
+      "https://www.tiktok.com/@italyscasa1?is_from_webapp=1&sender_device=pc"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
     "name": "Agrigento Villa con piscina di Lusso in Trattativa",
     "description": "In vendita: Villa esclusiva ad Agrigento – tra Templi greci, spiagge dorate e sapori siciliani",
     "image": "https://tonymontanait.github.io/italyscasa-content//foto/15-7-.webp",
