@@ -3282,6 +3282,47 @@
   {
     "@context": "https://schema.org",
     "@type": "Product",
+    "name": "Brancaleone-Marina Villa con Giardino e vista in Trattativa",
+    "description": "In vendita: Villa panoramica a Brancaleone Marina – la costa dove nidificano le tartarughe e il sole non va mai via",
+    "image": "https://tonymontanait.github.io/italyscasa-content//foto/19-3-.webp",
+    "offers": {
+      "@type": "Offer",
+      "url": "https://italyscasa.com/anunci/dynamic/?rif=947",
+      "price": 0,
+      "priceCurrency": "EUR",
+      "availability": "https://schema.org/InStock"
+    },
+    "inLanguage": "it",
+    "isAccessibleForFree": true,
+    "wordCount": 206,
+    "keywords": "ristorante, brancaleone, marina, spiaggia, pizzeria, lido, villa, tartarughe",
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Brancaleone-Marina",
+      "streetAddress": "Borgofuro 299"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": null,
+      "longitude": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "ItalysCasa",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://tonymontanait.github.io/italyscasa-content/uploads/logo.webp"
+      }
+    },
+    "sameAs": [
+      "https://www.instagram.com/italyscasa?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
+      "https://www.facebook.com/profile.php?id=61551668563870",
+      "https://www.tiktok.com/@italyscasa1?is_from_webapp=1&sender_device=pc"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
     "name": "Villa San Giovanni Villa con giardino e piscina in Trattativa",
     "description": "In vendita: Villa elegante a Villa San Giovanni – vista sullo Stretto, storia millenaria e mare cristallino",
     "image": "https://tonymontanait.github.io/italyscasa-content//foto/13-10-.webp",
