@@ -3036,6 +3036,47 @@
   {
     "@context": "https://schema.org",
     "@type": "Product",
+    "name": "San Felice Circeo Appartamento di Lusso in Trattativa",
+    "description": "Appartamenti a San Felice Circeo",
+    "image": "https://tonymontanait.github.io/italyscasa-content//foto/20-11-.webp",
+    "offers": {
+      "@type": "Offer",
+      "url": "https://italyscasa.com/anunci/dynamic/?rif=974",
+      "price": 0,
+      "priceCurrency": "EUR",
+      "availability": "https://schema.org/InStock"
+    },
+    "inLanguage": "it",
+    "isAccessibleForFree": true,
+    "wordCount": 216,
+    "keywords": "lido, circeo, ristorante, pizzeria, spiaggia, felice, mare, punta",
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "San Felice Circeo",
+      "streetAddress": "Giuseppe Mazzini 43"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": null,
+      "longitude": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "ItalysCasa",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://tonymontanait.github.io/italyscasa-content/uploads/logo.webp"
+      }
+    },
+    "sameAs": [
+      "https://www.instagram.com/italyscasa?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
+      "https://www.facebook.com/profile.php?id=61551668563870",
+      "https://www.tiktok.com/@italyscasa1?is_from_webapp=1&sender_device=pc"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
     "name": "Sapri Villa con vista in Trattativa",
     "description": "In vendita: Villa di charme a Sapri – tra mare cristallino, storia garibaldina e dolci tramonti sul golfo",
     "image": "https://tonymontanait.github.io/italyscasa-content//foto/12-15-.webp",
