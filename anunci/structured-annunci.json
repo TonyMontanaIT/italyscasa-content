@@ -4676,6 +4676,47 @@
   {
     "@context": "https://schema.org",
     "@type": "Product",
+    "name": "Gaeta Appartamento Esclusivo Attico con vista in Trattativa",
+    "description": "Appartamenti in vendita a Gaeta – tra spiagge dorate e storia millenaria",
+    "image": "https://tonymontanait.github.io/italyscasa-content//foto/20-24-.webp",
+    "offers": {
+      "@type": "Offer",
+      "url": "https://italyscasa.com/anunci/dynamic/?rif=986",
+      "price": 0,
+      "priceCurrency": "EUR",
+      "availability": "https://schema.org/InStock"
+    },
+    "inLanguage": "it",
+    "isAccessibleForFree": true,
+    "wordCount": 389,
+    "keywords": "lido, pizzeria, ristorante, spiaggia, ariana, gaeta, serapo, selene",
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Gaeta",
+      "streetAddress": "Luigi Parascandola 54"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": null,
+      "longitude": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "ItalysCasa",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://tonymontanait.github.io/italyscasa-content/uploads/logo.webp"
+      }
+    },
+    "sameAs": [
+      "https://www.instagram.com/italyscasa?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
+      "https://www.facebook.com/profile.php?id=61551668563870",
+      "https://www.tiktok.com/@italyscasa1?is_from_webapp=1&sender_device=pc"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
     "name": "Villa San Giovanni Villa con giardino e piscina in Trattativa",
     "description": "In vendita: Villa elegante a Villa San Giovanni – vista sullo Stretto, storia millenaria e mare cristallino",
     "image": "https://tonymontanait.github.io/italyscasa-content//foto/13-10-.webp",
