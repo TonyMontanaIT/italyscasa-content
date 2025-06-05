@@ -1519,6 +1519,47 @@
   {
     "@context": "https://schema.org",
     "@type": "Product",
+    "name": "Lido di Ostia Appartamento di lusso con vista in trattativa",
+    "description": "In vendita: Appartamenti a Lido di Ostia – tra spiagge dorate e storia millenaria",
+    "image": "https://tonymontanait.github.io/italyscasa-content//foto/20-16-.webp",
+    "offers": {
+      "@type": "Offer",
+      "url": "https://italyscasa.com/anunci/dynamic/?rif=979",
+      "price": 0,
+      "priceCurrency": "EUR",
+      "availability": "https://schema.org/InStock"
+    },
+    "inLanguage": "it",
+    "isAccessibleForFree": true,
+    "wordCount": 374,
+    "keywords": "lido, ristorante, pizzeria, ostia, beach, spiaggia, plinius, delfino",
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Lido di Ostia",
+      "streetAddress": "B.Croce 97"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": null,
+      "longitude": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "ItalysCasa",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://tonymontanait.github.io/italyscasa-content/uploads/logo.webp"
+      }
+    },
+    "sameAs": [
+      "https://www.instagram.com/italyscasa?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
+      "https://www.facebook.com/profile.php?id=61551668563870",
+      "https://www.tiktok.com/@italyscasa1?is_from_webapp=1&sender_device=pc"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
     "name": "Maierà (CS)  Appartamento ",
     "description": "Appartamento con Vista Spettacolare a Maierà",
     "image": "https://tonymontanait.github.io/italyscasa-content/foto/712 (9).webp",
