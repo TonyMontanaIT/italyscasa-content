@@ -4348,6 +4348,47 @@
   {
     "@context": "https://schema.org",
     "@type": "Product",
+    "name": "Torca",
+    "description": "Appartamenti autentici a Torca – pace rurale e vista sul mare",
+    "image": "https://tonymontanait.github.io/italyscasa-content//foto/20-4-.webp",
+    "offers": {
+      "@type": "Offer",
+      "url": "https://italyscasa.com/anunci/dynamic/?rif=968",
+      "price": 0,
+      "priceCurrency": "EUR",
+      "availability": "https://schema.org/InStock"
+    },
+    "inLanguage": "it",
+    "isAccessibleForFree": true,
+    "wordCount": 199,
+    "keywords": "ristorante, torca, spiaggia, appartamenti, della, baia, marina, scoglio",
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Torca",
+      "streetAddress": "A.Volta 87"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": null,
+      "longitude": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "ItalysCasa",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://tonymontanait.github.io/italyscasa-content/uploads/logo.webp"
+      }
+    },
+    "sameAs": [
+      "https://www.instagram.com/italyscasa?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
+      "https://www.facebook.com/profile.php?id=61551668563870",
+      "https://www.tiktok.com/@italyscasa1?is_from_webapp=1&sender_device=pc"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
     "name": "Marina di Fuscaldo Villa con vista mozzifiato in trattativa",
     "description": "In vendita: Villa esclusiva a Marina di Fuscaldo – relax, tradizione e panorama sul Tirreno",
     "image": "https://tonymontanait.github.io/italyscasa-content//foto/12-4-.webp",
