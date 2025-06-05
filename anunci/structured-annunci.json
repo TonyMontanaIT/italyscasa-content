@@ -4758,6 +4758,47 @@
   {
     "@context": "https://schema.org",
     "@type": "Product",
+    "name": "Marina di Ardea",
+    "description": "In vendita: Appartamenti moderni a Marina di Ardea – tra spiagge dorate e vestigia romane",
+    "image": "https://tonymontanait.github.io/italyscasa-content//foto/20-14-.webp",
+    "offers": {
+      "@type": "Offer",
+      "url": "https://italyscasa.com/anunci/dynamic/?rif=977",
+      "price": 0,
+      "priceCurrency": "EUR",
+      "availability": "https://schema.org/InStock"
+    },
+    "inLanguage": "it",
+    "isAccessibleForFree": true,
+    "wordCount": 413,
+    "keywords": "lido, ristorante, marina, mare, pizzeria, ardea, pineta, arca",
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Marina di Ardea",
+      "streetAddress": "Barraccone 33"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": null,
+      "longitude": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "ItalysCasa",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://tonymontanait.github.io/italyscasa-content/uploads/logo.webp"
+      }
+    },
+    "sameAs": [
+      "https://www.instagram.com/italyscasa?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
+      "https://www.facebook.com/profile.php?id=61551668563870",
+      "https://www.tiktok.com/@italyscasa1?is_from_webapp=1&sender_device=pc"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
     "name": "Palmarola Appartamento famigliare di lusso in Trattativa",
     "description": "Esclusivi alloggi vista mare di fronte a Palmarola – natura selvaggia e acque cristalline",
     "image": "https://tonymontanait.github.io/italyscasa-content//foto/20-2-.webp",
