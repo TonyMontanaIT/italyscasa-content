@@ -2667,6 +2667,47 @@
   {
     "@context": "https://schema.org",
     "@type": "Product",
+    "name": "Baia Domizia Appartamenti con vista mare e montagna un Trattativa",
+    "description": "In vendita: Appartamenti a Baia Domizia – tra lidi dorati e storia romana",
+    "image": "https://tonymontanait.github.io/italyscasa-content//foto/20-20-.webp",
+    "offers": {
+      "@type": "Offer",
+      "url": "https://italyscasa.com/anunci/dynamic/?rif=983",
+      "price": 0,
+      "priceCurrency": "EUR",
+      "availability": "https://schema.org/InStock"
+    },
+    "inLanguage": "it",
+    "isAccessibleForFree": true,
+    "wordCount": 395,
+    "keywords": "lido, ristorante, pizzeria, mare, beach, domizia, vita, aurora",
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Baia Domizia",
+      "streetAddress": "S. Andrea Avellino"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": null,
+      "longitude": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "ItalysCasa",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://tonymontanait.github.io/italyscasa-content/uploads/logo.webp"
+      }
+    },
+    "sameAs": [
+      "https://www.instagram.com/italyscasa?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
+      "https://www.facebook.com/profile.php?id=61551668563870",
+      "https://www.tiktok.com/@italyscasa1?is_from_webapp=1&sender_device=pc"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
     "name": "Scalea Appartamento su 2 piani",
     "description": "Appartamento su 2 piani in Via Tommaso Campanella, Scalea (CS)",
     "image": "https://tonymontanait.github.io/italyscasa-content/foto/rif-133-132-7-.webp",
