@@ -2913,6 +2913,47 @@
   {
     "@context": "https://schema.org",
     "@type": "Product",
+    "name": "Lido di Licola",
+    "description": "Appartamenti in vendita a Lido di Licola – relax e mare tra storia e natura",
+    "image": "https://tonymontanait.github.io/italyscasa-content//foto/20-32-.webp",
+    "offers": {
+      "@type": "Offer",
+      "url": "https://italyscasa.com/anunci/dynamic/?rif=993",
+      "price": 0,
+      "priceCurrency": "EUR",
+      "availability": "https://schema.org/InStock"
+    },
+    "inLanguage": "it",
+    "isAccessibleForFree": true,
+    "wordCount": 402,
+    "keywords": "lido, licola, ristorante, beach, pizzeria, mare, varca, gallo",
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Lido di Licola",
+      "streetAddress": "Cupa Grande 213"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": null,
+      "longitude": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "ItalysCasa",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://tonymontanait.github.io/italyscasa-content/uploads/logo.webp"
+      }
+    },
+    "sameAs": [
+      "https://www.instagram.com/italyscasa?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
+      "https://www.facebook.com/profile.php?id=61551668563870",
+      "https://www.tiktok.com/@italyscasa1?is_from_webapp=1&sender_device=pc"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
     "name": "Appartamento in trattativa",
     "description": "Appartamento in Vendita a Scalea: Comfort e Natura nella Baia del Carpino",
     "image": "https://tonymontanait.github.io/italyscasa-content/foto/123 (1).webp",
