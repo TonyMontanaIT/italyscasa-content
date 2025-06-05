@@ -3118,6 +3118,47 @@
   {
     "@context": "https://schema.org",
     "@type": "Product",
+    "name": "Ischia appartamento di lusso in trattativa",
+    "description": "In affitto: Accoglienti appartamenti a Ischia a due passi dalle spiagge e dalle terme",
+    "image": "https://tonymontanait.github.io/italyscasa-content//foto/20-1-.webp",
+    "offers": {
+      "@type": "Offer",
+      "url": "https://italyscasa.com/anunci/dynamic/?rif=965",
+      "price": 0,
+      "priceCurrency": "EUR",
+      "availability": "https://schema.org/InStock"
+    },
+    "inLanguage": "it",
+    "isAccessibleForFree": true,
+    "wordCount": 378,
+    "keywords": "spiaggia, ischia, della, pizzeria, dalle, termali, maronti, citara",
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Ischia",
+      "streetAddress": " Siepe Nuova"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": null,
+      "longitude": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "ItalysCasa",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://tonymontanait.github.io/italyscasa-content/uploads/logo.webp"
+      }
+    },
+    "sameAs": [
+      "https://www.instagram.com/italyscasa?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
+      "https://www.facebook.com/profile.php?id=61551668563870",
+      "https://www.tiktok.com/@italyscasa1?is_from_webapp=1&sender_device=pc"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
     "name": "Cirella Villa con vista mare in Trattativa ",
     "description": "In vendita: Villa panoramica esclusiva a Cirella – il cuore della Riviera dei Cedri",
     "image": "https://tonymontanait.github.io/italyscasa-content//foto/12-7-.webp",
