@@ -2298,6 +2298,47 @@
   {
     "@context": "https://schema.org",
     "@type": "Product",
+    "name": "Ravello  Appartamento in Trattativa",
+    "description": "Appartamenti in vendita a Ravello – tra terrazze panoramiche e giardini sospesi sul mare",
+    "image": "https://tonymontanait.github.io/italyscasa-content//foto/20-25-.webp",
+    "offers": {
+      "@type": "Offer",
+      "url": "https://italyscasa.com/anunci/dynamic/?rif=987",
+      "price": 0,
+      "priceCurrency": "EUR",
+      "availability": "https://schema.org/InStock"
+    },
+    "inLanguage": "it",
+    "isAccessibleForFree": true,
+    "wordCount": 399,
+    "keywords": "spiaggia, ristorante, ravello, villa, vittoria, pizzeria, giardini, mare",
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Ravello ",
+      "streetAddress": "Udalrigo Masoni"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": null,
+      "longitude": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "ItalysCasa",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://tonymontanait.github.io/italyscasa-content/uploads/logo.webp"
+      }
+    },
+    "sameAs": [
+      "https://www.instagram.com/italyscasa?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
+      "https://www.facebook.com/profile.php?id=61551668563870",
+      "https://www.tiktok.com/@italyscasa1?is_from_webapp=1&sender_device=pc"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
     "name": "Scalea Villa bifamiliare  su 2 piani",
     "description": "Villa bifamiliare a Scalea su 2 piani, Via Piano Lettieri",
     "image": "https://tonymontanait.github.io/italyscasa-content/foto/146 (8).webp",
