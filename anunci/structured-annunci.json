@@ -1847,6 +1847,47 @@
   {
     "@context": "https://schema.org",
     "@type": "Product",
+    "name": "Mondragone Appartamento con vista mozzifiato in trattativa",
+    "description": "In vendita: Appartamenti fronte mare a Mondragone – storia antica e spiagge dorate tra gusto e relax",
+    "image": "https://tonymontanait.github.io/italyscasa-content//foto/20-18-.webp",
+    "offers": {
+      "@type": "Offer",
+      "url": "https://italyscasa.com/anunci/dynamic/?rif=981",
+      "price": 0,
+      "priceCurrency": "EUR",
+      "availability": "https://schema.org/InStock"
+    },
+    "inLanguage": "it",
+    "isAccessibleForFree": true,
+    "wordCount": 384,
+    "keywords": "lido, pizzeria, ristorante, mondragone, peter, medusa, sombrero, sabbia",
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Mondragone",
+      "streetAddress": "Monte Faito 96"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": null,
+      "longitude": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "ItalysCasa",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://tonymontanait.github.io/italyscasa-content/uploads/logo.webp"
+      }
+    },
+    "sameAs": [
+      "https://www.instagram.com/italyscasa?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
+      "https://www.facebook.com/profile.php?id=61551668563870",
+      "https://www.tiktok.com/@italyscasa1?is_from_webapp=1&sender_device=pc"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
     "name": "San Lucido Villa prestigiosa vicino al mare in trattativa",
     "description": "In vendita: Villa esclusiva a San Lucido – tra storia, mare e panorami mozzafiato",
     "image": "https://tonymontanait.github.io/italyscasa-content//foto/12-1-.webp",
