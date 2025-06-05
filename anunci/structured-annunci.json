@@ -2790,6 +2790,47 @@
   {
     "@context": "https://schema.org",
     "@type": "Product",
+    "name": "Baia Felice",
+    "description": " In vendita: Appartamenti a Baia Felice – tra lidi dorati e antiche vestigia romane",
+    "image": "https://tonymontanait.github.io/italyscasa-content//foto/20-19-.webp",
+    "offers": {
+      "@type": "Offer",
+      "url": "https://italyscasa.com/anunci/dynamic/?rif=982",
+      "price": 0,
+      "priceCurrency": "EUR",
+      "availability": "https://schema.org/InStock"
+    },
+    "inLanguage": "it",
+    "isAccessibleForFree": true,
+    "wordCount": 409,
+    "keywords": "lido, baia, beach, pizzeria, felice, ristorante, mare, fontana",
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Baia Felice",
+      "streetAddress": "Cardinale Baronio"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": null,
+      "longitude": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "ItalysCasa",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://tonymontanait.github.io/italyscasa-content/uploads/logo.webp"
+      }
+    },
+    "sameAs": [
+      "https://www.instagram.com/italyscasa?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
+      "https://www.facebook.com/profile.php?id=61551668563870",
+      "https://www.tiktok.com/@italyscasa1?is_from_webapp=1&sender_device=pc"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
     "name": "Acquafredda Villa con vista mozzifiato in Trattativa",
     "description": "In vendita: Villa vista mare ad Acquafredda – tra scogliere selvagge, storia rurale e acque cristalline",
     "image": "https://tonymontanait.github.io/italyscasa-content//foto/12-14-.webp",
