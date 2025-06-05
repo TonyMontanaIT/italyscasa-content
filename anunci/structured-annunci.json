@@ -43,6 +43,47 @@
   {
     "@context": "https://schema.org",
     "@type": "Product",
+    "name": "Torre Annunziata Appartamento in centro storico in Trattativa",
+    "description": "Appartamenti in vendita a Castellammare di Stabia – tra terme, storia e vista sul Vesuvio",
+    "image": "https://tonymontanait.github.io/italyscasa-content//foto/20-29-.webp",
+    "offers": {
+      "@type": "Offer",
+      "url": "https://italyscasa.com/anunci/dynamic/?rif=990",
+      "price": 0,
+      "priceCurrency": "EUR",
+      "availability": "https://schema.org/InStock"
+    },
+    "inLanguage": "it",
+    "isAccessibleForFree": true,
+    "wordCount": 401,
+    "keywords": "lido, ristorante, pizzeria, stabia, spiaggia, marina, torre, annunziata",
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Torre Annunziata",
+      "streetAddress": "Dei Ponte 47"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": null,
+      "longitude": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "ItalysCasa",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://tonymontanait.github.io/italyscasa-content/uploads/logo.webp"
+      }
+    },
+    "sameAs": [
+      "https://www.instagram.com/italyscasa?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
+      "https://www.facebook.com/profile.php?id=61551668563870",
+      "https://www.tiktok.com/@italyscasa1?is_from_webapp=1&sender_device=pc"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
     "name": "Anzio Appartamento con giardino e vista mozzifiato",
     "description": "Appartamenti ad Anzio",
     "image": "https://tonymontanait.github.io/italyscasa-content//foto/20-13-.webp",
