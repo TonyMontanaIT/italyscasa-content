@@ -4758,6 +4758,47 @@
   {
     "@context": "https://schema.org",
     "@type": "Product",
+    "name": "Siena appartamento con giardino in Trattativa",
+    "description": "Appartamenti in vendita a Siena – vivere tra arte, storia e colline toscane",
+    "image": "https://tonymontanait.github.io/italyscasa-content//foto/21-3-.webp",
+    "offers": {
+      "@type": "Offer",
+      "url": "https://italyscasa.com/anunci/dynamic/?rif=996",
+      "price": 0,
+      "priceCurrency": "EUR",
+      "availability": "https://schema.org/InStock"
+    },
+    "inLanguage": "it",
+    "isAccessibleForFree": true,
+    "wordCount": 296,
+    "keywords": "ristorante, caffè, lago, pizzeria, siena, osteria, terme, caffetteria",
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Siena",
+      "streetAddress": "Giorgio Almirante 23"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": null,
+      "longitude": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "ItalysCasa",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://tonymontanait.github.io/italyscasa-content/uploads/logo.webp"
+      }
+    },
+    "sameAs": [
+      "https://www.instagram.com/italyscasa?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
+      "https://www.facebook.com/profile.php?id=61551668563870",
+      "https://www.tiktok.com/@italyscasa1?is_from_webapp=1&sender_device=pc"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
     "name": "Reggio Emilia Villa con piscina ",
     "description": "Villa con piscina a Reggio Emilia - Italys Casa",
     "image": "https://tonymontanait.github.io/italyscasa-content/foto/711 (2).webp",
