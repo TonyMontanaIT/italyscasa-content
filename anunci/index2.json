@@ -9739,19 +9739,19 @@
     "nomeZona": "Parco Mimose",
     "city1": "Scalea (CS)",
     "street1": "Via Lauro, 131",
-    "prezzo1": "49.000 ",
+    "prezzo1": "47.000 ",
     "tipo": "Appartamento",
     "totalrooms": "2",
     "rooms": "1",
     "bagni": "1",
     "zonam2": "55 m²",
     "floor": "3",
-    "elevator": "No",
+    "elevator": "False",
     "terrazzo": "Si",
-    "prezzo": "49.000",
-    "prezzoDescrizione": "",
-    "giardino": "No",
-    "garage": "No",
+    "prezzo": "47.000",
+    "prezzoDescrizione": "47.000",
+    "giardino": "False",
+    "garage": "False",
     "arredamenti": " ",
     "patio": " ",
     "corte": " ",
@@ -9773,131 +9773,131 @@
     "images": [
       {
         "src": "foto/119 (2).webp",
-        "alt": ""
+        "alt": " "
       },
       {
         "src": "foto/119 (7).webp",
-        "alt": ""
+        "alt": " "
       },
       {
         "src": "foto/119 (14).webp",
-        "alt": ""
+        "alt": " "
       },
       {
         "src": "foto/119 (6).webp",
-        "alt": ""
+        "alt": " "
       },
       {
         "src": "foto/119 (4).webp",
-        "alt": ""
+        "alt": " "
       },
       {
         "src": "foto/119 (5).webp",
-        "alt": ""
+        "alt": " "
       },
       {
         "src": "foto/119 (1).webp",
-        "alt": ""
+        "alt": " "
       },
       {
         "src": "foto/119 (8).webp",
-        "alt": ""
+        "alt": " "
       },
       {
         "src": "foto/119 (9).webp",
-        "alt": ""
+        "alt": " "
       },
       {
         "src": "foto/119 (10).webp",
-        "alt": ""
+        "alt": " "
       },
       {
         "src": "foto/119 (11).webp",
-        "alt": ""
+        "alt": " "
       },
       {
         "src": "foto/119 (12).webp",
-        "alt": ""
+        "alt": " "
       },
       {
         "src": "foto/119 (13).webp",
-        "alt": ""
+        "alt": " "
       },
       {
         "src": "foto/119 (3).webp",
-        "alt": ""
+        "alt": " "
       },
       {
         "src": "foto/119 (15).webp",
-        "alt": ""
+        "alt": " "
       },
       {
         "src": "foto/119 (16).webp",
-        "alt": ""
+        "alt": " "
       },
       {
         "src": "foto/119 (17).webp",
-        "alt": ""
+        "alt": " "
       },
       {
         "src": "foto/119 (18).webp",
-        "alt": ""
+        "alt": " "
       },
       {
         "src": "foto/119 (19).webp",
-        "alt": ""
+        "alt": " "
       },
       {
         "src": "foto/119 (20).webp",
-        "alt": ""
+        "alt": " "
       },
       {
         "src": "foto/119 (21).webp",
-        "alt": ""
+        "alt": " "
       },
       {
         "src": "foto/119 (22).webp",
-        "alt": ""
+        "alt": " "
       },
       {
         "src": "foto/119 (23).webp",
-        "alt": ""
+        "alt": " "
       },
       {
         "src": "foto/119 (24).webp",
-        "alt": ""
+        "alt": " "
       },
       {
         "src": "foto/119 (25).webp",
-        "alt": ""
+        "alt": " "
       },
       {
         "src": "foto/119 (26).webp",
-        "alt": ""
+        "alt": " "
       },
       {
         "src": "foto/119 (27).webp",
-        "alt": ""
+        "alt": " "
       },
       {
         "src": "foto/119 (28).webp",
-        "alt": ""
+        "alt": " "
       },
       {
         "src": "foto/119 (29).webp",
-        "alt": ""
+        "alt": " "
       },
       {
         "src": "foto/119 (30).webp",
-        "alt": ""
+        "alt": " "
       },
       {
         "src": "foto/119 (31).webp",
-        "alt": ""
+        "alt": " "
       },
       {
         "src": "foto/119 (32).webp",
-        "alt": ""
+        "alt": " "
       }
     ],
     "latitude": "39.810293",
