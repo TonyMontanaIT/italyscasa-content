@@ -3528,6 +3528,47 @@
   {
     "@context": "https://schema.org",
     "@type": "Product",
+    "name": "Cortina d'ampezzo Appartamento con vista in Trattativa",
+    "description": "Appartamenti in vendita a Cortina d’Ampezzo – vivere il fascino delle Dolomiti tra sport e natura",
+    "image": "https://tonymontanait.github.io/italyscasa-content//foto/21-10-.webp",
+    "offers": {
+      "@type": "Offer",
+      "url": "https://italyscasa.com/anunci/dynamic/?rif=1003",
+      "price": 0,
+      "priceCurrency": "EUR",
+      "availability": "https://schema.org/InStock"
+    },
+    "inLanguage": "it",
+    "isAccessibleForFree": true,
+    "wordCount": 255,
+    "keywords": "ristorante, lago, cortina, pizzeria, ampezzo, pasticceria, appartamento, dolomiti",
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Cortina d'ampezzo",
+      "streetAddress": "Fazio Degli Uberti 213"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": null,
+      "longitude": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "ItalysCasa",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://tonymontanait.github.io/italyscasa-content/uploads/logo.webp"
+      }
+    },
+    "sameAs": [
+      "https://www.instagram.com/italyscasa?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
+      "https://www.facebook.com/profile.php?id=61551668563870",
+      "https://www.tiktok.com/@italyscasa1?is_from_webapp=1&sender_device=pc"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
     "name": "Verbicaro Villa con vista mozzafiato",
     "description": "Villa con vista mozzafiato su due piani a Verbicaro (CS)",
     "image": "https://tonymontanait.github.io/italyscasa-content/foto/145 (3).webp",
