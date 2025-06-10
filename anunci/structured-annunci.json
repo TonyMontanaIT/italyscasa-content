@@ -658,6 +658,47 @@
   {
     "@context": "https://schema.org",
     "@type": "Product",
+    "name": "Lago Di Como Appartamento con vista in Trattativa",
+    "description": "Appartamenti in vendita sul Lago di Como – vivere il fascino senza tempo tra acqua e montagne",
+    "image": "https://tonymontanait.github.io/italyscasa-content//foto/21-4-.webp",
+    "offers": {
+      "@type": "Offer",
+      "url": "https://italyscasa.com/anunci/dynamic/?rif=997",
+      "price": 0,
+      "priceCurrency": "EUR",
+      "availability": "https://schema.org/InStock"
+    },
+    "inLanguage": "it",
+    "isAccessibleForFree": true,
+    "wordCount": 348,
+    "keywords": "spiaggia, como, ristorante, lido, bellagio, cernobbio, menaggio, caffè",
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Lago Di Como",
+      "streetAddress": "Catalani 98"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": null,
+      "longitude": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "ItalysCasa",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://tonymontanait.github.io/italyscasa-content/uploads/logo.webp"
+      }
+    },
+    "sameAs": [
+      "https://www.instagram.com/italyscasa?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
+      "https://www.facebook.com/profile.php?id=61551668563870",
+      "https://www.tiktok.com/@italyscasa1?is_from_webapp=1&sender_device=pc"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
     "name": "Trapani Villa con piscina e vista mozzifiato in Trattativa",
     "description": "In vendita: Villa prestigiosa a Trapani – tra saline, mare turchese e storia millenaria",
     "image": "https://tonymontanait.github.io/italyscasa-content//foto/15-2-.webp",
