@@ -11354,5 +11354,53 @@
     ],
     "latitude": "39.808340",
     "longitude": "15.804020"
+  },
+  {
+    "slug": "1008",
+    "riferimento": "1008",
+    "rif1": "1008",
+    "nomeAnunci": "AlberoBello Appartamento con vista in Trattativa",
+    "nomeZona": "AlberoBello",
+    "city1": "AlberoBello",
+    "street1": "Giovanni Boccaccio 21",
+    "prezzo1": "0",
+    "tipo": "Appartamento",
+    "totalrooms": "7",
+    "rooms": "6",
+    "bagni": "5",
+    "zonam2": " ",
+    "floor": "2",
+    "elevator": "Si",
+    "terrazzo": "Si",
+    "prezzo": "0",
+    "prezzoDescrizione": " ",
+    "giardino": "Si",
+    "garage": "Si",
+    "arredamenti": " ",
+    "patio": " ",
+    "corte": " ",
+    "descrizione": "Appartamenti in vendita ad Alberobello – vivere tra i Trulli e la magia della Valle d’Itria",
+    "h2t1": "Alberobello è un luogo unico al mondo, Patrimonio UNESCO, famoso per i suoi trulli fiabeschi e le sue atmosfere senza tempo.",
+    "text1": "Un appartamento qui significa immergersi nella storia, nell’artigianato e nei sapori autentici della Puglia, tra vicoli suggestivi e paesaggi mozzafiato.",
+    "h2t2": "Spiagge (20–50 minuti)",
+    "text2": "Spiaggia di Capitolo (Monopoli) – 20 min\nSpiaggia di Porto Ghiacciolo (Monopoli) – 22 min\nSpiaggia di Lido Santo Stefano (Monopoli) – 23 min\nSpiaggia di Cala Porta Vecchia (Monopoli) – 25 min\nSpiaggia di Savelletri – 30 min\nSpiaggia di Torre Canne – 35 min\nSpiaggia di Rosa Marina (Ostuni) – 40 min\nSpiaggia di Pilone (Ostuni) – 40 min\nSpiaggia di Torre Guaceto – 45 min\nSpiaggia di Costa Merlata (Ostuni) – 50 min",
+    "h2t3": "Bar e Caffè (3–15 minuti)",
+    "text3": "Caffè Belvedere – 3 min\nBar Villa Belvedere – 4 min\nCaffè Martinucci (Piazza del Popolo) – 5 min\nCaffè Centrale – 6 min\nBar Mille Voglie – 7 min\nBar Villa Rosa – 8 min\nCaffè dei Trulli – 9 min\nBar Il Trullo Antico – 10 min\nBar il Trullallegro – 11 min\nBar Caffetteria Mozzarella e Basilico – 12 min\nBar Terminal – 13 min\nBar Il Girasole – 14 min\nBar Itria – 14 min\nBar Salotto dei Trulli – 15 min\nBar Caffè L'Angolo dei Trulli – 15 min",
+    "h2t4": "Ristoranti e Pizzerie (5–20 minuti)",
+    "text4": "Ristorante EVO – 5 min\nRistorante Trullo D’Oro – 6 min\nRistorante Il Poeta Contadino – 7 min\nRistorante Il Guercio di Puglia – 8 min\nRistorante La Cantina – 9 min\nRistorante Casa Nova – 10 min\nRistorante Gli Ulivi – 11 min\nRistorante Il Pinnacolo – 12 min\nRistorante L’Aratro – 13 min\nTrattoria Terra Madre – 14 min\nPizzeria Miseria e Nobiltà – 15 min\nPizzeria Ristorante Il Trullo Antico – 16 min\nPizzeria Casa Rotolo – 17 min\nPizzeria Ristorante La Fontana – 18 min\nPizzeria Pepe Nero – 20 min",
+    "h2t5": "Monumenti e Storia (3–15 minuti)",
+    "text5": "Rione Monti – 3 min\nRione Aia Piccola – 4 min\nChiesa di Sant’Antonio da Padova – 5 min\nCasa Pezzolla (Museo del Territorio) – 6 min\nTrullo Sovrano – 7 min\nChiesa dei Santi Medici Cosma e Damiano – 8 min\nPiazza del Popolo – 9 min\nBelvedere Santa Lucia – 10 min\nPiazza del Sacramento – 11 min\nAntiche Botteghe Artigiane – 12 min\nFontana di Alberobello – 13 min\nVia Monte Nero e Monte Pasubio – 14 min\nAntiche Masserie nei dintorni – 15 min\nPorta Nuova – 15 min",
+    "h2t6": "Attività Turistiche (5–25 minuti)",
+    "text6": "Passeggiata Rione Monti / Aia Piccola – 5 min\nVisita Trullo Sovrano – 6 min\nVisita Museo del Territorio – 7 min\nPasseggiata / shopping botteghe artigiane – 8 min\nDegustazione prodotti tipici pugliesi – 9 min\nAperitivo Belvedere Santa Lucia – 10 min\nVisita Chiesa Trullo Sant’Antonio – 11 min\nPasseggiata serale trulli illuminati – 12 min\nLezione cucina pugliese in trullo – 13 min\nPasseggiata masserie / paesaggi Valle d’Itria – 14 min\nTour fotografico trulli / vicoli caratteristici – 15 min\nTour bici / e-bike trulli / campagne – 16 min\nVisita masserie storiche + degustazione – 17 min\nVisita botteghe artigianato cartapesta / ceramica – 18 min\nPartecipazione sagre / feste popolari – 19 min\nPasseggiata zona nuova / vista quartieri antichi – 20 min\nTour guidato storia trulli – 22 min\nEscursione Locorotondo / Cisternino / Martina Franca – 23 min\nPasseggiata vicoli Monte Nero / Monte Pasubio – 24 min\nVisita mercatino settimanale – 25 min",
+    "video": " ",
+    "video360": " ",
+    "images": [
+      {
+        "src": "/foto/21-15-.webp",
+        "alt": "Appartamento con vista mazzifiato"
+      }
+    ],
+    "latitude": " ",
+    "longitude": " "
   }
 ]
