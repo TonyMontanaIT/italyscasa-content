@@ -1273,6 +1273,47 @@
   {
     "@context": "https://schema.org",
     "@type": "Product",
+    "name": "Foresta Umbra Appartamento attico con vista in Trattativa",
+    "description": "Appartamenti in vendita vicino alla Foresta Umbra – vivere tra natura incontaminata e spiagge da sogno",
+    "image": "https://tonymontanait.github.io/italyscasa-content//foto/21-20-.webp",
+    "offers": {
+      "@type": "Offer",
+      "url": "https://italyscasa.com/anunci/dynamic/?rif=1013",
+      "price": 0,
+      "priceCurrency": "EUR",
+      "availability": "https://schema.org/InStock"
+    },
+    "inLanguage": "it",
+    "isAccessibleForFree": true,
+    "wordCount": 355,
+    "keywords": "ristorante, spiaggia, pizzeria, foresta, vieste, lido, umbra, caffè",
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Foresta Umbra",
+      "streetAddress": "Nicholas Green 58"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": null,
+      "longitude": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "ItalysCasa",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://tonymontanait.github.io/italyscasa-content/uploads/logo.webp"
+      }
+    },
+    "sameAs": [
+      "https://www.instagram.com/italyscasa?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
+      "https://www.facebook.com/profile.php?id=61551668563870",
+      "https://www.tiktok.com/@italyscasa1?is_from_webapp=1&sender_device=pc"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
     "name": "Torvaianica Appartamento di lusso famigliare ",
     "description": "In vendita: Appartamenti a Torvaianica – mare, relax e archeologia a pochi minuti da Roma",
     "image": "https://tonymontanait.github.io/italyscasa-content//foto/20-15-.webp",
