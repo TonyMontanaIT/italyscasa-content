@@ -2339,6 +2339,47 @@
   {
     "@context": "https://schema.org",
     "@type": "Product",
+    "name": "Lago di bolsena Appartamento in Trattativa",
+    "description": "Appartamenti in vendita sul Lago di Bolsena – vivere tra natura, storia e tradizioni della Tuscia",
+    "image": "https://tonymontanait.github.io/italyscasa-content//foto/21-19-.webp",
+    "offers": {
+      "@type": "Offer",
+      "url": "https://italyscasa.com/anunci/dynamic/?rif=1012",
+      "price": 0,
+      "priceCurrency": "EUR",
+      "availability": "https://schema.org/InStock"
+    },
+    "inLanguage": "it",
+    "isAccessibleForFree": true,
+    "wordCount": 352,
+    "keywords": "bolsena, spiaggia, ristorante, capodimonte, caffè, marta, montefiascone, gradoli",
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Lago di bolsena",
+      "streetAddress": "Lauro 211"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": null,
+      "longitude": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "ItalysCasa",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://tonymontanait.github.io/italyscasa-content/uploads/logo.webp"
+      }
+    },
+    "sameAs": [
+      "https://www.instagram.com/italyscasa?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
+      "https://www.facebook.com/profile.php?id=61551668563870",
+      "https://www.tiktok.com/@italyscasa1?is_from_webapp=1&sender_device=pc"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
     "name": "Scalea Casa Castello a Centro Storico",
     "description": "Casa nel Centro Storico di Scalea, Accanto al Castello Normanno",
     "image": "https://tonymontanait.github.io/italyscasa-content/foto/135 (1).webp",
