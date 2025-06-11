@@ -4184,6 +4184,47 @@
   {
     "@context": "https://schema.org",
     "@type": "Product",
+    "name": "Locorotondo Appartamento con giardino in Trattativa",
+    "description": "Appartamenti in vendita a Locorotondo – vivere l’eleganza bianca della Valle d’Itria",
+    "image": "https://tonymontanait.github.io/italyscasa-content//foto/21-16-.webp",
+    "offers": {
+      "@type": "Offer",
+      "url": "https://italyscasa.com/anunci/dynamic/?rif=1009",
+      "price": 0,
+      "priceCurrency": "EUR",
+      "availability": "https://schema.org/InStock"
+    },
+    "inLanguage": "it",
+    "isAccessibleForFree": true,
+    "wordCount": 272,
+    "keywords": "ristorante, spiaggia, pizzeria, locorotondo, monopoli, caffè, appartamento, bianca",
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Locorotondo",
+      "streetAddress": "1 Maggio "
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": null,
+      "longitude": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "ItalysCasa",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://tonymontanait.github.io/italyscasa-content/uploads/logo.webp"
+      }
+    },
+    "sameAs": [
+      "https://www.instagram.com/italyscasa?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
+      "https://www.facebook.com/profile.php?id=61551668563870",
+      "https://www.tiktok.com/@italyscasa1?is_from_webapp=1&sender_device=pc"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
     "name": "Belvedere Marittimo Calabria, Villa con vista monte e mare di lusso in Trattativa",
     "description": "In vendita: Villa esclusiva a Belvedere Marittimo – comfort, mare e charme storico",
     "image": "https://tonymontanait.github.io/italyscasa-content//foto/12-5-.webp",
