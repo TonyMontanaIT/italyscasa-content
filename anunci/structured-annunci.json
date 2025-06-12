@@ -2257,6 +2257,47 @@
   {
     "@context": "https://schema.org",
     "@type": "Product",
+    "name": "Gallipoli Appartamento di lusso esclusivo in Trattativa",
+    "description": "Appartamenti in vendita a Gallipoli – vivere tra storia, mare cristallino e movida salentina",
+    "image": "https://tonymontanait.github.io/italyscasa-content//foto/21-29-.webp",
+    "offers": {
+      "@type": "Offer",
+      "url": "https://italyscasa.com/anunci/dynamic/?rif=1022",
+      "price": 0,
+      "priceCurrency": "EUR",
+      "availability": "https://schema.org/InStock"
+    },
+    "inLanguage": "it",
+    "isAccessibleForFree": true,
+    "wordCount": 302,
+    "keywords": "spiaggia, ristorante, caffè, lido, pizzeria, gallipoli, mare, della",
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Gallipoli",
+      "streetAddress": "Panebianco 9"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": null,
+      "longitude": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "ItalysCasa",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://tonymontanait.github.io/italyscasa-content/uploads/logo.webp"
+      }
+    },
+    "sameAs": [
+      "https://www.instagram.com/italyscasa?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
+      "https://www.facebook.com/profile.php?id=61551668563870",
+      "https://www.tiktok.com/@italyscasa1?is_from_webapp=1&sender_device=pc"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
     "name": "Monopoli Appartamento con giardino in Trattativa",
     "description": "Appartamenti in vendita a Monopoli – vivere il fascino della costa adriatica tra storia e mare cristallino",
     "image": "https://tonymontanait.github.io/italyscasa-content//foto/21-18-.webp",
