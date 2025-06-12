@@ -5373,6 +5373,47 @@
   {
     "@context": "https://schema.org",
     "@type": "Product",
+    "name": "Lago di Bracciano Appartamento con vista in Trattativa",
+    "description": "Appartamenti in vendita sul Lago di Bracciano – vivere tra natura, storia e relax sulle rive del lago più affascinante vicino a Roma",
+    "image": "https://tonymontanait.github.io/italyscasa-content//foto/21-26-.webp",
+    "offers": {
+      "@type": "Offer",
+      "url": "https://italyscasa.com/anunci/dynamic/?rif=1019",
+      "price": 0,
+      "priceCurrency": "EUR",
+      "availability": "https://schema.org/InStock"
+    },
+    "inLanguage": "it",
+    "isAccessibleForFree": true,
+    "wordCount": 367,
+    "keywords": "spiaggia, bracciano, ristorante, trevignano, romano, anguillara, sabazia, lago",
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Lago di Bracciano",
+      "streetAddress": "Aldo Moro 31"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": null,
+      "longitude": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "ItalysCasa",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://tonymontanait.github.io/italyscasa-content/uploads/logo.webp"
+      }
+    },
+    "sameAs": [
+      "https://www.instagram.com/italyscasa?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
+      "https://www.facebook.com/profile.php?id=61551668563870",
+      "https://www.tiktok.com/@italyscasa1?is_from_webapp=1&sender_device=pc"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
     "name": "Riccione Appartamento Attico in Trattativa",
     "description": "Appartamenti in vendita a Riccione – vivere tra spiagge dorate e la dolce vita della Riviera Romagnola",
     "image": "https://tonymontanait.github.io/italyscasa-content//foto/21-23-.webp",
