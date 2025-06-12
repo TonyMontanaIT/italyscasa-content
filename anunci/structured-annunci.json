@@ -4676,6 +4676,47 @@
   {
     "@context": "https://schema.org",
     "@type": "Product",
+    "name": "Puglia Appartamento esclusivo di lusso in Trattativa",
+    "description": "Appartamenti in vendita in Puglia – mare cristallino, borghi bianchi e tradizioni millenarie",
+    "image": "https://tonymontanait.github.io/italyscasa-content//foto/21-32-.webp",
+    "offers": {
+      "@type": "Offer",
+      "url": "https://italyscasa.com/anunci/dynamic/?rif=1025",
+      "price": 0,
+      "priceCurrency": "EUR",
+      "availability": "https://schema.org/InStock"
+    },
+    "inLanguage": "it",
+    "isAccessibleForFree": true,
+    "wordCount": 434,
+    "keywords": "spiaggia, ristorante, caffe, mare, torre, lecce, polignano, bari",
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Puglia",
+      "streetAddress": "Silvio Sesti 21"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": null,
+      "longitude": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "ItalysCasa",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://tonymontanait.github.io/italyscasa-content/uploads/logo.webp"
+      }
+    },
+    "sameAs": [
+      "https://www.instagram.com/italyscasa?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
+      "https://www.facebook.com/profile.php?id=61551668563870",
+      "https://www.tiktok.com/@italyscasa1?is_from_webapp=1&sender_device=pc"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
     "name": "Maratea Villa di lusso con piscina in Trattativa",
     "description": "In vendita: Villa panoramica a Maratea – tra spiagge spettacolari, storia antica e magia mediterranea",
     "image": "https://tonymontanait.github.io/italyscasa-content//foto/12-13-.webp",
