@@ -740,6 +740,47 @@
   {
     "@context": "https://schema.org",
     "@type": "Product",
+    "name": "Roma Appartamento in centro in Trattativa",
+    "description": "Appartamenti in vendita a Roma – vivere nel cuore della storia e della dolce vita italiana",
+    "image": "https://tonymontanait.github.io/italyscasa-content//foto/21-36-.webp",
+    "offers": {
+      "@type": "Offer",
+      "url": "https://italyscasa.com/anunci/dynamic/?rif=1029",
+      "price": 0,
+      "priceCurrency": "EUR",
+      "availability": "https://schema.org/InStock"
+    },
+    "inLanguage": "it",
+    "isAccessibleForFree": true,
+    "wordCount": 304,
+    "keywords": "lido, pizzeria, caffe, ristorante, spiaggia, roma, della, santa",
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Roma",
+      "streetAddress": "Venerabile Madre Aiello 43"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": null,
+      "longitude": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "ItalysCasa",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://tonymontanait.github.io/italyscasa-content/uploads/logo.webp"
+      }
+    },
+    "sameAs": [
+      "https://www.instagram.com/italyscasa?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
+      "https://www.facebook.com/profile.php?id=61551668563870",
+      "https://www.tiktok.com/@italyscasa1?is_from_webapp=1&sender_device=pc"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
     "name": "Rimini Villa famigliare di lusso con vista in Trattativa",
     "description": "In vendita: Villa moderna a pochi minuti dal cuore di Rimini",
     "image": "https://tonymontanait.github.io/italyscasa-content//foto/19-11-.webp",
