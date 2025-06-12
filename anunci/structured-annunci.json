@@ -5291,6 +5291,47 @@
   {
     "@context": "https://schema.org",
     "@type": "Product",
+    "name": "Riccione Appartamento Attico in Trattativa",
+    "description": "Appartamenti in vendita a Riccione – vivere tra spiagge dorate e la dolce vita della Riviera Romagnola",
+    "image": "https://tonymontanait.github.io/italyscasa-content//foto/21-23-.webp",
+    "offers": {
+      "@type": "Offer",
+      "url": "https://italyscasa.com/anunci/dynamic/?rif=1016",
+      "price": 0,
+      "priceCurrency": "EUR",
+      "availability": "https://schema.org/InStock"
+    },
+    "inLanguage": "it",
+    "isAccessibleForFree": true,
+    "wordCount": 322,
+    "keywords": "riccione, spiaggia, ristorante, caffè, pizzeria, mare, pascucci, appartamento",
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Riccione",
+      "streetAddress": "Magna Grecia 94"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": null,
+      "longitude": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "ItalysCasa",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://tonymontanait.github.io/italyscasa-content/uploads/logo.webp"
+      }
+    },
+    "sameAs": [
+      "https://www.instagram.com/italyscasa?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
+      "https://www.facebook.com/profile.php?id=61551668563870",
+      "https://www.tiktok.com/@italyscasa1?is_from_webapp=1&sender_device=pc"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
     "name": "Amantea Calabria. Villa di lusso con vista mozzifiato in Trattativa",
     "description": "In vendita: Villa esclusiva ad Amantea – tra mare, storia e tradizione calabrese",
     "image": "https://tonymontanait.github.io/italyscasa-content//foto/12-10-.webp",
