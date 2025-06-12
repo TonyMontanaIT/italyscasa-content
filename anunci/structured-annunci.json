@@ -3610,6 +3610,47 @@
   {
     "@context": "https://schema.org",
     "@type": "Product",
+    "name": "Lago d'orta Appartamento di lusso in Trattativa",
+    "description": "Appartamenti in vendita sul Lago d'Orta – vivere la magia del lago più romantico d’Italia",
+    "image": "https://tonymontanait.github.io/italyscasa-content//foto/21-25-.webp",
+    "offers": {
+      "@type": "Offer",
+      "url": "https://italyscasa.com/anunci/dynamic/?rif=1018",
+      "price": 0,
+      "priceCurrency": "EUR",
+      "availability": "https://schema.org/InStock"
+    },
+    "inLanguage": "it",
+    "isAccessibleForFree": true,
+    "wordCount": 385,
+    "keywords": "spiaggia, orta, giulio, ristorante, lago, pettenasco, omegna, gozzano",
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Lago d'orta",
+      "streetAddress": "Antonio Zupi 34"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": null,
+      "longitude": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "ItalysCasa",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://tonymontanait.github.io/italyscasa-content/uploads/logo.webp"
+      }
+    },
+    "sameAs": [
+      "https://www.instagram.com/italyscasa?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
+      "https://www.facebook.com/profile.php?id=61551668563870",
+      "https://www.tiktok.com/@italyscasa1?is_from_webapp=1&sender_device=pc"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
     "name": "Cetara Apartamento con Terrazzo e vista mozzifiato in Trattativa",
     "description": "Appartamenti a Cetara",
     "image": "https://tonymontanait.github.io/italyscasa-content//foto/20-7-.webp",
