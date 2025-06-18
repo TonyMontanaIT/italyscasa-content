@@ -55033,8 +55033,8 @@
     "floor": "T",
     "elevator": "",
     "terrazzo": "",
-    "prezzo": "€99.000,00",
-    "prezzoDescrizione": "€99.000,00",
+    "prezzo": "99.000,00",
+    "prezzoDescrizione": "99.000,00",
     "giardino": "Si",
     "garage": "",
     "arredamenti": " ",
@@ -55209,7 +55209,7 @@
         "descrizione": "Appartamento su due piani con doppio giardino a Scalea",
         "tipo": "Appartamento",
         "arredamenti": " ",
-        "prezzoDescrizione": "€99.000,00"
+        "prezzoDescrizione": "99.000,00"
       },
       "en": {
         "nomeAnunci": "Appartamento su due piani a Scalea",
