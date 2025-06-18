@@ -5288,26 +5288,26 @@
     "longitude": " "
   },
   {
-    "slug": "110",
-    "riferimento": "110",
-    "rif1": "110",
+    "slug": "157",
+    "riferimento": "157",
+    "rif1": "157",
     "nomeAnunci": "Scalea, Appartamento su 3 Piani",
     "nomeZona": "Baia del Carpino",
     "city1": "Scalea",
     "street1": "Raffaele Sanseverino 20-28",
-    "prezzo1": "95.000",
+    "prezzo1": "99.900",
     "tipo": "Appartamento",
     "totalrooms": "5",
     "rooms": "3",
     "bagni": "3",
     "zonam2": "140 m²",
     "floor": "1",
-    "elevator": "No",
+    "elevator": "False",
     "terrazzo": "2 ",
-    "prezzo": "95.000",
-    "prezzoDescrizione": "",
+    "prezzo": "99.900",
+    "prezzoDescrizione": "99.900",
     "giardino": "220 m²",
-    "garage": "No",
+    "garage": "False",
     "arredamenti": " ",
     "patio": " ",
     "corte": " ",
@@ -5329,67 +5329,67 @@
     "images": [
       {
         "src": "foto/dji_0240.webp",
-        "alt": ""
+        "alt": " "
       },
       {
         "src": "foto/dsc02189-hdr.webp",
-        "alt": ""
+        "alt": " "
       },
       {
         "src": "foto/dsc02166-hdr.webp",
-        "alt": ""
+        "alt": " "
       },
       {
         "src": "foto/dsc02157-hdr.webp",
-        "alt": ""
+        "alt": " "
       },
       {
         "src": "foto/dsc02160-hdr.webp",
-        "alt": ""
+        "alt": " "
       },
       {
         "src": "foto/dsc02201-hdr.webp",
-        "alt": ""
+        "alt": " "
       },
       {
         "src": "foto/dsc02169-hdr.webp",
-        "alt": ""
+        "alt": " "
       },
       {
         "src": "foto/dsc02194-hdr.webp",
-        "alt": ""
+        "alt": " "
       },
       {
         "src": "foto/dsc02195-hdr.webp",
-        "alt": ""
+        "alt": " "
       },
       {
         "src": "foto/dsc02198-hdr.webp",
-        "alt": ""
+        "alt": " "
       },
       {
         "src": "foto/dsc02210-hdr.webp",
-        "alt": ""
+        "alt": " "
       },
       {
         "src": "foto/dsc02213-hdr.webp",
-        "alt": ""
+        "alt": " "
       },
       {
         "src": "foto/dsc02216-hdr.webp",
-        "alt": ""
+        "alt": " "
       },
       {
         "src": "foto/dsc02180-hdr.webp",
-        "alt": ""
+        "alt": " "
       },
       {
         "src": "foto/dsc02177-hdr.webp",
-        "alt": ""
+        "alt": " "
       },
       {
         "src": "foto/dsc02183-hdr.webp",
-        "alt": ""
+        "alt": " "
       }
     ],
     "latitude": "39.824416",
