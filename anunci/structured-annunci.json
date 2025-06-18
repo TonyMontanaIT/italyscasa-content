@@ -3856,12 +3856,12 @@
   {
     "@context": "https://schema.org",
     "@type": "Product",
-    "name": "Scalea, Casa Albergo",
+    "name": "Appartamento con vista sul mare a Scalea",
     "description": "Appartamento monolocale a Baia del Carpino, Scalea",
     "image": "https://tonymontanait.github.io/italyscasa-content/foto/whatsapp-image-2025-04-05-at-13.04.25-3-.webp",
     "offers": {
       "@type": "Offer",
-      "url": "https://italyscasa.com/anunci/dynamic/?rif=111",
+      "url": "https://italyscasa.com/anunci/dynamic/?rif=149",
       "price": 65,
       "priceCurrency": "EUR",
       "availability": "https://schema.org/InStock"
@@ -3869,7 +3869,7 @@
     "inLanguage": "it",
     "isAccessibleForFree": true,
     "wordCount": 225,
-    "keywords": "scalea, appartamento, mare, accogliente, casa, albergo, baia, carpino",
+    "keywords": "appartamento, mare, scalea, accogliente, vista, baia, carpino, nella",
     "address": {
       "@type": "PostalAddress",
       "addressLocality": "Scalea",

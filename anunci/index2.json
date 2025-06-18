@@ -7760,10 +7760,10 @@
     "longitude": " "
   },
   {
-    "slug": "111",
-    "riferimento": "111",
-    "rif1": "111",
-    "nomeAnunci": "Scalea, Casa Albergo",
+    "slug": "149",
+    "riferimento": "149",
+    "rif1": "149",
+    "nomeAnunci": "Appartamento con vista sul mare a Scalea",
     "nomeZona": "Baia del Carpino",
     "city1": "Scalea",
     "street1": "San Severino",
@@ -7777,9 +7777,9 @@
     "elevator": "Si",
     "terrazzo": "Si",
     "prezzo": "65.000",
-    "prezzoDescrizione": "",
-    "giardino": "No",
-    "garage": "No",
+    "prezzoDescrizione": "65.000,00",
+    "giardino": "False",
+    "garage": "False",
     "arredamenti": " ",
     "patio": " ",
     "corte": " ",
@@ -7801,35 +7801,35 @@
     "images": [
       {
         "src": "foto/whatsapp-image-2025-04-05-at-13.04.25-3-.webp",
-        "alt": ""
+        "alt": "Monolocale Scalea, Casa vacanze Scalea, Appartamento mare Scalea, Monolocale in vendita Scalea, Affitto estivo Scalea, Alloggio economico Scalea, Monolocale vicino al mare Scalea, Case in Calabria mare, Residence Scalea monolocale, Vacanze a Scalea"
       },
       {
         "src": "foto/whatsapp-image-2025-04-05-at-13.04.24.webp",
-        "alt": ""
+        "alt": "Monolocale Scalea, Casa vacanze Scalea, Appartamento mare Scalea, Monolocale in vendita Scalea, Affitto estivo Scalea, Alloggio economico Scalea, Monolocale vicino al mare Scalea, Case in Calabria mare, Residence Scalea monolocale, Vacanze a Scalea"
       },
       {
         "src": "foto/whatsapp-image-2025-04-05-at-13.04.25.webp",
-        "alt": ""
+        "alt": "Monolocale Scalea, Casa vacanze Scalea, Appartamento mare Scalea, Monolocale in vendita Scalea, Affitto estivo Scalea, Alloggio economico Scalea, Monolocale vicino al mare Scalea, Case in Calabria mare, Residence Scalea monolocale, Vacanze a Scalea"
       },
       {
         "src": "foto/whatsapp-image-2025-04-05-at-13.04.25-2-.webp",
-        "alt": ""
+        "alt": "Monolocale Scalea, Casa vacanze Scalea, Appartamento mare Scalea, Monolocale in vendita Scalea, Affitto estivo Scalea, Alloggio economico Scalea, Monolocale vicino al mare Scalea, Case in Calabria mare, Residence Scalea monolocale, Vacanze a Scalea"
       },
       {
         "src": "foto/whatsapp-image-2025-04-05-at-13.04.25-1-.webp",
-        "alt": ""
+        "alt": "Monolocale Scalea, Casa vacanze Scalea, Appartamento mare Scalea, Monolocale in vendita Scalea, Affitto estivo Scalea, Alloggio economico Scalea, Monolocale vicino al mare Scalea, Case in Calabria mare, Residence Scalea monolocale, Vacanze a Scalea"
       },
       {
         "src": "foto/whatsapp-image-2025-04-06-at-11.51.54.webp",
-        "alt": ""
+        "alt": "Monolocale Scalea, Casa vacanze Scalea, Appartamento mare Scalea, Monolocale in vendita Scalea, Affitto estivo Scalea, Alloggio economico Scalea, Monolocale vicino al mare Scalea, Case in Calabria mare, Residence Scalea monolocale, Vacanze a Scalea"
       },
       {
         "src": "foto/whatsapp-image-2025-04-06-at-11.52.00.webp",
-        "alt": ""
+        "alt": "Monolocale Scalea, Casa vacanze Scalea, Appartamento mare Scalea, Monolocale in vendita Scalea, Affitto estivo Scalea, Alloggio economico Scalea, Monolocale vicino al mare Scalea, Case in Calabria mare, Residence Scalea monolocale, Vacanze a Scalea"
       },
       {
         "src": "foto/whatsapp-image-2025-04-06-at-11.52.01.webp",
-        "alt": ""
+        "alt": "Monolocale Scalea, Casa vacanze Scalea, Appartamento mare Scalea, Monolocale in vendita Scalea, Affitto estivo Scalea, Alloggio economico Scalea, Monolocale vicino al mare Scalea, Case in Calabria mare, Residence Scalea monolocale, Vacanze a Scalea"
       }
     ],
     "latitude": "39.822697",
