@@ -2934,8 +2934,8 @@
     },
     "geo": {
       "@type": "GeoCoordinates",
-      "latitude": 39.81666,
-      "longitude": 15.79055
+      "latitude": 39.82543958806259,
+      "longitude": 15.781585347817364
     },
     "publisher": {
       "@type": "Organization",
