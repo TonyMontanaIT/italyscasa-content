@@ -6808,6 +6808,47 @@
   {
     "@context": "https://schema.org",
     "@type": "Product",
+    "name": "Riviera del Corallo Appartamento con vista mozzifiato in Trattativa",
+    "description": "Appartamenti in vendita sulla Riviera del Corallo – tra storia catalana, mare cristallino e natura selvaggia\nLa Riviera del Corallo è una delle coste più affascinanti della Sardegna",
+    "image": "https://tonymontanait.github.io/italyscasa-content//foto/21-41-.webp",
+    "offers": {
+      "@type": "Offer",
+      "url": "https://italyscasa.com/anunci/dynamic/?rif=1034",
+      "price": 0,
+      "priceCurrency": "EUR",
+      "availability": "https://schema.org/InStock"
+    },
+    "inLanguage": "it",
+    "isAccessibleForFree": true,
+    "wordCount": 362,
+    "keywords": "spiaggia, ristorante, cala, pizzeria, riviera, corallo, caffe, delle",
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Riviera del Corallo",
+      "streetAddress": "Antonio Tempesta 75"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": null,
+      "longitude": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "ItalysCasa",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://tonymontanait.github.io/italyscasa-content/uploads/logo.webp"
+      }
+    },
+    "sameAs": [
+      "https://www.instagram.com/italyscasa?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
+      "https://www.facebook.com/profile.php?id=61551668563870",
+      "https://www.tiktok.com/@italyscasa1?is_from_webapp=1&sender_device=pc"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
     "name": "Sapri Villa con vista in Trattativa",
     "description": "In vendita: Villa di charme a Sapri – tra mare cristallino, storia garibaldina e dolci tramonti sul golfo",
     "image": "https://tonymontanait.github.io/italyscasa-content//foto/12-15-.webp",
