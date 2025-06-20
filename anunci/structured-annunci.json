@@ -3938,6 +3938,47 @@
   {
     "@context": "https://schema.org",
     "@type": "Product",
+    "name": "Oristano Appartamento esclusivo a centro in Trattativa",
+    "description": "Appartamenti in vendita a Oristano – tra mare, archeologia e tradizioni millenarie\nOristano è una delle città più autentiche della Sardegna",
+    "image": "https://tonymontanait.github.io/italyscasa-content//foto/21-44-.webp",
+    "offers": {
+      "@type": "Offer",
+      "url": "https://italyscasa.com/anunci/dynamic/?rif=1037",
+      "price": 0,
+      "priceCurrency": "EUR",
+      "availability": "https://schema.org/InStock"
+    },
+    "inLanguage": "it",
+    "isAccessibleForFree": true,
+    "wordCount": 379,
+    "keywords": "spiaggia, caffe, ristorante, pizzeria, oristano, torregrande, mare, sinis",
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Oristano",
+      "streetAddress": "Casilina 98"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": null,
+      "longitude": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "ItalysCasa",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://tonymontanait.github.io/italyscasa-content/uploads/logo.webp"
+      }
+    },
+    "sameAs": [
+      "https://www.instagram.com/italyscasa?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
+      "https://www.facebook.com/profile.php?id=61551668563870",
+      "https://www.tiktok.com/@italyscasa1?is_from_webapp=1&sender_device=pc"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
     "name": "Appartamento con vista sul mare a Scalea",
     "description": "Appartamento monolocale a Baia del Carpino, Scalea",
     "image": "https://tonymontanait.github.io/italyscasa-content/foto/whatsapp-image-2025-04-05-at-13.04.25-3-.webp",
