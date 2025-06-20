@@ -986,6 +986,47 @@
   {
     "@context": "https://schema.org",
     "@type": "Product",
+    "name": "Ogliastra e Golfo di Orosei",
+    "description": "Appartamenti in vendita in Ogliastra e Golfo di Orosei – natura selvaggia, mare cristallino e storia millenaria\nL’Ogliastra e il Golfo di Orosei sono due delle aree più autentiche della Sardegna",
+    "image": "https://tonymontanait.github.io/italyscasa-content//foto/21-40-.webp",
+    "offers": {
+      "@type": "Offer",
+      "url": "https://italyscasa.com/anunci/dynamic/?rif=1033",
+      "price": 0,
+      "priceCurrency": "EUR",
+      "availability": "https://schema.org/InStock"
+    },
+    "inLanguage": "it",
+    "isAccessibleForFree": true,
+    "wordCount": 387,
+    "keywords": "spiaggia, ristorante, pizzeria, cala, ogliastra, golfo, orosei, caffe",
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Ogliastra e Golfo di Orosei",
+      "streetAddress": "Mario Baratta 64"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": null,
+      "longitude": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "ItalysCasa",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://tonymontanait.github.io/italyscasa-content/uploads/logo.webp"
+      }
+    },
+    "sameAs": [
+      "https://www.instagram.com/italyscasa?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
+      "https://www.facebook.com/profile.php?id=61551668563870",
+      "https://www.tiktok.com/@italyscasa1?is_from_webapp=1&sender_device=pc"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
     "name": "Scalea Trilocale a centro ",
     "description": "Trilocale in Via Fiume Lao",
     "image": "https://tonymontanait.github.io/italyscasa-content/foto/142 (1).webp",
