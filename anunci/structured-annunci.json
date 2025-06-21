@@ -4020,6 +4020,47 @@
   {
     "@context": "https://schema.org",
     "@type": "Product",
+    "name": "Ostuni Appatamento con terazzo in Trattativa",
+    "description": "Appartamenti in vendita a Ostuni – tra bianco splendente, mare cristallino e campagna immersiva\nOstuni è la “Città Bianca” per eccellenza",
+    "image": "https://tonymontanait.github.io/italyscasa-content//foto/21-53-.webp",
+    "offers": {
+      "@type": "Offer",
+      "url": "https://italyscasa.com/anunci/dynamic/?rif=1046",
+      "price": 0,
+      "priceCurrency": "EUR",
+      "availability": "https://schema.org/InStock"
+    },
+    "inLanguage": "it",
+    "isAccessibleForFree": true,
+    "wordCount": 319,
+    "keywords": "spiaggia, pizzeria, ristorante, lido, caffe, torre, ostuni, santa",
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Ostuni",
+      "streetAddress": "Ettore Rota 93"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": null,
+      "longitude": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "ItalysCasa",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://tonymontanait.github.io/italyscasa-content/uploads/logo.webp"
+      }
+    },
+    "sameAs": [
+      "https://www.instagram.com/italyscasa?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
+      "https://www.facebook.com/profile.php?id=61551668563870",
+      "https://www.tiktok.com/@italyscasa1?is_from_webapp=1&sender_device=pc"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
     "name": "Bari Villa famigliare di lusso con piscina in Trattativa",
     "description": "In vendita: Villa esclusiva a Bari – vista mare, comfort urbano e charme storico",
     "image": "https://tonymontanait.github.io/italyscasa-content//foto/19-9-.webp",
