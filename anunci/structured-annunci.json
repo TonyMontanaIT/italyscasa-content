@@ -6890,6 +6890,47 @@
   {
     "@context": "https://schema.org",
     "@type": "Product",
+    "name": "Ventimiglia Appartamento famigliare con giardino in Trattativa",
+    "description": "Appartamenti in vendita a Ventimiglia – tra confine italiano, mare cristallino e storia millenaria\nVentimiglia è la porta della Liguria e l’ultimo comune prima del confine con la Francia",
+    "image": "https://tonymontanait.github.io/italyscasa-content//foto/21-66-.webp",
+    "offers": {
+      "@type": "Offer",
+      "url": "https://italyscasa.com/anunci/dynamic/?rif=1058",
+      "price": 0,
+      "priceCurrency": "EUR",
+      "availability": "https://schema.org/InStock"
+    },
+    "inLanguage": "it",
+    "isAccessibleForFree": true,
+    "wordCount": 325,
+    "keywords": "spiaggia, pizzeria, ristorante, libera, caffe, ventimiglia, mare, lido",
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Ventimiglia",
+      "streetAddress": "Torre Branca 87"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": null,
+      "longitude": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "ItalysCasa",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://tonymontanait.github.io/italyscasa-content/uploads/logo.webp"
+      }
+    },
+    "sameAs": [
+      "https://www.instagram.com/italyscasa?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
+      "https://www.facebook.com/profile.php?id=61551668563870",
+      "https://www.tiktok.com/@italyscasa1?is_from_webapp=1&sender_device=pc"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
     "name": "Ragusa Villa con piscina e giardino in Trattativa",
     "description": "In vendita: Villa di charme a Ragusa – tra spiagge dorate, barocco siciliano e sapori autentici",
     "image": "https://tonymontanait.github.io/italyscasa-content//foto/15-6-.webp",
