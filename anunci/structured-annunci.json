@@ -5947,6 +5947,47 @@
   {
     "@context": "https://schema.org",
     "@type": "Product",
+    "name": "La Spezia Appartamento esclusivo di lusso in Trattativa",
+    "description": "Appartamenti in vendita a La Spezia – tra mare, monti e porte delle Cinque Terre\nLa Spezia è il punto di accesso al Golfo dei Poeti e alle Cinque Terre",
+    "image": "https://tonymontanait.github.io/italyscasa-content//foto/21-63-.webp",
+    "offers": {
+      "@type": "Offer",
+      "url": "https://italyscasa.com/anunci/dynamic/?rif=1055",
+      "price": 0,
+      "priceCurrency": "EUR",
+      "availability": "https://schema.org/InStock"
+    },
+    "inLanguage": "it",
+    "isAccessibleForFree": true,
+    "wordCount": 311,
+    "keywords": "spiaggia, pizzeria, ristorante, libera, caffe, mare, spezia, cinque",
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "La Spezia",
+      "streetAddress": "dei Pisoni 32"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": null,
+      "longitude": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "ItalysCasa",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://tonymontanait.github.io/italyscasa-content/uploads/logo.webp"
+      }
+    },
+    "sameAs": [
+      "https://www.instagram.com/italyscasa?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
+      "https://www.facebook.com/profile.php?id=61551668563870",
+      "https://www.tiktok.com/@italyscasa1?is_from_webapp=1&sender_device=pc"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
     "name": "Lido di Licola",
     "description": "Appartamenti in vendita a Lido di Licola – relax e mare tra storia e natura",
     "image": "https://tonymontanait.github.io/italyscasa-content//foto/20-32-.webp",
