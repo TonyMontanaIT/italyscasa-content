@@ -2462,6 +2462,47 @@
   {
     "@context": "https://schema.org",
     "@type": "Product",
+    "name": "Ravenna Appartamento di lusso in Trattativa",
+    "description": "Appartamenti in vendita a Ravenna – tra mosaici bizantini, mare Adriatico e spirito romagnolo\nRavenna è una delle città più affascinanti d’Italia",
+    "image": "https://tonymontanait.github.io/italyscasa-content//foto/21-59-.webp",
+    "offers": {
+      "@type": "Offer",
+      "url": "https://italyscasa.com/anunci/dynamic/?rif=1052",
+      "price": 0,
+      "priceCurrency": "EUR",
+      "availability": "https://schema.org/InStock"
+    },
+    "inLanguage": "it",
+    "isAccessibleForFree": true,
+    "wordCount": 296,
+    "keywords": "bagno, pizzeria, ristorante, caffe, ravenna, spiaggia, lido, mosaici",
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Ravenna",
+      "streetAddress": "Columella 31"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": null,
+      "longitude": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "ItalysCasa",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://tonymontanait.github.io/italyscasa-content/uploads/logo.webp"
+      }
+    },
+    "sameAs": [
+      "https://www.instagram.com/italyscasa?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
+      "https://www.facebook.com/profile.php?id=61551668563870",
+      "https://www.tiktok.com/@italyscasa1?is_from_webapp=1&sender_device=pc"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
     "name": "Isole Eolie Appartamento con balcone in Trattativa",
     "description": "Appartamenti in vendita nelle Isole Eolie – tra vulcani, mare cristallino e natura selvaggia\nLe Isole Eolie sono una delle destinazioni più suggestive del Mediterraneo",
     "image": "https://tonymontanait.github.io/italyscasa-content//foto/21-55-.webp",
