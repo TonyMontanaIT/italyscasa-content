@@ -1,114 +1,99 @@
 import json
-import os
+import requests
 import time
 
-SOURCE_FILE = 'anunci/index2.json'
-TRANSLATED_FILE = 'anunci/index2_translated.json'
+INPUT_FILE = "anunci/index2_translated.json"
+OUTPUT_FILE = "anunci/index2_translated.json"
+TRANSLATE_URL = "http://localhost:5000/translate"
 
-TARGET_LANGS = [
-    'en', 'ru', 'lt', 'lv', 'pl', 'fi', 'cs', 'de', 'ar', 'fr', 'es', 'sv'
-]
-
+LANGUAGES = ["en", "ru", "lt", "lv", "pl", "fi", "cs", "de", "fr", "es", "sv"]
 FIELDS_TO_TRANSLATE = [
-    'nomeAnunci', 'h1', 'h2t1', 'h2t2', 'h2t3', 'h2t4', 'h2t5', 'h2t6',
-    'text1', 'text2', 'text3', 'text4', 'text5', 'text6',
-    'descrizione', 'tipo', 'arredamenti', 'prezzoDescrizione'
+    "nomeAnunci", "h1", "h2t1", "h2t2", "h2t3", "h2t4", "h2t5", "h2t6",
+    "text1", "text2", "text3", "text4", "text5", "text6",
+    "descrizione", "tipo", "arredamenti", "prezzoDescrizione"
 ]
 
-FIELDS_TO_COMPARE = [
-    'slug', 'riferimento', 'rif1', 'nomeZona', 'city1', 'street1',
-    'prezzo1', 'prezzo', 'totalrooms', 'rooms', 'bagni', 'zonam2',
-    'floor', 'elevator', 'terrazzo', 'giardino', 'garage',
-    'patio', 'corte', 'video', 'video360', 'prezzoDescrizione'
-]
+CHUNK_SIZE = 400
+PAUSE_BETWEEN_REQUESTS = 3
+PAUSE_BETWEEN_ENTRIES = 10
+RETRY_COUNT = 3
 
-ENTRY_PAUSE = 10
+def chunk_text(text, size=CHUNK_SIZE):
+    text = text.strip()
+    return [text[i:i+size] for i in range(0, len(text), size)]
 
-def main():
-    with open(SOURCE_FILE, encoding='utf-8') as f:
-        source_data = json.load(f)
+def translate_chunked(text, lang):
+    chunks = chunk_text(text)
+    translated_chunks = []
 
-    if os.path.exists(TRANSLATED_FILE):
-        with open(TRANSLATED_FILE, encoding='utf-8') as f:
-            translated_data = json.load(f)
-    else:
-        translated_data = []
+    for chunk in chunks:
+        for attempt in range(RETRY_COUNT):
+            try:
+                r = requests.post(TRANSLATE_URL, json={
+                    "q": chunk,
+                    "source": "auto",
+                    "target": lang,
+                    "format": "text"
+                }, timeout=10)
+                r.raise_for_status()
+                result = r.json()
+                translated_text = result.get("translatedText", "")
+                if translated_text is None:
+                    raise ValueError("Получен None от переводчика")
+                translated_chunks.append(translated_text)
+                time.sleep(PAUSE_BETWEEN_REQUESTS)
+                break
+            except Exception as e:
+                print(f"❌ Ошибка (попытка {attempt+1}/{RETRY_COUNT}) для языка {lang}: {e}")
+                time.sleep(2)
+        else:
+            translated_chunks.append(chunk)  # fallback: оригинал
 
-    translated_map = {item['riferimento']: item for item in translated_data}
+    return ''.join(t if t is not None else "" for t in translated_chunks)
 
-    for i, entry in enumerate(source_data):
-        rif = entry['riferimento']
-        base = translated_map.get(rif, entry.copy())
+def save_data(data):
+    with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
+        json.dump(data, f, ensure_ascii=False, indent=2)
+    print("💾 Прогресс сохранён")
 
-        if 'translations' not in base:
-            base['translations'] = {}
+# Загрузка данных
+with open(INPUT_FILE, encoding="utf-8") as f:
+    data = json.load(f)
 
-        if 'it' not in base['translations']:
-            base['translations']['it'] = {}
+# 🧩 Генерация original из translations.it
+for entry in data:
+    if "original" not in entry:
+        entry["original"] = {}
 
+    it_translations = entry.get("translations", {}).get("it", {})
+    for field in FIELDS_TO_TRANSLATE:
+        if field in it_translations and not entry["original"].get(field):
+            entry["original"][field] = it_translations[field]
+
+# Перевод
+for idx, entry in enumerate(data):
+    original = entry.get("original", {})
+    translations = entry.setdefault("translations", {})
+    slug = entry.get("slug", f"[{idx}]")
+
+    for lang in LANGUAGES:
+        lang_block = translations.setdefault(lang, {})
         updated = False
 
-        # === Проверка переводимых полей ===
-        for field in FIELDS_TO_TRANSLATE:
-            new_val = entry.get(field, '')
-            old_val = base['translations']['it'].get(field, '')
+        for key in FIELDS_TO_TRANSLATE:
+            if key in original:
+                original_text = original[key]
+                existing_translation = lang_block.get(key, "").strip()
 
-            if new_val != old_val:
-                base['translations']['it'][field] = new_val
-                updated = True
-                for lang in TARGET_LANGS:
-                    if lang not in base['translations']:
-                        base['translations'][lang] = {}
-                    # только если перевода нет — вставляем оригинал
-                    if field not in base['translations'][lang] or not base['translations'][lang][field]:
-                        base['translations'][lang][field] = new_val  # fallback оригинал
-
-                print(f"[{i+1}/{len(source_data)}] {rif} — {field}: UPDATED")
-            else:
-                print(f"[{i+1}/{len(source_data)}] {rif} — {field}: SKIPPED")
-
-        # === Проверка всех непереводимых полей ===
-        for field in FIELDS_TO_COMPARE:
-            new_val = entry.get(field)
-    
-            # 🚫 Удаляем значение False, заменяем пустой строкой
-            if new_val is False or new_val == "False":
-                new_val = ""
-
-            old_val = base.get(field)
-
-            if new_val != old_val:
-                base[field] = new_val
-                updated = True
-                print(f"[{i+1}/{len(source_data)}] {rif} — {field}: UPDATED")
-            else:
-                print(f"[{i+1}/{len(source_data)}] {rif} — {field}: SKIPPED")
-
-
-        # === Проверка массива images[] ===
-        new_images = entry.get('images', [])
-        old_images = base.get('images', [])
-
-        new_srcs = [img.get('src') for img in new_images]
-        old_srcs = [img.get('src') for img in old_images]
-
-        if new_srcs != old_srcs:
-            base['images'] = new_images
-            updated = True
-            print(f"[{i+1}/{len(source_data)}] {rif} — images: UPDATED")
-        else:
-            print(f"[{i+1}/{len(source_data)}] {rif} — images: SKIPPED")
-
-        # === Обновление общей карты ===
-        translated_map[rif] = base
+                if not existing_translation:
+                    print(f"🔤 [{slug}] Перевод {key} → {lang}")
+                    translated = translate_chunked(original_text, lang)
+                    lang_block[key] = translated
+                    updated = True
 
         if updated:
-            with open(TRANSLATED_FILE, 'w', encoding='utf-8') as f:
-                json.dump(list(translated_map.values()), f, ensure_ascii=False, indent=2)
+            print(f"✅ Обновлено: {slug} → {lang}")
+            save_data(data)  # сохраняем после каждой обновлённой языковой секции
+            time.sleep(PAUSE_BETWEEN_ENTRIES)
 
-            time.sleep(ENTRY_PAUSE)
-
-    print("\n✅ Translated file saved:", TRANSLATED_FILE)
-
-if __name__ == '__main__':
-    main()
+print(f"\n✅ Всё готово! Финальный файл сохранён: {OUTPUT_FILE}")
