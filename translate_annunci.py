@@ -1,7 +1,8 @@
 import json
+import os
 
-INPUT_FILE = "anunci/index2.json"               # берём данные из сгенерированного index2
-OUTPUT_FILE = "anunci/index2_translated.json"   # сохраняем в переводной файл
+INPUT_FILE = "anunci/index2.json"
+TRANSLATED_FILE = "anunci/index2_translated.json"
 
 LANGUAGES = ["en", "ru", "lt", "lv", "pl", "fi", "cs", "de", "fr", "es", "sv"]
 FIELDS_TO_TRANSLATE = [
@@ -10,28 +11,53 @@ FIELDS_TO_TRANSLATE = [
     "descrizione", "tipo", "arredamenti", "prezzoDescrizione"
 ]
 
-# Загружаем данные
-with open(INPUT_FILE, encoding="utf-8") as f:
-    data = json.load(f)
+# Загрузка уже переведённого файла
+if os.path.exists(TRANSLATED_FILE):
+    with open(TRANSLATED_FILE, encoding="utf-8") as f:
+        translated_data = json.load(f)
+else:
+    translated_data = []
 
-for entry in data:
-    # Сохраняем оригинал из итальянского блока
+# Создаём карту уже существующих slug'ов
+existing_slugs = {entry["slug"]: entry for entry in translated_data}
+
+# Загружаем свежий список всех объявлений
+with open(INPUT_FILE, encoding="utf-8") as f:
+    new_data = json.load(f)
+
+added = 0
+
+for entry in new_data:
+    slug = entry.get("slug")
+    if not slug:
+        continue
+
+    if slug in existing_slugs:
+        continue  # Уже есть — пропускаем
+
+    # Генерация original
     it_translations = entry.get("translations", {}).get("it", {})
-    entry["original"] = {
-        field: it_translations.get(field, "") for field in FIELDS_TO_TRANSLATE
+    original = {field: it_translations.get(field, "") for field in FIELDS_TO_TRANSLATE}
+
+    # Генерация translations
+    translations = {}
+    for lang in LANGUAGES:
+        translations[lang] = {field: "" for field in FIELDS_TO_TRANSLATE}
+    translations["it"] = it_translations
+
+    new_entry = {
+        **entry,
+        "original": original,
+        "translations": translations
     }
 
-    # Готовим пустые переводы
-    translations = entry.setdefault("translations", {})
-    for lang in LANGUAGES:
-        if lang == "it":
-            continue  # итальянский — источник, не трогаем
-        lang_block = translations.setdefault(lang, {})
-        for field in FIELDS_TO_TRANSLATE:
-            lang_block.setdefault(field, "")  # если нет — создаём пустое
+    translated_data.append(new_entry)
+    added += 1
+    print(f"➕ Добавлено новое объявление: {slug}")
 
-# Сохраняем результат
-with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
-    json.dump(data, f, ensure_ascii=False, indent=2)
+# Сохраняем итог
+with open(TRANSLATED_FILE, "w", encoding="utf-8") as f:
+    json.dump(translated_data, f, ensure_ascii=False, indent=2)
 
-print(f"✅ Файл сохранён: {OUTPUT_FILE}")
+print(f"\n✅ Добавлено новых: {added}")
+print(f"✅ Файл обновлён: {TRANSLATED_FILE}")

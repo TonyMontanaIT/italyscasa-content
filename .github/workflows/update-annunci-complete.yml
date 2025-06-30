@@ -38,6 +38,9 @@ jobs:
           python generate_annunci_json.py
           node generate_structured_annunci.js
 
+      - name: Clean deleted annunci from index2_translated.json
+        run: python clean_deleted_annunci.py
+
       - name: Translate index2.json
         run: python translate_annunci.py
 
