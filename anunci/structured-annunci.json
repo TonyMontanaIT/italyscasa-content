@@ -904,6 +904,47 @@
   {
     "@context": "https://schema.org",
     "@type": "Product",
+    "name": "Villetta a schiera in vendita",
+    "description": "Italys Casa propone in vendita a Scalea, in Via Campo Volo – Villaggio VIP, villa a schiera di ampia metratura con terrazza panoramica e grandi potenzialità",
+    "image": "https://tonymontanait.github.io/italyscasa-content//foto/rif-150-7-.webp",
+    "offers": {
+      "@type": "Offer",
+      "url": "https://italyscasa.com/anunci/dynamic/?rif=150",
+      "price": 120,
+      "priceCurrency": "EUR",
+      "availability": "https://schema.org/InStock"
+    },
+    "inLanguage": "it",
+    "isAccessibleForFree": true,
+    "wordCount": 146,
+    "keywords": "schiera, vendita, scalea, campo, volo, casa, villa, terrazza",
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Scalea",
+      "streetAddress": "Campo Volo, 35"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": 39.789035,
+      "longitude": 15.802556
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "ItalysCasa",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://tonymontanait.github.io/italyscasa-content/uploads/logo.webp"
+      }
+    },
+    "sameAs": [
+      "https://www.instagram.com/italyscasa?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
+      "https://www.facebook.com/profile.php?id=61551668563870",
+      "https://www.tiktok.com/@italyscasa1?is_from_webapp=1&sender_device=pc"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
     "name": "Aosta Appartamento di lusso esclusivo in Trattativa",
     "description": "Appartamenti in vendita ad Aosta – tra Alpi, storia romana e autenticità valdostana\nAosta è una delle città più affascinanti del Nord Italia",
     "image": "https://tonymontanait.github.io/italyscasa-content//foto/21-57-.webp",
