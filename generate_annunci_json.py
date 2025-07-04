@@ -5,6 +5,12 @@ from pathlib import Path
 md_folder = Path("anunci")
 output_path = md_folder / "index2.json"
 
+# 👉 Универсальный фильтр для очистки значений
+def clean_value(val):
+    if val in [False, "False", None]:
+        return ""
+    return str(val).strip()
+
 data = []
 
 for file in md_folder.glob("*.md"):
@@ -31,16 +37,16 @@ for file in md_folder.glob("*.md"):
         "rooms": meta.get("rooms", ""),
         "bagni": meta.get("bagni", ""),
         "zonam2": meta.get("zonam2", ""),
-        "floor": str(meta.get("floor", "")),
-        "elevator": str(meta.get("elevator", "")),
-        "terrazzo": str(meta.get("terrazzo", "")),
+        "floor": clean_value(meta.get("floor", "")),
+        "elevator": clean_value(meta.get("elevator", "")),
+        "terrazzo": clean_value(meta.get("terrazzo", "")),
         "prezzo": meta.get("prezzo", ""),
         "prezzoDescrizione": meta.get("prezzoDescrizione", ""),
-        "giardino": str(meta.get("giardino", "")),
-        "garage": str(meta.get("garage", "")),
-        "arredamenti": str(meta.get("arredamenti", "")),
-        "patio": str(meta.get("patio", "")),
-        "corte": str(meta.get("corte", "")),
+        "giardino": clean_value(meta.get("giardino", "")),
+        "garage": clean_value(meta.get("garage", "")),
+        "arredamenti": clean_value(meta.get("arredamenti", "")),
+        "patio": clean_value(meta.get("patio", "")),
+        "corte": clean_value(meta.get("corte", "")),
         "descrizione": meta.get("descrizione", ""),
         "h2t1": meta.get("h2t1", ""),
         "text1": meta.get("text1", ""),
@@ -63,3 +69,5 @@ for file in md_folder.glob("*.md"):
 
 with open(output_path, "w", encoding="utf-8") as f:
     json.dump(data, f, ensure_ascii=False, indent=2)
+
+print(f"✅ index2.json обновлён: {output_path}")
