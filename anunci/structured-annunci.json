@@ -5619,6 +5619,47 @@
   {
     "@context": "https://schema.org",
     "@type": "Product",
+    "name": "Scalea Appartamento in vendita",
+    "description": "In vendita a Scalea – Località Baia del Carpino, Via Raffaele Sanseverino ",
+    "image": "https://tonymontanait.github.io/italyscasa-content//foto/rif-152-15-.webp",
+    "offers": {
+      "@type": "Offer",
+      "url": "https://italyscasa.com/anunci/dynamic/?rif=152",
+      "price": 69.5,
+      "priceCurrency": "EUR",
+      "availability": "https://schema.org/InStock"
+    },
+    "inLanguage": "it",
+    "isAccessibleForFree": true,
+    "wordCount": 80,
+    "keywords": "scalea, della, vendita, raffaele, sanseverino, località, baia, carpino",
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Scalea",
+      "streetAddress": "Raffaele Sanseverino 15"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": 39.823793,
+      "longitude": 15.779084
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "ItalysCasa",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://tonymontanait.github.io/italyscasa-content/uploads/logo.webp"
+      }
+    },
+    "sameAs": [
+      "https://www.instagram.com/italyscasa?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
+      "https://www.facebook.com/profile.php?id=61551668563870",
+      "https://www.tiktok.com/@italyscasa1?is_from_webapp=1&sender_device=pc"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
     "name": "Procida Villa con vista mozzifiato di lusso in Trattativa",
     "description": "In vendita: Villa panoramica a Procida con terrazze sul mare e accesso diretto alle spiagge",
     "image": "https://tonymontanait.github.io/italyscasa-content//foto/20-30-.webp",
