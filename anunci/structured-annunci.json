@@ -3446,6 +3446,47 @@
   {
     "@context": "https://schema.org",
     "@type": "Product",
+    "name": "Scalea Appartamento in vendita",
+    "description": "A pochi passi dal mare, nel cuore di Scalea e all'interno del rinomato Parco Scalea 2000, in via Fiume Lao, sorge un appartamento che sorprende per carattere e intimità, una piccola oasi di eleganza e comfort pensata per chi cerca un rifugio senza tempo, dove ogni dettaglio parla di cura e di bellezza.",
+    "image": "https://tonymontanait.github.io/italyscasa-content//foto/rif-165-1-.webp",
+    "offers": {
+      "@type": "Offer",
+      "url": "https://italyscasa.com/anunci/dynamic/?rif=165",
+      "price": 99,
+      "priceCurrency": "EUR",
+      "availability": "https://schema.org/InStock"
+    },
+    "inLanguage": "it",
+    "isAccessibleForFree": true,
+    "wordCount": 189,
+    "keywords": "scalea, dove, appartamento, fiume, ogni, letto, doccia, sotto",
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Scalea",
+      "streetAddress": "Fiume Lao 467"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": 39.803737,
+      "longitude": 15.794933
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "ItalysCasa",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://tonymontanait.github.io/italyscasa-content/uploads/logo.webp"
+      }
+    },
+    "sameAs": [
+      "https://www.instagram.com/italyscasa?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
+      "https://www.facebook.com/profile.php?id=61551668563870",
+      "https://www.tiktok.com/@italyscasa1?is_from_webapp=1&sender_device=pc"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
     "name": "Crotone Villa di lusso con vista mozzifiato in Trattativa",
     "description": "In vendita: Villa esclusiva a Crotone – tra storia antica, spiagge dorate e comfort moderni",
     "image": "https://tonymontanait.github.io/italyscasa-content//foto/19-5-.webp",
