@@ -1519,6 +1519,47 @@
   {
     "@context": "https://schema.org",
     "@type": "Product",
+    "name": "Scalea Appartamento in vendita",
+    "description": "Bilocale con ampi balconi nella splendida Baia del Carpino – Scalea, Località Petrosa ",
+    "image": "https://tonymontanait.github.io/italyscasa-content//foto/rif-164-1-.webp",
+    "offers": {
+      "@type": "Offer",
+      "url": "https://italyscasa.com/anunci/dynamic/?rif=164",
+      "price": 39.999,
+      "priceCurrency": "EUR",
+      "availability": "https://schema.org/InStock"
+    },
+    "inLanguage": "it",
+    "isAccessibleForFree": true,
+    "wordCount": 95,
+    "keywords": "scalea, vendita, bilocale, ampi, balconi, come, casa, mare",
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Scalea",
+      "streetAddress": "Leopoldo Cupido 7"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": 39.825452,
+      "longitude": 15.782724
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "ItalysCasa",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://tonymontanait.github.io/italyscasa-content/uploads/logo.webp"
+      }
+    },
+    "sameAs": [
+      "https://www.instagram.com/italyscasa?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
+      "https://www.facebook.com/profile.php?id=61551668563870",
+      "https://www.tiktok.com/@italyscasa1?is_from_webapp=1&sender_device=pc"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
     "name": "Scalea Appartamento ",
     "description": "Delizioso Appartamento in Vendita a Scalea, Calabria - Parco Mimose",
     "image": "https://tonymontanait.github.io/italyscasa-content/foto/119 (2).webp",
