@@ -3159,6 +3159,47 @@
   {
     "@context": "https://schema.org",
     "@type": "Product",
+    "name": "Scalea Appartamento in vendita",
+    "description": "A Scalea, in zona residenziale tranquilla e ben collegata, proponiamo in vendita un appartamento situato al primo piano",
+    "image": "https://tonymontanait.github.io/italyscasa-content//foto/rif-156-1-.webp",
+    "offers": {
+      "@type": "Offer",
+      "url": "https://italyscasa.com/anunci/dynamic/?rif=156",
+      "price": 69.5,
+      "priceCurrency": "EUR",
+      "availability": "https://schema.org/InStock"
+    },
+    "inLanguage": "it",
+    "isAccessibleForFree": true,
+    "wordCount": 82,
+    "keywords": "scalea, metri, appartamento, vendita, lauro, zona, residenziale, tranquilla",
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Scalea ",
+      "streetAddress": "Lauro 121"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": 39.809749,
+      "longitude": 15.795244
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "ItalysCasa",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://tonymontanait.github.io/italyscasa-content/uploads/logo.webp"
+      }
+    },
+    "sameAs": [
+      "https://www.instagram.com/italyscasa?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
+      "https://www.facebook.com/profile.php?id=61551668563870",
+      "https://www.tiktok.com/@italyscasa1?is_from_webapp=1&sender_device=pc"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
     "name": "Cagliari Appartamento con vista Mozzifiato in Trattativa",
     "description": "Appartamenti in vendita a Cagliari – tra storia millenaria, mare e vita urbana dinamica\nCagliari è la porta della Sardegna: una città dove il passato romano",
     "image": "https://tonymontanait.github.io/italyscasa-content//foto/21-43-.webp",
