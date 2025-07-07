@@ -7300,6 +7300,47 @@
   {
     "@context": "https://schema.org",
     "@type": "Product",
+    "name": "Caulonia Appartamento in vendita",
+    "description": "A Caulonia Marina, all’interno del tranquillo e curato complesso residenziale Parco Meusa, proponiamo in vendita un grazioso appartamento al secondo piano, servito da ascensore, con una superficie interna di circa 65 mq oltre a un ampio balcone.",
+    "image": "https://tonymontanait.github.io/italyscasa-content//foto/rif-161-6-.webp",
+    "offers": {
+      "@type": "Offer",
+      "url": "https://italyscasa.com/anunci/dynamic/?rif=161",
+      "price": 65,
+      "priceCurrency": "EUR",
+      "availability": "https://schema.org/InStock"
+    },
+    "inLanguage": "it",
+    "isAccessibleForFree": true,
+    "wordCount": 117,
+    "keywords": "caulonia, appartamento, vendita, marina, circa, balcone, zona, porto",
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Caulonia",
+      "streetAddress": "Porto delle Grazie 10"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": 38.328796,
+      "longitude": 16.431202
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "ItalysCasa",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://tonymontanait.github.io/italyscasa-content/uploads/logo.webp"
+      }
+    },
+    "sameAs": [
+      "https://www.instagram.com/italyscasa?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
+      "https://www.facebook.com/profile.php?id=61551668563870",
+      "https://www.tiktok.com/@italyscasa1?is_from_webapp=1&sender_device=pc"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
     "name": "Sestriere Appartamento con vista in Trattativa",
     "description": "Appartamenti in vendita a Sestriere – vivere le Alpi tra sport, natura e relax",
     "image": "https://tonymontanait.github.io/italyscasa-content//foto/21-12-.webp",
