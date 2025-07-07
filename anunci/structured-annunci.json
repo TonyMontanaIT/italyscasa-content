@@ -3364,6 +3364,47 @@
   {
     "@context": "https://schema.org",
     "@type": "Product",
+    "name": "Scalea Villetta a schiera in vendita",
+    "description": "Italys Casa è lieta di presentare una villa a schiera con grande potenziale, situata in una posizione strategica a Scalea, in Via dei Bruzi. A pochi minuti dal mare e dalle principali comodità della zona, questa proprietà rappresenta un’opportunità ideale per chi cerca una casa spaziosa da personalizzare secondo i propri gusti.",
+    "image": "https://tonymontanait.github.io/italyscasa-content//foto/rif-190-7-.webp",
+    "offers": {
+      "@type": "Offer",
+      "url": "https://italyscasa.com/anunci/dynamic/?rif=190",
+      "price": 165,
+      "priceCurrency": "EUR",
+      "availability": "https://schema.org/InStock"
+    },
+    "inLanguage": "it",
+    "isAccessibleForFree": true,
+    "wordCount": 230,
+    "keywords": "scalea, minuti, casa, villa, zona, proprietà, circa, piano",
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Scalea ",
+      "streetAddress": "Dei Bruzi 11"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": 39.801471,
+      "longitude": 15.794947
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "ItalysCasa",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://tonymontanait.github.io/italyscasa-content/uploads/logo.webp"
+      }
+    },
+    "sameAs": [
+      "https://www.instagram.com/italyscasa?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
+      "https://www.facebook.com/profile.php?id=61551668563870",
+      "https://www.tiktok.com/@italyscasa1?is_from_webapp=1&sender_device=pc"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
     "name": "Genova Appartamento esclusivo a centro in Trattativa",
     "description": "Appartamenti in vendita a Genova – tra mare, storia e anima autentica del Levante ligure\nGenova è una delle città più affascinanti d’Italia",
     "image": "https://tonymontanait.github.io/italyscasa-content//foto/21-54-.webp",

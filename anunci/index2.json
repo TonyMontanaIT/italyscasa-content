@@ -6216,6 +6216,86 @@
     "longitude": " "
   },
   {
+    "slug": "190",
+    "riferimento": "190",
+    "rif1": "190",
+    "nomeAnunci": "Scalea Villetta a schiera in vendita",
+    "nomeZona": "Centro-Arenile",
+    "city1": "Scalea ",
+    "street1": "Dei Bruzi 11",
+    "prezzo1": "165.000",
+    "tipo": "Villa",
+    "totalrooms": "6",
+    "rooms": "6",
+    "bagni": "3",
+    "zonam2": "160 M²",
+    "floor": "1",
+    "elevator": "",
+    "terrazzo": "Si",
+    "prezzo": "165.000",
+    "prezzoDescrizione": "165.000",
+    "giardino": "Si",
+    "garage": "Si",
+    "arredamenti": "",
+    "patio": "",
+    "corte": "",
+    "descrizione": "Italys Casa è lieta di presentare una villa a schiera con grande potenziale, situata in una posizione strategica a Scalea, in Via dei Bruzi. A pochi minuti dal mare e dalle principali comodità della zona, questa proprietà rappresenta un’opportunità ideale per chi cerca una casa spaziosa da personalizzare secondo i propri gusti.",
+    "h2t1": "Posizione e Servizi",
+    "text1": "La villa si trova in una zona tranquilla ma comodissima, a soli 5 minuti a piedi dal mare e a 10 minuti dalla stazione ferroviaria. Nelle immediate vicinanze si trovano tutti i principali servizi. Il centro di Scalea è raggiungibile in 15 minuti a piedi, rendendo questa proprietà perfetta sia come abitazione principale che come casa vacanze.",
+    "h2t2": "La Struttura della Villa",
+    "text2": "Disposta su tre livelli collegati da una scala interna, la villa offre una superficie interna di circa 160 mq, con spazi ben distribuiti e grande potenziale abitativo.",
+    "h2t3": "Zona Giorno e Notte",
+    "text3": "Il piano principale ospita un ampio soggiorno, una cucina separata e accessi diretti ai terrazzi (32 mq complessivi), ideali per momenti di relax all’aperto. Al piano superiore troviamo tre camere da letto luminose e spaziose, perfette per una famiglia numerosa o per accogliere ospiti.",
+    "h2t4": "Seminterrato e Spazi Accessori",
+    "text4": "Il piano seminterrato di circa 65 mq include un box auto, una taverna e spazi di servizio, con possibilità di creare una zona indipendente o uno spazio ricreativo. Completano la proprietà un giardino privato di circa 40 mq, una corte d’ingresso di 60 mq e diversi ambienti esterni da valorizzare.",
+    "h2t5": " ",
+    "text5": " ",
+    "h2t6": " ",
+    "text6": " ",
+    "video": " ",
+    "video360": " ",
+    "images": [
+      {
+        "alt": "Villa vicino a mare ",
+        "src": "/foto/rif-190-7-.webp"
+      },
+      {
+        "alt": "Villa vicino a mare ",
+        "src": "/foto/rif-190-3-.webp"
+      },
+      {
+        "alt": "Villa vicino a mare ",
+        "src": "/foto/rif-190-8-.webp"
+      },
+      {
+        "alt": "Villa vicino a mare ",
+        "src": "/foto/rif-190-5-.webp"
+      },
+      {
+        "alt": "Villa vicino a mare ",
+        "src": "/foto/rif-190-6-.webp"
+      },
+      {
+        "alt": "Villa vicino a mare ",
+        "src": "/foto/rif-190-1-.webp"
+      },
+      {
+        "alt": "Villa vicino a mare ",
+        "src": "/foto/rif-190-2-.webp"
+      },
+      {
+        "alt": "Villa vicino a mare ",
+        "src": "/foto/rif-190-4-.webp"
+      },
+      {
+        "alt": "Villa vicino a mare ",
+        "src": "/foto/rif-190-9-.webp"
+      }
+    ],
+    "latitude": "39.801471",
+    "longitude": "15.794947"
+  },
+  {
     "slug": "1047",
     "riferimento": "1047",
     "rif1": "1047",
