@@ -2626,6 +2626,47 @@
   {
     "@context": "https://schema.org",
     "@type": "Product",
+    "name": "Scalea Appartamento antico in Centro Storico",
+    "description": "Se sei un amante della storia, dell’arte e delle atmosfere autentiche, questo appartamento nel cuore del centro storico di Scalea è ciò che fa per te.",
+    "image": "https://tonymontanait.github.io/italyscasa-content//foto/rif-714-8-.webp",
+    "offers": {
+      "@type": "Offer",
+      "url": "https://italyscasa.com/anunci/dynamic/?rif=714",
+      "price": 140,
+      "priceCurrency": "EUR",
+      "availability": "https://schema.org/InStock"
+    },
+    "inLanguage": "it",
+    "isAccessibleForFree": true,
+    "wordCount": 146,
+    "keywords": "scalea, storico, appartamento, centro, cuore, storia, sono, antico",
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Scalea ",
+      "streetAddress": "Vico Municipale III 2"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": 39.817305,
+      "longitude": 15.791045
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "ItalysCasa",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://tonymontanait.github.io/italyscasa-content/uploads/logo.webp"
+      }
+    },
+    "sameAs": [
+      "https://www.instagram.com/italyscasa?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
+      "https://www.facebook.com/profile.php?id=61551668563870",
+      "https://www.tiktok.com/@italyscasa1?is_from_webapp=1&sender_device=pc"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
     "name": "Scalea Appartamento",
     "description": "Incantevole Appartamento alla Baia del Carpino, Scalea",
     "image": "https://tonymontanait.github.io/italyscasa-content//foto/whatsapp-image-2025-05-14-at-10.53.03-2-.jpeg",
