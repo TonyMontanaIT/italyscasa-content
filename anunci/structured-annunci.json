@@ -7833,6 +7833,47 @@
   {
     "@context": "https://schema.org",
     "@type": "Product",
+    "name": "Scalea Appartamento in vendita",
+    "description": "In vendita esclusiva per Italy's Casa, proponiamo un appartamento di 75 mq situato al piano terra della Scala",
+    "image": "https://tonymontanait.github.io/italyscasa-content//foto/rif-717-9-.webp",
+    "offers": {
+      "@type": "Offer",
+      "url": "https://italyscasa.com/anunci/dynamic/?rif=717",
+      "price": 119.9,
+      "priceCurrency": "EUR",
+      "availability": "https://schema.org/InStock"
+    },
+    "inLanguage": "it",
+    "isAccessibleForFree": true,
+    "wordCount": 97,
+    "keywords": "della, scalea, appartamento, vendita, complesso, piscina, alla, pablo",
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Scalea",
+      "streetAddress": "Pablo Picasso 47"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": 39.824377,
+      "longitude": 15.786701
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "ItalysCasa",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://tonymontanait.github.io/italyscasa-content/uploads/logo.webp"
+      }
+    },
+    "sameAs": [
+      "https://www.instagram.com/italyscasa?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
+      "https://www.facebook.com/profile.php?id=61551668563870",
+      "https://www.tiktok.com/@italyscasa1?is_from_webapp=1&sender_device=pc"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
     "name": "Cetara Apartamento con Terrazzo e vista mozzifiato in Trattativa",
     "description": "Appartamenti a Cetara",
     "image": "https://tonymontanait.github.io/italyscasa-content//foto/20-7-.webp",
