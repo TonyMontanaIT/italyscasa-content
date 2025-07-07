@@ -71649,5 +71649,372 @@
       },
       "it": {}
     }
+  },
+  {
+    "slug": "158",
+    "riferimento": "158",
+    "rif1": "158",
+    "nomeAnunci": "Scalea Villetta a schiera in vendita",
+    "nomeZona": "Baia del Carpino",
+    "city1": "Scalea",
+    "street1": "Raffaele Sanseverino 22",
+    "prezzo1": "150.000",
+    "tipo": "Villa",
+    "totalrooms": "6",
+    "rooms": "6",
+    "bagni": "3",
+    "zonam2": "85 M²",
+    "floor": "1",
+    "elevator": "",
+    "terrazzo": "Si",
+    "prezzo": "150.000",
+    "prezzoDescrizione": "150.000",
+    "giardino": "Si",
+    "garage": "",
+    "arredamenti": "",
+    "patio": "",
+    "corte": "",
+    "descrizione": "A Scalea, perla della Riviera dei Cedri, dove il blu del Tirreno si fonde con il verde della macchia mediterranea, il tempo sembra rallentare.",
+    "h2t1": "Questo borgo antico della costa calabrese conserva l’anima autentica del Sud: vicoli acciottolati che si arrampicano fino al centro storico medievale, terrazze con vista che si aprono sull’infinito, sapori intensi, sorrisi veri.",
+    "text1": "Scalea è mare limpido e spiagge dorate, è cultura e storia, è il luogo dove ogni estate diventa ricordo e ogni ritorno, un po’ casa.",
+    "h2t2": "Ed è proprio qui, in una delle sue aree più prestigiose e riservate – Baia del Carpino",
+    "text2": "Che sorge una villa a schiera pensata per chi cerca più di un semplice immobile: un rifugio, un nido, un sogno a occhi aperti.",
+    "h2t3": "Immersa nella quiete di via Raffaele Sanseverino, questa residenza si sviluppa su tre piani e si offre con eleganza e discrezione. ",
+    "text3": "L’ingresso si apre su un giardino privato di ben 160 mq, uno spazio verde che accarezza i sensi, dove il profumo del mare si mescola a quello delle piante aromatiche e ogni passo invita al relax. Qui trova posto anche l’auto, protetta ma mai invadente, parte integrante di una quotidianità senza rinunce.",
+    "h2t4": "Il cuore pulsante della casa è il patio, 40 mq di pura armonia all’aperto:",
+    "text4": "lo spazio ideale per accogliere gli amici, condividere cene sotto le stelle o semplicemente ascoltare il silenzio interrotto solo dal fruscio del vento.",
+    "h2t5": "All’interno, gli 85 mq si sviluppano con intelligenza e gusto: tre camere da letto intime e raffinate, tre bagni che uniscono comfort e stile, e una zona living con cucina che vibra di calore e accoglienza.",
+    "text5": "Ogni dettaglio è pensato per vivere bene, per abitare con leggerezza ma senza rinunciare alla bellezza.",
+    "h2t6": "Questa villa non è solo una casa. È una dichiarazione d’amore per il Mediterraneo, per la semplicità elegante, per la vita lenta ma piena.",
+    "text6": " ",
+    "video": " ",
+    "video360": " ",
+    "images": [
+      {
+        "alt": "casa vicino al mare ",
+        "src": "/foto/rif-158-14-.webp"
+      },
+      {
+        "alt": "casa vicino al mare ",
+        "src": "/foto/rif-158-18-.webp"
+      },
+      {
+        "alt": "casa vicino al mare ",
+        "src": "/foto/rif-158-12-.webp"
+      },
+      {
+        "alt": "casa vicino al mare ",
+        "src": "/foto/rif-158-1-.webp"
+      },
+      {
+        "alt": "casa vicino al mare ",
+        "src": "/foto/rif-158-2-.webp"
+      },
+      {
+        "alt": "casa vicino al mare ",
+        "src": "/foto/rif-158-3-.webp"
+      },
+      {
+        "alt": "casa vicino al mare ",
+        "src": "/foto/rif-158-4-.webp"
+      },
+      {
+        "alt": "casa vicino al mare ",
+        "src": "/foto/rif-158-5-.webp"
+      },
+      {
+        "alt": "casa vicino al mare ",
+        "src": "/foto/rif-158-6-.webp"
+      },
+      {
+        "alt": "casa vicino al mare ",
+        "src": "/foto/rif-158-7-.webp"
+      },
+      {
+        "alt": "casa vicino al mare ",
+        "src": "/foto/rif-158-8-.webp"
+      },
+      {
+        "alt": "casa vicino al mare ",
+        "src": "/foto/rif-158-9-.webp"
+      },
+      {
+        "alt": "casa vicino al mare ",
+        "src": "/foto/rif-158-10-.webp"
+      },
+      {
+        "alt": "casa vicino al mare ",
+        "src": "/foto/rif-158-11-.webp"
+      },
+      {
+        "alt": "casa vicino al mare ",
+        "src": "/foto/rif-158-13-.webp"
+      },
+      {
+        "alt": "casa vicino al mare ",
+        "src": "/foto/rif-158-15-.webp"
+      },
+      {
+        "alt": "casa vicino al mare ",
+        "src": "/foto/rif-158-16-.webp"
+      },
+      {
+        "alt": "casa vicino al mare ",
+        "src": "/foto/rif-158-17-.webp"
+      },
+      {
+        "alt": "casa vicino al mare ",
+        "src": "/foto/rif-158-19-.webp"
+      },
+      {
+        "alt": "casa vicino al mare ",
+        "src": "/foto/rif-158-20-.webp"
+      }
+    ],
+    "latitude": "39.824596",
+    "longitude": "15.778766",
+    "original": {
+      "nomeAnunci": "",
+      "h1": "",
+      "h2t1": "",
+      "h2t2": "",
+      "h2t3": "",
+      "h2t4": "",
+      "h2t5": "",
+      "h2t6": "",
+      "text1": "",
+      "text2": "",
+      "text3": "",
+      "text4": "",
+      "text5": "",
+      "text6": "",
+      "descrizione": "",
+      "tipo": "",
+      "arredamenti": "",
+      "prezzoDescrizione": ""
+    },
+    "translations": {
+      "en": {
+        "nomeAnunci": "",
+        "h1": "",
+        "h2t1": "",
+        "h2t2": "",
+        "h2t3": "",
+        "h2t4": "",
+        "h2t5": "",
+        "h2t6": "",
+        "text1": "",
+        "text2": "",
+        "text3": "",
+        "text4": "",
+        "text5": "",
+        "text6": "",
+        "descrizione": "",
+        "tipo": "",
+        "arredamenti": "",
+        "prezzoDescrizione": ""
+      },
+      "ru": {
+        "nomeAnunci": "",
+        "h1": "",
+        "h2t1": "",
+        "h2t2": "",
+        "h2t3": "",
+        "h2t4": "",
+        "h2t5": "",
+        "h2t6": "",
+        "text1": "",
+        "text2": "",
+        "text3": "",
+        "text4": "",
+        "text5": "",
+        "text6": "",
+        "descrizione": "",
+        "tipo": "",
+        "arredamenti": "",
+        "prezzoDescrizione": ""
+      },
+      "lt": {
+        "nomeAnunci": "",
+        "h1": "",
+        "h2t1": "",
+        "h2t2": "",
+        "h2t3": "",
+        "h2t4": "",
+        "h2t5": "",
+        "h2t6": "",
+        "text1": "",
+        "text2": "",
+        "text3": "",
+        "text4": "",
+        "text5": "",
+        "text6": "",
+        "descrizione": "",
+        "tipo": "",
+        "arredamenti": "",
+        "prezzoDescrizione": ""
+      },
+      "lv": {
+        "nomeAnunci": "",
+        "h1": "",
+        "h2t1": "",
+        "h2t2": "",
+        "h2t3": "",
+        "h2t4": "",
+        "h2t5": "",
+        "h2t6": "",
+        "text1": "",
+        "text2": "",
+        "text3": "",
+        "text4": "",
+        "text5": "",
+        "text6": "",
+        "descrizione": "",
+        "tipo": "",
+        "arredamenti": "",
+        "prezzoDescrizione": ""
+      },
+      "pl": {
+        "nomeAnunci": "",
+        "h1": "",
+        "h2t1": "",
+        "h2t2": "",
+        "h2t3": "",
+        "h2t4": "",
+        "h2t5": "",
+        "h2t6": "",
+        "text1": "",
+        "text2": "",
+        "text3": "",
+        "text4": "",
+        "text5": "",
+        "text6": "",
+        "descrizione": "",
+        "tipo": "",
+        "arredamenti": "",
+        "prezzoDescrizione": ""
+      },
+      "fi": {
+        "nomeAnunci": "",
+        "h1": "",
+        "h2t1": "",
+        "h2t2": "",
+        "h2t3": "",
+        "h2t4": "",
+        "h2t5": "",
+        "h2t6": "",
+        "text1": "",
+        "text2": "",
+        "text3": "",
+        "text4": "",
+        "text5": "",
+        "text6": "",
+        "descrizione": "",
+        "tipo": "",
+        "arredamenti": "",
+        "prezzoDescrizione": ""
+      },
+      "cs": {
+        "nomeAnunci": "",
+        "h1": "",
+        "h2t1": "",
+        "h2t2": "",
+        "h2t3": "",
+        "h2t4": "",
+        "h2t5": "",
+        "h2t6": "",
+        "text1": "",
+        "text2": "",
+        "text3": "",
+        "text4": "",
+        "text5": "",
+        "text6": "",
+        "descrizione": "",
+        "tipo": "",
+        "arredamenti": "",
+        "prezzoDescrizione": ""
+      },
+      "de": {
+        "nomeAnunci": "",
+        "h1": "",
+        "h2t1": "",
+        "h2t2": "",
+        "h2t3": "",
+        "h2t4": "",
+        "h2t5": "",
+        "h2t6": "",
+        "text1": "",
+        "text2": "",
+        "text3": "",
+        "text4": "",
+        "text5": "",
+        "text6": "",
+        "descrizione": "",
+        "tipo": "",
+        "arredamenti": "",
+        "prezzoDescrizione": ""
+      },
+      "fr": {
+        "nomeAnunci": "",
+        "h1": "",
+        "h2t1": "",
+        "h2t2": "",
+        "h2t3": "",
+        "h2t4": "",
+        "h2t5": "",
+        "h2t6": "",
+        "text1": "",
+        "text2": "",
+        "text3": "",
+        "text4": "",
+        "text5": "",
+        "text6": "",
+        "descrizione": "",
+        "tipo": "",
+        "arredamenti": "",
+        "prezzoDescrizione": ""
+      },
+      "es": {
+        "nomeAnunci": "",
+        "h1": "",
+        "h2t1": "",
+        "h2t2": "",
+        "h2t3": "",
+        "h2t4": "",
+        "h2t5": "",
+        "h2t6": "",
+        "text1": "",
+        "text2": "",
+        "text3": "",
+        "text4": "",
+        "text5": "",
+        "text6": "",
+        "descrizione": "",
+        "tipo": "",
+        "arredamenti": "",
+        "prezzoDescrizione": ""
+      },
+      "sv": {
+        "nomeAnunci": "",
+        "h1": "",
+        "h2t1": "",
+        "h2t2": "",
+        "h2t3": "",
+        "h2t4": "",
+        "h2t5": "",
+        "h2t6": "",
+        "text1": "",
+        "text2": "",
+        "text3": "",
+        "text4": "",
+        "text5": "",
+        "text6": "",
+        "descrizione": "",
+        "tipo": "",
+        "arredamenti": "",
+        "prezzoDescrizione": ""
+      },
+      "it": {}
+    }
   }
 ]

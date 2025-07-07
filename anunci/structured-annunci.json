@@ -7997,6 +7997,47 @@
   {
     "@context": "https://schema.org",
     "@type": "Product",
+    "name": "Scalea Villetta a schiera in vendita",
+    "description": "A Scalea, perla della Riviera dei Cedri, dove il blu del Tirreno si fonde con il verde della macchia mediterranea, il tempo sembra rallentare.",
+    "image": "https://tonymontanait.github.io/italyscasa-content//foto/rif-158-14-.webp",
+    "offers": {
+      "@type": "Offer",
+      "url": "https://italyscasa.com/anunci/dynamic/?rif=158",
+      "price": 150,
+      "priceCurrency": "EUR",
+      "availability": "https://schema.org/InStock"
+    },
+    "inLanguage": "it",
+    "isAccessibleForFree": true,
+    "wordCount": 148,
+    "keywords": "scalea, dove, ogni, schiera, della, verde, mare, spazio",
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Scalea",
+      "streetAddress": "Raffaele Sanseverino 22"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": 39.824596,
+      "longitude": 15.778766
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "ItalysCasa",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://tonymontanait.github.io/italyscasa-content/uploads/logo.webp"
+      }
+    },
+    "sameAs": [
+      "https://www.instagram.com/italyscasa?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
+      "https://www.facebook.com/profile.php?id=61551668563870",
+      "https://www.tiktok.com/@italyscasa1?is_from_webapp=1&sender_device=pc"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
     "name": "Scalea Villa bifamiliare  su 2 piani",
     "description": "Villa bifamiliare a Scalea su 2 piani, Via Piano Lettieri",
     "image": "https://tonymontanait.github.io/italyscasa-content/foto/146 (8).webp",
