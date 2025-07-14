@@ -7956,6 +7956,47 @@
   {
     "@context": "https://schema.org",
     "@type": "Product",
+    "name": "Scalea Appartamento familiare",
+    "description": "Un Rifugio Rinnovato nel Cuore di Scalea",
+    "image": "https://tonymontanait.github.io/italyscasa-content//foto/rif-1671-11-.webp",
+    "offers": {
+      "@type": "Offer",
+      "url": "https://italyscasa.com/anunci/dynamic/?rif=167",
+      "price": 99,
+      "priceCurrency": "EUR",
+      "availability": "https://schema.org/InStock"
+    },
+    "inLanguage": "it",
+    "isAccessibleForFree": true,
+    "wordCount": 176,
+    "keywords": "scalea, appartamento, casa, cuore, vita, ogni, perfetta, dove",
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Scalea ",
+      "streetAddress": "Po"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": 39.789848,
+      "longitude": 15.803604
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "ItalysCasa",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://tonymontanait.github.io/italyscasa-content/uploads/logo.webp"
+      }
+    },
+    "sameAs": [
+      "https://www.instagram.com/italyscasa?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
+      "https://www.facebook.com/profile.php?id=61551668563870",
+      "https://www.tiktok.com/@italyscasa1?is_from_webapp=1&sender_device=pc"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
     "name": "Lago di Ledro Appartamento di Lusso in Trattativa",
     "description": "Appartamenti in vendita sul Lago di Ledro – natura incontaminata e relax tra le Dolomiti e il Garda",
     "image": "https://tonymontanait.github.io/italyscasa-content//foto/21-31-.webp",
