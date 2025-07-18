@@ -93,7 +93,7 @@ text6: >-
   Informazioni turistiche personalizzate: offri guide locali, mappe e consigli personalizzati su attrazioni, ristoranti e attività nella zona. Questo servizio aggiuntivo può arricchire l'esperienza degli ospiti e incoraggiarli a tornare.
 phone: "3791080060"
 images:
-  - src: /uploads/come-ristrutturare-casa-al-mare.webp
+  - src: /uploads/seconda-casa-mare-1-.jpg
     alt: casa vacanze, aprire casa vacanze, come aprire casa vacanze, guida casa
       vacanze, affittare casa vacanze, normativa casa vacanze, avviare casa
       vacanze, casa vacanze in Italia, casa vacanze normativa 2025, burocrazia
