@@ -10,7 +10,7 @@ TARGET_LANGS = [
 ]
 
 FIELDS_TO_TRANSLATE = [
-    'title', 'h1', 'h2', 'text', 'text1', 'text2', 'text3', 'text4', 'text5', 'text6', 'tipo'
+    'title', 'h1', 'h2', 'text', 'text1', 'text2', 'text3', 'text4', 'text5', 'text6', 'h2t1', 'h2t2', 'h2t3', 'h2t4', 'h2t5', 'h2t6', 'tipo'
 ]
 
 ENTRY_PAUSE = 10
