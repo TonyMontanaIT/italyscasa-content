@@ -15514,11 +15514,11 @@
     "bagni": "1",
     "zonam2": "75 m²",
     "floor": "2",
-    "elevator": "No",
+    "elevator": "",
     "terrazzo": "Si",
     "prezzo": "55.000",
-    "prezzoDescrizione": "",
-    "giardino": "No",
+    "prezzoDescrizione": " ",
+    "giardino": "",
     "garage": "Si",
     "arredamenti": "",
     "patio": "",
@@ -15541,31 +15541,7 @@
     "images": [
       {
         "src": "foto/129 (7).webp",
-        "alt": ""
-      },
-      {
-        "src": "foto/129 (4).webp",
-        "alt": ""
-      },
-      {
-        "src": "foto/129 (3).webp",
-        "alt": ""
-      },
-      {
-        "src": "foto/129 (2).webp",
-        "alt": ""
-      },
-      {
-        "src": "foto/129 (5).webp",
-        "alt": ""
-      },
-      {
-        "src": "foto/129 (6).webp",
-        "alt": ""
-      },
-      {
-        "src": "foto/129 (1).webp",
-        "alt": ""
+        "alt": "Appartamento con vista mozzafiato "
       }
     ],
     "latitude": "39.813076",
