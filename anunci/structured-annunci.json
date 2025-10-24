@@ -1724,6 +1724,47 @@
   {
     "@context": "https://schema.org",
     "@type": "Product",
+    "name": "Test Anuncio 24.10.25",
+    "description": " ",
+    "image": "https://tonymontanait.github.io/italyscasa-content/uploads/default.jpg",
+    "offers": {
+      "@type": "Offer",
+      "url": "https://italyscasa.com/anunci/dynamic/?rif=200900",
+      "price": 0,
+      "priceCurrency": "EUR",
+      "availability": "https://schema.org/InStock"
+    },
+    "inLanguage": "it",
+    "isAccessibleForFree": true,
+    "wordCount": 2,
+    "keywords": "test, anuncio",
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Test Anuncio 24.10.25",
+      "streetAddress": "Test Anuncio 24.10.25"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": null,
+      "longitude": null
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "ItalysCasa",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://tonymontanait.github.io/italyscasa-content/uploads/logo.webp"
+      }
+    },
+    "sameAs": [
+      "https://www.instagram.com/italyscasa?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
+      "https://www.facebook.com/profile.php?id=61551668563870",
+      "https://www.tiktok.com/@italyscasa1?is_from_webapp=1&sender_device=pc"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
     "name": "Torremezzo di Falconara Villa prestigiosa vicino al mare in Trattativa",
     "description": "In vendita: Villa esclusiva a Torremezzo di Falconara – mare, natura e autentica quiete calabrese",
     "image": "https://tonymontanait.github.io/italyscasa-content//foto/1-13-.webp",
