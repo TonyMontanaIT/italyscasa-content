@@ -2140,7 +2140,7 @@
     "offers": {
       "@type": "Offer",
       "url": "https://italyscasa.com/anunci/dynamic/?rif=703",
-      "price": 499.5,
+      "price": 0,
       "priceCurrency": "EUR",
       "availability": "https://schema.org/InStock"
     },
