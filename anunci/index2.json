@@ -1483,19 +1483,19 @@
     "nomeZona": "Pitagora",
     "city1": "Scalea (CS)",
     "street1": "Via Pitagora, 10",
-    "prezzo1": "40.000 ",
+    "prezzo1": "45.000",
     "tipo": "Appartamento",
     "totalrooms": "2",
     "rooms": "1",
     "bagni": "1",
     "zonam2": "40 m²",
     "floor": "4",
-    "elevator": "No",
+    "elevator": "",
     "terrazzo": "Si",
-    "prezzo": "40.000",
-    "prezzoDescrizione": "",
-    "giardino": "No",
-    "garage": "No",
+    "prezzo": "45.000",
+    "prezzoDescrizione": "45.000",
+    "giardino": "",
+    "garage": "",
     "arredamenti": "",
     "patio": "",
     "corte": "",
@@ -1517,35 +1517,35 @@
     "images": [
       {
         "src": "foto/109 (1).webp",
-        "alt": ""
+        "alt": "Appartamento attico"
       },
       {
         "src": "foto/109 (4).webp",
-        "alt": ""
+        "alt": "Appartamento attico"
       },
       {
         "src": "foto/109 (7).webp",
-        "alt": ""
+        "alt": "Appartamento attico"
       },
       {
         "src": "foto/109 (2).webp",
-        "alt": ""
+        "alt": "Appartamento attico"
       },
       {
         "src": "foto/109 (5).webp",
-        "alt": ""
+        "alt": "Appartamento attico"
       },
       {
         "src": "foto/109 (6).webp",
-        "alt": ""
+        "alt": "Appartamento attico"
       },
       {
         "src": "foto/109 (3).webp",
-        "alt": ""
+        "alt": "Appartamento attico"
       },
       {
         "src": "foto/109 (8).webp",
-        "alt": ""
+        "alt": "Appartamento attico"
       }
     ],
     "latitude": "39.806367",
@@ -6906,58 +6906,6 @@
       {
         "alt": "villa vicino al mare",
         "src": "/foto/rif-164-1-.webp"
-      },
-      {
-        "alt": "villa vicino al mare",
-        "src": "/foto/rif-164-2-.webp"
-      },
-      {
-        "alt": "villa vicino al mare",
-        "src": "/foto/rif-164-3-.webp"
-      },
-      {
-        "alt": "villa vicino al mare",
-        "src": "/foto/rif-164-6-.webp"
-      },
-      {
-        "alt": "villa vicino al mare",
-        "src": "/foto/rif-164-5-.webp"
-      },
-      {
-        "alt": "villa vicino al mare",
-        "src": "/foto/rif-164-7-.webp"
-      },
-      {
-        "alt": "villa vicino al mare",
-        "src": "/foto/rif-164-8-.webp"
-      },
-      {
-        "alt": "villa vicino al mare",
-        "src": "/foto/rif-164-9-.webp"
-      },
-      {
-        "alt": "villa vicino al mare",
-        "src": "/foto/rif-164-10-.webp"
-      },
-      {
-        "alt": "villa vicino al mare",
-        "src": "/foto/rif-164-11-.webp"
-      },
-      {
-        "alt": "villa vicino al mare",
-        "src": "/foto/rif-164-12-.webp"
-      },
-      {
-        "alt": "villa vicino al mare",
-        "src": "/foto/rif-164-13-.webp"
-      },
-      {
-        "alt": "villa vicino al mare",
-        "src": "/foto/rif-164-14-.webp"
-      },
-      {
-        "alt": "villa vicino al mare",
-        "src": "/foto/rif-164-15-.webp"
       }
     ],
     "latitude": "39.825452",
