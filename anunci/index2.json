@@ -4107,7 +4107,7 @@
     "nomeZona": "Scalea ",
     "city1": "Scalea (CS)",
     "street1": "Via del Mare, 2",
-    "prezzo1": "0",
+    "prezzo1": "499.500",
     "tipo": "Villa",
     "totalrooms": "6",
     "rooms": "4",
@@ -4116,8 +4116,8 @@
     "floor": "1",
     "elevator": "",
     "terrazzo": "Si",
-    "prezzo": "0",
-    "prezzoDescrizione": "0",
+    "prezzo": "499.500",
+    "prezzoDescrizione": "499.500",
     "giardino": "2000 m²",
     "garage": "Si",
     "arredamenti": "",
@@ -4141,82 +4141,6 @@
     "images": [
       {
         "src": "foto/703 (17).webp",
-        "alt": " "
-      },
-      {
-        "src": "foto/703 (12).webp",
-        "alt": " "
-      },
-      {
-        "src": "foto/703 (15).webp",
-        "alt": " "
-      },
-      {
-        "src": "foto/703 (4).webp",
-        "alt": " "
-      },
-      {
-        "src": "foto/703 (5).webp",
-        "alt": " "
-      },
-      {
-        "src": "foto/703 (6).webp",
-        "alt": " "
-      },
-      {
-        "src": "foto/703 (7).webp",
-        "alt": " "
-      },
-      {
-        "src": "foto/703 (8).webp",
-        "alt": " "
-      },
-      {
-        "src": "foto/703 (9).webp",
-        "alt": " "
-      },
-      {
-        "src": "foto/703 (10).webp",
-        "alt": " "
-      },
-      {
-        "src": "foto/703 (11).webp",
-        "alt": " "
-      },
-      {
-        "src": "foto/703 (2).webp",
-        "alt": " "
-      },
-      {
-        "src": "foto/703 (13).webp",
-        "alt": " "
-      },
-      {
-        "src": "foto/703 (14).webp",
-        "alt": " "
-      },
-      {
-        "src": "foto/703 (3).webp",
-        "alt": " "
-      },
-      {
-        "src": "foto/703 (16).webp",
-        "alt": " "
-      },
-      {
-        "src": "foto/703 (1).webp",
-        "alt": " "
-      },
-      {
-        "src": "foto/703 (18).webp",
-        "alt": " "
-      },
-      {
-        "src": "foto/703 (19).webp",
-        "alt": " "
-      },
-      {
-        "src": "foto/703 (20).webp",
         "alt": " "
       }
     ],
