@@ -6691,7 +6691,7 @@
     "offers": {
       "@type": "Offer",
       "url": "https://italyscasa.com/anunci/dynamic/?rif=150",
-      "price": 120,
+      "price": 130,
       "priceCurrency": "EUR",
       "availability": "https://schema.org/InStock"
     },
