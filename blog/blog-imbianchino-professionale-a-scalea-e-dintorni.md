@@ -1,11 +1,12 @@
 ---
 title: Imbianchino Professionale a Scalea e Dintorni
 tipo: "Imbianchino Specializzato a Scalea: Affidati a Scarfone S.R.L."
-h1: Se stai cercando un imbianchino specializzato affidabile per rinnovare le
-  pareti della tua casa, villa o azienda, Scarfone S.R.L. è il partner ideale
-  per te. Con oltre 40 anni di esperienza nel settore, siamo orgogliosi di
-  offrire servizi di tinteggiatura, imbianchino di alta qualità in tutta la zona
-  di Scalea e i comuni limitrofi, garantendo risultati impeccabili e duraturi.
+h1: Se stai cercando un imbianchino a Scalea specializzato affidabile per
+  rinnovare le pareti della tua casa, villa o azienda, Scarfone S.R.L. è il
+  partner ideale per te. Con oltre 40 anni di esperienza nel settore, siamo
+  orgogliosi di offrire servizi di tinteggiatura, imbianchino di alta qualità in
+  tutta la zona di Scalea e i comuni limitrofi, garantendo risultati impeccabili
+  e duraturi.
 h2t1: Perché scegliere Scarfone S.R.L. per le tue tinteggiature?
 text1: >-
   Esperti qualificati: Il nostro team è composto da imbianchini altamente
